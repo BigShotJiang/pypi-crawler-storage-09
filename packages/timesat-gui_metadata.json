@@ -1,0 +1,11 @@
+{
+  "name": "timesat-gui",
+  "version": "4.1.7",
+  "summary": "Python-based graphical interface and workflow manager for TIMESAT",
+  "author": "TIMESAT Team",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "timesat_gui-4.1.7.tar.gz",
+  "download_time": "2025-10-16T21:26:46.578937",
+  "package_url": "https://pypi.org/project/timesat-gui/"
+}
