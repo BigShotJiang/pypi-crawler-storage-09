@@ -1,0 +1,11 @@
+{
+  "name": "dictconf",
+  "version": "0.1.0",
+  "summary": "A simple, file-composition-based configuration library.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "dictconf-0.1.0.tar.gz",
+  "download_time": "2025-10-16T15:16:52.981334",
+  "package_url": "https://pypi.org/project/dictconf/"
+}

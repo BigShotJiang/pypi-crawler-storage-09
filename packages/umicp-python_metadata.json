@@ -1,0 +1,11 @@
+{
+  "name": "umicp-python",
+  "version": "0.2.0",
+  "summary": "Python bindings for the Universal Matrix Inter-Communication Protocol (UMICP) with native type support and tool discovery",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "umicp_python-0.2.0.tar.gz",
+  "download_time": "2025-10-16T15:16:56.138544",
+  "package_url": "https://pypi.org/project/umicp-python/"
+}

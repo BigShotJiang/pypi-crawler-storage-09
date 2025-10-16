@@ -1,0 +1,11 @@
+{
+  "name": "web-scraping-mcp-server",
+  "version": "0.2.1",
+  "summary": "A web scraping service with HTML extraction tools using ScrapingBee API and FastMCP",
+  "author": "Joe Joiner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "web_scraping_mcp_server-0.2.1.tar.gz",
+  "download_time": "2025-10-16T15:17:17.605238",
+  "package_url": "https://pypi.org/project/web-scraping-mcp-server/"
+}

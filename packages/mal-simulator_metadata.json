@@ -1,11 +1,11 @@
 {
   "name": "mal-simulator",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A MAL compliant simulator.",
   "author": null,
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "mal_simulator-1.1.0.tar.gz",
-  "download_time": "2025-10-16T09:50:27.756090",
+  "download_filename": "mal_simulator-1.1.1.tar.gz",
+  "download_time": "2025-10-16T15:16:38.728566",
   "package_url": "https://pypi.org/project/mal-simulator/"
 }

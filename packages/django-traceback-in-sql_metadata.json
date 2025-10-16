@@ -1,0 +1,11 @@
+{
+  "name": "django-traceback-in-sql",
+  "version": "0.2.2",
+  "summary": "Contextmanager for annotation the relevant stack trace to SQL queries as a comment",
+  "author": "Jonas Vacek",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_traceback_in_sql-0.2.2.tar.gz",
+  "download_time": "2025-10-16T15:16:41.394612",
+  "package_url": "https://pypi.org/project/django-traceback-in-sql/"
+}

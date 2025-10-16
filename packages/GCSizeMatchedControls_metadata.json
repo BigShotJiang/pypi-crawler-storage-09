@@ -1,11 +1,11 @@
 {
   "name": "GCSizeMatchedControls",
-  "version": "1.0",
+  "version": "1.0.2",
   "summary": "randomly select control genomic regions",
   "author": "Benxia Hu",
   "license": null,
   "home_page": "https://pypi.org/project/GCSizeMatchedControls/",
-  "download_filename": "gcsizematchedcontrols-1.0.tar.gz",
-  "download_time": "2025-10-16T14:56:42.529559",
+  "download_filename": "gcsizematchedcontrols-1.0.2.tar.gz",
+  "download_time": "2025-10-16T15:17:01.345677",
   "package_url": "https://pypi.org/project/GCSizeMatchedControls/"
 }

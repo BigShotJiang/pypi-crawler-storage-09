@@ -1,11 +1,11 @@
 {
   "name": "images-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A modular computer vision framework developed by PCR-UPM for image processing tasks.",
   "author": "Roberto Valle",
   "license": null,
   "home_page": "https://github.com/pcr-upm/images_framework",
-  "download_filename": "images_framework-1.0.0.tar.gz",
-  "download_time": "2025-10-16T14:56:52.271354",
+  "download_filename": "images_framework-1.0.1.tar.gz",
+  "download_time": "2025-10-16T15:17:15.544029",
   "package_url": "https://pypi.org/project/images-framework/"
 }

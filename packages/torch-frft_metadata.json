@@ -1,0 +1,11 @@
+{
+  "name": "torch-frft",
+  "version": "0.8.1",
+  "summary": "PyTorch implementation of the fractional Fourier transform with trainable transform order.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_frft-0.8.1.tar.gz",
+  "download_time": "2025-10-16T15:16:40.860177",
+  "package_url": "https://pypi.org/project/torch-frft/"
+}
