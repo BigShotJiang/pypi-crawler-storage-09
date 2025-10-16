@@ -1,0 +1,11 @@
+{
+  "name": "instanexus",
+  "version": "0.1.0",
+  "summary": "End-to-end workflow for de novo protein sequencing based on InstaNovo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "instanexus-0.1.0.tar.gz",
+  "download_time": "2025-10-16T13:47:45.171108",
+  "package_url": "https://pypi.org/project/instanexus/"
+}

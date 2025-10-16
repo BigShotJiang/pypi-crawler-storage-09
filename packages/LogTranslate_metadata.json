@@ -1,0 +1,11 @@
+{
+  "name": "LogTranslate",
+  "version": "1.7",
+  "summary": "A Python library for translate log from log files",
+  "author": "5hmlA",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/5hmlA/PyTools",
+  "download_filename": "logtranslate-1.7.tar.gz",
+  "download_time": "2025-10-16T13:47:38.877796",
+  "package_url": "https://pypi.org/project/LogTranslate/"
+}

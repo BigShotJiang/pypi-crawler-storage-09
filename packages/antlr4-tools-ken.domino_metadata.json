@@ -1,0 +1,11 @@
+{
+  "name": "antlr4-tools-ken.domino",
+  "version": "0.3",
+  "summary": "Tools to run ANTLR4 tool and grammar interpreter/profiler",
+  "author": "Ken Domino",
+  "license": "MIT",
+  "home_page": "http://www.antlr.org",
+  "download_filename": "antlr4_tools_ken_domino-0.3.tar.gz",
+  "download_time": "2025-10-16T13:47:48.455752",
+  "package_url": "https://pypi.org/project/antlr4-tools-ken.domino/"
+}

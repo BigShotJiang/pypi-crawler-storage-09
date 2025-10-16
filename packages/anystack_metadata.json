@@ -1,0 +1,11 @@
+{
+  "name": "anystack",
+  "version": "0.1.4",
+  "summary": "面向云原生应用的 Python 资源抽象层，提供统一的异步协议包装数据库、消息队列、对象存储、KV、调度器等基础设施能力",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anystack-0.1.4.tar.gz",
+  "download_time": "2025-10-16T13:47:59.440886",
+  "package_url": "https://pypi.org/project/anystack/"
+}

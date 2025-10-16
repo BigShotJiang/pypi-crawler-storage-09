@@ -1,0 +1,11 @@
+{
+  "name": "voronotalt",
+  "version": "0.9.5.post6",
+  "summary": "Voronota-LT Python bindings via SWIG",
+  "author": "Kliment Olechnovic",
+  "license": null,
+  "home_page": "https://github.com/kliment-olechnovic/voronotalt_python",
+  "download_filename": "voronotalt-0.9.5.post6-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-10-16T13:47:22.731752",
+  "package_url": "https://pypi.org/project/voronotalt/"
+}

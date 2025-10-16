@@ -1,0 +1,11 @@
+{
+  "name": "tibanna",
+  "version": "5.5.3",
+  "summary": "Tibanna runs portable pipelines (in CWL/WDL) on the AWS Cloud.",
+  "author": "4DN-DCIC Team",
+  "license": "MIT",
+  "home_page": "http://github.com/4dn-dcic/tibanna",
+  "download_filename": "tibanna-5.5.3.tar.gz",
+  "download_time": "2025-10-16T13:47:24.862344",
+  "package_url": "https://pypi.org/project/tibanna/"
+}
