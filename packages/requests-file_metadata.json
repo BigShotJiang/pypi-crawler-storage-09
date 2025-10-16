@@ -1,0 +1,11 @@
+{
+  "name": "requests-file",
+  "version": "3.0.0",
+  "summary": "File transport adapter for Requests",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "requests_file-3.0.0.tar.gz",
+  "download_time": "2025-10-16T14:16:20.812444",
+  "package_url": "https://pypi.org/project/requests-file/"
+}

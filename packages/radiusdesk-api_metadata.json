@@ -1,0 +1,11 @@
+{
+  "name": "radiusdesk-api",
+  "version": "0.2.0",
+  "summary": "Python client for RADIUSdesk API - manage vouchers, users, and balances",
+  "author": "Keegan White",
+  "license": null,
+  "home_page": "https://github.com/keeganwhite/radiusdesk-api",
+  "download_filename": "radiusdesk_api-0.2.0.tar.gz",
+  "download_time": "2025-10-16T14:16:55.063717",
+  "package_url": "https://pypi.org/project/radiusdesk-api/"
+}

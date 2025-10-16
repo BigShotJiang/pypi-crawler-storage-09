@@ -1,0 +1,11 @@
+{
+  "name": "lg-rez",
+  "version": "4.0.13",
+  "summary": "Discord bot for organizing Werewolf RP games ESPCI-style",
+  "author": "Loïc Simon, Tom Lacoma",
+  "license": null,
+  "home_page": "https://github.com/GRI-ESPCI/lg-rez",
+  "download_filename": "lg_rez-4.0.13.tar.gz",
+  "download_time": "2025-10-16T14:16:19.089270",
+  "package_url": "https://pypi.org/project/lg-rez/"
+}

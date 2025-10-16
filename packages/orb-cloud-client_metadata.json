@@ -1,0 +1,11 @@
+{
+  "name": "orb-cloud-client",
+  "version": "1.2.1",
+  "summary": "Python client library for Orb Cloud API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orb_cloud_client-1.2.1.tar.gz",
+  "download_time": "2025-10-16T14:16:15.050208",
+  "package_url": "https://pypi.org/project/orb-cloud-client/"
+}

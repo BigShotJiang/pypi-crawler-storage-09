@@ -1,0 +1,11 @@
+{
+  "name": "pentapy",
+  "version": "1.4.1",
+  "summary": "pentapy: A toolbox for pentadiagonal matrizes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pentapy-1.4.1.tar.gz",
+  "download_time": "2025-10-16T14:16:21.400286",
+  "package_url": "https://pypi.org/project/pentapy/"
+}

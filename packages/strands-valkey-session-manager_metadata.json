@@ -1,0 +1,11 @@
+{
+  "name": "strands-valkey-session-manager",
+  "version": "0.1.0",
+  "summary": "A session manager for Valkey/Redis using Strands",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "strands_valkey_session_manager-0.1.0.tar.gz",
+  "download_time": "2025-10-16T14:16:19.660268",
+  "package_url": "https://pypi.org/project/strands-valkey-session-manager/"
+}

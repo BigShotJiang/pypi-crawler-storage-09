@@ -1,0 +1,11 @@
+{
+  "name": "velatir",
+  "version": "1.0.3",
+  "summary": "Python SDK for Velatir - AI function monitoring and approval",
+  "author": "Velatir",
+  "license": null,
+  "home_page": "https://www.velatir.com",
+  "download_filename": "velatir-1.0.3.tar.gz",
+  "download_time": "2025-10-16T14:16:29.447015",
+  "package_url": "https://pypi.org/project/velatir/"
+}

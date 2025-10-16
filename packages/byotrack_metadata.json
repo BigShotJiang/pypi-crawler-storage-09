@@ -1,0 +1,11 @@
+{
+  "name": "byotrack",
+  "version": "1.4.0",
+  "summary": "Biological particle tracking with Python",
+  "author": "Raphael Reme",
+  "license": "MIT",
+  "home_page": "https://github.com/raphaelreme/byotrack",
+  "download_filename": "byotrack-1.4.0.tar.gz",
+  "download_time": "2025-10-16T14:16:08.795497",
+  "package_url": "https://pypi.org/project/byotrack/"
+}
