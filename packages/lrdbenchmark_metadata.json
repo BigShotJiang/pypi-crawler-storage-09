@@ -1,0 +1,11 @@
+{
+  "name": "lrdbenchmark",
+  "version": "2.3.0",
+  "summary": "Comprehensive Long-Range Dependence Benchmarking Framework with Classical, ML, and Neural Network Estimators + 5 Demonstration Notebooks",
+  "author": "Davian R. Chin",
+  "license": "MIT",
+  "home_page": "https://github.com/dave2k77/LRDBenchmark",
+  "download_filename": "lrdbenchmark-2.3.0.tar.gz",
+  "download_time": "2025-10-16T12:33:07.506622",
+  "package_url": "https://pypi.org/project/lrdbenchmark/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "git-clone-group",
-  "version": "1.2.2",
-  "summary": "Clone all GitLab group projects (Protected Version)",
+  "version": "1.2.3",
+  "summary": "Clone or update all projects from a GitLab group and its subgroups",
   "author": "bp zhang",
-  "license": "Commercial",
+  "license": "Proprietary",
   "home_page": "https://github.com/bpzhang/git_clone_group",
-  "download_filename": "git_clone_group-1.2.2.tar.gz",
-  "download_time": "2025-10-16T11:49:29.289627",
+  "download_filename": "git_clone_group-1.2.3.tar.gz",
+  "download_time": "2025-10-16T12:33:24.849792",
   "package_url": "https://pypi.org/project/git-clone-group/"
 }

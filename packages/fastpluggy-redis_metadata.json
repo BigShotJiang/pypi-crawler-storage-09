@@ -1,0 +1,11 @@
+{
+  "name": "fastpluggy-redis",
+  "version": "0.0.15",
+  "summary": "Redis Tools plugin for Fastpluggy",
+  "author": "FastPluggy Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastpluggy_redis-0.0.15.tar.gz",
+  "download_time": "2025-10-16T12:32:50.099703",
+  "package_url": "https://pypi.org/project/fastpluggy-redis/"
+}

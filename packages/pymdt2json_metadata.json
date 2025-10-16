@@ -1,0 +1,11 @@
+{
+  "name": "pymdt2json",
+  "version": "0.5.0",
+  "summary": "Convert markdown tables into JSON code blocks",
+  "author": "Amadou Wolfgang Cisse",
+  "license": null,
+  "home_page": "https://github.com/amadou-6e/pymdt2json.git",
+  "download_filename": "pymdt2json-0.5.0.tar.gz",
+  "download_time": "2025-10-16T12:32:53.248359",
+  "package_url": "https://pypi.org/project/pymdt2json/"
+}

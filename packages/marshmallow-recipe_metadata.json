@@ -1,0 +1,11 @@
+{
+  "name": "marshmallow-recipe",
+  "version": "0.0.62",
+  "summary": "Bake marshmallow schemas based on dataclasses",
+  "author": "Yury Pliner",
+  "license": "MIT",
+  "home_page": "https://github.com/Pliner/marshmallow-recipe",
+  "download_filename": "marshmallow-recipe-0.0.62.tar.gz",
+  "download_time": "2025-10-16T12:33:04.367588",
+  "package_url": "https://pypi.org/project/marshmallow-recipe/"
+}

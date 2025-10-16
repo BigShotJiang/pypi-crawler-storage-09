@@ -1,0 +1,11 @@
+{
+  "name": "visiontext",
+  "version": "0.32.5",
+  "summary": "Utilities for deep learning on multimodal data.",
+  "author": "simon-ging",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "visiontext-0.32.5.tar.gz",
+  "download_time": "2025-10-16T12:33:22.172638",
+  "package_url": "https://pypi.org/project/visiontext/"
+}

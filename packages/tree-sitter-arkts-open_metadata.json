@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-arkts-open",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Tree-sitter grammar for ArkTS (HarmonyOS development language)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tree_sitter_arkts_open-0.1.3.tar.gz",
-  "download_time": "2025-10-16T09:17:09.494824",
+  "download_filename": "tree_sitter_arkts_open-0.1.4.tar.gz",
+  "download_time": "2025-10-16T12:32:50.621197",
   "package_url": "https://pypi.org/project/tree-sitter-arkts-open/"
 }

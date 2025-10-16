@@ -1,0 +1,11 @@
+{
+  "name": "densitypdf",
+  "version": "0.1.4",
+  "summary": "Evaluation of probability density functions",
+  "author": "microprediction",
+  "license": "MIT",
+  "home_page": "https://github.com/microprediction/density",
+  "download_filename": "densitypdf-0.1.4.tar.gz",
+  "download_time": "2025-10-16T12:33:01.235351",
+  "package_url": "https://pypi.org/project/densitypdf/"
+}

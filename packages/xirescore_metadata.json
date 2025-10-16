@@ -1,0 +1,11 @@
+{
+  "name": "xirescore",
+  "version": "1.0.0a24",
+  "summary": "A corss-link mass spectrometry rescoring tool",
+  "author": "Falk Boudewijn Schimweg",
+  "license": "GNU Affero General Public License v3 or later (AGPLv3+)",
+  "home_page": "https://github.com/Rappsilber-Laboratory/xiRescore",
+  "download_filename": "xirescore-1.0.0a24.tar.gz",
+  "download_time": "2025-10-16T12:33:14.340382",
+  "package_url": "https://pypi.org/project/xirescore/"
+}

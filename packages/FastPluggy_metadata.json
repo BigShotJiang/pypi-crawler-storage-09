@@ -1,0 +1,11 @@
+{
+  "name": "FastPluggy",
+  "version": "0.3.34",
+  "summary": "A FastAPI-based framework with plugin management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastpluggy-0.3.34.tar.gz",
+  "download_time": "2025-10-16T12:32:51.686685",
+  "package_url": "https://pypi.org/project/FastPluggy/"
+}
