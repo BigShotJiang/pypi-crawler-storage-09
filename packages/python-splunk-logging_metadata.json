@@ -1,0 +1,11 @@
+{
+  "name": "python-splunk-logging",
+  "version": "1.0.0",
+  "summary": "Python logging module for logging json formatted log messages to a HTTP Event Collector (HEC).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_splunk_logging-1.0.0.tar.gz",
+  "download_time": "2025-10-16T23:14:02.295254",
+  "package_url": "https://pypi.org/project/python-splunk-logging/"
+}

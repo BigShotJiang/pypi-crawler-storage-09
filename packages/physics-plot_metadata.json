@@ -1,0 +1,11 @@
+{
+  "name": "physics-plot",
+  "version": "0.1.0",
+  "summary": "matplotlib styles and utils",
+  "author": "Cory Chu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "physics_plot-0.1.0.tar.gz",
+  "download_time": "2025-10-16T23:14:11.572443",
+  "package_url": "https://pypi.org/project/physics-plot/"
+}

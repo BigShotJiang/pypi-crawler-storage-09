@@ -1,0 +1,11 @@
+{
+  "name": "tsid",
+  "version": "1.9.0",
+  "summary": "A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/tsid",
+  "download_filename": "tsid-1.9.0.tar.gz",
+  "download_time": "2025-10-16T23:14:07.556247",
+  "package_url": "https://pypi.org/project/tsid/"
+}

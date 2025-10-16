@@ -1,11 +1,11 @@
 {
   "name": "just-agents-core",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "summary": "Just Agents - Base Package",
   "author": "Alex Karmazin",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "just_agents_core-0.8.5.tar.gz",
-  "download_time": "2025-10-16T21:49:25.013307",
+  "download_filename": "just_agents_core-0.8.6.tar.gz",
+  "download_time": "2025-10-16T23:14:20.935498",
   "package_url": "https://pypi.org/project/just-agents-core/"
 }

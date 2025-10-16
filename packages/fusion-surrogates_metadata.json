@@ -1,0 +1,11 @@
+{
+  "name": "fusion-surrogates",
+  "version": "0.4.2",
+  "summary": "Transport surrogate models for Tokamak fusion.",
+  "author": "DeepMind",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fusion_surrogates-0.4.2.tar.gz",
+  "download_time": "2025-10-16T23:14:06.330370",
+  "package_url": "https://pypi.org/project/fusion-surrogates/"
+}

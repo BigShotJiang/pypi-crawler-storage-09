@@ -1,11 +1,11 @@
 {
   "name": "warpcompress",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "WarpCompress: adaptive, parallel (de)compression in pure Python with RAW/ZERO/LZ4/Snappy/Zstd per chunk, hybrid Zstd, and batched I/O.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "warpcompress-0.7.0.tar.gz",
-  "download_time": "2025-10-16T21:15:46.654098",
+  "download_filename": "warpcompress-0.7.1.tar.gz",
+  "download_time": "2025-10-16T23:13:57.717064",
   "package_url": "https://pypi.org/project/warpcompress/"
 }

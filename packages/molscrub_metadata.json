@@ -1,0 +1,11 @@
+{
+  "name": "molscrub",
+  "version": "0.2.2",
+  "summary": "Enumerate states of small organic molecules: 3D coordinates, tautomers, pH-based adjustments",
+  "author": "Forli Lab",
+  "license": "GPL-v3",
+  "home_page": "https://github.com/forlilab/molscrub",
+  "download_filename": "molscrub-0.2.2.tar.gz",
+  "download_time": "2025-10-16T23:14:13.422702",
+  "package_url": "https://pypi.org/project/molscrub/"
+}

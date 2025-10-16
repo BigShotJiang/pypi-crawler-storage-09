@@ -1,0 +1,11 @@
+{
+  "name": "pyforestscan",
+  "version": "0.3.5",
+  "summary": "Analyzing forest structure using aerial LiDAR data",
+  "author": "Joseph Emile Honour Percival",
+  "license": null,
+  "home_page": "https://github.com/iosefa/PyForestScan",
+  "download_filename": "pyforestscan-0.3.5.tar.gz",
+  "download_time": "2025-10-16T23:14:03.388046",
+  "package_url": "https://pypi.org/project/pyforestscan/"
+}

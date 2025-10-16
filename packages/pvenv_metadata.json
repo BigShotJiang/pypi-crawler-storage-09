@@ -1,0 +1,11 @@
+{
+  "name": "pvenv",
+  "version": "3.2.3",
+  "summary": "Easy python virtual environment management",
+  "author": "Stephanos Kuma",
+  "license": "BSD-3-Clause",
+  "home_page": "https://p-venv.readthedocs.io/en/stable/",
+  "download_filename": "pvenv-3.2.3.tar.gz",
+  "download_time": "2025-10-16T23:14:04.905912",
+  "package_url": "https://pypi.org/project/pvenv/"
+}
