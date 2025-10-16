@@ -1,11 +1,11 @@
 {
   "name": "aimodelshare",
-  "version": "0.1.47",
+  "version": "0.1.50",
   "summary": "Deploy locally saved machine learning models to a live rest API and web-dashboard.  Share it with the world via modelshare.org",
   "author": "Michael Parrott",
   "license": null,
   "home_page": "https://www.modelshare.org",
-  "download_filename": "aimodelshare-0.1.47.tar.gz",
-  "download_time": "2025-10-16T15:50:38.040556",
+  "download_filename": "aimodelshare-0.1.50.tar.gz",
+  "download_time": "2025-10-16T16:23:46.676008",
   "package_url": "https://pypi.org/project/aimodelshare/"
 }

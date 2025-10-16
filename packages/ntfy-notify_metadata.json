@@ -1,0 +1,11 @@
+{
+  "name": "ntfy-notify",
+  "version": "0.1.7",
+  "summary": "A Python package for sending notifications via the very fabolous ntfy from CLI or Python code with stored credentials",
+  "author": "Melchior im Dreital",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "ntfy_notify-0.1.7.tar.gz",
+  "download_time": "2025-10-16T16:23:37.243406",
+  "package_url": "https://pypi.org/project/ntfy-notify/"
+}

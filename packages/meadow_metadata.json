@@ -1,0 +1,11 @@
+{
+  "name": "meadow",
+  "version": "0.1.0",
+  "summary": "A simple TUI framework",
+  "author": "magnesium",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meadow-0.1.0.tar.gz",
+  "download_time": "2025-10-16T16:24:05.253973",
+  "package_url": "https://pypi.org/project/meadow/"
+}

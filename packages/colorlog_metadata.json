@@ -1,0 +1,11 @@
+{
+  "name": "colorlog",
+  "version": "6.10.1",
+  "summary": "Add colours to the output of Python's logging module.",
+  "author": "Sam Clements",
+  "license": "MIT License",
+  "home_page": "https://github.com/borntyping/python-colorlog",
+  "download_filename": "colorlog-6.10.1.tar.gz",
+  "download_time": "2025-10-16T16:23:58.102775",
+  "package_url": "https://pypi.org/project/colorlog/"
+}

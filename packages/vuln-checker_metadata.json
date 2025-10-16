@@ -1,0 +1,11 @@
+{
+  "name": "vuln-checker",
+  "version": "0.5.3.1",
+  "summary": "CLI tool to fetch CVEs using NVD Feeds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vuln_checker-0.5.3.1.tar.gz",
+  "download_time": "2025-10-16T16:23:42.043121",
+  "package_url": "https://pypi.org/project/vuln-checker/"
+}
