@@ -1,0 +1,11 @@
+{
+  "name": "sequentialized-barnard-tests",
+  "version": "0.0.4",
+  "summary": "Sequential statistical hypothesis testing for two-by-two contingency tables.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sequentialized_barnard_tests-0.0.4.tar.gz",
+  "download_time": "2025-10-16T22:29:17.426061",
+  "package_url": "https://pypi.org/project/sequentialized-barnard-tests/"
+}

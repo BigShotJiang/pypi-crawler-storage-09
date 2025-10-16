@@ -1,0 +1,11 @@
+{
+  "name": "swiftest",
+  "version": "2025.10.0",
+  "summary": "Swiftest is a software packaged designed to model the long-term dynamical dynamics of n-body systems with a dominant central body, like the solar system.",
+  "author": "Carlisle Wishard, Jennifer Pouplin, Jake Elliott, Dana Singh, Kaustub Anand",
+  "license": "Copyright 2025 - David Minton \n         The Swiftest development team: David Minton, Carlisle Wishard, Jennifer Pouplin, Jake Elliott, Dana Singh, & Kaustub Anand\n         \n         This file is part of Swiftest.\n         Swiftest is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License \n         as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n         Swiftest is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty \n         of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n         You should have received a copy of the GNU General Public License along with Swiftest. \n         If not, see: https://www.gnu.org/licenses. ",
+  "home_page": null,
+  "download_filename": "swiftest-2025.10.0.tar.gz",
+  "download_time": "2025-10-16T22:29:27.150085",
+  "package_url": "https://pypi.org/project/swiftest/"
+}

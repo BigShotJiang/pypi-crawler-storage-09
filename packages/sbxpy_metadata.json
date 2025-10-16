@@ -1,0 +1,11 @@
+{
+  "name": "sbxpy",
+  "version": "0.8.0",
+  "summary": "Add your description here",
+  "author": "Luis Guzmán",
+  "license": null,
+  "home_page": "https://github.com/sbxcloud/sbxcloudpython",
+  "download_filename": "sbxpy-0.8.0.tar.gz",
+  "download_time": "2025-10-16T22:29:24.557166",
+  "package_url": "https://pypi.org/project/sbxpy/"
+}

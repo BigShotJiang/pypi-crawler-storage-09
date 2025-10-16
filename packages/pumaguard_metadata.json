@@ -1,11 +1,11 @@
 {
   "name": "pumaguard",
-  "version": "19.post72",
+  "version": "19.post76",
   "summary": null,
   "author": "Nicolas Bock",
   "license": null,
   "home_page": "http://pumaguard.rtfd.io/",
-  "download_filename": "pumaguard-19.post72.tar.gz",
-  "download_time": "2025-10-16T19:24:45.417301",
+  "download_filename": "pumaguard-19.post76.tar.gz",
+  "download_time": "2025-10-16T22:29:18.591936",
   "package_url": "https://pypi.org/project/pumaguard/"
 }

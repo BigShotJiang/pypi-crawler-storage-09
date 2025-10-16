@@ -1,0 +1,11 @@
+{
+  "name": "PyObjectInterface",
+  "version": "0.1.3",
+  "summary": "Create a web interface to interact with a class",
+  "author": "Robert Nies",
+  "license": "MIT",
+  "home_page": "https://github.com/RobertJN64/PyObjectInterface",
+  "download_filename": "pyobjectinterface-0.1.3.tar.gz",
+  "download_time": "2025-10-16T22:29:13.725387",
+  "package_url": "https://pypi.org/project/PyObjectInterface/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcemtools",
+  "version": "0.9.14",
+  "summary": "State of the art analysis tools for 4D STEM",
+  "author": "Alireza Sadri",
+  "license": "MIT license",
+  "home_page": "https://github.com/arsadri/mcemtools",
+  "download_filename": "mcemtools-0.9.14.tar.gz",
+  "download_time": "2025-10-16T22:29:18.008347",
+  "package_url": "https://pypi.org/project/mcemtools/"
+}

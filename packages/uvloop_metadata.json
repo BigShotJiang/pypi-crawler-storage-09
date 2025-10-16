@@ -1,0 +1,11 @@
+{
+  "name": "uvloop",
+  "version": "0.22.1",
+  "summary": "Fast implementation of asyncio event loop on top of libuv",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "uvloop-0.22.1.tar.gz",
+  "download_time": "2025-10-16T22:29:23.527507",
+  "package_url": "https://pypi.org/project/uvloop/"
+}
