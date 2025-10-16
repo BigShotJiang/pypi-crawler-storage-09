@@ -1,0 +1,11 @@
+{
+  "name": "troncos",
+  "version": "7.0.0",
+  "summary": "Collection of Python logging and tracing tools",
+  "author": "Guðmundur Björn Birkisson",
+  "license": "MIT",
+  "home_page": "https://github.com/kolonialno/troncos",
+  "download_filename": "troncos-7.0.0.tar.gz",
+  "download_time": "2025-10-16T09:50:19.100640",
+  "package_url": "https://pypi.org/project/troncos/"
+}

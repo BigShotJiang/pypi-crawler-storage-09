@@ -1,0 +1,11 @@
+{
+  "name": "xml-sitemap-writer",
+  "version": "0.7.0",
+  "summary": "Python3 package for writing large XML sitemaps with no external dependencies",
+  "author": "Maciej Brencz",
+  "license": "MIT",
+  "home_page": "https://github.com/pigs-will-fly/py-xml-sitemap-writer",
+  "download_filename": "xml_sitemap_writer-0.7.0.tar.gz",
+  "download_time": "2025-10-16T09:50:21.392507",
+  "package_url": "https://pypi.org/project/xml-sitemap-writer/"
+}

@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T09:42:20.936393
+- **Download Time**: 2025-10-16T09:51:06.492814
 - **Total Packages**: 90
-- **Total Size**: 23.22 MB
+- **Total Size**: 16.45 MB
 
 ## Packages List
+- SearchPilot
+- ragchunker
+- packg
+- troncos
+- lmnr
+- dapu
+- penguin-tamer
+- xml-sitemap-writer
+- google-analytic-process
+- findreq
+- supervisely
+- watermarklab
+- superauth
+- project-llm-trainer
+- beswarm
+- PyInventory
+- open-spiel
+- alibabacloud-cloudfw20171207
+- mal-simulator
+- python3-ssh
+- datalinks
+- wizata-dsapi
+- facture-electronique
+- hugr-qir
+- cued-speech
+- ebat
+- prune-lib
+- RubigramClient
+- lr-gladiator
+- cleanote
+- esiaccel
+- gurddy
 - axixalogger
 - twikitminifix
 - sql-metadata
@@ -32,7 +64,6 @@
 - plex-generate-previews
 - optrabot
 - jupyter-mcp-server
-- google-analytic-process
 - p-template-generator
 - realtimex-cli-mcps
 - virtuals-acp
@@ -50,11 +81,9 @@
 - pytest-embedded-serial-esp
 - pytest-embedded-serial
 - pytest-embedded
-- python3-ssh
 - tbp-nightly
 - BabelDOC
 - ppio-sandbox
-- penguin-tamer
 - lightcone-io
 - scenariogeneration
 - alibabacloud-ecd20200930
@@ -67,32 +96,3 @@
 - krn-harmony-adapter
 - draive
 - metal-stack-api
-- glaip-sdk
-- beyondmimic
-- bookwyrm
-- findreq
-- causalspyne
-- tree-sitter-arkts-open
-- django-unfold-extra
-- fragmentcolor
-- dataclasses-ujson
-- scipy-dae
-- mergify-cli
-- qBitrr2
-- service_laboratory
-- wsgo
-- lazylinop
-- specflow
-- tomoscan
-- couchbase-infrastructure
-- atsdk
-- exeqpdal
-- license-scanner
-- mdformat-gfm
-- ioxio-data-product-definition-tooling
-- tmsgpack
-- mcpuniverse
-- nxtomomill
-- odoo-addon-stock-release-channel-cutoff
-- powerfit-em
-- hvsampledata
