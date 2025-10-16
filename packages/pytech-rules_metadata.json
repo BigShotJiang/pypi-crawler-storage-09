@@ -1,0 +1,11 @@
+{
+  "name": "pytech-rules",
+  "version": "2.2.3",
+  "summary": "PyTech Rules Project",
+  "author": "Giacomo Nicolini, Alessandra Benassi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytech_rules-2.2.3.tar.gz",
+  "download_time": "2025-10-16T07:48:59.273692",
+  "package_url": "https://pypi.org/project/pytech-rules/"
+}

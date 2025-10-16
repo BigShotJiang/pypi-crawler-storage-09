@@ -1,0 +1,11 @@
+{
+  "name": "pywebauto",
+  "version": "1.0.2",
+  "summary": "web自动化开发及测试",
+  "author": "yandifei",
+  "license": "MIT",
+  "home_page": "https://github.com/yandifei/pywebauto",
+  "download_filename": "pywebauto-1.0.2.tar.gz",
+  "download_time": "2025-10-16T07:48:54.269673",
+  "package_url": "https://pypi.org/project/pywebauto/"
+}

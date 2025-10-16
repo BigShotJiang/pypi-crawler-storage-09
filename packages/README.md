@@ -1,13 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T07:38:07.038435
-- **Total Packages**: 80
-- **Total Size**: 47.21 MB
+- **Download Time**: 2025-10-16T07:49:35.705647
+- **Total Packages**: 77
+- **Total Size**: 16.32 MB
 
 ## Packages List
+- dcisionai-mcp-server
+- langgraph-checkpoint-s3
+- pywebauto
+- ppio-sandbox
+- raven-pyu
+- allegro-auth
+- diglife
+- maleo-enums
+- dump-things-service
+- pytech-rules
+- pyaxis
+- unique_orchestrator
+- maleo-logging
+- trovesuite-auth-service
+- sqlmesh
+- abstract-hugpy
+- shopcloud-proxy-client
+- vishwa-fastapi-utils
+- talktollm
+- maleo-utils
+- uvxtrigger
+- pybotchi
+- common-data-format-validator
+- maleo-crypto
 - optimisewait
 - lybase
+- pyautd3-link-remote-twincat
 - alibabacloud-docmind-api20220711
 - dir-test-pkg
 - redis-pydantic
@@ -18,16 +43,13 @@
 - papa-events
 - nibcq
 - unique_toolkit
-- dcisionai-mcp-server
 - idvpackage
 - maleo-types
 - jeap-pipeline
 - wavemonitor
 - excel-to-dto
-- abstract-hugpy
 - essdiffraction
 - compiletools
-- trovesuite-auth-service
 - chinus-tools
 - cite-agent
 - sofastats
@@ -61,28 +83,3 @@
 - p1-taskqueue
 - ai-code-validator
 - tw-cwa-weather-mcp
-- spaFR
-- pymonoprice
-- dh-potluck
-- superagent-ai
-- postivo-client
-- iceye-audit-log
-- pulumi-vault
-- agentic-kit-common
-- odoo-addon-l10n-es-atc
-- onnxscript
-- pulumi-oci
-- gguf-frontend
-- xrpl-py-cheng
-- openlit
-- unit-saas
-- hduq
-- pulumi-xyz
-- pulumi-cloudflare
-- my-platform-sdk-package
-- p-template-generator
-- truefoundry-sdk
-- legit-api-client
-- pulumi-wavefront
-- pulumi-vsphere
-- md2Slack

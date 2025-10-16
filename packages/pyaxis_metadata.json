@@ -1,0 +1,11 @@
+{
+  "name": "pyaxis",
+  "version": "0.4.2",
+  "summary": "Library to handle PC-Axis data in python using pandas DataFrames.",
+  "author": "Instituto Cántabro de Estadística & Swiss Data Science Center",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/icane/pyaxis",
+  "download_filename": "pyaxis-0.4.2.tar.gz",
+  "download_time": "2025-10-16T07:48:59.848746",
+  "package_url": "https://pypi.org/project/pyaxis/"
+}

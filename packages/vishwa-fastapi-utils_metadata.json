@@ -1,0 +1,11 @@
+{
+  "name": "vishwa-fastapi-utils",
+  "version": "0.0.25",
+  "summary": "Base SDK for FastAPI Utils",
+  "author": "Sai Sharan Tangeda",
+  "license": null,
+  "home_page": "https://github.com/vishwa-labs/fastapi-utils",
+  "download_filename": "vishwa_fastapi_utils-0.0.25.tar.gz",
+  "download_time": "2025-10-16T07:49:03.809556",
+  "package_url": "https://pypi.org/project/vishwa-fastapi-utils/"
+}
