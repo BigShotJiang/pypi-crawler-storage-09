@@ -1,11 +1,11 @@
 {
   "name": "workstack",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "workstack-0.1.15.tar.gz",
-  "download_time": "2025-10-16T12:33:33.728217",
+  "download_filename": "workstack-0.1.16.tar.gz",
+  "download_time": "2025-10-16T17:32:21.927286",
   "package_url": "https://pypi.org/project/workstack/"
 }

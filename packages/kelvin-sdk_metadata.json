@@ -1,0 +1,11 @@
+{
+  "name": "kelvin-sdk",
+  "version": "9.3.1",
+  "summary": "Kelvin SDK",
+  "author": "Kelvin Inc",
+  "license": null,
+  "home_page": "https://kelvininc.com/",
+  "download_filename": "kelvin_sdk-9.3.1-py3-none-any.whl",
+  "download_time": "2025-10-16T17:32:18.214611",
+  "package_url": "https://pypi.org/project/kelvin-sdk/"
+}

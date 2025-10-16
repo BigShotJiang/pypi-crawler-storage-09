@@ -1,0 +1,11 @@
+{
+  "name": "adjustor",
+  "version": "3.11.8",
+  "summary": "Adjustor, a userspace program for managing the TDP of handheld devices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adjustor-3.11.8.tar.gz",
+  "download_time": "2025-10-16T17:32:15.613238",
+  "package_url": "https://pypi.org/project/adjustor/"
+}

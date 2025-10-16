@@ -1,0 +1,11 @@
+{
+  "name": "mrce-plus",
+  "version": "1.0.0",
+  "summary": "Meta-Recursive Cognitive Engine Plus - A triple-loop cognitive system with multi-tiered memory and LLM integration",
+  "author": "Krishna Bajpai, Vedanshi Gupta",
+  "license": "MIT",
+  "home_page": "https://github.com/krishnabajpai/mrce-plus",
+  "download_filename": "mrce_plus-1.0.0.tar.gz",
+  "download_time": "2025-10-16T17:32:22.966844",
+  "package_url": "https://pypi.org/project/mrce-plus/"
+}
