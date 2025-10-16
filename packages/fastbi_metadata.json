@@ -1,11 +1,11 @@
 {
   "name": "fastbi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Scaffold Power BI projects instantly from templates",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastbi-0.1.1.tar.gz",
-  "download_time": "2025-10-16T18:54:22.878272",
+  "download_filename": "fastbi-0.1.2.tar.gz",
+  "download_time": "2025-10-16T21:16:15.080462",
   "package_url": "https://pypi.org/project/fastbi/"
 }

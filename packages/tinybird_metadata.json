@@ -1,0 +1,11 @@
+{
+  "name": "tinybird",
+  "version": "0.0.1.dev306",
+  "summary": "Tinybird Command Line Tool",
+  "author": "Tinybird",
+  "license": null,
+  "home_page": "https://www.tinybird.co/docs/forward/commands",
+  "download_filename": "tinybird-0.0.1.dev306.tar.gz",
+  "download_time": "2025-10-16T21:16:04.015259",
+  "package_url": "https://pypi.org/project/tinybird/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hilt-python",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "HILT: Human-IA Log Trace - Privacy-first logging format for AI interactions",
   "author": "HILT Team",
   "license": "Apache-2.0",
   "home_page": "https://hilt-format.org",
-  "download_filename": "hilt_python-0.2.7.tar.gz",
-  "download_time": "2025-10-16T20:18:03.735463",
+  "download_filename": "hilt_python-0.2.8.tar.gz",
+  "download_time": "2025-10-16T21:16:11.072993",
   "package_url": "https://pypi.org/project/hilt-python/"
 }

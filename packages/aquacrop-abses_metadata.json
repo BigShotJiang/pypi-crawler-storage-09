@@ -1,11 +1,11 @@
 {
   "name": "aquacrop-abses",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": null,
   "author": "SongshGeo",
   "license": null,
   "home_page": null,
-  "download_filename": "aquacrop_abses-0.2.2.tar.gz",
-  "download_time": "2025-10-16T20:49:54.594299",
+  "download_filename": "aquacrop_abses-0.3.0.tar.gz",
+  "download_time": "2025-10-16T21:15:48.201206",
   "package_url": "https://pypi.org/project/aquacrop-abses/"
 }

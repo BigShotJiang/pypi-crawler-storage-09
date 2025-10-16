@@ -1,0 +1,11 @@
+{
+  "name": "lognflow",
+  "version": "0.13.16",
+  "summary": "Log and Flow tracking made easy with Python",
+  "author": "Alireza Sadri",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/arsadri/lognflow",
+  "download_filename": "lognflow-0.13.16.tar.gz",
+  "download_time": "2025-10-16T21:15:57.161056",
+  "package_url": "https://pypi.org/project/lognflow/"
+}

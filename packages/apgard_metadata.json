@@ -1,0 +1,11 @@
+{
+  "name": "apgard",
+  "version": "0.1.2",
+  "summary": "SDK for consuming AI outputs",
+  "author": "Ariel Colon",
+  "license": null,
+  "home_page": "https://github.com/ariel-colon/apgard.git",
+  "download_filename": "apgard-0.1.2.tar.gz",
+  "download_time": "2025-10-16T21:15:55.966583",
+  "package_url": "https://pypi.org/project/apgard/"
+}

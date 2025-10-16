@@ -1,0 +1,11 @@
+{
+  "name": "horcrux",
+  "version": "1.0.5",
+  "summary": "A Python implementation of Shamir's Secret Sharing",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "horcrux-1.0.5.tar.gz",
+  "download_time": "2025-10-16T21:16:11.663737",
+  "package_url": "https://pypi.org/project/horcrux/"
+}

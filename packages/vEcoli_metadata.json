@@ -1,0 +1,11 @@
+{
+  "name": "vEcoli",
+  "version": "1.1.0",
+  "summary": "Whole Cell E. coli Model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vecoli-1.1.0.tar.gz",
+  "download_time": "2025-10-16T21:16:00.660357",
+  "package_url": "https://pypi.org/project/vEcoli/"
+}

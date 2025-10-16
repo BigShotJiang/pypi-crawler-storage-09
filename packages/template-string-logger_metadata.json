@@ -1,0 +1,11 @@
+{
+  "name": "template-string-logger",
+  "version": "0.0",
+  "summary": "Python logger that supports t-strings",
+  "author": "Gerard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "template_string_logger-0.0.tar.gz",
+  "download_time": "2025-10-16T21:15:46.142813",
+  "package_url": "https://pypi.org/project/template-string-logger/"
+}

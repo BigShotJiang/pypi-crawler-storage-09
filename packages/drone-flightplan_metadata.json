@@ -1,0 +1,11 @@
+{
+  "name": "drone-flightplan",
+  "version": "0.4.1",
+  "summary": "Generate an optimized flight plan for aerial mapping with drones.",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "drone_flightplan-0.4.1.tar.gz",
+  "download_time": "2025-10-16T21:15:54.383722",
+  "package_url": "https://pypi.org/project/drone-flightplan/"
+}

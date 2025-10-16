@@ -1,0 +1,11 @@
+{
+  "name": "pymc",
+  "version": "5.26.0",
+  "summary": "Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with PyTensor",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://github.com/pymc-devs/pymc",
+  "download_filename": "pymc-5.26.0.tar.gz",
+  "download_time": "2025-10-16T21:15:58.850817",
+  "package_url": "https://pypi.org/project/pymc/"
+}
