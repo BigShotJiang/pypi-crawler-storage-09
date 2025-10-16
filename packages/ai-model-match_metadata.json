@@ -1,0 +1,11 @@
+{
+  "name": "ai-model-match",
+  "version": "1.0.4",
+  "summary": "AI Model Match is an open-source service that helps product teams release, test, and optimize prompt configurations for AI-powered applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_model_match-1.0.4.tar.gz",
+  "download_time": "2025-10-16T21:49:13.997252",
+  "package_url": "https://pypi.org/project/ai-model-match/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-office",
+  "version": "0.0.3",
+  "summary": "Python SDK for Agent Office API - AI-powered document editing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_office-0.0.3.tar.gz",
+  "download_time": "2025-10-16T21:49:15.658875",
+  "package_url": "https://pypi.org/project/agent-office/"
+}

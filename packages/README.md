@@ -1,15 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T21:37:48.047028
+- **Download Time**: 2025-10-16T21:50:00.262238
 - **Total Packages**: 86
-- **Total Size**: 20.23 MB
+- **Total Size**: 17.1 MB
 
 ## Packages List
+- odsbox
+- pyfurnace
+- wads
+- ai-model-match
+- treemapper
+- mcp-server-whisper
+- agent-office
+- pypixelmapdump
+- figmaker
+- robolson
+- whistic
+- scc-firewall-manager-sdk
+- usethis
+- tnr
+- just-agents
+- just-agents-examples
+- just-agents-router
+- emergene
+- iatoolkit
+- just-agents-web
+- just-agents-coding
+- just-agents-tools
+- proxiss
+- just-agents-core
+- arbor-ai
+- kaqing
+- dspyteach
+- irispreppy
+- tobiko-cloud-helpers
+- kube-compose
+- dyff-client
+- tobiko-cloud-pydantic
+- tobiko-cloud-api-client
+- tibanna
+- parse-int-py
+- trata
+- blueprint-kit
+- dsf-label-sdk
+- dlairflow
+- tidysdmx
+- mrx-runway
 - graph-games-proto
 - espy-contact
 - kilojoule
-- iatoolkit
 - cursus
 - somerandomapi.py
 - qbi-radon
@@ -48,47 +88,7 @@
 - epitran
 - llme-cli
 - mlschema
-- dsf-label-sdk
 - timesat-gui
 - geoarrow-rust-core
 - geoarrow-rust-compute
 - pbi-core
-- databricks-labs-lakebridge
-- plato-learn
-- gptsh-cli
-- rds-proxy-password-rotation
-- warpcompress
-- rxfoundry.clients.swifty_oauth_api
-- rxfoundry.clients.swifty_api
-- aquacrop-abses
-- increase
-- semantic-copycat-upmex
-- transformerlab-inference
-- marzbanpy
-- sanskritizer
-- figmaker
-- brazilian-holidays
-- sorptionfriction
-- agentci-client-config
-- transformerlab
-- drone-flightplan
-- weni-rp-apps
-- hypothesis
-- apgard
-- vellum-workflow-server
-- lognflow
-- roboid
-- pymc
-- navdict
-- apache-tvm-ffi
-- vEcoli
-- kuroboros
-- kirin-toolchain
-- mcp-server-svn
-- littlehorse-client
-- heaserver-accounts
-- tinybird
-- planqk-quantum
-- toml-rs
-- pycarlo
-- speedbuild

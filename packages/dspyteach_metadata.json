@@ -1,0 +1,11 @@
+{
+  "name": "dspyteach",
+  "version": "0.1.7b2",
+  "summary": "CLI utility that summarizes single files into teaching briefs using DSPy",
+  "author": "DSPy File Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dspyteach-0.1.7b2.tar.gz",
+  "download_time": "2025-10-16T21:49:26.656631",
+  "package_url": "https://pypi.org/project/dspyteach/"
+}

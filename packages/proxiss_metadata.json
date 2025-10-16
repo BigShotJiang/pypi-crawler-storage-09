@@ -1,0 +1,11 @@
+{
+  "name": "proxiss",
+  "version": "0.3.0",
+  "summary": "Proxi: Accelerating nearest-neighbor search for high-dimensional data!",
+  "author": null,
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "proxiss-0.3.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-16T21:49:24.457216",
+  "package_url": "https://pypi.org/project/proxiss/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emergene",
+  "version": "1.0.0",
+  "summary": "EMERGENE for individual cell-based differential transcriptomic analysis across conditions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emergene-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-16T21:49:21.719848",
+  "package_url": "https://pypi.org/project/emergene/"
+}
