@@ -1,11 +1,11 @@
 {
   "name": "cota",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Chain of Thought Agent Platform for Industrial-Grade Dialogue Systems",
   "author": "MingGuangShao",
   "license": "MIT",
   "home_page": "https://github.com/CotaAI/cota",
-  "download_filename": "cota-1.0.6.tar.gz",
-  "download_time": "2025-10-16T16:23:48.408791",
+  "download_filename": "cota-1.0.7.tar.gz",
+  "download_time": "2025-10-16T17:14:28.319172",
   "package_url": "https://pypi.org/project/cota/"
 }

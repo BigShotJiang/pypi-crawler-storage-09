@@ -1,11 +1,11 @@
 {
   "name": "colabfit-mcp",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A suite of MCP tools for interacting with the ColabFit database",
   "author": "ColabFit",
   "license": null,
   "home_page": null,
-  "download_filename": "colabfit_mcp-0.0.1.tar.gz",
-  "download_time": "2025-10-16T15:50:58.007233",
+  "download_filename": "colabfit_mcp-0.0.3.tar.gz",
+  "download_time": "2025-10-16T17:14:01.534363",
   "package_url": "https://pypi.org/project/colabfit-mcp/"
 }
