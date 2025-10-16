@@ -1,0 +1,11 @@
+{
+  "name": "autonfs",
+  "version": "0.3.2",
+  "summary": "An end-to-end feature selection distribution with linear runtime(number of features) complexity.",
+  "author": "Witold Wydmański",
+  "license": "MIT",
+  "home_page": "https://github.com/wwydmanski/AutoNFS",
+  "download_filename": "autonfs-0.3.2.tar.gz",
+  "download_time": "2025-10-16T14:56:50.009105",
+  "package_url": "https://pypi.org/project/autonfs/"
+}

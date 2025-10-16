@@ -1,0 +1,11 @@
+{
+  "name": "ventrun",
+  "version": "1.6",
+  "summary": "Bootstrap your application and emit a Main event to ModuVent.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ventrun-1.6.tar.gz",
+  "download_time": "2025-10-16T14:56:47.094539",
+  "package_url": "https://pypi.org/project/ventrun/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "humancompatible-train",
-  "version": "0.1.8.1",
+  "version": "0.1.8.4",
   "summary": "PyTorch-based package for constrained training of neural networks",
   "author": "Gilles Bareilles, Jana Lepsova, Jakub Marecek",
   "license": null,
   "home_page": null,
-  "download_filename": "humancompatible_train-0.1.8.1-py3-none-any.whl",
-  "download_time": "2025-10-16T13:20:02.338603",
+  "download_filename": "humancompatible_train-0.1.8.4-py3-none-any.whl",
+  "download_time": "2025-10-16T14:57:14.509051",
   "package_url": "https://pypi.org/project/humancompatible-train/"
 }

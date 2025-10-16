@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-embeddings-bedrock",
+  "version": "0.7.0",
+  "summary": "llama-index embeddings bedrock integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_embeddings_bedrock-0.7.0.tar.gz",
+  "download_time": "2025-10-16T14:57:22.930614",
+  "package_url": "https://pypi.org/project/llama-index-embeddings-bedrock/"
+}
