@@ -1,0 +1,11 @@
+{
+  "name": "cnapy",
+  "version": "1.2.6",
+  "summary": "An integrated environment for metabolic network analysis.",
+  "author": "Sven Thiele, Axel von Kamp, Pavlos Stephanos Bekiaris, Philipp Schneider",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cnapy-1.2.6.tar.gz",
+  "download_time": "2025-10-16T07:19:09.585542",
+  "package_url": "https://pypi.org/project/cnapy/"
+}

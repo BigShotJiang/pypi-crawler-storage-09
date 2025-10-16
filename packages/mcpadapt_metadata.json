@@ -1,0 +1,11 @@
+{
+  "name": "mcpadapt",
+  "version": "0.1.19",
+  "summary": "Adapt MCP servers to many agentic framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpadapt-0.1.19.tar.gz",
+  "download_time": "2025-10-16T07:19:11.383437",
+  "package_url": "https://pypi.org/project/mcpadapt/"
+}

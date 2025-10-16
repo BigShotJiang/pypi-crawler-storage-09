@@ -1,0 +1,11 @@
+{
+  "name": "mdgithub",
+  "version": "1.0.0",
+  "summary": "Flatten GitHub repositories into beautiful single HTML pages",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdgithub-1.0.0.tar.gz",
+  "download_time": "2025-10-16T07:19:13.757273",
+  "package_url": "https://pypi.org/project/mdgithub/"
+}

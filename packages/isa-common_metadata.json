@@ -1,0 +1,11 @@
+{
+  "name": "isa-common",
+  "version": "0.1.2",
+  "summary": "Shared Python infrastructure library for isA platform",
+  "author": "isA Platform",
+  "license": null,
+  "home_page": "https://github.com/isa-platform/isA_Cloud",
+  "download_filename": "isa_common-0.1.2.tar.gz",
+  "download_time": "2025-10-16T07:19:42.053240",
+  "package_url": "https://pypi.org/project/isa-common/"
+}

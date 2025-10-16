@@ -1,0 +1,11 @@
+{
+  "name": "python-step-parser",
+  "version": "0.2.3",
+  "summary": "A library to extract and access data from a STEP or STP file in a structured way.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_step_parser-0.2.3-py3-none-any.whl",
+  "download_time": "2025-10-16T07:19:25.630065",
+  "package_url": "https://pypi.org/project/python-step-parser/"
+}

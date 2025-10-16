@@ -1,0 +1,11 @@
+{
+  "name": "barcode-qr-code-sdk",
+  "version": "11.2.1000",
+  "summary": "Barcode and QR code scanning SDK for Python",
+  "author": "yushulx",
+  "license": "MIT",
+  "home_page": "https://github.com/yushulx/python-barcode-qrcode-sdk",
+  "download_filename": "barcode_qr_code_sdk-11.2.1000.tar.gz",
+  "download_time": "2025-10-16T07:19:54.147758",
+  "package_url": "https://pypi.org/project/barcode-qr-code-sdk/"
+}

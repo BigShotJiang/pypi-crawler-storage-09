@@ -1,0 +1,11 @@
+{
+  "name": "meltanolabs-target-csv",
+  "version": "0.2.1",
+  "summary": "Singer target for CSV, built with the Meltano SDK for Singer Targets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meltanolabs_target_csv-0.2.1.tar.gz",
+  "download_time": "2025-10-16T07:19:23.227356",
+  "package_url": "https://pypi.org/project/meltanolabs-target-csv/"
+}

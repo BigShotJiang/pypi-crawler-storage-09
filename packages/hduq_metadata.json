@@ -1,0 +1,11 @@
+{
+  "name": "hduq",
+  "version": "0.0.8",
+  "summary": "HDUQ Python utils",
+  "author": "Chao-Ning Hu",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "hduq-0.0.8.tar.gz",
+  "download_time": "2025-10-16T07:19:40.892758",
+  "package_url": "https://pypi.org/project/hduq/"
+}
