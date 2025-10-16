@@ -1,0 +1,11 @@
+{
+  "name": "deltachat-rpc-server",
+  "version": "2.21.0",
+  "summary": "Delta Chat JSON-RPC server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deltachat_rpc_server-2.21.0.tar.gz",
+  "download_time": "2025-10-16T23:25:51.175012",
+  "package_url": "https://pypi.org/project/deltachat-rpc-server/"
+}
