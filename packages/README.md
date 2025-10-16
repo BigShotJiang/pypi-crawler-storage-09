@@ -1,22 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T10:43:50.710238
-- **Total Packages**: 84
-- **Total Size**: 55.02 MB
+- **Download Time**: 2025-10-16T10:53:14.570219
+- **Total Packages**: 90
+- **Total Size**: 23.69 MB
 
 ## Packages List
+- foxypack_x_twikit
+- keytopPyUtils
+- hestia-earth-aggregation
+- odoo-addon-ddmrp-exclude-moves-adu-calc
+- project-llm-trainer
+- canvas
+- odoo-addon-sign-oca
+- flomp
+- KratosStructuralMechanicsApplication
+- clifpy
+- ocpy-client
+- humancompatible-train
+- garf-core
+- bbwebservice
+- superauth
+- lx-anonymizer
+- vectome
+- study-reminders-ACIT4420
+- KratosStatisticsApplication
+- foxypack-instagram-instagrapy
+- agentsphere-mcp-server
+- llm-provider-factory
+- kt-ds-api
+- konduktor-nightly
+- flake8-carrot
+- cloudsmith-cli
+- cogents-smith
+- KratosShapeOptimizationApplication
+- getstream
+- pymetaf
+- aton
+- nebula-client
+- trainy-policy-nightly
+- agentkernel
+- KratosShallowWaterApplication
+- orq-ai-sdk
+- gravixlayer
+- iranetf
+- fluttercraft
+- scrapegraph-py
 - ai4ce-helpers
 - sch-lib
 - assisted-service-client
 - ethyca-fides
-- keytopPyUtils
 - letta-nightly
-- flomp
 - asyncmq
 - audiotame
 - browserist
-- llm-provider-factory
 - geomfig
 - micro-rag-mcp
 - twikitminifix
@@ -59,34 +96,3 @@
 - KratosMPMApplication
 - feature-suggestion-agent
 - retracesoftware-autoenable-debug
-- kagura-ai
-- Py4HEAppE
-- promptlayer
-- beyondmimic
-- askui
-- wizsearch
-- phantom-hv
-- retracesoftware-proxy-debug
-- KratosMeshMovingApplication
-- dhv
-- superauth
-- CliRemote
-- antchain-riskplus
-- stata-mcp
-- KratosMeshingApplication
-- KratosMedApplication
-- KratosMappingApplication
-- toml-rs
-- lintro
-- droidrun
-- KratosLinearSolversApplication
-- PyBADS
-- pyatlan
-- KratosIgaApplication
-- red-tidegear
-- KratosGeoMechanicsApplication
-- gurddy
-- ocrmypdf
-- commonground-api-common
-- odoo-addon-ai-oca-bridge-chatter
-- mkdocs-vwidref

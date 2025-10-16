@@ -1,0 +1,11 @@
+{
+  "name": "nebula-client",
+  "version": "0.1.10",
+  "summary": "Official Python SDK for Nebula API",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "nebula_client-0.1.10.tar.gz",
+  "download_time": "2025-10-16T10:52:43.471778",
+  "package_url": "https://pypi.org/project/nebula-client/"
+}

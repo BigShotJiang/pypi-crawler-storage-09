@@ -1,0 +1,11 @@
+{
+  "name": "pymetaf",
+  "version": "1.1.1",
+  "summary": "A python package for parsing metar & taf raw text",
+  "author": "Wentao Li",
+  "license": null,
+  "home_page": "https://github.com/Clarmy/pymetaf",
+  "download_filename": "pymetaf-1.1.1.tar.gz",
+  "download_time": "2025-10-16T10:52:42.428240",
+  "package_url": "https://pypi.org/project/pymetaf/"
+}
