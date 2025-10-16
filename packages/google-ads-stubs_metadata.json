@@ -1,0 +1,11 @@
+{
+  "name": "google-ads-stubs",
+  "version": "24.0.0",
+  "summary": "Type stubs for google-ads",
+  "author": "Henrik Bruåsdal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_ads_stubs-24.0.0.tar.gz",
+  "download_time": "2025-10-16T16:46:11.927657",
+  "package_url": "https://pypi.org/project/google-ads-stubs/"
+}

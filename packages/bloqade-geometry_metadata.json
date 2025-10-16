@@ -1,0 +1,11 @@
+{
+  "name": "bloqade-geometry",
+  "version": "0.3.5",
+  "summary": "Components for defining and manipulating geometric objects in Bloqade for neutral atom quantum computing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bloqade_geometry-0.3.5.tar.gz",
+  "download_time": "2025-10-16T16:46:09.840338",
+  "package_url": "https://pypi.org/project/bloqade-geometry/"
+}

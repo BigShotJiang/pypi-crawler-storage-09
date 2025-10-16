@@ -1,0 +1,11 @@
+{
+  "name": "walltheme",
+  "version": "0.2.4",
+  "summary": "Generate themes based on an image's dominante colors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "walltheme-0.2.4.tar.gz",
+  "download_time": "2025-10-16T16:46:19.257641",
+  "package_url": "https://pypi.org/project/walltheme/"
+}
