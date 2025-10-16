@@ -1,25 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T18:54:43.916378
-- **Total Packages**: 83
-- **Total Size**: 49.58 MB
+- **Download Time**: 2025-10-16T19:12:50.605151
+- **Total Packages**: 88
+- **Total Size**: 12.5 MB
 
 ## Packages List
-- novas3d
-- dataverse-utils
-- prefect-client
-- jieba-next
-- edmkit
-- casmo4py
-- ripple-detection
-- movoid-robotframework
-- junglescout-client
-- lm-raindrop
-- elexon-bmrs
-- globus-compute-endpoint
-- globus-compute-sdk
-- kodexa
 - arcade-zoho-creator-api
 - exchanges-wrapper
 - rootly
@@ -38,10 +24,13 @@
 - phoonnx
 - hf-model-inspector
 - movoid-package
+- junglescout-client
 - kimina-ast-client
+- dataverse-utils
 - lumipy
 - sanguine
 - fhws
+- kodexa
 - galileo
 - nexus-ai-fs
 - materials-commons-api
@@ -89,3 +78,19 @@
 - dyff-client
 - syned-gui-2
 - libschema
+- crypto-ws-api
+- dbt-swap
+- tree-sitter-analyzer
+- bedrock-agentcore
+- suse-cloud-image-name-parser
+- signalpilot-ai-internal
+- roman-snpit-snappl
+- bsk-rl
+- modal
+- talentro-commons
+- sdk-reforge
+- activemodel
+- xiaoranli
+- firstmodule-duderanch
+- kernels
+- edgeimpulse-api
