@@ -1,0 +1,11 @@
+{
+  "name": "balderhub-gui",
+  "version": "0.0.1b0",
+  "summary": "balderhub-gui: balderhub package for testing Graphical User Interfaces in almost any matter",
+  "author": "Max Stahlschmidt and others",
+  "license": "MIT",
+  "home_page": "https://hub.balder.dev/projects/gui",
+  "download_filename": "balderhub_gui-0.0.1b0.tar.gz",
+  "download_time": "2025-10-16T15:40:59.154124",
+  "package_url": "https://pypi.org/project/balderhub-gui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "planai",
+  "version": "0.6.1",
+  "summary": "A simple framework for coordinating classical compute and LLM-based tasks.",
+  "author": "Niels Provos",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/provos/planai",
+  "download_filename": "planai-0.6.1.tar.gz",
+  "download_time": "2025-10-16T15:41:05.380867",
+  "package_url": "https://pypi.org/project/planai/"
+}

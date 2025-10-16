@@ -1,0 +1,11 @@
+{
+  "name": "quantrl-lab",
+  "version": "0.1.0",
+  "summary": "A lightweight Python library for developing and backtesting RL Agents in financial markets",
+  "author": "whanyu1212",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantrl_lab-0.1.0.tar.gz",
+  "download_time": "2025-10-16T15:41:01.966275",
+  "package_url": "https://pypi.org/project/quantrl-lab/"
+}

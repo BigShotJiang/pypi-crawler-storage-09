@@ -1,0 +1,11 @@
+{
+  "name": "std-uritemplate",
+  "version": "2.0.7",
+  "summary": "std-uritemplate implementation for Python",
+  "author": "Andrea Peruffo",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/std-uritemplate/std-uritemplate",
+  "download_filename": "std_uritemplate-2.0.7.tar.gz",
+  "download_time": "2025-10-16T15:40:52.829388",
+  "package_url": "https://pypi.org/project/std-uritemplate/"
+}

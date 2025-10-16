@@ -1,11 +1,11 @@
 {
   "name": "buildgrid",
-  "version": "0.2.29",
+  "version": "0.2.30",
   "summary": "A remote execution service",
   "author": null,
   "license": "Apache License, Version 2.0",
   "home_page": null,
-  "download_filename": "buildgrid-0.2.29.tar.gz",
-  "download_time": "2025-10-16T11:39:08.921802",
+  "download_filename": "buildgrid-0.2.30.tar.gz",
+  "download_time": "2025-10-16T15:40:48.268883",
   "package_url": "https://pypi.org/project/buildgrid/"
 }

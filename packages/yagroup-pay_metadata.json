@@ -1,0 +1,11 @@
+{
+  "name": "yagroup-pay",
+  "version": "0.3.0",
+  "summary": "YA Group Pay API",
+  "author": "Nexium",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yagroup_pay-0.3.0.tar.gz",
+  "download_time": "2025-10-16T15:40:59.720638",
+  "package_url": "https://pypi.org/project/yagroup-pay/"
+}
