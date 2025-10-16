@@ -1,0 +1,11 @@
+{
+  "name": "gushwork-rag",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Gushwork RAG API",
+  "author": "Gushwork",
+  "license": "MIT",
+  "home_page": "https://github.com/gushwork/gw-rag",
+  "download_filename": "gushwork_rag-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-16T11:28:21.075879",
+  "package_url": "https://pypi.org/project/gushwork-rag/"
+}

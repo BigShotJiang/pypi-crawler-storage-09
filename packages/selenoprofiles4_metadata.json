@@ -1,0 +1,11 @@
+{
+  "name": "selenoprofiles4",
+  "version": "4.5.6",
+  "summary": "Gene finding pipeline for selenoprotein and selenocysteine machinery",
+  "author": "Max Ticó, Marco Mariotti",
+  "license": null,
+  "home_page": "https://github.com/marco-mariotti/selenoprofiles4",
+  "download_filename": "selenoprofiles4-4.5.6.tar.gz",
+  "download_time": "2025-10-16T11:28:42.837080",
+  "package_url": "https://pypi.org/project/selenoprofiles4/"
+}

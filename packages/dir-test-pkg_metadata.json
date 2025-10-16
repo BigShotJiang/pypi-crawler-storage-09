@@ -1,11 +1,11 @@
 {
   "name": "dir-test-pkg",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Directory SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dir_test_pkg-0.4.0.tar.gz",
-  "download_time": "2025-10-16T07:37:24.298968",
+  "download_filename": "dir_test_pkg-0.4.1.tar.gz",
+  "download_time": "2025-10-16T11:28:30.340537",
   "package_url": "https://pypi.org/project/dir-test-pkg/"
 }

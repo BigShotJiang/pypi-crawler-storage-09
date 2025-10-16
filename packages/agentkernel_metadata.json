@@ -1,11 +1,11 @@
 {
   "name": "agentkernel",
-  "version": "0.1.2b15",
+  "version": "0.1.2b16",
   "summary": "Agent Kernel Python Distribution",
   "author": "Yaala Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentkernel-0.1.2b15.tar.gz",
-  "download_time": "2025-10-16T11:15:08.313518",
+  "download_filename": "agentkernel-0.1.2b16.tar.gz",
+  "download_time": "2025-10-16T11:28:51.453535",
   "package_url": "https://pypi.org/project/agentkernel/"
 }
