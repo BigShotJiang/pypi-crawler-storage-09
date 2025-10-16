@@ -1,0 +1,11 @@
+{
+  "name": "insdc-benchmarking-schema",
+  "version": "1.2.0",
+  "summary": "JSON schema and validation for INSDC benchmarking results",
+  "author": "Australian BioCommons",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/AustralianBioCommons/insdc-benchmarking-schema",
+  "download_filename": "insdc_benchmarking_schema-1.2.0.tar.gz",
+  "download_time": "2025-10-16T11:39:09.464106",
+  "package_url": "https://pypi.org/project/insdc-benchmarking-schema/"
+}

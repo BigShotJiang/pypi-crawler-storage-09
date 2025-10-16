@@ -1,0 +1,11 @@
+{
+  "name": "openapi-client-python",
+  "version": "0.1.1",
+  "summary": "A powerful tool that generates strongly-typed Python clients from OpenAPI 3.0 and Swagger 2.0 specifications",
+  "author": "autoocto",
+  "license": "MIT",
+  "home_page": "https://github.com/autoocto/openapi-client-python",
+  "download_filename": "openapi_client_python-0.1.1.tar.gz",
+  "download_time": "2025-10-16T11:39:12.731117",
+  "package_url": "https://pypi.org/project/openapi-client-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "superbio",
+  "version": "0.1.5",
+  "summary": "Python client for the Superbio API",
+  "author": "Superbio",
+  "license": null,
+  "home_page": "https://github.com/Superbio-ai/superbioAPI",
+  "download_filename": "superbio-0.1.5.tar.gz",
+  "download_time": "2025-10-16T11:39:11.645571",
+  "package_url": "https://pypi.org/project/superbio/"
+}

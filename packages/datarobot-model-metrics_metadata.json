@@ -1,0 +1,11 @@
+{
+  "name": "datarobot-model-metrics",
+  "version": "0.6.14",
+  "summary": "datarobot-model-metrics provides a framework to compute model ML metrics over time and produce aggregated metrics.",
+  "author": "DataRobot",
+  "license": "DataRobot",
+  "home_page": "https://github.com/datarobot/datarobot-model-metrics",
+  "download_filename": "datarobot_model_metrics-0.6.14-py3-none-any.whl",
+  "download_time": "2025-10-16T11:39:13.803394",
+  "package_url": "https://pypi.org/project/datarobot-model-metrics/"
+}

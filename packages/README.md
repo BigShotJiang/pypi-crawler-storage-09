@@ -1,23 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T11:29:09.017233
-- **Total Packages**: 88
-- **Total Size**: 21.16 MB
+- **Download Time**: 2025-10-16T11:39:54.120597
+- **Total Packages**: 90
+- **Total Size**: 8.52 MB
 
 ## Packages List
-- platzky
+- IduStorage
+- paystation-python-sdk
+- editscore
+- diffhouse
+- agentle
+- lite-bootstrap
+- buildgrid
+- insdc-benchmarking-schema
+- making-with-code-cli
+- vaulttool
+- byteplus-sdk
+- superbio
+- pyguiadapterlite
+- openapi-client-python
+- airobo
+- datarobot-model-metrics
+- krn-harmony-adapter
+- hcaptcha-challenger
+- daniil-baruah
+- volcengine
+- django-scaleway-email
+- ssb-gcp-identity-client
+- numcodecs-wasm-round
+- xmind-to-markdown-mcp
+- ai4ce-helpers
+- aixtools
 - gushwork-rag
+- workflows-mcp
+- easy-model-deployer
+- AOT-biomaps
+- mex-common
+- clipboard-mcp
+- llm-token-tracker
+- lx-anonymizer
+- torchx-nightly
+- odoo-addon-printer-zpl2
+- scimba
+- computemate
+- devopness
+- loppers
+- dalia-dif
+- yoyogram
+- grepxl
+- agentmake
+- numcodecs-wasm
+- poet-api
+- splurge-sql-runner
+- platzky
+- timesat
 - wyrmx-cli
 - osdu-perf
 - liquiphy-gui
 - torchft-nightly
 - treescript-builder
-- krn-harmony-adapter
 - hhru
 - mcli-framework
 - hext
-- ssb-gcp-identity-client
 - wiselib
 - lamindb_setup
 - raphson-music-headless
@@ -51,46 +96,3 @@
 - nucliadb-dataset
 - vistools
 - nucliadb
-- nidx-protos
-- qapytest
-- fmu-settings
-- htmx-components
-- computemate
-- langflow-nightly
-- ibm-agent-analytics
-- ibm-agent-analytics-common
-- lfx-nightly
-- kagura-ai
-- compas-timber
-- agentkernel
-- nilauth-credit-middleware
-- sparrow-parse
-- dpn_pyutils
-- flake8-carrot
-- contactsoftware-functions
-- tb-nightly
-- ida-hcli
-- fastapi-mail
-- pycc.id
-- aheadworks-deploy-manager
-- odoo-addon-document-knowledge
-- aas-http-client
-- ace-framework
-- neptune-scale
-- cloud-pak-operations-cli
-- paddlex
-- agentle
-- user-details-cache
-- wyrmx-core
-- qcanvas
-- beyondmimic
-- rag-opt
-- buz
-- privacify
-- AOT-biomaps
-- foxypack-x-twikit
-- djangofp
-- odoo-addon-l10n-es-verifactu-oca
-- edge-containers-cli
-- agentic-kit-common
-- lr-gladiator

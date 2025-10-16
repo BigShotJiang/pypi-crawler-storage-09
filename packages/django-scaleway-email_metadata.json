@@ -1,0 +1,11 @@
+{
+  "name": "django-scaleway-email",
+  "version": "0.1.1",
+  "summary": "Django email backend for Scaleway Transactional Email service",
+  "author": "Julian Wachholz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_scaleway_email-0.1.1.tar.gz",
+  "download_time": "2025-10-16T11:39:16.509072",
+  "package_url": "https://pypi.org/project/django-scaleway-email/"
+}
