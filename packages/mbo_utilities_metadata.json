@@ -1,0 +1,11 @@
+{
+  "name": "mbo_utilities",
+  "version": "2.0.3",
+  "summary": "Various utilities for the Miller Brain Observatory",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mbo_utilities-2.0.3.tar.gz",
+  "download_time": "2025-10-16T21:37:15.063803",
+  "package_url": "https://pypi.org/project/mbo_utilities/"
+}

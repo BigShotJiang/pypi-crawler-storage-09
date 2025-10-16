@@ -1,18 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T21:27:22.192225
-- **Total Packages**: 85
-- **Total Size**: 22.56 MB
+- **Download Time**: 2025-10-16T21:37:48.047028
+- **Total Packages**: 86
+- **Total Size**: 20.23 MB
 
 ## Packages List
+- graph-games-proto
+- espy-contact
+- kilojoule
+- iatoolkit
+- cursus
+- somerandomapi.py
+- qbi-radon
+- segmentation-skeleton-metrics
+- cybrid-api-bank-python
+- pystorz
+- geoarrow-rust-io
+- modal
+- bitwarden-rest-client
+- sleipnirgroup-jormungandr
+- lunascope
+- cybrid-api-id-python
+- cybrid-api-organization-python
+- davidkhala.amap
+- snapctl
+- davidkhala.baidu.map
+- face-embeddings-lib
+- robo_appian
+- sommify
+- bandu
+- mbo_utilities
+- online-deterministic-annealing
 - template-string-logger
 - icakad
 - computemate
 - tstrends
 - jax-tpu-embedding
 - zoo-mcp
-- snapctl
 - batplot
 - chutes
 - colibri-stateless
@@ -20,7 +45,6 @@
 - rubin-scheduler
 - mbari-aidata
 - rcsb-embedding-model
-- graph-games-proto
 - epitran
 - llme-cli
 - mlschema
@@ -68,26 +92,3 @@
 - toml-rs
 - pycarlo
 - speedbuild
-- tibanna
-- t-nextgen
-- dpplgngr
-- dv-pipecat-ai
-- deepagents
-- topolib
-- vellum-ai
-- hilt-python
-- horcrux
-- davidkhala.ai
-- luxforge-foundry
-- pandas-ylt
-- truss
-- panelsplit
-- fastbi
-- cogames
-- pstats-extender
-- regopy
-- AOT-biomaps
-- muse2wfdb
-- fastapi-guard
-- l2ss-py
-- vortex-python-sdk
