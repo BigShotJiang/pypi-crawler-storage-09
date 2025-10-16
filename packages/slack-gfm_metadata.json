@@ -1,0 +1,11 @@
+{
+  "name": "slack-gfm",
+  "version": "0.2.1",
+  "summary": "Convert between Slack message formats (Mrkdwn, Rich Text) and GitHub Flavored Markdown with AST manipulation",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "slack_gfm-0.2.1.tar.gz",
+  "download_time": "2025-10-16T09:41:36.333481",
+  "package_url": "https://pypi.org/project/slack-gfm/"
+}

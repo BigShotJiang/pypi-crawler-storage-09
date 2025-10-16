@@ -1,0 +1,11 @@
+{
+  "name": "google-analytic-process",
+  "version": "0.2.0",
+  "summary": "A simplified Python client for making raw Google Analytics 4 API calls",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/Google-Analytic-Process",
+  "download_filename": "google_analytic_process-0.2.0.tar.gz",
+  "download_time": "2025-10-16T09:41:43.970917",
+  "package_url": "https://pypi.org/project/google-analytic-process/"
+}

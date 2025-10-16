@@ -1,0 +1,11 @@
+{
+  "name": "optrabot",
+  "version": "0.17.2",
+  "summary": "QuantX OptraBot is a Options Trading Bot for automatically trading options strategies with an Interactive Brokers account.",
+  "author": "QuantX GmbH",
+  "license": "MIT",
+  "home_page": "http://www.optrabot.com",
+  "download_filename": "optrabot-0.17.2.tar.gz",
+  "download_time": "2025-10-16T09:41:42.790973",
+  "package_url": "https://pypi.org/project/optrabot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "defity",
+  "version": "0.6.0",
+  "summary": "Speedy library to detect file type from initial part of file content",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/hongquan/Defity",
+  "download_filename": "defity-0.6.0.tar.gz",
+  "download_time": "2025-10-16T09:41:38.067529",
+  "package_url": "https://pypi.org/project/defity/"
+}

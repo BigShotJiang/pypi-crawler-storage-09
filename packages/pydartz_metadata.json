@@ -1,0 +1,11 @@
+{
+  "name": "pydartz",
+  "version": "2.5.0",
+  "summary": "command line assistant and library for playing darts",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "pydartz-2.5.0.tar.gz",
+  "download_time": "2025-10-16T09:42:01.412752",
+  "package_url": "https://pypi.org/project/pydartz/"
+}
