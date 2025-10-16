@@ -1,11 +1,11 @@
 {
   "name": "webtap-tool",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Terminal-based web page inspector for AI debugging sessions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webtap_tool-0.8.0.tar.gz",
-  "download_time": "2025-10-16T19:49:19.898561",
+  "download_filename": "webtap_tool-0.8.1.tar.gz",
+  "download_time": "2025-10-16T20:49:47.769833",
   "package_url": "https://pypi.org/project/webtap-tool/"
 }

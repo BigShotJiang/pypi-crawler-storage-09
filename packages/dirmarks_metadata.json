@@ -1,0 +1,11 @@
+{
+  "name": "dirmarks",
+  "version": "0.1.9",
+  "summary": "Bookmarks for the filesystem",
+  "author": "Meir Michanie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dirmarks-0.1.9.tar.gz",
+  "download_time": "2025-10-16T20:49:53.399956",
+  "package_url": "https://pypi.org/project/dirmarks/"
+}

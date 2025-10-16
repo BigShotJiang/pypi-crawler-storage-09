@@ -1,0 +1,11 @@
+{
+  "name": "random-32-key-base64",
+  "version": "0.1.0",
+  "summary": "Generate a 32-byte random key using random.org and encode it in base64",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "random_32_key_base64-0.1.0.tar.gz",
+  "download_time": "2025-10-16T20:49:48.845241",
+  "package_url": "https://pypi.org/project/random-32-key-base64/"
+}

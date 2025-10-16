@@ -1,11 +1,11 @@
 {
   "name": "reach_commons",
-  "version": "0.18.3",
+  "version": "0.18.4",
   "summary": "Reach Commons is a versatile utility library designed to streamline and enhance development workflows within the Reach ecosystem.",
   "author": "Wilson Moraes",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reach_commons-0.18.3.tar.gz",
-  "download_time": "2025-10-16T20:40:32.570709",
+  "download_filename": "reach_commons-0.18.4.tar.gz",
+  "download_time": "2025-10-16T20:49:51.674197",
   "package_url": "https://pypi.org/project/reach_commons/"
 }

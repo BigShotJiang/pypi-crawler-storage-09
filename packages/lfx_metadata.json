@@ -1,0 +1,11 @@
+{
+  "name": "lfx",
+  "version": "0.1.13",
+  "summary": "Langflow Executor - A lightweight CLI tool for executing and serving Langflow AI flows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lfx-0.1.13.tar.gz",
+  "download_time": "2025-10-16T20:49:54.014515",
+  "package_url": "https://pypi.org/project/lfx/"
+}

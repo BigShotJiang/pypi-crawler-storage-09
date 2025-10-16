@@ -1,0 +1,11 @@
+{
+  "name": "dagster-snowflake-pyspark",
+  "version": "0.27.15",
+  "summary": "Package for integrating Snowflake and PySpark with Dagster.",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-snowflake-pyspark",
+  "download_filename": "dagster_snowflake_pyspark-0.27.15.tar.gz",
+  "download_time": "2025-10-16T20:50:07.582771",
+  "package_url": "https://pypi.org/project/dagster-snowflake-pyspark/"
+}
