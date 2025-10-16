@@ -1,11 +1,11 @@
 {
   "name": "beyondmimic",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A library for beyondmimic tasks unitree g1 robots",
   "author": "FlynnRobotics",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "beyondmimic-0.2.2-py3-none-manylinux2014_aarch64.whl",
-  "download_time": "2025-10-16T10:17:42.340660",
+  "download_filename": "beyondmimic-0.2.3-py3-none-manylinux2014_aarch64.whl",
+  "download_time": "2025-10-16T10:43:35.394377",
   "package_url": "https://pypi.org/project/beyondmimic/"
 }

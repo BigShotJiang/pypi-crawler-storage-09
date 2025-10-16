@@ -1,0 +1,11 @@
+{
+  "name": "htmx-components",
+  "version": "0.1.7",
+  "summary": "Pre-defined components for htmx and Django.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "htmx_components-0.1.7.tar.gz",
+  "download_time": "2025-10-16T10:43:22.445275",
+  "package_url": "https://pypi.org/project/htmx-components/"
+}

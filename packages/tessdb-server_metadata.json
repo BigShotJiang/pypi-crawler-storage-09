@@ -1,0 +1,11 @@
+{
+  "name": "tessdb-server",
+  "version": "5.0.1",
+  "summary": "A package to collect measurements published by TESS instruments into a SQlite database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tessdb_server-5.0.1.tar.gz",
+  "download_time": "2025-10-16T10:43:19.211486",
+  "package_url": "https://pypi.org/project/tessdb-server/"
+}

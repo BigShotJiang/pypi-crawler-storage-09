@@ -1,0 +1,11 @@
+{
+  "name": "llm-provider-factory",
+  "version": "0.5.8",
+  "summary": "A unified interface for multiple LLM providers with image generation support (OpenAI, Anthropic, Gemini, VertexAI, Ollama + DALL-E, Replicate)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_provider_factory-0.5.8.tar.gz",
+  "download_time": "2025-10-16T10:43:10.364080",
+  "package_url": "https://pypi.org/project/llm-provider-factory/"
+}

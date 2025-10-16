@@ -1,11 +1,11 @@
 {
   "name": "superauth",
-  "version": "0.0.1",
+  "version": "0.0.1.post1",
   "summary": "APIs and MCP Server for Enterprise Apps like Google, Notion, Hubspot...",
-  "author": "Aniket Maurya",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "superauth-0.0.1.tar.gz",
-  "download_time": "2025-10-16T09:50:24.306086",
+  "download_filename": "superauth-0.0.1.post1.tar.gz",
+  "download_time": "2025-10-16T10:43:39.062735",
   "package_url": "https://pypi.org/project/superauth/"
 }

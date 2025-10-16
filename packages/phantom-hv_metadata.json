@@ -1,0 +1,11 @@
+{
+  "name": "phantom-hv",
+  "version": "0.1.8",
+  "summary": "Control and monitoring utilities for the Phantom HV supply developed for SWGO at MPIK.",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "phantom_hv-0.1.8.tar.gz",
+  "download_time": "2025-10-16T10:43:36.969130",
+  "package_url": "https://pypi.org/project/phantom-hv/"
+}

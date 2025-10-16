@@ -1,11 +1,11 @@
 {
   "name": "micro-rag-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Minimal local RAG MCP server for document folders",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "micro_rag_mcp-0.1.0.tar.gz",
-  "download_time": "2025-10-16T10:17:47.706191",
+  "download_filename": "micro_rag_mcp-0.1.1.tar.gz",
+  "download_time": "2025-10-16T10:43:11.406773",
   "package_url": "https://pypi.org/project/micro-rag-mcp/"
 }

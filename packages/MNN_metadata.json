@@ -1,0 +1,11 @@
+{
+  "name": "MNN",
+  "version": "3.2.4",
+  "summary": "C methods for MNN Package",
+  "author": "alibaba MNN Team",
+  "license": "BSD-3",
+  "home_page": "https://www.yuque.com/mnn/en/usage_in_python",
+  "download_filename": "mnn-3.2.4-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-16T10:43:12.973802",
+  "package_url": "https://pypi.org/project/MNN/"
+}

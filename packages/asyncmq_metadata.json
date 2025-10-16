@@ -1,0 +1,11 @@
+{
+  "name": "asyncmq",
+  "version": "0.4.4",
+  "summary": "Async task queue with BullMQ-like features",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asyncmq-0.4.4.tar.gz",
+  "download_time": "2025-10-16T10:43:08.687205",
+  "package_url": "https://pypi.org/project/asyncmq/"
+}

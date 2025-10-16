@@ -1,0 +1,11 @@
+{
+  "name": "h5py",
+  "version": "3.15.1",
+  "summary": "Read and write HDF5 files from Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "h5py-3.15.1.tar.gz",
+  "download_time": "2025-10-16T10:43:24.506299",
+  "package_url": "https://pypi.org/project/h5py/"
+}
