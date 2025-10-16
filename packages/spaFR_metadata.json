@@ -1,0 +1,11 @@
+{
+  "name": "spaFR",
+  "version": "0.0.3",
+  "summary": "Deciphering cellular resolution functional redundancy from transcriptomic data",
+  "author": "Jingwan WANG",
+  "license": "MIT",
+  "home_page": "https://github.com/wangjingwan/SpaFR/tree/master#",
+  "download_filename": "spafr-0.0.3.tar.gz",
+  "download_time": "2025-10-16T07:37:52.610768",
+  "package_url": "https://pypi.org/project/spaFR/"
+}

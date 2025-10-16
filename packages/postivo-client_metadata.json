@@ -1,0 +1,11 @@
+{
+  "name": "postivo-client",
+  "version": "0.0.5",
+  "summary": "POSTIVO.PL Hybrid Mail Services REST API Client SDK",
+  "author": "POSTIVO.PL",
+  "license": null,
+  "home_page": null,
+  "download_filename": "postivo_client-0.0.5.tar.gz",
+  "download_time": "2025-10-16T07:37:54.707764",
+  "package_url": "https://pypi.org/project/postivo-client/"
+}

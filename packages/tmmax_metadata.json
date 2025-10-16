@@ -1,0 +1,11 @@
+{
+  "name": "tmmax",
+  "version": "1.1.4",
+  "summary": "TMMax: High-performance modeling of multilayer thin-film structures using transfer matrix method with JAX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tmmax-1.1.4.tar.gz",
+  "download_time": "2025-10-16T07:37:47.434900",
+  "package_url": "https://pypi.org/project/tmmax/"
+}

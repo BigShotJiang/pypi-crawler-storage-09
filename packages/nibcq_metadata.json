@@ -1,0 +1,11 @@
+{
+  "name": "nibcq",
+  "version": "1.2.0",
+  "summary": "NI Battery Cell Quality library",
+  "author": "Mate Vagner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nibcq-1.2.0.tar.gz",
+  "download_time": "2025-10-16T07:37:28.026246",
+  "package_url": "https://pypi.org/project/nibcq/"
+}

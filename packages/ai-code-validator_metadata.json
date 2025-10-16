@@ -1,0 +1,11 @@
+{
+  "name": "ai-code-validator",
+  "version": "0.1.0",
+  "summary": "Catch AI-generated code mistakes before they cause problems",
+  "author": "AI Code Validator Contributors",
+  "license": null,
+  "home_page": "https://github.com/yourusername/ai-code-validator",
+  "download_filename": "ai_code_validator-0.1.0.tar.gz",
+  "download_time": "2025-10-16T07:37:51.589575",
+  "package_url": "https://pypi.org/project/ai-code-validator/"
+}

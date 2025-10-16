@@ -1,11 +1,11 @@
 {
   "name": "my-platform-sdk-package",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A simple my_platform_sdk_package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "my_platform_sdk_package-0.1.5.tar.gz",
-  "download_time": "2025-10-16T07:19:14.302493",
+  "download_filename": "my_platform_sdk_package-0.1.6.tar.gz",
+  "download_time": "2025-10-16T07:38:03.339238",
   "package_url": "https://pypi.org/project/my-platform-sdk-package/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-wiproai",
+  "version": "0.1.0",
+  "summary": "Wipro AI integration for LangChain",
+  "author": "Wipro AI Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Wipro-AI/langchain-wiproai",
+  "download_filename": "langchain_wiproai-0.1.0.tar.gz",
+  "download_time": "2025-10-16T07:37:45.815262",
+  "package_url": "https://pypi.org/project/langchain-wiproai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pymonoprice",
+  "version": "0.5",
+  "summary": "Python API for talking to Monoprice 6-zone amplifier",
+  "author": "Egor Tsinko",
+  "license": "MIT",
+  "home_page": "https://github.com/etsinko/pymonoprice",
+  "download_filename": "pymonoprice-0.5.tar.gz",
+  "download_time": "2025-10-16T07:37:53.122691",
+  "package_url": "https://pypi.org/project/pymonoprice/"
+}

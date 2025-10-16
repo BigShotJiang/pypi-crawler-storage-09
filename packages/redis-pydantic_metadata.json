@@ -1,11 +1,11 @@
 {
   "name": "redis-pydantic",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Pydantic models with Redis as the backend",
   "author": "YedidyaHKfir",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "redis_pydantic-1.2.0.tar.gz",
-  "download_time": "2025-10-16T07:19:54.690195",
+  "download_filename": "redis_pydantic-1.2.1.tar.gz",
+  "download_time": "2025-10-16T07:37:24.829219",
   "package_url": "https://pypi.org/project/redis-pydantic/"
 }
