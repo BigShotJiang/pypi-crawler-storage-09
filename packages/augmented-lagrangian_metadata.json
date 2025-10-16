@@ -1,0 +1,11 @@
+{
+  "name": "augmented-lagrangian",
+  "version": "0.1.1",
+  "summary": "A Python implementation of the Augmented Lagrangian method for constrained optimization",
+  "author": "Hongwei Jin",
+  "license": "MIT",
+  "home_page": "https://github.com/cshjin/augmented-lagrangian",
+  "download_filename": "augmented_lagrangian-0.1.1.tar.gz",
+  "download_time": "2025-10-16T22:40:15.070579",
+  "package_url": "https://pypi.org/project/augmented-lagrangian/"
+}

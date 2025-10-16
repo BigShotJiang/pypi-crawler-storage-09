@@ -1,0 +1,11 @@
+{
+  "name": "llm-bedrock-anthropic",
+  "version": "0.4.7",
+  "summary": "LLM plugin for Anthropic's Claude on AWS Bedrock",
+  "author": "Sean Blakey, Will Sorenson",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "llm_bedrock_anthropic-0.4.7.tar.gz",
+  "download_time": "2025-10-16T22:40:02.941207",
+  "package_url": "https://pypi.org/project/llm-bedrock-anthropic/"
+}

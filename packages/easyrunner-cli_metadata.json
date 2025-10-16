@@ -1,11 +1,11 @@
 {
   "name": "easyrunner-cli",
-  "version": "0.0.8.dev107",
+  "version": "0.0.8.dev108",
   "summary": "EasyRunner CLI.",
   "author": "Janaka Abeywardhana",
   "license": null,
   "home_page": null,
-  "download_filename": "easyrunner_cli-0.0.8.dev107.tar.gz",
-  "download_time": "2025-10-16T22:29:22.996079",
+  "download_filename": "easyrunner_cli-0.0.8.dev108.tar.gz",
+  "download_time": "2025-10-16T22:40:10.921369",
   "package_url": "https://pypi.org/project/easyrunner-cli/"
 }

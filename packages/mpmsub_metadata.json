@@ -1,0 +1,11 @@
+{
+  "name": "mpmsub",
+  "version": "2025.10.16",
+  "summary": "Memory-aware multiprocessing subprocess execution library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mpmsub-2025.10.16.tar.gz",
+  "download_time": "2025-10-16T22:40:08.829540",
+  "package_url": "https://pypi.org/project/mpmsub/"
+}
