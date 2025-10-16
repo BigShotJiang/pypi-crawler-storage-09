@@ -1,11 +1,11 @@
 {
   "name": "supercore",
-  "version": "1.8",
+  "version": "1.9",
   "summary": "Simple CLI to create supervisor processes easily",
   "author": "@NacDevs",
   "license": null,
   "home_page": "https://github.com/yuvrajmodz/SuperCore",
-  "download_filename": "supercore-1.8.tar.gz",
-  "download_time": "2025-10-16T15:17:18.628551",
+  "download_filename": "supercore-1.9.tar.gz",
+  "download_time": "2025-10-16T15:51:11.498817",
   "package_url": "https://pypi.org/project/supercore/"
 }

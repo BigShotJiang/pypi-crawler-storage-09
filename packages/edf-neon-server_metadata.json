@@ -1,0 +1,11 @@
+{
+  "name": "edf-neon-server",
+  "version": "1.1.0",
+  "summary": "EDF Neon Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edf_neon_server-1.1.0-py3-none-any.whl",
+  "download_time": "2025-10-16T15:51:13.581372",
+  "package_url": "https://pypi.org/project/edf-neon-server/"
+}

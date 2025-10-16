@@ -1,0 +1,11 @@
+{
+  "name": "MergeSourceFile",
+  "version": "1.0.0",
+  "summary": "A Python tool to process SQL*Plus scripts, resolving file inclusions (@, @@) and variable substitutions (DEFINE/UNDEFINE)",
+  "author": "Alejandro G.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mergesourcefile-1.0.0.tar.gz",
+  "download_time": "2025-10-16T15:50:43.180220",
+  "package_url": "https://pypi.org/project/MergeSourceFile/"
+}

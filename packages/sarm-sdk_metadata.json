@@ -1,0 +1,11 @@
+{
+  "name": "sarm-sdk",
+  "version": "1.0.37",
+  "summary": "Python SDK for SARM(Security Asset Risk Management) Platform",
+  "author": "Murphysec Team",
+  "license": "MIT",
+  "home_page": "https://github.com/murphysec",
+  "download_filename": "sarm_sdk-1.0.37.tar.gz",
+  "download_time": "2025-10-16T15:51:04.356361",
+  "package_url": "https://pypi.org/project/sarm-sdk/"
+}

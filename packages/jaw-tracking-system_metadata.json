@@ -1,0 +1,11 @@
+{
+  "name": "jaw-tracking-system",
+  "version": "1.0.4",
+  "summary": "Modular and flexible jaw motion analysis framework (motion capture, calibration, registration, and analysis)",
+  "author": "Paul-Otto Müller",
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": "https://github.com/paulotto/jaw_tracking_system",
+  "download_filename": "jaw_tracking_system-1.0.4.tar.gz",
+  "download_time": "2025-10-16T15:50:39.384736",
+  "package_url": "https://pypi.org/project/jaw-tracking-system/"
+}
