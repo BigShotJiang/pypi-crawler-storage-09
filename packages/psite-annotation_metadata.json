@@ -1,11 +1,11 @@
 {
   "name": "psite-annotation",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "Module for annotating p-sites based on resources such as PhosphoSitePlus",
   "author": "Matthew The",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "psite_annotation-0.7.0-py3-none-any.whl",
-  "download_time": "2025-10-16T07:37:39.972397",
+  "download_filename": "psite_annotation-0.7.2-py3-none-any.whl",
+  "download_time": "2025-10-16T08:22:25.026283",
   "package_url": "https://pypi.org/project/psite-annotation/"
 }

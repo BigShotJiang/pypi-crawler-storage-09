@@ -1,0 +1,11 @@
+{
+  "name": "uge-drmaa2",
+  "version": "8.11.0",
+  "summary": "UGE DRMAA2 Python API",
+  "author": "Altair Engineering Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://www.altair.com",
+  "download_filename": "uge-drmaa2-8.11.0.tar.gz",
+  "download_time": "2025-10-16T08:22:10.072906",
+  "package_url": "https://pypi.org/project/uge-drmaa2/"
+}

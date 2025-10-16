@@ -1,0 +1,11 @@
+{
+  "name": "hestia-earth-distribution",
+  "version": "0.3.0",
+  "summary": "Hestia's Distribution library",
+  "author": "Hestia Team",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/hestia-earth/hestia-distribution",
+  "download_filename": "hestia_earth_distribution-0.3.0.tar.gz",
+  "download_time": "2025-10-16T08:22:16.289683",
+  "package_url": "https://pypi.org/project/hestia-earth-distribution/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cci-os-worker",
+  "version": "0.8.1",
+  "summary": "Worker repo to execute the steps for CCI Opensearch Ingestion, namely facet and tag scanning and updates to the CEDA FBI",
+  "author": "Daniel Westwood",
+  "license": "BSD 3 - See License file",
+  "home_page": null,
+  "download_filename": "cci_os_worker-0.8.1.tar.gz",
+  "download_time": "2025-10-16T08:22:11.609784",
+  "package_url": "https://pypi.org/project/cci-os-worker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "uge-pycl",
+  "version": "8.11.0",
+  "summary": "UGE Python Configuration Library",
+  "author": "Altair Engineering Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://www.altair.com",
+  "download_filename": "uge-pycl-8.11.0.tar.gz",
+  "download_time": "2025-10-16T08:22:12.119504",
+  "package_url": "https://pypi.org/project/uge-pycl/"
+}

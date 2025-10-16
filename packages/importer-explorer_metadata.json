@@ -1,0 +1,11 @@
+{
+  "name": "importer-explorer",
+  "version": "1.0.0",
+  "summary": "Advanced Python module analysis and management toolkit",
+  "author": "Moamen Waleed",
+  "license": "MIT",
+  "home_page": "https://github.com/mikl37228-spec/importer",
+  "download_filename": "importer_explorer-1.0.0.tar.gz",
+  "download_time": "2025-10-16T08:22:28.611478",
+  "package_url": "https://pypi.org/project/importer-explorer/"
+}

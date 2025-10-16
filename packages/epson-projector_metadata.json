@@ -1,0 +1,11 @@
+{
+  "name": "epson-projector",
+  "version": "0.6.0",
+  "summary": "Epson projector support for Python",
+  "author": "Paweł Szafer",
+  "license": "MIT",
+  "home_page": "https://github.com/pszafer/epson_projector",
+  "download_filename": "epson_projector-0.6.0.tar.gz",
+  "download_time": "2025-10-16T08:21:59.097633",
+  "package_url": "https://pypi.org/project/epson-projector/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "terra-classic-data-analysis-sdk",
+  "version": "0.2.3",
+  "summary": "The Python SDK for Terra Classic Data Analysis",
+  "author": "Binodes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "terra_classic_data_analysis_sdk-0.2.3.tar.gz",
+  "download_time": "2025-10-16T08:21:52.370654",
+  "package_url": "https://pypi.org/project/terra-classic-data-analysis-sdk/"
+}

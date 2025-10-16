@@ -1,0 +1,11 @@
+{
+  "name": "django-reversion-rest-framework",
+  "version": "3.0.0",
+  "summary": "A package for adding a django-reversion history endpoint to django-rest-framework ModelViewSet",
+  "author": "Denny Biasiolli",
+  "license": null,
+  "home_page": "https://github.com/dennybiasiolli/django-reversion-rest-framework",
+  "download_filename": "django_reversion_rest_framework-3.0.0.tar.gz",
+  "download_time": "2025-10-16T08:22:13.141853",
+  "package_url": "https://pypi.org/project/django-reversion-rest-framework/"
+}

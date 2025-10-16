@@ -1,0 +1,11 @@
+{
+  "name": "rosbags-dataframe",
+  "version": "0.10.1",
+  "summary": "Python library to convert ros message streams to pandas dataframes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rosbags_dataframe-0.10.1.tar.gz",
+  "download_time": "2025-10-16T08:21:55.954771",
+  "package_url": "https://pypi.org/project/rosbags-dataframe/"
+}
