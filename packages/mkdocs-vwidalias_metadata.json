@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-vwidalias",
+  "version": "0.1.4",
+  "summary": "MkDocs plugin to create /<ID>/ redirects from front-matter IDs",
+  "author": "Gobidesert",
+  "license": "MIT",
+  "home_page": "https://github.com/yourname/mkdocs-vwidalias",
+  "download_filename": "mkdocs-vwidalias-0.1.4.tar.gz",
+  "download_time": "2025-10-16T11:49:25.686177",
+  "package_url": "https://pypi.org/project/mkdocs-vwidalias/"
+}

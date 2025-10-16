@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T11:39:54.120597
-- **Total Packages**: 90
-- **Total Size**: 8.52 MB
+- **Download Time**: 2025-10-16T11:50:03.421928
+- **Total Packages**: 82
+- **Total Size**: 10.29 MB
 
 ## Packages List
+- mcpcn-office-powerpoint-mcp-server
+- fastcodedog
+- starrocks
+- dami_h-test-uv
+- colindex2
+- airobo
+- cribl-control-plane
+- computemate
+- agentmake
+- fastmobo
+- glue-astronomy
+- mkdocs-vwidalias
+- packg
+- sfn_blueprint
+- fastapi-weblauncher
+- tmsgpack
+- annet
+- tkinterweb
+- git-clone-group
+- lamindb
+- django-ai-support
+- privacify
+- gametools-global-mapping
+- gamslib
+- earthkit-workflows-anemoi
+- odoo-addon-l10n-es-facturae-special-payment
+- wazzup-pysdk
+- legit-api-client
+- mediaichemy
+- fb-library
+- abm
+- aioresonate
+- splade-index
+- volcengine-python-sdk
+- pyshareit
+- PyTorchLabFlow
+- krn-harmony-adapter
 - IduStorage
 - paystation-python-sdk
 - editscore
@@ -20,9 +57,7 @@
 - superbio
 - pyguiadapterlite
 - openapi-client-python
-- airobo
 - datarobot-model-metrics
-- krn-harmony-adapter
 - hcaptcha-challenger
 - daniil-baruah
 - volcengine
@@ -43,56 +78,13 @@
 - torchx-nightly
 - odoo-addon-printer-zpl2
 - scimba
-- computemate
 - devopness
 - loppers
 - dalia-dif
 - yoyogram
 - grepxl
-- agentmake
 - numcodecs-wasm
 - poet-api
 - splurge-sql-runner
 - platzky
 - timesat
-- wyrmx-cli
-- osdu-perf
-- liquiphy-gui
-- torchft-nightly
-- treescript-builder
-- hhru
-- mcli-framework
-- hext
-- wiselib
-- lamindb_setup
-- raphson-music-headless
-- fastkml
-- simplation
-- canvas
-- dir-test-pkg
-- astro_light_pollution
-- video-format-converter-mcp
-- azureml-metrics
-- azureml-evaluate-mlflow
-- azureml-acft-multimodal-components
-- azureml-acft-image-components
-- azureml-acft-contrib-hf-nlp
-- azureml-acft-contrib-hf-diffusion
-- azureml-acft-common-components
-- azureml-acft-accelerator
-- legit-api-client
-- hgraph
-- games-collection
-- cloudsmith-cli
-- dgm-dayabay-dev
-- qrotor
-- nucliadb-utils
-- tree-sitter-analyzer
-- nucliadb-telemetry
-- nucliadb-sdk
-- nucliadb-protos
-- nucliadb-models
-- selenoprofiles4
-- nucliadb-dataset
-- vistools
-- nucliadb

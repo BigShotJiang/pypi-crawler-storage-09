@@ -1,11 +1,11 @@
 {
   "name": "krn-harmony-adapter",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "summary": "KRN鸿蒙适配自动化工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "krn_harmony_adapter-1.0.23.tar.gz",
-  "download_time": "2025-10-16T11:39:14.345841",
+  "download_filename": "krn_harmony_adapter-1.0.24.tar.gz",
+  "download_time": "2025-10-16T11:49:39.087718",
   "package_url": "https://pypi.org/project/krn-harmony-adapter/"
 }

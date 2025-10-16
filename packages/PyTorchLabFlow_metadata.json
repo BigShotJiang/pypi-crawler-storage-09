@@ -1,11 +1,11 @@
 {
   "name": "PyTorchLabFlow",
-  "version": "0.4.2.4",
+  "version": "0.4.3",
   "summary": "PyTorchLabFlow is a lightweight framework that simplifies PyTorch experiment management, reducing setup time with reusable components for training, logging, and checkpointing. It streamlines workflows, making it ideal for fast and efficient model development.",
   "author": "BBEK-Anand",
   "license": "Apache-2.0",
   "home_page": "https://github.com/BBEK-Anand/PyTorchLabFlow",
-  "download_filename": "pytorchlabflow-0.4.2.4.tar.gz",
-  "download_time": "2025-10-16T10:43:28.179235",
+  "download_filename": "pytorchlabflow-0.4.3.tar.gz",
+  "download_time": "2025-10-16T11:49:38.565592",
   "package_url": "https://pypi.org/project/PyTorchLabFlow/"
 }

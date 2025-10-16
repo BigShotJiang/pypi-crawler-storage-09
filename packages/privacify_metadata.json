@@ -1,11 +1,11 @@
 {
   "name": "privacify",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A package to anonymize sensitive data in text.",
   "author": "Ashour Merza",
   "license": null,
   "home_page": null,
-  "download_filename": "privacify-0.3.1.tar.gz",
-  "download_time": "2025-10-16T11:14:41.239934",
+  "download_filename": "privacify-0.3.2.tar.gz",
+  "download_time": "2025-10-16T11:49:30.834559",
   "package_url": "https://pypi.org/project/privacify/"
 }
