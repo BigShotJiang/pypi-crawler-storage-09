@@ -1,0 +1,11 @@
+{
+  "name": "RacksDB",
+  "version": "0.6.0",
+  "summary": "Modelize your datacenters infrastructures in YAML database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "racksdb-0.6.0.tar.gz",
+  "download_time": "2025-10-16T14:43:56.255805",
+  "package_url": "https://pypi.org/project/RacksDB/"
+}

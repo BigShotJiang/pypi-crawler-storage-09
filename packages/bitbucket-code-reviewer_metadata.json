@@ -1,11 +1,11 @@
 {
   "name": "bitbucket-code-reviewer",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "summary": "Bitbucket Code Reviewer CLI Tool",
   "author": "kilsbo",
   "license": null,
   "home_page": null,
-  "download_filename": "bitbucket_code_reviewer-0.1.22.tar.gz",
-  "download_time": "2025-10-16T13:47:50.077419",
+  "download_filename": "bitbucket_code_reviewer-0.1.23.tar.gz",
+  "download_time": "2025-10-16T14:44:13.543020",
   "package_url": "https://pypi.org/project/bitbucket-code-reviewer/"
 }

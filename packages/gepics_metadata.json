@@ -1,0 +1,11 @@
+{
+  "name": "gepics",
+  "version": "2025.10.2",
+  "summary": "GObject Wrapper for PyEPICS PV",
+  "author": "Michel Fodje",
+  "license": "MIT",
+  "home_page": "https://github.com/michel4j/gepics",
+  "download_filename": "gepics-2025.10.2.tar.gz",
+  "download_time": "2025-10-16T14:43:59.422784",
+  "package_url": "https://pypi.org/project/gepics/"
+}

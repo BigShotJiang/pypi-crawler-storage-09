@@ -1,0 +1,11 @@
+{
+  "name": "tuxlava",
+  "version": "0.10.3",
+  "summary": "Python library and command line tool for generating LAVA jobs",
+  "author": "Senthil Kumaran",
+  "license": null,
+  "home_page": "https://tuxlava.org/",
+  "download_filename": "tuxlava-0.10.3.tar.gz",
+  "download_time": "2025-10-16T14:44:05.159153",
+  "package_url": "https://pypi.org/project/tuxlava/"
+}

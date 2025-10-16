@@ -1,11 +1,11 @@
 {
   "name": "games-collection",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "A comprehensive collection of classic card, paper, dice, logic, and word games with AI opponents and both CLI and GUI interfaces",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "games_collection-1.6.0.tar.gz",
-  "download_time": "2025-10-16T11:28:37.326902",
+  "download_filename": "games_collection-1.6.1.tar.gz",
+  "download_time": "2025-10-16T14:43:41.110441",
   "package_url": "https://pypi.org/project/games-collection/"
 }

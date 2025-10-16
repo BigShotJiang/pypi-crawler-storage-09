@@ -1,0 +1,11 @@
+{
+  "name": "cell-data-loader",
+  "version": "0.0.39",
+  "summary": "Converts general images of cells into formats and labels for deep learning pipelines",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "cell_data_loader-0.0.39-py3-none-any.whl",
+  "download_time": "2025-10-16T14:43:52.571552",
+  "package_url": "https://pypi.org/project/cell-data-loader/"
+}

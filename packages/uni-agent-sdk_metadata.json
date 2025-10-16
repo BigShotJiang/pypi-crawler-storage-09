@@ -1,0 +1,11 @@
+{
+  "name": "uni-agent-sdk",
+  "version": "0.2.3",
+  "summary": "极简的uni-im平台智能体开发框架",
+  "author": "uni-im",
+  "license": "MIT",
+  "home_page": "https://github.com/uni-im/uni-agent-sdk",
+  "download_filename": "uni_agent_sdk-0.2.3.tar.gz",
+  "download_time": "2025-10-16T14:43:47.834836",
+  "package_url": "https://pypi.org/project/uni-agent-sdk/"
+}
