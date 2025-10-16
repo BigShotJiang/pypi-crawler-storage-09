@@ -1,0 +1,11 @@
+{
+  "name": "logqbit",
+  "version": "0.0.1",
+  "summary": "Simple data logger and live plotter for lab-scale experiments.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logqbit-0.0.1.tar.gz",
+  "download_time": "2025-10-16T08:48:18.241666",
+  "package_url": "https://pypi.org/project/logqbit/"
+}

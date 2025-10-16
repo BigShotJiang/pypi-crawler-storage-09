@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-dbapi",
+  "version": "0.59b0",
+  "summary": "OpenTelemetry Database API instrumentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_dbapi-0.59b0.tar.gz",
+  "download_time": "2025-10-16T08:48:45.928416",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-dbapi/"
+}

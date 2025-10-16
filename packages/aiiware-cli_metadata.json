@@ -1,0 +1,11 @@
+{
+  "name": "aiiware-cli",
+  "version": "0.5.2",
+  "summary": "AI-powered terminal assistant: natural language commands for git commits, code generation, translation, content writing, shell automation, and analysis. Supports multiple LLM providers (Claude, GPT, Gemini, and more). Professional MCP server management with updates, testing, and diagnostics!",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aiiware_cli-0.5.2.tar.gz",
+  "download_time": "2025-10-16T08:48:04.018327",
+  "package_url": "https://pypi.org/project/aiiware-cli/"
+}

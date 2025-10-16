@@ -1,0 +1,11 @@
+{
+  "name": "signnow-mcp-server",
+  "version": "0.1.8",
+  "summary": "A Model Context Protocol (MCP) server that provides SignNow API integration capabilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "signnow_mcp_server-0.1.8.tar.gz",
+  "download_time": "2025-10-16T08:48:03.487698",
+  "package_url": "https://pypi.org/project/signnow-mcp-server/"
+}

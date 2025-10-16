@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-util-http",
+  "version": "0.59b0",
+  "summary": "Web util for OpenTelemetry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_util_http-0.59b0.tar.gz",
+  "download_time": "2025-10-16T08:48:24.152982",
+  "package_url": "https://pypi.org/project/opentelemetry-util-http/"
+}

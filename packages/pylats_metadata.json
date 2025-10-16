@@ -1,0 +1,11 @@
+{
+  "name": "pylats",
+  "version": "0.40",
+  "summary": "Text preprocessing for downstream linguistic analyses",
+  "author": "Kristopher Kyle",
+  "license": null,
+  "home_page": "https://github.com/LCR-ADS-Lab/pylats",
+  "download_filename": "pylats-0.40.tar.gz",
+  "download_time": "2025-10-16T08:48:01.315722",
+  "package_url": "https://pypi.org/project/pylats/"
+}

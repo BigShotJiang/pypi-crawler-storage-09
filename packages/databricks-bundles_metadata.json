@@ -1,0 +1,11 @@
+{
+  "name": "databricks-bundles",
+  "version": "0.273.0",
+  "summary": "Python support for Databricks Asset Bundles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "databricks_bundles-0.273.0.tar.gz",
+  "download_time": "2025-10-16T08:48:22.038273",
+  "package_url": "https://pypi.org/project/databricks-bundles/"
+}

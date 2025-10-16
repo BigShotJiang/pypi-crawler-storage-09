@@ -1,0 +1,11 @@
+{
+  "name": "ytb-download",
+  "version": "1.2.0",
+  "summary": "Un téléchargeur YouTube simple et efficace",
+  "author": "Henoc N'GASAMA",
+  "license": null,
+  "home_page": "https://github.com/henocn/youtube-downloader",
+  "download_filename": "ytb_download-1.2.0.tar.gz",
+  "download_time": "2025-10-16T08:47:58.955927",
+  "package_url": "https://pypi.org/project/ytb-download/"
+}
