@@ -1,0 +1,11 @@
+{
+  "name": "pyfcg",
+  "version": "0.3",
+  "summary": "A Python port of Fluid Construction Grammar",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfcg-0.3.tar.gz",
+  "download_time": "2025-10-16T20:18:29.097188",
+  "package_url": "https://pypi.org/project/pyfcg/"
+}

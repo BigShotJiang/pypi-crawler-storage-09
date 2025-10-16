@@ -1,0 +1,11 @@
+{
+  "name": "luxforge-foundry",
+  "version": "1.0.0",
+  "summary": "Audit-grade logging and modular tooling for Foundry systems",
+  "author": "LuxForge",
+  "license": "MIT",
+  "home_page": "https://github.com/LuxForge/LuxForge-Foundry",
+  "download_filename": "luxforge_foundry-1.0.0.tar.gz",
+  "download_time": "2025-10-16T20:18:28.037070",
+  "package_url": "https://pypi.org/project/luxforge-foundry/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FractalNet",
+  "version": "0.1.1",
+  "summary": "FractalNet: фрактална архитектура за обучение и генерация",
+  "author": "AlexKitipov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fractalnet-0.1.1-py3-none-any.whl",
+  "download_time": "2025-10-16T20:18:13.150755",
+  "package_url": "https://pypi.org/project/FractalNet/"
+}

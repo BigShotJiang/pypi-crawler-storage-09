@@ -1,0 +1,11 @@
+{
+  "name": "cvasl-gui",
+  "version": "0.1.9",
+  "summary": "A GUI for the cvasl package",
+  "author": "Peter Kok",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "cvasl_gui-0.1.9.tar.gz",
+  "download_time": "2025-10-16T20:17:53.663084",
+  "package_url": "https://pypi.org/project/cvasl-gui/"
+}

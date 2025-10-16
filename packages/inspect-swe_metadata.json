@@ -1,0 +1,11 @@
+{
+  "name": "inspect-swe",
+  "version": "0.2.22",
+  "summary": "Software engineering agents for Inspect AI.",
+  "author": "Meridian Labs",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "inspect_swe-0.2.22.tar.gz",
+  "download_time": "2025-10-16T20:18:14.267010",
+  "package_url": "https://pypi.org/project/inspect-swe/"
+}

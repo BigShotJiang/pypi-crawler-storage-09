@@ -1,0 +1,11 @@
+{
+  "name": "duckdi",
+  "version": "0.1.12",
+  "summary": "🦆 A minimal dependency injection library for Python",
+  "author": "Phe Pato",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/duckdi/",
+  "download_filename": "duckdi-0.1.12.tar.gz",
+  "download_time": "2025-10-16T20:18:06.736191",
+  "package_url": "https://pypi.org/project/duckdi/"
+}
