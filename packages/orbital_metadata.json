@@ -1,0 +1,11 @@
+{
+  "name": "orbital",
+  "version": "0.3.0",
+  "summary": "Allow SKLearn predictions to run on database systems in pure SQL.",
+  "author": "Posit Software PBC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orbital-0.3.0.tar.gz",
+  "download_time": "2025-10-16T19:49:27.908474",
+  "package_url": "https://pypi.org/project/orbital/"
+}
