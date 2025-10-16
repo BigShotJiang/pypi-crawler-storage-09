@@ -1,0 +1,11 @@
+{
+  "name": "textual-fastdatatable",
+  "version": "0.13.0",
+  "summary": "A performance-focused reimplementation of Textual's DataTable widget, with a pluggable data storage backend.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_fastdatatable-0.13.0.tar.gz",
+  "download_time": "2025-10-16T18:21:57.679555",
+  "package_url": "https://pypi.org/project/textual-fastdatatable/"
+}

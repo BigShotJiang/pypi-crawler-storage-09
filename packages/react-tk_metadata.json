@@ -1,11 +1,11 @@
 {
   "name": "react-tk",
-  "version": "0.4.7",
+  "version": "0.4.10",
   "summary": "Build Tkinter UIs the React way",
   "author": "GregRos",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "react_tk-0.4.7.tar.gz",
-  "download_time": "2025-10-16T17:54:05.247965",
+  "download_filename": "react_tk-0.4.10.tar.gz",
+  "download_time": "2025-10-16T18:22:02.754010",
   "package_url": "https://pypi.org/project/react-tk/"
 }

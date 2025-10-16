@@ -1,0 +1,11 @@
+{
+  "name": "detritalpy",
+  "version": "1.4.6",
+  "summary": "A Python-based toolset for visualizing and analyzing detrital geo-thermochronologic data",
+  "author": "Glenn Sharman",
+  "license": null,
+  "home_page": "https://github.com/grsharman/detritalpy",
+  "download_filename": "detritalPy-1.4.6.tar.gz",
+  "download_time": "2025-10-16T18:22:30.266723",
+  "package_url": "https://pypi.org/project/detritalpy/"
+}

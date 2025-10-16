@@ -1,0 +1,11 @@
+{
+  "name": "gs-batch-pdf",
+  "version": "0.5.6",
+  "summary": "cli tool wrapper for manipulating multiple pdfs file in parallel using ghostscript (compressing, convert to pdfa, etc.)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gs_batch_pdf-0.5.6.tar.gz",
+  "download_time": "2025-10-16T18:22:15.162846",
+  "package_url": "https://pypi.org/project/gs-batch-pdf/"
+}

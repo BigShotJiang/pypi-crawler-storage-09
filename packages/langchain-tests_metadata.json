@@ -1,0 +1,11 @@
+{
+  "name": "langchain-tests",
+  "version": "0.3.22",
+  "summary": "Standard tests for LangChain implementations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_tests-0.3.22.tar.gz",
+  "download_time": "2025-10-16T18:22:12.930423",
+  "package_url": "https://pypi.org/project/langchain-tests/"
+}

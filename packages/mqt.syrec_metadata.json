@@ -1,0 +1,11 @@
+{
+  "name": "mqt.syrec",
+  "version": "2.0.0",
+  "summary": "MQT SyReC Synthesizer: A Tool for HDL-based Synthesis of Reversible Circuits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mqt_syrec-2.0.0-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-10-16T18:21:57.141141",
+  "package_url": "https://pypi.org/project/mqt.syrec/"
+}
