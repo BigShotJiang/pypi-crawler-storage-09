@@ -1,11 +1,11 @@
 {
   "name": "brazilian-holidays",
-  "version": "0.1.21",
+  "version": "0.1.24",
   "summary": "Brazilian Holidays",
-  "author": "Michel Metran",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/michelmetran/brazilian-holidays",
-  "download_filename": "brazilian_holidays-0.1.21.tar.gz",
-  "download_time": "2025-10-16T20:18:23.317009",
+  "home_page": null,
+  "download_filename": "brazilian_holidays-0.1.24.tar.gz",
+  "download_time": "2025-10-16T20:40:08.123386",
   "package_url": "https://pypi.org/project/brazilian-holidays/"
 }

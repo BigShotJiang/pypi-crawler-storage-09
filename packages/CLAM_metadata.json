@@ -1,0 +1,11 @@
+{
+  "name": "CLAM",
+  "version": "3.2.13",
+  "summary": "Turns command-line tools into fully-fledged RESTful webservices with an auto-generated web-interface for human end-users.",
+  "author": "Maarten van Gompel",
+  "license": "GPL-3.0-only",
+  "home_page": "https://proycon.github.io/clam",
+  "download_filename": "clam-3.2.13.tar.gz",
+  "download_time": "2025-10-16T20:40:31.022325",
+  "package_url": "https://pypi.org/project/CLAM/"
+}

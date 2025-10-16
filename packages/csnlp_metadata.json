@@ -1,0 +1,11 @@
+{
+  "name": "csnlp",
+  "version": "1.6.8",
+  "summary": "Nonlinear Progamming with CasADi",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "csnlp-1.6.8.tar.gz",
+  "download_time": "2025-10-16T20:40:43.918091",
+  "package_url": "https://pypi.org/project/csnlp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "picolynx",
+  "version": "0.1.1",
+  "summary": "Auto-attach microcontrollers to WSL.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "picolynx-0.1.1.tar.gz",
+  "download_time": "2025-10-16T20:40:54.107822",
+  "package_url": "https://pypi.org/project/picolynx/"
+}

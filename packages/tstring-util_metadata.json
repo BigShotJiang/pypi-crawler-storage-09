@@ -1,11 +1,11 @@
 {
   "name": "tstring-util",
-  "version": "2.0",
+  "version": "2.1",
   "summary": "Utilities for tstring",
   "author": "Gerard Weatherby",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tstring_util-2.0.tar.gz",
-  "download_time": "2025-10-16T18:22:02.214947",
+  "download_filename": "tstring_util-2.1.tar.gz",
+  "download_time": "2025-10-16T20:40:25.172248",
   "package_url": "https://pypi.org/project/tstring-util/"
 }

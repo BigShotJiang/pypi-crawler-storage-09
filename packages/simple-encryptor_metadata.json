@@ -1,11 +1,11 @@
 {
   "name": "simple-encryptor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A secure AES-GCM encryption/decryption package",
   "author": "Murtaza Zaidi",
   "license": "MIT",
   "home_page": "https://github.com/zaidimurtaza/Encryptor",
-  "download_filename": "simple_encryptor-0.1.0.tar.gz",
-  "download_time": "2025-10-16T20:18:09.839578",
+  "download_filename": "simple_encryptor-0.1.1.tar.gz",
+  "download_time": "2025-10-16T20:40:40.651662",
   "package_url": "https://pypi.org/project/simple-encryptor/"
 }

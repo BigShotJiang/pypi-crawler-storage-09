@@ -1,0 +1,11 @@
+{
+  "name": "UniConfigBuilder",
+  "version": "0.0.0a1",
+  "summary": "Basic config reader",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uniconfigbuilder-0.0.0a1.tar.gz",
+  "download_time": "2025-10-16T20:40:24.596268",
+  "package_url": "https://pypi.org/project/UniConfigBuilder/"
+}

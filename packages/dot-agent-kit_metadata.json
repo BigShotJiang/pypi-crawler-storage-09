@@ -1,11 +1,11 @@
 {
   "name": "dot-agent-kit",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "CLI tool for managing .agent/ automated documentation folders",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dot_agent_kit-0.1.17.tar.gz",
-  "download_time": "2025-10-16T19:24:41.087206",
+  "download_filename": "dot_agent_kit-0.1.18.tar.gz",
+  "download_time": "2025-10-16T20:40:36.236215",
   "package_url": "https://pypi.org/project/dot-agent-kit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "swoops",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "swoops-0.0.4.tar.gz",
-  "download_time": "2025-10-16T20:17:48.845172",
+  "download_filename": "swoops-0.0.7.tar.gz",
+  "download_time": "2025-10-16T20:40:33.120698",
   "package_url": "https://pypi.org/project/swoops/"
 }
