@@ -1,0 +1,11 @@
+{
+  "name": "geddit",
+  "version": "2.1.0",
+  "summary": "Zero-configuration fetching of configuration resources",
+  "author": "University of Cambridge Information Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geddit-2.1.0.tar.gz",
+  "download_time": "2025-10-16T10:18:04.607430",
+  "package_url": "https://pypi.org/project/geddit/"
+}

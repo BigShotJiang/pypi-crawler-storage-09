@@ -1,0 +1,11 @@
+{
+  "name": "logicmonitor-sdk",
+  "version": "3.0.230",
+  "summary": "LogicMonitor REST API",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/logicmonitor/lm-sdk-python",
+  "download_filename": "logicmonitor-sdk-3.0.230.tar.gz",
+  "download_time": "2025-10-16T10:18:14.210789",
+  "package_url": "https://pypi.org/project/logicmonitor-sdk/"
+}

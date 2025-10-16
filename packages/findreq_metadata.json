@@ -1,11 +1,11 @@
 {
   "name": "findreq",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A Python utility to detect imported modules and generate pip install commands for a project.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "findreq-0.1.7.tar.gz",
-  "download_time": "2025-10-16T09:50:22.512439",
+  "download_filename": "findreq-0.1.8.tar.gz",
+  "download_time": "2025-10-16T10:17:32.491012",
   "package_url": "https://pypi.org/project/findreq/"
 }

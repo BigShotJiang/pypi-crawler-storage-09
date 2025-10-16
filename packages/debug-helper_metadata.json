@@ -1,0 +1,11 @@
+{
+  "name": "debug-helper",
+  "version": "1.0.0",
+  "summary": "A production-grade debugging and issue tracking helper SDK",
+  "author": "Debug Helper Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/debug-helper",
+  "download_filename": "debug_helper-1.0.0.tar.gz",
+  "download_time": "2025-10-16T10:17:46.650404",
+  "package_url": "https://pypi.org/project/debug-helper/"
+}

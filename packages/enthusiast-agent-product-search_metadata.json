@@ -1,0 +1,11 @@
+{
+  "name": "enthusiast-agent-product-search",
+  "version": "1.0.0",
+  "summary": "Example implementation of a Product Search ReAct agent for Enthusiast",
+  "author": "Damian Sowiński",
+  "license": null,
+  "home_page": null,
+  "download_filename": "enthusiast_agent_product_search-1.0.0.tar.gz",
+  "download_time": "2025-10-16T10:17:50.895236",
+  "package_url": "https://pypi.org/project/enthusiast-agent-product-search/"
+}

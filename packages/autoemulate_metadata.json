@@ -1,0 +1,11 @@
+{
+  "name": "autoemulate",
+  "version": "1.2.0",
+  "summary": "A python package for semi-automated emulation",
+  "author": "AutoEmulate contributors (see our GitHub page)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoemulate-1.2.0.tar.gz",
+  "download_time": "2025-10-16T10:18:17.178632",
+  "package_url": "https://pypi.org/project/autoemulate/"
+}
