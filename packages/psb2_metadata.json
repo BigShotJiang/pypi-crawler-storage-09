@@ -1,0 +1,11 @@
+{
+  "name": "psb2",
+  "version": "1.1.2",
+  "summary": "Utilities for sampling the datasets of PSB2.",
+  "author": "Thomas Helmuth and contributors",
+  "license": "Eclipse Public License 2.0 (EPL-2.0)",
+  "home_page": "https://github.com/thelmuth/psb2-python",
+  "download_filename": "psb2-1.1.2.tar.gz",
+  "download_time": "2025-10-16T17:53:50.196500",
+  "package_url": "https://pypi.org/project/psb2/"
+}
