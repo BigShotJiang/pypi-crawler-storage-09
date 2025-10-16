@@ -1,0 +1,11 @@
+{
+  "name": "hvrt-partitioner",
+  "version": "0.6.1",
+  "summary": "A fast, scalable algorithm for creating data partitions based on a hybrid variance-reduction tree method.",
+  "author": "Jake",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hvrt_partitioner-0.6.1.tar.gz",
+  "download_time": "2025-10-16T13:20:13.238584",
+  "package_url": "https://pypi.org/project/hvrt-partitioner/"
+}

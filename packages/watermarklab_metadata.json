@@ -1,11 +1,11 @@
 {
   "name": "watermarklab",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "A comprehensive toolkit for robust image watermarking benchmarking and development.",
   "author": "Jiale chen",
   "license": null,
   "home_page": "https://watermarklab.github.io",
-  "download_filename": "watermarklab-0.1.3-py3-none-any.whl",
-  "download_time": "2025-10-16T09:50:23.736507",
+  "download_filename": "watermarklab-0.1.5-py3-none-any.whl",
+  "download_time": "2025-10-16T13:19:43.099284",
   "package_url": "https://pypi.org/project/watermarklab/"
 }

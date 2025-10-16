@@ -1,0 +1,11 @@
+{
+  "name": "voucherify",
+  "version": "6.0.0",
+  "summary": "Voucherify API",
+  "author": "Voucherify Team",
+  "license": "MIT",
+  "home_page": "https://voucherify.io/",
+  "download_filename": "voucherify-6.0.0.tar.gz",
+  "download_time": "2025-10-16T13:20:08.554515",
+  "package_url": "https://pypi.org/project/voucherify/"
+}

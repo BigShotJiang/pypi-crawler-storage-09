@@ -1,0 +1,11 @@
+{
+  "name": "strangeworks-vqe",
+  "version": "0.1.7",
+  "summary": "Extension to strangeworks sdk to allow user to run qaoa service",
+  "author": "SFlann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "strangeworks_vqe-0.1.7.tar.gz",
+  "download_time": "2025-10-16T13:20:19.935257",
+  "package_url": "https://pypi.org/project/strangeworks-vqe/"
+}

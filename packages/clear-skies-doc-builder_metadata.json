@@ -1,0 +1,11 @@
+{
+  "name": "clear-skies-doc-builder",
+  "version": "2.0.5",
+  "summary": "The docbuilder for all 'official' clearskies plugins (as well as the main clearskies docs)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clear_skies_doc_builder-2.0.5.tar.gz",
+  "download_time": "2025-10-16T13:20:11.173564",
+  "package_url": "https://pypi.org/project/clear-skies-doc-builder/"
+}

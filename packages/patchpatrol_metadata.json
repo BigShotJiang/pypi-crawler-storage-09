@@ -1,0 +1,11 @@
+{
+  "name": "patchpatrol",
+  "version": "0.3.0",
+  "summary": "AI-powered commit review system for pre-commit hooks - Local (ONNX/llama.cpp) or cloud (Gemini) analysis of Git commits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "patchpatrol-0.3.0.tar.gz",
+  "download_time": "2025-10-16T13:20:21.470399",
+  "package_url": "https://pypi.org/project/patchpatrol/"
+}

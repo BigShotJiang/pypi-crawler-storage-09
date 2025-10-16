@@ -1,0 +1,11 @@
+{
+  "name": "MetaPhlAn",
+  "version": "4.2.3",
+  "summary": "MetaPhlAn is a computational tool for profiling the composition of microbial communities (Bacteria, Archaea and Eukaryotes) from metagenomic shotgun sequencing data (i.e. not 16S) with species-level. With the newly added StrainPhlAn module, it is now possible to perform accurate strain-level microbial profiling.",
+  "author": "Claudia Mengoni",
+  "license": "LICENSE.txt",
+  "home_page": "http://github.com/biobakery/MetaPhlAn/",
+  "download_filename": "MetaPhlAn-4.2.3.tar.gz",
+  "download_time": "2025-10-16T13:20:10.140939",
+  "package_url": "https://pypi.org/project/MetaPhlAn/"
+}
