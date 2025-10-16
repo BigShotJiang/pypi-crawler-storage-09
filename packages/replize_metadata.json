@@ -1,0 +1,11 @@
+{
+  "name": "replize",
+  "version": "0.1.5",
+  "summary": "Tools to create REPL interfaces",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/replize",
+  "download_filename": "replize-0.1.5.tar.gz",
+  "download_time": "2025-10-16T22:12:17.830392",
+  "package_url": "https://pypi.org/project/replize/"
+}
