@@ -1,0 +1,11 @@
+{
+  "name": "custom-parser-hiba-khabar",
+  "version": "1.0.0",
+  "summary": "A simple IPv4 log parser using regex, created by hiba khabar, file handling, and data structures.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "custom_parser_hiba_khabar-1.0.0.tar.gz",
+  "download_time": "2025-10-16T19:25:05.294145",
+  "package_url": "https://pypi.org/project/custom-parser-hiba-khabar/"
+}

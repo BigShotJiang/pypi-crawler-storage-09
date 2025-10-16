@@ -1,0 +1,11 @@
+{
+  "name": "xai-review",
+  "version": "0.36.0",
+  "summary": "AI-powered code review tool for GitHub, GitLab, Bitbucket and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, and OpenRouter",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xai_review-0.36.0.tar.gz",
+  "download_time": "2025-10-16T19:24:32.883797",
+  "package_url": "https://pypi.org/project/xai-review/"
+}

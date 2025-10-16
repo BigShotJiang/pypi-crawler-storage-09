@@ -1,0 +1,11 @@
+{
+  "name": "cdpcli-beta",
+  "version": "0.9.148",
+  "summary": "Cloudera CDP Command Line Interface (BETA)",
+  "author": "Cloudera, Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://console.cdp.cloudera.com/",
+  "download_filename": "cdpcli-beta-0.9.148.tar.gz",
+  "download_time": "2025-10-16T19:24:44.904464",
+  "package_url": "https://pypi.org/project/cdpcli-beta/"
+}

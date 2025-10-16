@@ -1,0 +1,11 @@
+{
+  "name": "ipv4-log-parser",
+  "version": "0.1.0",
+  "summary": "A simple IPv4 log parser using regex, file handling, and data structures.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ipv4_log_parser-0.1.0.tar.gz",
+  "download_time": "2025-10-16T19:25:09.758154",
+  "package_url": "https://pypi.org/project/ipv4-log-parser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pynmeagps",
+  "version": "1.0.55",
+  "summary": "NMEA protocol parser and generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynmeagps-1.0.55.tar.gz",
+  "download_time": "2025-10-16T19:24:37.089442",
+  "package_url": "https://pypi.org/project/pynmeagps/"
+}

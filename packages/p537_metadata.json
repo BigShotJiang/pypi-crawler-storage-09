@@ -1,0 +1,11 @@
+{
+  "name": "p537",
+  "version": "1.0.9",
+  "summary": "A tiny platform-specific distribution with a console script.",
+  "author": "John Sirois",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/pex-tool/p537",
+  "download_filename": "p537-1.0.9.tar.gz",
+  "download_time": "2025-10-16T19:25:05.870053",
+  "package_url": "https://pypi.org/project/p537/"
+}

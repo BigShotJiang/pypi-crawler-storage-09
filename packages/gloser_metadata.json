@@ -1,0 +1,11 @@
+{
+  "name": "gloser",
+  "version": "1.0.0",
+  "summary": "Simple i18n for Python",
+  "author": "Are Meisfjord",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gloser-1.0.0.tar.gz",
+  "download_time": "2025-10-16T19:25:07.694827",
+  "package_url": "https://pypi.org/project/gloser/"
+}
