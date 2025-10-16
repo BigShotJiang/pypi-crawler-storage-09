@@ -1,11 +1,11 @@
 {
   "name": "byquant",
-  "version": "3.12.26.0",
-  "summary": "ByQuant.com is AI Quantitative Strategy Competition Training Community",
+  "version": "3.12.36.0",
+  "summary": "ByQuant.com 提供智能策略决策系统",
   "author": null,
   "license": "GPL",
   "home_page": null,
-  "download_filename": "byquant-3.12.26.0.tar.gz",
-  "download_time": "2025-10-16T12:33:15.407628",
+  "download_filename": "byquant-3.12.36.0.tar.gz",
+  "download_time": "2025-10-16T23:36:47.474312",
   "package_url": "https://pypi.org/project/byquant/"
 }

@@ -1,17 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T23:26:29.217109
-- **Total Packages**: 87
-- **Total Size**: 11.7 MB
+- **Download Time**: 2025-10-16T23:37:26.810050
+- **Total Packages**: 80
+- **Total Size**: 23.79 MB
 
 ## Packages List
+- easyrunner-cli
 - latzero
+- fastdup
+- vantage-agent
+- nv-ingest
+- dpn_pyutils
+- nv-ingest-client
+- nv-ingest-api
+- cosmodata
+- mieltocore
+- byquant
+- jmstate
+- pytilpack
+- composabl-train-dev
+- composabl-dev
+- composabl-cli-dev
+- composabl-api-dev
+- cavass
+- agentmake
+- posets
+- holado
+- megadetector-utils
+- fleet-python
+- physics-plot
+- megadetector
 - gensyn-genrl
 - e2b
 - py-dict-comparing-xethhung12
 - jupyterlab_notebook_awareness
-- fleet-python
 - mkdocs-vwidref
 - vecoli
 - speakub
@@ -33,7 +56,6 @@
 - re-browser-use
 - warpcompress
 - numcore
-- easyrunner-cli
 - promptrek
 - ironoc-pytest-conor-heffron
 - geodesic-api
@@ -52,7 +74,6 @@
 - wandelbots-api-client
 - theprometheus
 - pyclean
-- physics-plot
 - mock-requests-restcountries
 - tifffile
 - molscrub
@@ -65,31 +86,3 @@
 - just-agents-router
 - whirlpool-sixth-sense
 - just-agents-web
-- just-agents-coding
-- just-agents-tools
-- just-agents-core
-- pypl2
-- agatha-protobuf
-- django-resonant-utils
-- agent-framework-redis
-- agent-framework-purview
-- agent-framework-mem0
-- agent-framework-devui
-- agent-framework-core
-- agent-framework-copilotstudio
-- ket-lang
-- agent-framework-azure-ai
-- agent-framework-a2a
-- agent-framework
-- dragonfly-comparison
-- pdfdancer-client-python
-- TEvarSim
-- gpcam
-- simexp
-- tigris-boto3-ext
-- hf-hydrodata
-- immichporter
-- computemate
-- agentmake
-- conscript
-- dv-pipecat-ai

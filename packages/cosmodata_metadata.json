@@ -1,0 +1,11 @@
+{
+  "name": "cosmodata",
+  "version": "0.0.4",
+  "summary": "A portal to data sources",
+  "author": null,
+  "license": "mit",
+  "home_page": "https://github.com/cosmograph-org/cosmodata/cosmodata",
+  "download_filename": "cosmodata-0.0.4.tar.gz",
+  "download_time": "2025-10-16T23:36:45.910983",
+  "package_url": "https://pypi.org/project/cosmodata/"
+}

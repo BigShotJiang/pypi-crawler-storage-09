@@ -1,0 +1,11 @@
+{
+  "name": "posets",
+  "version": "1.0.3",
+  "summary": "A package for working with finite partial orders",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "posets-1.0.3.tar.gz",
+  "download_time": "2025-10-16T23:36:54.621302",
+  "package_url": "https://pypi.org/project/posets/"
+}
