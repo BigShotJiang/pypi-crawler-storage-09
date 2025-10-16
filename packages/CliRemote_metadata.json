@@ -1,11 +1,11 @@
 {
   "name": "CliRemote",
-  "version": "1.9.8",
+  "version": "1.9.9",
   "summary": "Remote client framework for Telegram automation using Pyrogram",
   "author": "MrAhmadiRad",
   "license": "MIT",
   "home_page": "https://github.com/MohammadAhmadi-R/CliRemote",
-  "download_filename": "cliremote-1.9.8.tar.gz",
-  "download_time": "2025-10-16T10:43:39.574242",
+  "download_filename": "cliremote-1.9.9.tar.gz",
+  "download_time": "2025-10-16T19:37:16.644000",
   "package_url": "https://pypi.org/project/CliRemote/"
 }

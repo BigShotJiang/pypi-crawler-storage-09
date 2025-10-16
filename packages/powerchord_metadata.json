@@ -1,11 +1,11 @@
 {
   "name": "powerchord",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Concurrent CLI task runner",
   "author": "Huib Piguillet",
   "license": null,
   "home_page": null,
-  "download_filename": "powerchord-0.2.6.tar.gz",
-  "download_time": "2025-10-16T16:46:02.973772",
+  "download_filename": "powerchord-0.2.7.tar.gz",
+  "download_time": "2025-10-16T19:37:18.371381",
   "package_url": "https://pypi.org/project/powerchord/"
 }
