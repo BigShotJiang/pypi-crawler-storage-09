@@ -1,11 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T22:40:47.990496
-- **Total Packages**: 85
-- **Total Size**: 2.34 MB
+- **Download Time**: 2025-10-16T22:49:58.806946
+- **Total Packages**: 87
+- **Total Size**: 15.12 MB
 
 ## Packages List
+- agent-framework-redis
+- agent-framework-purview
+- agent-framework-mem0
+- agent-framework-devui
+- agent-framework-core
+- agent-framework-copilotstudio
+- ket-lang
+- agent-framework-azure-ai
+- agent-framework-a2a
+- agent-framework
+- dragonfly-comparison
+- pdfdancer-client-python
+- TEvarSim
+- gpcam
+- simexp
+- tigris-boto3-ext
+- hf-hydrodata
+- immichporter
+- computemate
+- agentmake
+- conscript
+- dv-pipecat-ai
+- django-auth-style
+- pieces-cli
 - llm-bedrock-anthropic
 - reflex
 - holapplayer901
@@ -29,7 +53,6 @@
 - pulumi-xyz
 - fastapi-voyager
 - augmented-lagrangian
-- computemate
 - PyObjectInterface
 - brynq-sdk-profit
 - printo
@@ -70,24 +93,3 @@
 - ddc-utility
 - t-prompts
 - sommify
-- navdict
-- django-whatsapp-api-wrapper
-- mcp-server-whisper
-- somerandomapi.py
-- know.py
-- agentmake
-- chisel
-- coiled
-- pipen-cli-gbatch
-- networkscaleup
-- machineconfig
-- odoo-addon-crm-stage-multi-team
-- athena-intelligence
-- truefoundry
-- wmill-pg
-- replize
-- waymore
-- wmill
-- windmill-api
-- scc-firewall-manager-sdk
-- cpz-ai

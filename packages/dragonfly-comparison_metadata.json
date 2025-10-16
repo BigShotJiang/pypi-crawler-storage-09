@@ -1,0 +1,11 @@
+{
+  "name": "dragonfly-comparison",
+  "version": "0.1.5",
+  "summary": "Dragonfly extension for comparing dragonfly models with one another.",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/dragonfly-comparison",
+  "download_filename": "dragonfly_comparison-0.1.5.tar.gz",
+  "download_time": "2025-10-16T22:49:16.757666",
+  "package_url": "https://pypi.org/project/dragonfly-comparison/"
+}

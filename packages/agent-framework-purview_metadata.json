@@ -1,11 +1,11 @@
 {
   "name": "agent-framework-purview",
-  "version": "0.0.1a0",
-  "summary": "Agent Framework Purview Integration",
+  "version": "1.0.0b251016",
+  "summary": "Microsoft Purview (Graph dataSecurityAndGovernance) integration for Microsoft Agent Framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_framework_purview-0.0.1a0.tar.gz",
-  "download_time": "2025-10-16T15:40:45.386800",
+  "download_filename": "agent_framework_purview-1.0.0b251016.tar.gz",
+  "download_time": "2025-10-16T22:49:11.450648",
   "package_url": "https://pypi.org/project/agent-framework-purview/"
 }

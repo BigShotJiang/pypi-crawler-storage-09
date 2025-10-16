@@ -1,0 +1,11 @@
+{
+  "name": "conscript",
+  "version": "0.1.9",
+  "summary": "Conscript console scripts in your own Swiss Army Knife.",
+  "author": "John Sirois",
+  "license": null,
+  "home_page": "https://github.com/jsirois/conscript",
+  "download_filename": "conscript-0.1.9.tar.gz",
+  "download_time": "2025-10-16T22:49:21.985309",
+  "package_url": "https://pypi.org/project/conscript/"
+}

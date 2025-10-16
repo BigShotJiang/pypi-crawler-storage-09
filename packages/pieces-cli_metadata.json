@@ -1,0 +1,11 @@
+{
+  "name": "pieces-cli",
+  "version": "1.19.0",
+  "summary": "A powerful cli tool to interact with PiecesOS ",
+  "author": "Pieces",
+  "license": "MIT",
+  "home_page": "https://pieces.app",
+  "download_filename": "pieces_cli-1.19.0.tar.gz",
+  "download_time": "2025-10-16T22:49:23.591007",
+  "package_url": "https://pypi.org/project/pieces-cli/"
+}

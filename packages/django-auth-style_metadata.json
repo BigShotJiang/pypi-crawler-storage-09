@@ -1,0 +1,11 @@
+{
+  "name": "django-auth-style",
+  "version": "0.12.1",
+  "summary": "Django template styling for django-allauth and django-oauth-toolkit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_auth_style-0.12.1.tar.gz",
+  "download_time": "2025-10-16T22:49:23.067675",
+  "package_url": "https://pypi.org/project/django-auth-style/"
+}

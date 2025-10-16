@@ -1,0 +1,11 @@
+{
+  "name": "tigris-boto3-ext",
+  "version": "0.1.1",
+  "summary": "Extend boto3 with Tigris-specific features like snapshots and bucket forking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigris_boto3_ext-0.1.1.tar.gz",
+  "download_time": "2025-10-16T22:49:19.373515",
+  "package_url": "https://pypi.org/project/tigris-boto3-ext/"
+}
