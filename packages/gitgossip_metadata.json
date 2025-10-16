@@ -1,0 +1,11 @@
+{
+  "name": "gitgossip",
+  "version": "0.1.1",
+  "summary": "AI that spills the tea on your commits — human-readable Git summaries.",
+  "author": "Osman Goni Nahid",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitgossip-0.1.1.tar.gz",
+  "download_time": "2025-10-16T18:54:08.985060",
+  "package_url": "https://pypi.org/project/gitgossip/"
+}

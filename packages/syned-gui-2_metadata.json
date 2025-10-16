@@ -1,0 +1,11 @@
+{
+  "name": "syned-gui-2",
+  "version": "1.0.2",
+  "summary": "SYNED (SYNchrotron Elements Dictionary) gui library",
+  "author": "Manuel Sanchez del Rio, Luca Rebuffi",
+  "license": "BSD",
+  "home_page": "https://github.com/oasys-kit/syned-gui-2",
+  "download_filename": "syned_gui_2-1.0.2.tar.gz",
+  "download_time": "2025-10-16T18:54:42.903964",
+  "package_url": "https://pypi.org/project/syned-gui-2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kimina-ast-client",
+  "version": "0.2.2",
+  "summary": "Client SDK to interact with Kimina Lean server.",
+  "author": "Kimi Team - Project Numina",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kimina_ast_client-0.2.2.tar.gz",
+  "download_time": "2025-10-16T18:54:16.722803",
+  "package_url": "https://pypi.org/project/kimina-ast-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spatula-analysis",
+  "version": "0.1.1",
+  "summary": "Point group symmetry analysis of local environments for point cloud data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spatula_analysis-0.1.1.tar.gz",
+  "download_time": "2025-10-16T18:54:13.135801",
+  "package_url": "https://pypi.org/project/spatula-analysis/"
+}

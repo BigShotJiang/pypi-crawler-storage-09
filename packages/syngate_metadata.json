@@ -1,0 +1,11 @@
+{
+  "name": "syngate",
+  "version": "3.0.1",
+  "summary": "File-Based Queue, Scheduler, and Mutex Locker for Python (Windows, macOS, Linux)",
+  "author": "henry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "syngate-3.0.1.tar.gz",
+  "download_time": "2025-10-16T18:54:23.389473",
+  "package_url": "https://pypi.org/project/syngate/"
+}

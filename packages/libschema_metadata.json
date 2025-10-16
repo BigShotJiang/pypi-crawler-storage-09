@@ -1,0 +1,11 @@
+{
+  "name": "libschema",
+  "version": "0.2.1",
+  "summary": "Generic Python implementation of the SCHEMA modeling framework with built-in BMI/ngen support.  SCHEMA = Seasonal Conditions Historical Expectation with Modeled Anomaly.",
+  "author": "Daniel Philippus",
+  "license": null,
+  "home_page": "https://www.rivertempest.org/libschema/readme.html",
+  "download_filename": "libschema-0.2.1.tar.gz",
+  "download_time": "2025-10-16T18:54:43.415460",
+  "package_url": "https://pypi.org/project/libschema/"
+}

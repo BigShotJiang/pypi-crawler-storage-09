@@ -1,11 +1,11 @@
 {
   "name": "pytilpack",
-  "version": "1.37.0",
+  "version": "1.37.1",
   "summary": "Python Utility Pack",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytilpack-1.37.0.tar.gz",
-  "download_time": "2025-10-16T09:17:39.890618",
+  "download_filename": "pytilpack-1.37.1.tar.gz",
+  "download_time": "2025-10-16T18:54:29.176875",
   "package_url": "https://pypi.org/project/pytilpack/"
 }

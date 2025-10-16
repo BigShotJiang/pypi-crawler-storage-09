@@ -1,0 +1,11 @@
+{
+  "name": "ymp",
+  "version": "0.3.2",
+  "summary": "Flexible multi-omic pipeline system",
+  "author": "Elmar Pruesse",
+  "license": "GPL-3",
+  "home_page": "https://github.com/epruesse/ymp",
+  "download_filename": "ymp-0.3.2.tar.gz",
+  "download_time": "2025-10-16T18:54:37.208231",
+  "package_url": "https://pypi.org/project/ymp/"
+}

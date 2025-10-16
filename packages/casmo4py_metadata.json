@@ -1,11 +1,11 @@
 {
   "name": "casmo4py",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "CASMO",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "casmo4py-0.0.1.tar.gz",
-  "download_time": "2025-10-16T17:32:09.770156",
+  "download_filename": "casmo4py-0.0.2.tar.gz",
+  "download_time": "2025-10-16T18:54:01.126735",
   "package_url": "https://pypi.org/project/casmo4py/"
 }

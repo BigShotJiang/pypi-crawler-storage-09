@@ -1,0 +1,11 @@
+{
+  "name": "helmgen",
+  "version": "0.1.0",
+  "summary": "Auto-generate Helm charts from Docker Compose files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "helmgen-0.1.0.tar.gz",
+  "download_time": "2025-10-16T18:54:10.008558",
+  "package_url": "https://pypi.org/project/helmgen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "junglescout-client",
+  "version": "0.6.0",
+  "summary": "Jungle Scout API Client",
+  "author": "Jungle Scout",
+  "license": "MIT",
+  "home_page": "https://github.com/Junglescout/jungle-scout-python-client",
+  "download_filename": "junglescout_client-0.6.0.tar.gz",
+  "download_time": "2025-10-16T18:54:03.818787",
+  "package_url": "https://pypi.org/project/junglescout-client/"
+}
