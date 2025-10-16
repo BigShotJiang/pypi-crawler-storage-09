@@ -1,11 +1,11 @@
 {
   "name": "realtimex-cli-mcps",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Add your description here",
   "author": "rta_phuongnguyen",
   "license": null,
   "home_page": null,
-  "download_filename": "realtimex_cli_mcps-1.0.7.tar.gz",
-  "download_time": "2025-10-16T10:17:37.484293",
+  "download_filename": "realtimex_cli_mcps-1.0.8.tar.gz",
+  "download_time": "2025-10-16T11:15:11.795733",
   "package_url": "https://pypi.org/project/realtimex-cli-mcps/"
 }

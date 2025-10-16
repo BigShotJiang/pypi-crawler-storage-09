@@ -1,0 +1,11 @@
+{
+  "name": "sonicwall-api-client",
+  "version": "1.0.4",
+  "summary": "Simple Python client for SonicWall SonicOS REST API (with HTTP Digest Auth).",
+  "author": "Samuel Berset",
+  "license": null,
+  "home_page": "https://github.com/Samuel-Berset/sonicwall-api-client",
+  "download_filename": "sonicwall_api_client-1.0.4.tar.gz",
+  "download_time": "2025-10-16T11:15:10.647578",
+  "package_url": "https://pypi.org/project/sonicwall-api-client/"
+}

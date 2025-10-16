@@ -1,0 +1,11 @@
+{
+  "name": "ordeq_joblib",
+  "version": "1.0.2",
+  "summary": "Joblib integration for Ordeq",
+  "author": "Niels Neerhoff, Simon Brugman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ordeq_joblib-1.0.2.tar.gz",
+  "download_time": "2025-10-16T11:15:14.698423",
+  "package_url": "https://pypi.org/project/ordeq_joblib/"
+}

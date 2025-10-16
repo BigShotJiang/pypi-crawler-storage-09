@@ -1,0 +1,11 @@
+{
+  "name": "numcodecs-wasm",
+  "version": "0.2.0",
+  "summary": "numcodecs compression for codecs compiled to WebAssembly",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numcodecs_wasm-0.2.0.tar.gz",
+  "download_time": "2025-10-16T11:15:03.755358",
+  "package_url": "https://pypi.org/project/numcodecs-wasm/"
+}

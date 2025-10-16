@@ -1,0 +1,11 @@
+{
+  "name": "py-dss-toolkit",
+  "version": "0.6.0",
+  "summary": "Advanced Python Tools for OpenDSS Powered by EPRI.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_dss_toolkit-0.6.0-py3-none-any.whl",
+  "download_time": "2025-10-16T11:15:16.425948",
+  "package_url": "https://pypi.org/project/py-dss-toolkit/"
+}

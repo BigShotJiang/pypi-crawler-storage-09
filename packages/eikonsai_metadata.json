@@ -1,0 +1,11 @@
+{
+  "name": "eikonsai",
+  "version": "0.0.9",
+  "summary": "A simple python SDK to connect with the Eikon geospatial platform.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eikonsai-0.0.9-py3-none-any.whl",
+  "download_time": "2025-10-16T11:15:07.080756",
+  "package_url": "https://pypi.org/project/eikonsai/"
+}

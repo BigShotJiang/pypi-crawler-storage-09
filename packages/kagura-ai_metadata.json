@@ -1,11 +1,11 @@
 {
   "name": "kagura-ai",
-  "version": "2.5.7",
+  "version": "2.5.8",
   "summary": "Python-First AI Agent Framework with Code Execution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kagura-ai-2.5.7.tar.gz",
-  "download_time": "2025-10-16T10:43:33.344319",
+  "download_filename": "kagura-ai-2.5.8.tar.gz",
+  "download_time": "2025-10-16T11:14:53.328386",
   "package_url": "https://pypi.org/project/kagura-ai/"
 }
