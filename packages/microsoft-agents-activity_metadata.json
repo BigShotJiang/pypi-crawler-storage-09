@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-agents-activity",
+  "version": "0.4.0",
+  "summary": "A protocol library for Microsoft Agents",
+  "author": "Microsoft Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "microsoft_agents_activity-0.4.0.tar.gz",
+  "download_time": "2025-10-16T09:17:37.183324",
+  "package_url": "https://pypi.org/project/microsoft-agents-activity/"
+}

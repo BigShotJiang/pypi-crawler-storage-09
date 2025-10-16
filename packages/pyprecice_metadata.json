@@ -1,0 +1,11 @@
+{
+  "name": "pyprecice",
+  "version": "3.3.1",
+  "summary": "Python language bindings for the preCICE coupling library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyprecice-3.3.1.tar.gz",
+  "download_time": "2025-10-16T09:17:49.350012",
+  "package_url": "https://pypi.org/project/pyprecice/"
+}

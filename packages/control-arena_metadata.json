@@ -1,0 +1,11 @@
+{
+  "name": "control-arena",
+  "version": "8.2.0",
+  "summary": "ControlArena settings and control protocols",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "control_arena-8.2.0.tar.gz",
+  "download_time": "2025-10-16T09:17:56.675665",
+  "package_url": "https://pypi.org/project/control-arena/"
+}

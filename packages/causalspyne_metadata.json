@@ -1,0 +1,11 @@
+{
+  "name": "causalspyne",
+  "version": "0.1.6",
+  "summary": "hierarchical data generation for causal discovery and abstraction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "causalspyne-0.1.6.tar.gz",
+  "download_time": "2025-10-16T09:17:08.950090",
+  "package_url": "https://pypi.org/project/causalspyne/"
+}
