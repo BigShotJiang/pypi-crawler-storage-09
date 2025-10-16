@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-16T23:37:26.810050
-- **Total Packages**: 80
-- **Total Size**: 23.79 MB
+- **Download Time**: 2025-10-16T23:50:38.362493
+- **Total Packages**: 78
+- **Total Size**: 10.56 MB
 
 ## Packages List
+- systems-manager
+- machineconfig
+- cosmodata
+- computemate
+- line-works-sdk
+- ctxflow
+- mcp-openproject
+- syllable-sdk
+- apiexception
+- apgard
+- python-lolhtml
 - easyrunner-cli
 - latzero
 - fastdup
@@ -14,7 +25,6 @@
 - dpn_pyutils
 - nv-ingest-client
 - nv-ingest-api
-- cosmodata
 - mieltocore
 - byquant
 - jmstate
@@ -74,15 +84,3 @@
 - wandelbots-api-client
 - theprometheus
 - pyclean
-- mock-requests-restcountries
-- tifffile
-- molscrub
-- beeper-desktop-api
-- atr-adaptive-laguerre
-- bombcell
-- BioClients
-- just-agents
-- just-agents-examples
-- just-agents-router
-- whirlpool-sixth-sense
-- just-agents-web

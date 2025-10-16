@@ -1,0 +1,11 @@
+{
+  "name": "line-works-sdk",
+  "version": "3.8",
+  "summary": "LINE Works SDK for Python",
+  "author": "nanato12",
+  "license": "MIT License",
+  "home_page": "https://github.com/nanato12/line-works-sdk",
+  "download_filename": "line_works_sdk-3.8.tar.gz",
+  "download_time": "2025-10-16T23:49:57.719564",
+  "package_url": "https://pypi.org/project/line-works-sdk/"
+}
