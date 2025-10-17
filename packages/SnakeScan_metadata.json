@@ -1,0 +1,11 @@
+{
+  "name": "SnakeScan",
+  "version": "1.4.5",
+  "summary": "Module SnakeScan using to scan port or ports in you device or other devices",
+  "author": "Den*Ram",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakescan-1.4.5.tar.gz",
+  "download_time": "2025-10-17T21:50:08.996563",
+  "package_url": "https://pypi.org/project/SnakeScan/"
+}

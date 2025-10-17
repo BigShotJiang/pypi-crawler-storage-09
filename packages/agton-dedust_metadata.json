@@ -1,0 +1,11 @@
+{
+  "name": "agton-dedust",
+  "version": "0.2.3",
+  "summary": "TON Blockchain DeDust SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agton_dedust-0.2.3.tar.gz",
+  "download_time": "2025-10-17T21:50:13.571051",
+  "package_url": "https://pypi.org/project/agton-dedust/"
+}

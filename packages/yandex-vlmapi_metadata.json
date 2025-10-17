@@ -1,0 +1,11 @@
+{
+  "name": "yandex-vlmapi",
+  "version": "66.0.3",
+  "summary": "A package to prevent Dependency Confusion attacks against Yandex.",
+  "author": "Yandex",
+  "license": null,
+  "home_page": "https://ya.ru",
+  "download_filename": "yandex-vlmapi-66.0.3.tar.gz",
+  "download_time": "2025-10-17T21:50:08.418298",
+  "package_url": "https://pypi.org/project/yandex-vlmapi/"
+}

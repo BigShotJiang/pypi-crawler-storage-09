@@ -1,0 +1,11 @@
+{
+  "name": "synapseclient",
+  "version": "4.10.0",
+  "summary": "A client for Synapse, a collaborative, open-source research platform that allows teams to share data, track analyses, and collaborate.",
+  "author": "The Synapse Engineering Team",
+  "license": "Apache-2.0",
+  "home_page": "https://www.synapse.org",
+  "download_filename": "synapseclient-4.10.0.tar.gz",
+  "download_time": "2025-10-17T21:50:21.670662",
+  "package_url": "https://pypi.org/project/synapseclient/"
+}
