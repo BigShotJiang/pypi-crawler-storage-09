@@ -1,0 +1,11 @@
+{
+  "name": "xasm",
+  "version": "1.2.2",
+  "summary": "Python cross-version byte-code assembler",
+  "author": "Rocky Bernstein",
+  "license": "GPL-2.0",
+  "home_page": "https://github.com/rocky/python-xasm/",
+  "download_filename": "xasm-1.2.2-py310-none-any.whl",
+  "download_time": "2025-10-17T18:20:12.919174",
+  "package_url": "https://pypi.org/project/xasm/"
+}

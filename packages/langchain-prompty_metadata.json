@@ -1,0 +1,11 @@
+{
+  "name": "langchain-prompty",
+  "version": "1.0.0",
+  "summary": "An integration package connecting Prompty and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_prompty-1.0.0.tar.gz",
+  "download_time": "2025-10-17T18:20:13.456280",
+  "package_url": "https://pypi.org/project/langchain-prompty/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fmriprep",
+  "version": "25.2.3",
+  "summary": "A robust and easy-to-use pipeline for preprocessing of diverse fMRI data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fmriprep-25.2.3-py3-none-any.whl",
+  "download_time": "2025-10-17T18:20:27.901488",
+  "package_url": "https://pypi.org/project/fmriprep/"
+}

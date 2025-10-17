@@ -1,0 +1,11 @@
+{
+  "name": "sparkforge",
+  "version": "1.2.0",
+  "summary": "A simplified, production-ready data pipeline builder for Apache Spark and Delta Lake",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sparkforge-1.2.0.tar.gz",
+  "download_time": "2025-10-17T18:20:11.332175",
+  "package_url": "https://pypi.org/project/sparkforge/"
+}

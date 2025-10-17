@@ -1,0 +1,11 @@
+{
+  "name": "console",
+  "version": "0.9912",
+  "summary": "Comprehensive, composable utility library for ANSI terminals. Better, stronger, faster.  Tch-tch-tch-tch…",
+  "author": "Mike Miller",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/mixmastamyk/console",
+  "download_filename": "console-0.9912.tar.gz",
+  "download_time": "2025-10-17T18:20:25.830128",
+  "package_url": "https://pypi.org/project/console/"
+}

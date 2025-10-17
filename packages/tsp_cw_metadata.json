@@ -1,0 +1,11 @@
+{
+  "name": "tsp_cw",
+  "version": "0.1.1",
+  "summary": "TSP solver using Clarke–Wright, Greedy, and Greedy+Lambda with Numba acceleration",
+  "author": "Le Sy Thuc",
+  "license": "MIT",
+  "home_page": "https://github.com/thucnc7/tsp-cw",
+  "download_filename": "tsp_cw-0.1.1.tar.gz",
+  "download_time": "2025-10-17T18:20:20.359226",
+  "package_url": "https://pypi.org/project/tsp_cw/"
+}

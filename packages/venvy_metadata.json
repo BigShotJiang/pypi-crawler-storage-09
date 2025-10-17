@@ -1,0 +1,11 @@
+{
+  "name": "venvy",
+  "version": "0.2.0",
+  "summary": "Fast virtual environment manager with registry-based tracking",
+  "author": "Pranav Kumaar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "venvy-0.2.0.tar.gz",
+  "download_time": "2025-10-17T18:20:18.790149",
+  "package_url": "https://pypi.org/project/venvy/"
+}

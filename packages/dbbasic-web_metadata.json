@@ -1,11 +1,11 @@
 {
   "name": "dbbasic-web",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Unixy micro-framework: file routing, SSE/WS, jobs, bus, flat files.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dbbasic_web-0.1.9.tar.gz",
-  "download_time": "2025-10-17T11:13:28.970376",
+  "download_filename": "dbbasic_web-0.1.10.tar.gz",
+  "download_time": "2025-10-17T18:20:28.990646",
   "package_url": "https://pypi.org/project/dbbasic-web/"
 }

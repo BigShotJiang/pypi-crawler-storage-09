@@ -1,0 +1,11 @@
+{
+  "name": "torchness",
+  "version": "2.0.0",
+  "summary": "PyTorch tools",
+  "author": "Piotr Niewinski",
+  "license": "MIT",
+  "home_page": "https://github.com/piteren/torchness.git",
+  "download_filename": "torchness-2.0.0.tar.gz",
+  "download_time": "2025-10-17T18:20:33.233803",
+  "package_url": "https://pypi.org/project/torchness/"
+}
