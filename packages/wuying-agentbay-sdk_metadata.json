@@ -1,11 +1,11 @@
 {
   "name": "wuying-agentbay-sdk",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Python SDK for interacting with the Wuying AgentBay cloud runtime environment",
   "author": "Wuying AI Team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aliyun/wuying-agentbay-sdk",
-  "download_filename": "wuying_agentbay_sdk-0.9.2.tar.gz",
-  "download_time": "2025-10-16T08:22:27.083644",
+  "download_filename": "wuying_agentbay_sdk-0.9.3.tar.gz",
+  "download_time": "2025-10-17T09:39:55.961631",
   "package_url": "https://pypi.org/project/wuying-agentbay-sdk/"
 }

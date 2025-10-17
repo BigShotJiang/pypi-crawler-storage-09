@@ -1,0 +1,11 @@
+{
+  "name": "deepvoxnet2",
+  "version": "2.20.5",
+  "summary": "Yet another CNN framework: From pre- to postprocessing and keeping track of the spatial origin of the data.",
+  "author": "Jeroen Bertels",
+  "license": null,
+  "home_page": "https://github.com/JeroenBertels/deepvoxnet2",
+  "download_filename": "deepvoxnet2-2.20.5.tar.gz",
+  "download_time": "2025-10-17T09:39:45.167210",
+  "package_url": "https://pypi.org/project/deepvoxnet2/"
+}

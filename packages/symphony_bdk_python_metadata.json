@@ -1,0 +1,11 @@
+{
+  "name": "symphony_bdk_python",
+  "version": "2.11.1",
+  "summary": "Symphony Bot Development Kit for Python",
+  "author": "Symphony Platform Solutions",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/finos/symphony-bdk-python",
+  "download_filename": "symphony_bdk_python-2.11.1.tar.gz",
+  "download_time": "2025-10-17T09:39:53.348621",
+  "package_url": "https://pypi.org/project/symphony_bdk_python/"
+}
