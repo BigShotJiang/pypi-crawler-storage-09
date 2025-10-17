@@ -1,0 +1,11 @@
+{
+  "name": "jarjar",
+  "version": "3.2",
+  "summary": "Use python to send messages to your slack team",
+  "author": "The Austerweil Lab at UW-Madison",
+  "license": "MIT",
+  "home_page": "https://github.com/AusterweilLab/jarjar",
+  "download_filename": "jarjar-3.2.tar.gz",
+  "download_time": "2025-10-17T20:40:10.315086",
+  "package_url": "https://pypi.org/project/jarjar/"
+}

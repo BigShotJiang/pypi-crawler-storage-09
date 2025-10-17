@@ -1,0 +1,11 @@
+{
+  "name": "spraycharles",
+  "version": "2.0.3",
+  "summary": "Low and slow password spraying tool, designed to spray on an interval over a long period of time.",
+  "author": "Matt Creel",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/Tw1sm/spraycharles",
+  "download_filename": "spraycharles-2.0.3.tar.gz",
+  "download_time": "2025-10-17T20:40:09.795020",
+  "package_url": "https://pypi.org/project/spraycharles/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dqlitepy",
+  "version": "0.1.0",
+  "summary": "Python bindings for the Canonical dqlite distributed SQLite engine",
+  "author": "VantageCompute",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dqlitepy-0.1.0.tar.gz",
+  "download_time": "2025-10-17T20:39:56.110927",
+  "package_url": "https://pypi.org/project/dqlitepy/"
+}

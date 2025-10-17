@@ -1,0 +1,11 @@
+{
+  "name": "prn",
+  "version": "0.86",
+  "summary": "A powerful script to rename files. Better, stronger, faster.",
+  "author": "Mike Miller",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/mixmastamyk/prename",
+  "download_filename": "prn-0.86.tar.gz",
+  "download_time": "2025-10-17T20:40:01.334767",
+  "package_url": "https://pypi.org/project/prn/"
+}

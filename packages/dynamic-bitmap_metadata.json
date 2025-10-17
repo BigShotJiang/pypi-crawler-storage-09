@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-bitmap",
+  "version": "0.3.3",
+  "summary": "Dynamic Parallel Bitmap con soporte de IA para búsquedas optimizadas, ahora con una vision sobre la conexion p2p.",
+  "author": "Jesus Alberto Degollado Lopez",
+  "license": null,
+  "home_page": "https://github.com/JesusDeg8061/Dynamic_bitmap",
+  "download_filename": "dynamic_bitmap-0.3.3.tar.gz",
+  "download_time": "2025-10-17T20:39:52.401187",
+  "package_url": "https://pypi.org/project/dynamic-bitmap/"
+}

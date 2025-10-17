@@ -1,11 +1,11 @@
 {
   "name": "pandare",
-  "version": "1.8.71",
+  "version": "1.8.72",
   "summary": "Python Interface to PANDA",
   "author": "Andrew Fasano, Tim Leek",
   "license": null,
   "home_page": "https://github.com/panda-re/panda/",
-  "download_filename": "pandare-1.8.71-py3-none-any.whl",
-  "download_time": "2025-10-17T19:12:50.514363",
+  "download_filename": "pandare-1.8.72-py3-none-any.whl",
+  "download_time": "2025-10-17T20:40:12.404294",
   "package_url": "https://pypi.org/project/pandare/"
 }

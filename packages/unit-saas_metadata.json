@@ -1,11 +1,11 @@
 {
   "name": "unit-saas",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "My SAAS internal package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unit_saas-0.5.0.tar.gz",
-  "download_time": "2025-10-16T07:38:01.211694",
+  "download_filename": "unit_saas-0.6.0.tar.gz",
+  "download_time": "2025-10-17T20:39:54.550960",
   "package_url": "https://pypi.org/project/unit-saas/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "formforge",
+  "version": "0.0.0",
+  "summary": "Dataclasses with coercion, and structured input format exports",
+  "author": "Thomas Lovén",
+  "license": null,
+  "home_page": null,
+  "download_filename": "formforge-0.0.0.tar.gz",
+  "download_time": "2025-10-17T20:39:37.670225",
+  "package_url": "https://pypi.org/project/formforge/"
+}

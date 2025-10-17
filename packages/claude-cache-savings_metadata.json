@@ -1,0 +1,11 @@
+{
+  "name": "claude-cache-savings",
+  "version": "0.1.0",
+  "summary": "Calculates Anthropic Claude cost savings from use of prompt caching",
+  "author": "jojje",
+  "license": "MIT",
+  "home_page": "https://github.com/jojje/claude-cache-savings",
+  "download_filename": "claude_cache_savings-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-17T20:40:06.589687",
+  "package_url": "https://pypi.org/project/claude-cache-savings/"
+}

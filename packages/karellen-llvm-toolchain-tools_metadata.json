@@ -1,11 +1,11 @@
 {
   "name": "karellen-llvm-toolchain-tools",
-  "version": "21.1.3.post17",
+  "version": "21.1.3.post24",
   "summary": "Karellen LLVM Toolchain Tools",
   "author": "Karellen, Inc.",
   "license": "Apache License, Version 2.0",
   "home_page": "https://github.com/karellen/karellen-llvm",
-  "download_filename": "karellen_llvm_toolchain_tools-21.1.3.post17-py3-none-manylinux2014_x86_64.whl",
-  "download_time": "2025-10-16T19:25:20.489321",
+  "download_filename": "karellen_llvm_toolchain_tools-21.1.3.post24-py3-none-manylinux2014_x86_64.whl",
+  "download_time": "2025-10-17T20:39:47.147943",
   "package_url": "https://pypi.org/project/karellen-llvm-toolchain-tools/"
 }

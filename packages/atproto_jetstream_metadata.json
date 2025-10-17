@@ -1,0 +1,11 @@
+{
+  "name": "atproto_jetstream",
+  "version": "0.2.0",
+  "summary": "Receive Jetstream events from the AT Protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atproto_jetstream-0.2.0.tar.gz",
+  "download_time": "2025-10-17T20:39:52.922111",
+  "package_url": "https://pypi.org/project/atproto_jetstream/"
+}
