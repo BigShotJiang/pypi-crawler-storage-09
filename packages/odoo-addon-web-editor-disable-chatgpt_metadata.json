@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-editor-disable-chatgpt",
+  "version": "18.0.1.0.0.3",
+  "summary": "Web Disable ChatGPT",
+  "author": "MetricWise, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_editor_disable_chatgpt-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-10-17T04:19:02.557417",
+  "package_url": "https://pypi.org/project/odoo-addon-web-editor-disable-chatgpt/"
+}

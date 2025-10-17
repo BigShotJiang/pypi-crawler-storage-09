@@ -1,0 +1,11 @@
+{
+  "name": "fantraxapi",
+  "version": "1.0.0",
+  "summary": "A lightweight Python library for The Fantrax API.",
+  "author": "Nathan Taggart",
+  "license": "MIT License",
+  "home_page": "https://github.com/meisnate12/FantraxAPI",
+  "download_filename": "fantraxapi-1.0.0.tar.gz",
+  "download_time": "2025-10-17T04:19:08.847570",
+  "package_url": "https://pypi.org/project/fantraxapi/"
+}

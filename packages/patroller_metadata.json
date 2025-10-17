@@ -1,0 +1,11 @@
+{
+  "name": "patroller",
+  "version": "0.1a1",
+  "summary": "System Inspection Kits",
+  "author": "Mingzhe Zou",
+  "license": "GPLv2",
+  "home_page": "https://github.com/bondbox/patroller/",
+  "download_filename": "patroller-0.1a1.tar.gz",
+  "download_time": "2025-10-17T04:19:30.644091",
+  "package_url": "https://pypi.org/project/patroller/"
+}

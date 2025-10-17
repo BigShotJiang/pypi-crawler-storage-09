@@ -1,11 +1,11 @@
 {
   "name": "clickzetta-semantic-model-generator",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "Curate a Semantic Model for ClickZetta Lakehouse",
   "author": "qililiang",
   "license": "Apache Software License; BSD License",
   "home_page": null,
-  "download_filename": "clickzetta_semantic_model_generator-1.0.0.tar.gz",
-  "download_time": "2025-10-16T12:33:06.985890",
+  "download_filename": "clickzetta_semantic_model_generator-1.0.3.tar.gz",
+  "download_time": "2025-10-17T04:19:07.809098",
   "package_url": "https://pypi.org/project/clickzetta-semantic-model-generator/"
 }

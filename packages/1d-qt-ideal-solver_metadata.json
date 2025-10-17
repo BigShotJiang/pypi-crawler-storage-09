@@ -1,0 +1,11 @@
+{
+  "name": "1d-qt-ideal-solver",
+  "version": "0.0.8",
+  "summary": "Idealized 1D quantum tunneling solver with two classic test cases",
+  "author": "Sandy H. S. Herho",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "1d_qt_ideal_solver-0.0.8.tar.gz",
+  "download_time": "2025-10-17T04:19:20.590115",
+  "package_url": "https://pypi.org/project/1d-qt-ideal-solver/"
+}

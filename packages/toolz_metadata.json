@@ -1,0 +1,11 @@
+{
+  "name": "toolz",
+  "version": "1.1.0",
+  "summary": "List processing tools and functional utilities",
+  "author": "PyToolz Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toolz-1.1.0.tar.gz",
+  "download_time": "2025-10-17T04:19:12.157291",
+  "package_url": "https://pypi.org/project/toolz/"
+}
