@@ -1,36 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T21:29:27.172920
-- **Total Packages**: 84
-- **Total Size**: 0.96 MB
+- **Download Time**: 2025-10-17T21:39:16.566351
+- **Total Packages**: 90
+- **Total Size**: 0.01 MB
 
 ## Packages List
-- wdlc
-- hpackage
-- goldenpotato888
-- azureml-assets
-- exa-cli
-- agentic-context-engineering
-- api-pipedrive-python
-- asndb
-- circular-import-detector
-- LaraQueue
-- savic
-- athena-intelligence
-- deepagents
-- ejd
-- arcade-brightdata
-- tsp_cw
-- deltaglider
-- terrascope-api
-- openmed
-- geomux
-- ipachecker
-- samplehc
-- PyQtPaint
-- terminusgps-notifications
-- choreographer
 - selenium
 - chart-studio-figlinq
 - mesh-sync-worker-backend-client
@@ -38,8 +13,10 @@
 - async-kernel
 - make-mlops-easy
 - funpayparsers
+- agentic-context-engineering
 - nwp500-python
 - dycomutils
+- circular-import-detector
 - mlso-api-client
 - saptiva-agents
 - duckplus
@@ -67,6 +44,7 @@
 - docs2markdown
 - psann
 - mcp-sqlalchemy
+- ejd
 - dashai-deepseek-model-package
 - tensorzero
 - hyperliquid-python-sdk
@@ -88,5 +66,33 @@
 - pip-size
 - tobiko-cloud-helpers
 - tobiko-cloud-api-client
+- LaraQueue
 - formforge
 - orb-billing
+- madsci.experiment_application
+- madsci.data_manager
+- madsci.workcell_manager
+- madsci.experiment_manager
+- madsci.resource_manager
+- madsci.event_manager
+- madsci.node_module
+- madsci.client
+- madsci.common
+- pycatima
+- standardbots
+- linkguard
+- kintera
+- deltafi
+- freeplay-python-langgraph
+- eelbrain
+- karellen-llvm-toolchain-tools
+- beyondtrust-bips-cli
+- karellen-llvm-lldb
+- mlserve-sdk
+- mkmapdiary
+- fnschool
+- azure-communication-email
+- dynamic-bitmap
+- atproto_jetstream
+- tt-flash
+- policyengine-us
