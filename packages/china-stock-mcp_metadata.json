@@ -1,0 +1,11 @@
+{
+  "name": "china-stock-mcp",
+  "version": "0.1.15",
+  "summary": "MCP server that provides access to Chinese stock market data using akshare",
+  "author": "postback",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "china_stock_mcp-0.1.15.tar.gz",
+  "download_time": "2025-10-17T07:50:29.479269",
+  "package_url": "https://pypi.org/project/china-stock-mcp/"
+}

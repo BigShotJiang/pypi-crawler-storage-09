@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mrp-component-operation-scrap-reason",
+  "version": "17.0.1.0.1",
+  "summary": "Allows to pass a reason to scrap with MRP component operation",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture",
+  "download_filename": "odoo_addon_mrp_component_operation_scrap_reason-17.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-10-17T07:50:26.562240",
+  "package_url": "https://pypi.org/project/odoo-addon-mrp-component-operation-scrap-reason/"
+}

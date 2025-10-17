@@ -1,11 +1,11 @@
 {
   "name": "pyvisual",
-  "version": "0.64",
+  "version": "0.65",
   "summary": "A Python GUI Creator for Humans",
   "author": "Murtaza Hassan",
   "license": "MIT",
   "home_page": "https://github.com/user/reponame",
-  "download_filename": "pyvisual-0.64.tar.gz",
-  "download_time": "2025-10-17T06:48:06.574087",
+  "download_filename": "pyvisual-0.65.tar.gz",
+  "download_time": "2025-10-17T07:50:56.285852",
   "package_url": "https://pypi.org/project/pyvisual/"
 }

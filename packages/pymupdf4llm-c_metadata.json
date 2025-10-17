@@ -1,0 +1,11 @@
+{
+  "name": "pymupdf4llm-c",
+  "version": "1.0.0",
+  "summary": "C-backed PDF to Markdown conversion with Python fallbacks",
+  "author": "PyMuPDF4LLM Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymupdf4llm_c-1.0.0.tar.gz",
+  "download_time": "2025-10-17T07:50:56.860078",
+  "package_url": "https://pypi.org/project/pymupdf4llm-c/"
+}

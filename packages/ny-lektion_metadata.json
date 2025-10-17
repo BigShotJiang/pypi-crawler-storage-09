@@ -1,0 +1,11 @@
+{
+  "name": "ny-lektion",
+  "version": "1.0.0",
+  "summary": "A simple CLI tool to scaffold new lektion projects",
+  "author": "Sam Parsakian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ny_lektion-1.0.0.tar.gz",
+  "download_time": "2025-10-17T07:50:52.257435",
+  "package_url": "https://pypi.org/project/ny-lektion/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "charmlibs-nginx-k8s",
+  "version": "0.0.1.post0",
+  "summary": "Nginx sidecar container abstractions for k8s charms.",
+  "author": "The Observability team at Canonical Ltd.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "charmlibs_nginx_k8s-0.0.1.post0.tar.gz",
+  "download_time": "2025-10-17T07:50:53.410822",
+  "package_url": "https://pypi.org/project/charmlibs-nginx-k8s/"
+}
