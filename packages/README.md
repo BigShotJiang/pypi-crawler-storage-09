@@ -1,20 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T22:33:05.859904
-- **Total Packages**: 77
-- **Total Size**: 14.55 MB
+- **Download Time**: 2025-10-17T22:50:30.097977
+- **Total Packages**: 84
+- **Total Size**: 11.74 MB
 
 ## Packages List
+- sbase
+- basecase
+- audio-transcriber
+- pytest-seleniumbase
+- pytest-sbase
+- selenium-base
+- solarmoonpy
+- pypearl
+- mlens-proto
+- streamshatter
+- LaraQueue
+- xpublish-tiles
+- seleniumbase
+- equiboots
+- cxc-toolkit
+- simple_duck_ml
+- abm
+- tunnel-manager
+- assemblyai
+- wdlc
+- dosview
+- payi
+- python-snake-game
+- kaqing
+- dbbasic-forms
+- tiled-viewer
+- aws-advanced-python-wrapper
+- unpage
+- nomenklatura-mpt
+- bbcstyle
+- taguette
+- ray-log-notebook
+- machineconfig
+- jack-social-checker
+- vcp-cli
+- geolysis
 - linkture
 - PyQtPaint
 - nitpick
 - searxng-mcp
 - azurepg-entra
-- wdlc
 - multidimio
 - shandy-sqlfmt
-- tunnel-manager
 - vector-mcp
 - pyatmoweb
 - servicenow-api
@@ -23,7 +57,6 @@
 - fan-manager
 - google-cloud-mldiagnostics
 - media-downloader
-- audio-transcriber
 - container-manager-mcp
 - repository-manager
 - neural-optimiser
@@ -31,10 +64,8 @@
 - ansible-tower-mcp
 - nvidia-dali-nightly-cuda130
 - flyteplugins-pytorch
-- LaraQueue
 - promptius-gui-schema
 - flyteplugins-spark
-- pypearl
 - flyteplugins-openai
 - flyte
 - flyteplugins-ray
@@ -52,7 +83,6 @@
 - esentity
 - neuroconv
 - ev2gym
-- nomenklatura-mpt
 - nubrain
 - panoptes-utils
 - keba-keenergy-api
@@ -60,26 +90,3 @@
 - unilogging
 - JACK463shsjdjdjd
 - resolvematrix
-- rtpsynth
-- lzokay
-- sdv
-- sgtlib
-- flet-charts
-- lib-log-rich
-- regula-documentreader-webclient
-- nominal-api-protos
-- nominal-api
-- catocli
-- asgi-logging-middleware
-- msgflux
-- healthdatalayer
-- osiris-utils
-- fluidattacks-sifts
-- experiment_server
-- vectome
-- aind-dynamic-foraging-multisession-analysis
-- NEMO-CE
-- noqa-runner
-- bioio-conversion
-- smoosense
-- thants

@@ -1,11 +1,11 @@
 {
   "name": "nomenklatura-mpt",
-  "version": "4.1.20",
+  "version": "4.1.21",
   "summary": "Make record linkages in followthemoney data.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nomenklatura_mpt-4.1.20.tar.gz",
-  "download_time": "2025-10-17T22:32:49.440747",
+  "download_filename": "nomenklatura_mpt-4.1.21.tar.gz",
+  "download_time": "2025-10-17T22:50:00.384737",
   "package_url": "https://pypi.org/project/nomenklatura-mpt/"
 }

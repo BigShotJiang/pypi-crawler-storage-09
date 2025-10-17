@@ -1,0 +1,11 @@
+{
+  "name": "dbbasic-forms",
+  "version": "1.0.0",
+  "summary": "A git-friendly form builder using TSV storage",
+  "author": "AskRobots Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbbasic_forms-1.0.0.tar.gz",
+  "download_time": "2025-10-17T22:49:58.283183",
+  "package_url": "https://pypi.org/project/dbbasic-forms/"
+}

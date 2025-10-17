@@ -1,0 +1,11 @@
+{
+  "name": "aws-advanced-python-wrapper",
+  "version": "1.4.0",
+  "summary": "Amazon Web Services (AWS) Advanced Python Wrapper",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/awslabs/aws-advanced-python-wrapper",
+  "download_filename": "aws_advanced_python_wrapper-1.4.0.tar.gz",
+  "download_time": "2025-10-17T22:49:59.337885",
+  "package_url": "https://pypi.org/project/aws-advanced-python-wrapper/"
+}

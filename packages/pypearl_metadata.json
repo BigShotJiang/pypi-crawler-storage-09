@@ -1,11 +1,11 @@
 {
   "name": "pypearl",
-  "version": "0.6.5",
+  "version": "0.6.11",
   "summary": "An efficient Machine Learning Library",
   "author": "Brody Massad",
   "license": null,
   "home_page": null,
-  "download_filename": "pypearl-0.6.5.tar.gz",
-  "download_time": "2025-10-17T22:32:40.160136",
+  "download_filename": "pypearl-0.6.11.tar.gz",
+  "download_time": "2025-10-17T22:49:49.268141",
   "package_url": "https://pypi.org/project/pypearl/"
 }
