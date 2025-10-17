@@ -1,0 +1,11 @@
+{
+  "name": "dgraph-flex",
+  "version": "0.1.11",
+  "summary": "A package for working with directed graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dgraph_flex-0.1.11.tar.gz",
+  "download_time": "2025-10-17T03:48:19.390959",
+  "package_url": "https://pypi.org/project/dgraph-flex/"
+}
