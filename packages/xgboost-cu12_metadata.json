@@ -1,0 +1,11 @@
+{
+  "name": "xgboost-cu12",
+  "version": "3.1.0",
+  "summary": "XGBoost Python Package",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xgboost_cu12-3.1.0.tar.gz",
+  "download_time": "2025-10-17T23:38:07.866773",
+  "package_url": "https://pypi.org/project/xgboost-cu12/"
+}

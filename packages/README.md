@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T23:29:01.366407
+- **Download Time**: 2025-10-17T23:38:42.272933
 - **Total Packages**: 81
-- **Total Size**: 28.72 MB
+- **Total Size**: 14.3 MB
 
 ## Packages List
+- prowlpy
+- usos-bridge
+- modelsignature
+- jacobi-motion
+- storyteller-ai
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- cuda-cccl
+- exoanchor
+- dcisionai-mcp-server
+- repolish
+- usesend
+- voicellm
+- synth-ai
+- lazy-socket
+- xgboost-cu12
+- xgboost-cpu
 - xgboost
 - speechmatics-voice
 - pyams-auth-apikey
@@ -48,7 +66,6 @@
 - NREL-elm
 - bookmark-tk
 - astlab
-- usos-bridge
 - rustybt
 - pepmatch
 - pyncette
@@ -70,20 +87,3 @@
 - basecase
 - audio-transcriber
 - pytest-seleniumbase
-- pytest-sbase
-- selenium-base
-- solarmoonpy
-- mlens-proto
-- streamshatter
-- LaraQueue
-- xpublish-tiles
-- seleniumbase
-- equiboots
-- cxc-toolkit
-- simple_duck_ml
-- abm
-- tunnel-manager
-- assemblyai
-- dosview
-- payi
-- kaqing
