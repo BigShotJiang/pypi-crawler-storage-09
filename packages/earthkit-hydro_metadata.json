@@ -1,0 +1,11 @@
+{
+  "name": "earthkit-hydro",
+  "version": "1.1.0",
+  "summary": "A Python library for common hydrological functions",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "earthkit_hydro-1.1.0.tar.gz",
+  "download_time": "2025-10-17T08:46:49.764326",
+  "package_url": "https://pypi.org/project/earthkit-hydro/"
+}

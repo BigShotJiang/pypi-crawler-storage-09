@@ -1,0 +1,11 @@
+{
+  "name": "dbbasic-tsv",
+  "version": "1.0.2",
+  "summary": "A pure-Python, filesystem-based database using TSV files",
+  "author": "AskRobots Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/askrobots/dbbasic-tsv",
+  "download_filename": "dbbasic_tsv-1.0.2.tar.gz",
+  "download_time": "2025-10-17T08:46:20.706965",
+  "package_url": "https://pypi.org/project/dbbasic-tsv/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nb-path",
+  "version": "1.9",
+  "summary": "一个赋予文件系统操作超能力的 Python 路径库",
+  "author": "ydf0509",
+  "license": null,
+  "home_page": "https://github.com/ydf0509/nb_path",
+  "download_filename": "nb-path-1.9.tar.gz",
+  "download_time": "2025-10-17T08:46:16.086067",
+  "package_url": "https://pypi.org/project/nb-path/"
+}

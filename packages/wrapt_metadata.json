@@ -1,0 +1,11 @@
+{
+  "name": "wrapt",
+  "version": "1.17.3",
+  "summary": "Module for decorators, wrappers and monkey patching.",
+  "author": "Graham Dumpleton",
+  "license": "BSD",
+  "home_page": "https://github.com/GrahamDumpleton/wrapt",
+  "download_filename": "wrapt-1.17.3.tar.gz",
+  "download_time": "2025-10-17T08:46:45.108301",
+  "package_url": "https://pypi.org/project/wrapt/"
+}

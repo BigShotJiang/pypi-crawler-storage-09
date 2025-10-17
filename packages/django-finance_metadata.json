@@ -1,0 +1,11 @@
+{
+  "name": "django-finance",
+  "version": "0.1",
+  "summary": "Deadly simple and easy to use money split app.",
+  "author": "Thomas Leichtfuß",
+  "license": "BSD License",
+  "home_page": "https://github.com/thomst/django-finance",
+  "download_filename": "django_finance-0.1.tar.gz",
+  "download_time": "2025-10-17T08:46:08.817263",
+  "package_url": "https://pypi.org/project/django-finance/"
+}

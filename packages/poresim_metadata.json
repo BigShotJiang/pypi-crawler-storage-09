@@ -1,0 +1,11 @@
+{
+  "name": "poresim",
+  "version": "0.3.0",
+  "summary": "Pore system simulation generator.",
+  "author": "Hamzeh Kraus",
+  "license": null,
+  "home_page": "https://github.com/PoreMS/PoreSim",
+  "download_filename": "poresim-0.3.0.tar.gz",
+  "download_time": "2025-10-17T08:46:32.645154",
+  "package_url": "https://pypi.org/project/poresim/"
+}

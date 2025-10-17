@@ -1,11 +1,11 @@
 {
   "name": "flash-softdtw",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flash_softdtw-0.1.8-cp310-cp310-manylinux_2_34_x86_64.whl",
-  "download_time": "2025-10-16T13:47:39.429052",
+  "download_filename": "flash_softdtw-0.1.9-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-10-17T08:46:07.791590",
   "package_url": "https://pypi.org/project/flash-softdtw/"
 }

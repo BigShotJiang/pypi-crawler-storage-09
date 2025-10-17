@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-es-pos-sii",
+  "version": "16.0.2.1.2",
+  "summary": "Envío de pedidos del TPV al SII",
+  "author": "Aures Tic, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-spain",
+  "download_filename": "odoo_addon_l10n_es_pos_sii-16.0.2.1.2-py3-none-any.whl",
+  "download_time": "2025-10-17T08:46:19.174186",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-es-pos-sii/"
+}

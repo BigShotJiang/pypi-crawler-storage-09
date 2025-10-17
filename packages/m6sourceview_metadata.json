@@ -1,11 +1,11 @@
 {
   "name": "m6sourceview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Python package for MORET6 fission source visualization in criticality mode",
   "author": "Wilfried Monange",
   "license": null,
   "home_page": null,
-  "download_filename": "m6sourceview-1.0.0-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2025-10-16T07:19:25.020299",
+  "download_filename": "m6sourceview-1.0.1-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-17T08:46:22.270968",
   "package_url": "https://pypi.org/project/m6sourceview/"
 }

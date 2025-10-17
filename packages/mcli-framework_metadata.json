@@ -1,11 +1,11 @@
 {
   "name": "mcli-framework",
-  "version": "7.8.0",
-  "summary": "🚀 High-performance CLI framework with Rust extensions, AI chat, and stunning visuals",
+  "version": "7.8.2",
+  "summary": "Portable workflow framework - transform any script into a versioned, schedulable command. Store in ~/.mcli/commands/, version with lockfile, run as daemon or cron job.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcli_framework-7.8.0.tar.gz",
-  "download_time": "2025-10-16T11:28:25.520879",
+  "download_filename": "mcli_framework-7.8.2-py3-none-any.whl",
+  "download_time": "2025-10-17T08:46:45.626263",
   "package_url": "https://pypi.org/project/mcli-framework/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "jurispacy-tokenizer",
+  "version": "1.2.0",
+  "summary": "Flair tokenizer adapted to French court decisions using spacy tokenization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jurispacy_tokenizer-1.2.0.tar.gz",
+  "download_time": "2025-10-17T08:46:16.597321",
+  "package_url": "https://pypi.org/project/jurispacy-tokenizer/"
+}

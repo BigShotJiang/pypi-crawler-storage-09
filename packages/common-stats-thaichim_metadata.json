@@ -1,11 +1,11 @@
 {
   "name": "common-stats-thaichim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A simple library for basic statistical calculations",
   "author": "Nawawan Thaichim",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "common_stats_thaichim-0.0.1.tar.gz",
-  "download_time": "2025-10-17T03:25:52.808609",
+  "download_filename": "common_stats_thaichim-0.0.2.tar.gz",
+  "download_time": "2025-10-17T08:46:30.505788",
   "package_url": "https://pypi.org/project/common-stats-thaichim/"
 }

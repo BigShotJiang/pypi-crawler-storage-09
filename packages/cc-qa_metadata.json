@@ -1,0 +1,11 @@
+{
+  "name": "cc-qa",
+  "version": "0.2.1",
+  "summary": "QA based on compliance-checker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cc_qa-0.2.1.tar.gz",
+  "download_time": "2025-10-17T08:46:34.177523",
+  "package_url": "https://pypi.org/project/cc-qa/"
+}
