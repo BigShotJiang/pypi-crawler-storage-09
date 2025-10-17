@@ -1,0 +1,11 @@
+{
+  "name": "tiny-thermal-camera",
+  "version": "1.0.0",
+  "summary": "Python bindings for P2/Tiny1C thermal camera SDK",
+  "author": "Thermal Camera Python Bindings",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiny_thermal_camera-1.0.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-10-17T17:15:54.765018",
+  "package_url": "https://pypi.org/project/tiny-thermal-camera/"
+}

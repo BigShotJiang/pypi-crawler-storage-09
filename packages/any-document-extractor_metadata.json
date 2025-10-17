@@ -1,11 +1,11 @@
 {
   "name": "any-document-extractor",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Python library for extracting text content from any document format.",
   "author": "yeqing",
   "license": null,
-  "home_page": null,
-  "download_filename": "any_document_extractor-0.1.2.tar.gz",
-  "download_time": "2025-10-17T12:51:46.724534",
+  "home_page": "https://github.com/yeqing215777/any-document-extractor",
+  "download_filename": "any_document_extractor-0.1.3.tar.gz",
+  "download_time": "2025-10-17T17:16:03.653077",
   "package_url": "https://pypi.org/project/any-document-extractor/"
 }

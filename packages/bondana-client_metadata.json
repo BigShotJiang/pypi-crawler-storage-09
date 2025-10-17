@@ -1,0 +1,11 @@
+{
+  "name": "bondana-client",
+  "version": "2025.10.17171328",
+  "summary": "Unofficial T-Bank wrapper",
+  "author": "Mixolap",
+  "license": null,
+  "home_page": "https://github.com/Mixolap/bondana_client",
+  "download_filename": "bondana_client-2025.10.17171328.tar.gz",
+  "download_time": "2025-10-17T17:15:27.333127",
+  "package_url": "https://pypi.org/project/bondana-client/"
+}

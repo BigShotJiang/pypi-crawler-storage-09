@@ -1,11 +1,11 @@
 {
   "name": "supercode",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "A simple script interpreter",
   "author": "王子毅",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "supercode-2.0.0.tar.gz",
-  "download_time": "2025-10-17T16:19:41.978669",
+  "download_filename": "supercode-2.1.0.tar.gz",
+  "download_time": "2025-10-17T17:16:03.076319",
   "package_url": "https://pypi.org/project/supercode/"
 }
