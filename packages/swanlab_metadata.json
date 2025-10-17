@@ -1,0 +1,11 @@
+{
+  "name": "swanlab",
+  "version": "0.6.12",
+  "summary": "Python library for streamlined tracking and management of AI training processes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swanlab-0.6.12.tar.gz",
+  "download_time": "2025-10-17T05:33:31.674417",
+  "package_url": "https://pypi.org/project/swanlab/"
+}

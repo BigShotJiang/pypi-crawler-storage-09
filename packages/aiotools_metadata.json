@@ -1,0 +1,11 @@
+{
+  "name": "aiotools",
+  "version": "2.2.2",
+  "summary": "Idiomatic asyncio utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiotools-2.2.2.tar.gz",
+  "download_time": "2025-10-17T05:33:34.296653",
+  "package_url": "https://pypi.org/project/aiotools/"
+}

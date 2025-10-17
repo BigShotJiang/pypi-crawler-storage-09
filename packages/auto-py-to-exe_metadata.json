@@ -1,0 +1,11 @@
+{
+  "name": "auto-py-to-exe",
+  "version": "2.48.1",
+  "summary": "Converts .py to .exe using a simple graphical interface.",
+  "author": "Brent Vollebregt",
+  "license": "MIT",
+  "home_page": "https://github.com/brentvollebregt/auto-py-to-exe",
+  "download_filename": "auto_py_to_exe-2.48.1.tar.gz",
+  "download_time": "2025-10-17T05:33:28.548966",
+  "package_url": "https://pypi.org/project/auto-py-to-exe/"
+}

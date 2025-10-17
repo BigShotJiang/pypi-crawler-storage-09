@@ -1,11 +1,11 @@
 {
   "name": "mlog-util",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mlog_util-0.1.5.tar.gz",
-  "download_time": "2025-10-17T03:47:57.951489",
+  "download_filename": "mlog_util-0.1.6.tar.gz",
+  "download_time": "2025-10-17T05:33:44.410876",
   "package_url": "https://pypi.org/project/mlog-util/"
 }
