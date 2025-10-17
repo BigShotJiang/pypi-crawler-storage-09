@@ -1,11 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T04:42:48.465512
+- **Download Time**: 2025-10-17T04:51:30.456970
 - **Total Packages**: 78
-- **Total Size**: 11.46 MB
+- **Total Size**: 1.98 MB
 
 ## Packages List
+- fujielab-audio-mcnr-input
+- iamdata
+- agentcrew-ai
 - robotframework-schemathesislibrary
 - amitysolutions.dolphin-mcp
 - tinyai-memory
@@ -81,6 +84,3 @@
 - passagemath-doc-html
 - odoo-addon-fetchmail-attach-from-folder
 - passagemath-database-stein-watkins
-- passagemath-database-polytopes-4d
-- passagemath-database-cremona-ellcurve
-- odoo-addon-autovacuum-message-attachment

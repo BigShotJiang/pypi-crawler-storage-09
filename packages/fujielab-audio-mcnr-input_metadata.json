@@ -1,0 +1,11 @@
+{
+  "name": "fujielab-audio-mcnr-input",
+  "version": "0.1.1",
+  "summary": "Multi channel noise reduction based echo cancelling audio input stream",
+  "author": "Shinya Fujie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fujielab_audio_mcnr_input-0.1.1.tar.gz",
+  "download_time": "2025-10-17T04:50:47.717965",
+  "package_url": "https://pypi.org/project/fujielab-audio-mcnr-input/"
+}

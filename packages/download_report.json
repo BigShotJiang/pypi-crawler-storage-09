@@ -1,8 +1,11 @@
 {
-  "download_time": "2025-10-17T04:42:48.465512",
+  "download_time": "2025-10-17T04:51:30.456970",
   "total_packages_downloaded": 78,
-  "total_size_mb": 11.46,
+  "total_size_mb": 1.98,
   "packages": [
+    "fujielab-audio-mcnr-input",
+    "iamdata",
+    "agentcrew-ai",
     "robotframework-schemathesislibrary",
     "amitysolutions.dolphin-mcp",
     "tinyai-memory",
@@ -77,9 +80,6 @@
     "passagemath-doc-pdf",
     "passagemath-doc-html",
     "odoo-addon-fetchmail-attach-from-folder",
-    "passagemath-database-stein-watkins",
-    "passagemath-database-polytopes-4d",
-    "passagemath-database-cremona-ellcurve",
-    "odoo-addon-autovacuum-message-attachment"
+    "passagemath-database-stein-watkins"
   ]
 }
