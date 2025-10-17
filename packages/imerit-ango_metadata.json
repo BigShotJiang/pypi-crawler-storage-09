@@ -1,11 +1,11 @@
 {
   "name": "imerit-ango",
-  "version": "1.3.44",
+  "version": "1.3.45",
   "summary": "Ango-Hub SDK",
   "author": "Faruk Karakaya",
   "license": null,
   "home_page": null,
-  "download_filename": "imerit_ango-1.3.44-py3-none-any.whl",
-  "download_time": "2025-10-17T09:17:23.675462",
+  "download_filename": "imerit_ango-1.3.45-py3-none-any.whl",
+  "download_time": "2025-10-17T18:45:59.896779",
   "package_url": "https://pypi.org/project/imerit-ango/"
 }

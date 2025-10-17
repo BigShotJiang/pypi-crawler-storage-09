@@ -1,0 +1,11 @@
+{
+  "name": "adzerk-decision-sdk",
+  "version": "1.0.0b19",
+  "summary": "Adzerk Decision SDK",
+  "author": "Adzerk",
+  "license": null,
+  "home_page": "https://github.com/adzerk/adzerk-decision-sdk-python",
+  "download_filename": "adzerk_decision_sdk-1.0.0b19.tar.gz",
+  "download_time": "2025-10-17T18:46:02.430415",
+  "package_url": "https://pypi.org/project/adzerk-decision-sdk/"
+}

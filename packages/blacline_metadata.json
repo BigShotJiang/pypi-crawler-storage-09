@@ -1,0 +1,11 @@
+{
+  "name": "blacline",
+  "version": "0.1.1",
+  "summary": "A Python package for bus scheduling, crew management, and timetable generation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blacline-0.1.1.tar.gz",
+  "download_time": "2025-10-17T18:45:39.222894",
+  "package_url": "https://pypi.org/project/blacline/"
+}

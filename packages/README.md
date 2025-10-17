@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T18:20:53.706792
-- **Total Packages**: 90
-- **Total Size**: 25.66 MB
+- **Download Time**: 2025-10-17T18:46:31.247697
+- **Total Packages**: 93
+- **Total Size**: 11.05 MB
 
 ## Packages List
+- duckplus
+- tsp_cw
+- glomos
+- vercel
+- odoo-addon-l10n-br-fiscal
+- omni-epix
+- sportsball
+- blacline
+- abstract-utilities
+- video-fft
+- onymancer
+- scenecut-extractor
+- griptape-nodes
+- h26x-extractor
+- Treeed
+- fppull
+- ffmpeg-quality-metrics
+- ffmpeg-progress-yield
+- ffmpeg-normalize
+- ffmpeg-black-split
+- radex-booking
+- skale-watchdog-client
+- pydantic-gitlab-webhooks
+- ffmpeg-bitrate-stats
+- anysync
+- sagemaker-studio-dataengineering-extensions
+- sagemaker-studio-dataengineering-sessions
+- oh-my-git-agent
+- tiledb-cloud
+- tinfoil
+- pyfreeproxy
+- massgen
+- copier
+- xatra
+- netron
+- pulpcore.client.pulpcore
+- riddhulib
+- defity
+- imerit-ango
+- ango
+- whisper-ui
+- anyenv
+- adzerk-decision-sdk
+- xsection
+- apppolicy-scanner
+- forteenall-kit
+- scc-firewall-manager-sdk
+- fvgp
 - mcpstore
 - athena-intelligence
 - pyavd
@@ -33,7 +81,6 @@
 - venvy
 - nomenklatura-mpt
 - blooio
-- tsp_cw
 - coiled
 - balderhub-html
 - cc-liquid
@@ -52,47 +99,3 @@
 - dbbasic-web
 - agilab
 - loxodo-curses
-- whisper-ui
-- rdfhelpers
-- apppolicy-scanner
-- pyodbc
-- parslet
-- torchness
-- stripe
-- aegon
-- eizon
-- collab-tunnel
-- pylacus
-- bizteamai-smcp-biz
-- bizteamai-smcp
-- snkmt
-- dbbasic-accounts
-- antonnia-events
-- psann
-- kaio
-- configium
-- projectaria-gen2-pilot-dataset
-- canvas-mcp
-- lmstudio
-- oh-my-git-agent
-- glomos
-- eizon-lib
-- pulpcore.client.pulpcore
-- runpodmanager
-- docktdeep
-- test-package293202
-- qcs-sdk-python-grpc-web
-- blueprint-kit
-- odoo-addon-l10n-br-fiscal
-- balderhub-selenium
-- zlang
-- rubin-repertoire
-- maliput-malidrive
-- maliput
-- sqliteai-vector
-- ut-log
-- rediacc
-- feed-ursus
-- philh_myftp_biz
-- agilicus
-- schemathesis

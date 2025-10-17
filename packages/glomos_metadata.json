@@ -1,11 +1,11 @@
 {
   "name": "glomos",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "GLobal Optimization of MOlecular Systems",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glomos-0.0.8.tar.gz",
-  "download_time": "2025-10-17T18:00:43.787805",
+  "download_filename": "glomos-0.0.9.tar.gz",
+  "download_time": "2025-10-17T18:45:35.881103",
   "package_url": "https://pypi.org/project/glomos/"
 }
