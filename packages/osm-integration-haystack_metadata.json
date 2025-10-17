@@ -1,11 +1,11 @@
 {
   "name": "osm-integration-haystack",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "A Haystack component integrating Overpass API for OpenStreetMap",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "osm_integration_haystack-0.1.10.tar.gz",
-  "download_time": "2025-10-17T15:51:02.203189",
+  "download_filename": "osm_integration_haystack-0.1.11.tar.gz",
+  "download_time": "2025-10-17T19:26:08.688076",
   "package_url": "https://pypi.org/project/osm-integration-haystack/"
 }
