@@ -1,0 +1,11 @@
+{
+  "name": "bikram",
+  "version": "2.1.4",
+  "summary": "Utilities to work with Bikram/Vikram Samwat dates.",
+  "author": null,
+  "license": "MIT license",
+  "home_page": "https://github.com/aerawatcorp/bikram",
+  "download_filename": "bikram-2.1.4.tar.gz",
+  "download_time": "2025-10-17T09:17:56.675375",
+  "package_url": "https://pypi.org/project/bikram/"
+}

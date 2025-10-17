@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website-snippet-country-dropdown",
+  "version": "18.0.1.0.1",
+  "summary": "Allow to select country in a dropdown",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/website",
+  "download_filename": "odoo_addon_website_snippet_country_dropdown-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-10-17T09:18:00.257394",
+  "package_url": "https://pypi.org/project/odoo-addon-website-snippet-country-dropdown/"
+}

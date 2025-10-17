@@ -1,0 +1,11 @@
+{
+  "name": "dsstools",
+  "version": "0.11.2",
+  "summary": "An opiniated wrapper around NetworkX to help with drawing and positioning.",
+  "author": "David Seseke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsstools-0.11.2.tar.gz",
+  "download_time": "2025-10-17T09:17:31.916452",
+  "package_url": "https://pypi.org/project/dsstools/"
+}

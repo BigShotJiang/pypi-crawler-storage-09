@@ -1,0 +1,11 @@
+{
+  "name": "openwind",
+  "version": "0.12.3",
+  "summary": "Open source library to design wind instruments",
+  "author": "Inria",
+  "license": "GPLv3",
+  "home_page": "https://files.inria.fr/openwind/docs",
+  "download_filename": "openwind-0.12.3.tar.gz",
+  "download_time": "2025-10-17T09:17:35.472719",
+  "package_url": "https://pypi.org/project/openwind/"
+}

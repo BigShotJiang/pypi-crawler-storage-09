@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail_server_filter",
+  "version": "18.0.1.0.0.10",
+  "summary": "Filter outgoing and incoming mail server by database name.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_mail_server_filter-18.0.1.0.0.10-py3-none-any.whl",
+  "download_time": "2025-10-17T09:17:49.495032",
+  "package_url": "https://pypi.org/project/odoo-addon-mail_server_filter/"
+}

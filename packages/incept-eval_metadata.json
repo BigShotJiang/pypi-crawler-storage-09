@@ -1,11 +1,11 @@
 {
   "name": "incept-eval",
-  "version": "2.0.0",
-  "summary": "Local CLI tool for evaluating educational questions with comprehensive AI-powered assessment",
+  "version": "2.1.2",
+  "summary": "Standalone CLI tool for evaluating educational questions with comprehensive AI-powered assessment",
   "author": "Incept Team",
   "license": "MIT",
   "home_page": "https://github.com/incept-ai/incept-eval",
-  "download_filename": "incept_eval-2.0.0.tar.gz",
-  "download_time": "2025-10-16T14:43:37.949111",
+  "download_filename": "incept_eval-2.1.2-py3-none-any.whl",
+  "download_time": "2025-10-17T09:17:26.249434",
   "package_url": "https://pypi.org/project/incept-eval/"
 }

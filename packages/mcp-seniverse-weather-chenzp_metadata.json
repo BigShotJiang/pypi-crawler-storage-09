@@ -1,11 +1,11 @@
 {
   "name": "mcp-seniverse-weather-chenzp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Weather Forecast MCP Server Fowered by Seniverse",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_seniverse_weather_chenzp-1.0.0.tar.gz",
-  "download_time": "2025-10-17T03:26:11.930570",
+  "download_filename": "mcp_seniverse_weather_chenzp-1.0.1.tar.gz",
+  "download_time": "2025-10-17T09:17:34.454551",
   "package_url": "https://pypi.org/project/mcp-seniverse-weather-chenzp/"
 }
