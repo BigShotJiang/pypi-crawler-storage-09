@@ -1,0 +1,11 @@
+{
+  "name": "datasette-mailto-links",
+  "version": "0.3.0",
+  "summary": "Datasette plugin to render email addresses as mailto: links",
+  "author": "chris48s",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_mailto_links-0.3.0.tar.gz",
+  "download_time": "2025-10-17T17:31:23.354047",
+  "package_url": "https://pypi.org/project/datasette-mailto-links/"
+}

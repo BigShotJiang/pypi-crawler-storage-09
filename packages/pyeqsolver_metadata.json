@@ -1,11 +1,11 @@
 {
   "name": "pyeqsolver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Python package for solving linear equations and performing 2x2 and 3x3 matrix operations",
   "author": "Hammail Riaz",
   "license": "MIT",
   "home_page": "https://github.com/Hammail-Riaz/pyeqsolver",
-  "download_filename": "pyeqsolver-1.0.0.tar.gz",
-  "download_time": "2025-10-16T14:44:18.806049",
+  "download_filename": "pyeqsolver-1.0.1.tar.gz",
+  "download_time": "2025-10-17T17:31:24.379871",
   "package_url": "https://pypi.org/project/pyeqsolver/"
 }

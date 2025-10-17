@@ -1,11 +1,11 @@
 {
   "name": "llama-stack-provider-ragas",
-  "version": "0.3.5",
+  "version": "0.4.1",
   "summary": "Ragas evaluation as an out-of-tree Llama Stack provider",
   "author": "Trusty AI Team",
   "license": null,
   "home_page": null,
-  "download_filename": "llama_stack_provider_ragas-0.3.5.tar.gz",
-  "download_time": "2025-10-16T14:16:24.638497",
+  "download_filename": "llama_stack_provider_ragas-0.4.1.tar.gz",
+  "download_time": "2025-10-17T17:30:59.537758",
   "package_url": "https://pypi.org/project/llama-stack-provider-ragas/"
 }

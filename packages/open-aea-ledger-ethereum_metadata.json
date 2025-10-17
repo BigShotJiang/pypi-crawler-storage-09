@@ -1,0 +1,11 @@
+{
+  "name": "open-aea-ledger-ethereum",
+  "version": "2.0.7",
+  "summary": "Python package wrapping the public and private key cryptography and ledger api of Ethereum.",
+  "author": "Valory AG",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "open_aea_ledger_ethereum-2.0.7.tar.gz",
+  "download_time": "2025-10-17T17:31:17.123004",
+  "package_url": "https://pypi.org/project/open-aea-ledger-ethereum/"
+}

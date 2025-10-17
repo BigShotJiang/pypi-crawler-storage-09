@@ -1,0 +1,11 @@
+{
+  "name": "materials-commons-cli",
+  "version": "2.1.8",
+  "summary": "Materials Commons CLI",
+  "author": "Materials Commons development team",
+  "license": "MIT",
+  "home_page": "https://materials-commons.github.io/materials-commons-cli/html/index.html",
+  "download_filename": "materials_commons_cli-2.1.8.tar.gz",
+  "download_time": "2025-10-17T17:31:09.422309",
+  "package_url": "https://pypi.org/project/materials-commons-cli/"
+}

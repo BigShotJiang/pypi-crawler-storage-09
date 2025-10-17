@@ -1,0 +1,11 @@
+{
+  "name": "xdis",
+  "version": "6.1.8",
+  "summary": "Python cross-version byte-code disassembler and marshal routines",
+  "author": "Rocky Bernstein, Hartmut Goebel and others",
+  "license": "GPL-2.0",
+  "home_page": "https://github.com/rocky/python-xdis/",
+  "download_filename": "xdis-6.1.8.tar.gz",
+  "download_time": "2025-10-17T17:31:28.553760",
+  "package_url": "https://pypi.org/project/xdis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "open-aea-ledger-solana",
+  "version": "2.0.7",
+  "summary": "Python package wrapping the public and private key cryptography and ledger api of solana.",
+  "author": "dassy23",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "open_aea_ledger_solana-2.0.7.tar.gz",
+  "download_time": "2025-10-17T17:31:14.040477",
+  "package_url": "https://pypi.org/project/open-aea-ledger-solana/"
+}
