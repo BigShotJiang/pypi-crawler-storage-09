@@ -1,11 +1,11 @@
 {
   "name": "glass.ext.pkdgrav",
-  "version": "0.1",
+  "version": "0.2",
   "summary": "GLASS extension for loading PKDGRAV simulations",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "glass_ext_pkdgrav-0.1.tar.gz",
-  "download_time": "2025-10-17T11:38:18.608109",
+  "download_filename": "glass_ext_pkdgrav-0.2.tar.gz",
+  "download_time": "2025-10-17T19:38:12.878207",
   "package_url": "https://pypi.org/project/glass.ext.pkdgrav/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pbi-mermaid",
+  "version": "0.4.0",
+  "summary": "Generate Mermaid Markdown Programmatically",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pbi_mermaid-0.4.0.tar.gz",
+  "download_time": "2025-10-17T19:38:03.474160",
+  "package_url": "https://pypi.org/project/pbi-mermaid/"
+}

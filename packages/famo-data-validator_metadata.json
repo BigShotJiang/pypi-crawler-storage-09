@@ -1,11 +1,11 @@
 {
   "name": "famo-data-validator",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Python data validation library with type hints and schema support",
   "author": "Famo",
   "license": null,
   "home_page": "https://github.com/famo-codes/data_validator",
-  "download_filename": "famo_data_validator-0.1.5.tar.gz",
-  "download_time": "2025-10-17T18:20:18.255891",
+  "download_filename": "famo_data_validator-0.1.6.tar.gz",
+  "download_time": "2025-10-17T19:38:00.802276",
   "package_url": "https://pypi.org/project/famo-data-validator/"
 }

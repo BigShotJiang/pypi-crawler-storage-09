@@ -1,0 +1,11 @@
+{
+  "name": "cfpsec",
+  "version": "1.5",
+  "summary": "CFPsec is a client program that retrieves the list of Call For Papers or/and upcoming Hacking/Security Conferences based on cfptime.org website.",
+  "author": "Alexandre Borges",
+  "license": "GNU GPL v3.0",
+  "home_page": "https://github.com/alexandreborges/cfpsec",
+  "download_filename": "cfpsec-1.5.tar.gz",
+  "download_time": "2025-10-17T19:38:05.551184",
+  "package_url": "https://pypi.org/project/cfpsec/"
+}

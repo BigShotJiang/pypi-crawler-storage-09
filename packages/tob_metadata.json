@@ -1,11 +1,11 @@
 {
   "name": "tob",
-  "version": "130",
+  "version": "131",
   "summary": "bot in reverse !",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tob-130.tar.gz",
-  "download_time": "2025-10-16T13:19:36.255427",
+  "download_filename": "tob-131.tar.gz",
+  "download_time": "2025-10-17T19:37:51.279612",
   "package_url": "https://pypi.org/project/tob/"
 }

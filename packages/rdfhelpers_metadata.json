@@ -1,11 +1,11 @@
 {
   "name": "rdfhelpers",
-  "version": "0.7.6",
+  "version": "0.7.7",
   "summary": "Useful stuff when programming with RDFLib",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rdfhelpers-0.7.6.tar.gz",
-  "download_time": "2025-10-17T18:20:31.128642",
+  "download_filename": "rdfhelpers-0.7.7.tar.gz",
+  "download_time": "2025-10-17T19:38:10.829626",
   "package_url": "https://pypi.org/project/rdfhelpers/"
 }
