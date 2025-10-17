@@ -1,0 +1,11 @@
+{
+  "name": "swiftgalaxy",
+  "version": "2.2.1",
+  "summary": "Code abstraction of objects (galaxies) in simulations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swiftgalaxy-2.2.1.tar.gz",
+  "download_time": "2025-10-17T21:14:03.160435",
+  "package_url": "https://pypi.org/project/swiftgalaxy/"
+}

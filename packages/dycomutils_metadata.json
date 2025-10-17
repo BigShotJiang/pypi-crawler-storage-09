@@ -1,11 +1,11 @@
 {
   "name": "dycomutils",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "CodeBase of important Functions",
   "author": "Devin De Silva",
   "license": null,
   "home_page": null,
-  "download_filename": "dycomutils-0.1.1.tar.gz",
-  "download_time": "2025-10-17T20:40:09.275532",
+  "download_filename": "dycomutils-0.1.2.tar.gz",
+  "download_time": "2025-10-17T21:13:59.029752",
   "package_url": "https://pypi.org/project/dycomutils/"
 }

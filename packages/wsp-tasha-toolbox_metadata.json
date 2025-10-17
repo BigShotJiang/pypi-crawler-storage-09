@@ -1,0 +1,11 @@
+{
+  "name": "wsp-tasha-toolbox",
+  "version": "0.1.4",
+  "summary": "Python tools for working with TASHA-based models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wsp_tasha_toolbox-0.1.4.tar.gz",
+  "download_time": "2025-10-17T21:14:12.449036",
+  "package_url": "https://pypi.org/project/wsp-tasha-toolbox/"
+}

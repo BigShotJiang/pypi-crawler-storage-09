@@ -1,0 +1,11 @@
+{
+  "name": "smart-importer",
+  "version": "1.2",
+  "summary": "Augment Beancount importers with machine learning functionality.",
+  "author": "Johannes Harms",
+  "license": "MIT",
+  "home_page": "https://github.com/beancount/smart_importer",
+  "download_filename": "smart_importer-1.2.tar.gz",
+  "download_time": "2025-10-17T21:14:17.237393",
+  "package_url": "https://pypi.org/project/smart-importer/"
+}
