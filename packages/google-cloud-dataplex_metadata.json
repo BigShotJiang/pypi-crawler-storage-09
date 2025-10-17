@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-dataplex",
+  "version": "2.13.0",
+  "summary": "Google Cloud Dataplex API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-dataplex",
+  "download_filename": "google_cloud_dataplex-2.13.0.tar.gz",
+  "download_time": "2025-10-17T02:41:00.444897",
+  "package_url": "https://pypi.org/project/google-cloud-dataplex/"
+}

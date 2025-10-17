@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-supplierinfo-update-qty-multiplier",
+  "version": "16.0.1.0.0.4",
+  "summary": "In the invoice Supplierinfo wizard, allow to change the Quantity Multiplier field",
+  "author": "GRAP,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_invoice_supplierinfo_update_qty_multiplier-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2025-10-17T02:40:34.079119",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-supplierinfo-update-qty-multiplier/"
+}

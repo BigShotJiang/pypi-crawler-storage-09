@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-build",
+  "version": "3.33.0",
+  "summary": "Google Cloud Build API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-build",
+  "download_filename": "google_cloud_build-3.33.0.tar.gz",
+  "download_time": "2025-10-17T02:41:18.792712",
+  "package_url": "https://pypi.org/project/google-cloud-build/"
+}

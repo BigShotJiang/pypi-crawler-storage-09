@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-eventarc-publishing",
+  "version": "0.8.0",
+  "summary": "Google Cloud Eventarc Publishing API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-eventarc-publishing",
+  "download_filename": "google_cloud_eventarc_publishing-0.8.0.tar.gz",
+  "download_time": "2025-10-17T02:40:49.732093",
+  "package_url": "https://pypi.org/project/google-cloud-eventarc-publishing/"
+}

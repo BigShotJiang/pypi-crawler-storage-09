@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-fiscal-year-closing",
+  "version": "18.0.1.0.0.7",
+  "summary": "Generic fiscal year closing wizard",
+  "author": "Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-closing",
+  "download_filename": "odoo_addon_account_fiscal_year_closing-18.0.1.0.0.7-py3-none-any.whl",
+  "download_time": "2025-10-17T02:41:05.987640",
+  "package_url": "https://pypi.org/project/odoo-addon-account-fiscal-year-closing/"
+}

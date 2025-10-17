@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-dialogflow",
+  "version": "2.42.0",
+  "summary": "Google Cloud Dialogflow API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-dialogflow",
+  "download_filename": "google_cloud_dialogflow-2.42.0.tar.gz",
+  "download_time": "2025-10-17T02:40:55.985175",
+  "package_url": "https://pypi.org/project/google-cloud-dialogflow/"
+}
