@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-cloudauth-intl20220809",
+  "version": "3.15.1",
+  "summary": "Alibaba Cloud Cloudauth-intl (20220809) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_cloudauth-intl20220809-3.15.1.tar.gz",
+  "download_time": "2025-10-17T10:50:56.150008",
+  "package_url": "https://pypi.org/project/alibabacloud-cloudauth-intl20220809/"
+}

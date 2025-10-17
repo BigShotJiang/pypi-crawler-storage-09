@@ -1,0 +1,11 @@
+{
+  "name": "pytest-proofy",
+  "version": "0.1.1",
+  "summary": "Pytest plugin for Proofy test reporting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_proofy-0.1.1.tar.gz",
+  "download_time": "2025-10-17T10:50:50.705577",
+  "package_url": "https://pypi.org/project/pytest-proofy/"
+}

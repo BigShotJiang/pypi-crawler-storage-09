@@ -1,11 +1,11 @@
 {
   "name": "qcc",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "🚀 现代化 Claude Code 配置管理神器 - 零配置启动，多端同步，安全加密，厂商快速配置",
   "author": "QCC Team",
   "license": null,
   "home_page": null,
-  "download_filename": "qcc-0.4.1.tar.gz",
-  "download_time": "2025-10-17T08:21:30.471806",
+  "download_filename": "qcc-0.4.2.tar.gz",
+  "download_time": "2025-10-17T10:50:59.457045",
   "package_url": "https://pypi.org/project/qcc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ketacli",
+  "version": "1.2.6",
+  "summary": "KetaDB Client",
+  "author": "lvheyang",
+  "license": null,
+  "home_page": "https://xishuhq.com",
+  "download_filename": "ketacli-1.2.6.tar.gz",
+  "download_time": "2025-10-17T10:50:53.988827",
+  "package_url": "https://pypi.org/project/ketacli/"
+}
