@@ -1,11 +1,11 @@
 {
   "name": "unsloth-zoo",
-  "version": "2025.10.4",
+  "version": "2025.10.5",
   "summary": "Utils for Unsloth",
   "author": "Unsloth AI team",
   "license": null,
   "home_page": null,
-  "download_filename": "unsloth_zoo-2025.10.4.tar.gz",
-  "download_time": "2025-10-16T14:16:13.253362",
+  "download_filename": "unsloth_zoo-2025.10.5.tar.gz",
+  "download_time": "2025-10-17T14:15:48.237350",
   "package_url": "https://pypi.org/project/unsloth-zoo/"
 }

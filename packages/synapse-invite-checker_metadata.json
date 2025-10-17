@@ -1,0 +1,11 @@
+{
+  "name": "synapse-invite-checker",
+  "version": "0.4.10",
+  "summary": "Synapse module to handle TIM contact management and invite permissions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "synapse_invite_checker-0.4.10.tar.gz",
+  "download_time": "2025-10-17T14:15:56.207145",
+  "package_url": "https://pypi.org/project/synapse-invite-checker/"
+}

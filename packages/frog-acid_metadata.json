@@ -1,0 +1,11 @@
+{
+  "name": "frog-acid",
+  "version": "0.2",
+  "summary": "A 3D engine using PyOpenGL and Pygame",
+  "author": "Pratyush wani",
+  "license": null,
+  "home_page": "https://github.com/procutepro/acid",
+  "download_filename": "frog_acid-0.2.tar.gz",
+  "download_time": "2025-10-17T14:15:46.656894",
+  "package_url": "https://pypi.org/project/frog-acid/"
+}

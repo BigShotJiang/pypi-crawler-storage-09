@@ -1,0 +1,11 @@
+{
+  "name": "ttun",
+  "version": "2.2.0",
+  "summary": "Expose a local port via your selfhosted TTUN Server",
+  "author": "Tom van der Lee",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "ttun-2.2.0.tar.gz",
+  "download_time": "2025-10-17T14:15:47.708892",
+  "package_url": "https://pypi.org/project/ttun/"
+}

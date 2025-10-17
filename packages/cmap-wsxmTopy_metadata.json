@@ -1,0 +1,11 @@
+{
+  "name": "cmap-wsxmTopy",
+  "version": "0.0.6",
+  "summary": "convert wsxm cmap files to python compatible format",
+  "author": "stefanotriv",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmap_wsxmtopy-0.0.6.tar.gz",
+  "download_time": "2025-10-17T14:15:44.967858",
+  "package_url": "https://pypi.org/project/cmap-wsxmTopy/"
+}
