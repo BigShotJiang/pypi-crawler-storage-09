@@ -1,17 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T04:51:30.456970
-- **Total Packages**: 78
-- **Total Size**: 1.98 MB
+- **Download Time**: 2025-10-17T05:16:01.811566
+- **Total Packages**: 80
+- **Total Size**: 29.0 MB
 
 ## Packages List
+- dyff-storage
+- universal-mcp-agents
+- pulumi-aiven
+- nd-prover
+- mycelya-torch
+- interface-py
+- gpe-tokenizer
+- ffpm
+- fastapps
+- mace-descriptor
+- more-sso-auth
+- semfire
+- open-agent-sdk
+- tinyai-memory
+- common-things
+- magicdsa
+- curverunner
+- darknet2any
+- coiled
+- pycfgcut
+- BatchalignHK
+- bookbridge-mcp
+- batchalign
+- dyff-schema
+- featureform-enterprise
+- DLMSAdapter
+- LogBar
+- apache-beam
+- autogit
+- odoo-index-mcp
+- financegy
+- DLMS-SPODES-client
+- dragon-ml-toolbox
+- chatgpt_hj3415
+- data-prep-toolkit
+- snippy-nextgen
+- data-prep-toolkit-transforms
+- numcore
+- tablestore
 - fujielab-audio-mcnr-input
 - iamdata
 - agentcrew-ai
 - robotframework-schemathesislibrary
 - amitysolutions.dolphin-mcp
-- tinyai-memory
 - cammy
 - plategaio
 - mknodes
@@ -34,53 +72,17 @@
 - wizagent
 - cjm-fasthtml-daisyui
 - hgraph
-- semfire
 - timesheet-mcp-server
 - keytopPyUtils
 - jax-hf
 - deepxromm
 - keras-nlp-nightly
 - keras-hub-nightly
-- mace-descriptor
 - xl-docx
 - easyibkr
 - cjm-fasthtml-tailwind
 - CFSpy
 - odoo-addon-web-editor-disable-chatgpt
 - odoo-addon-web-form-banner
-- xgo-blockly
 - iterdir
 - tencent-wedata-feature-engineering-dev
-- lovdtools
-- gink
-- tirex-mirror
-- pi-shell
-- clickzetta-semantic-model-generator
-- lisette
-- fantraxapi
-- taiji-pysimulator
-- cpp-hf
-- cdktf-cdktf-provider-opentelekomcloud
-- scraper2_hj3415
-- chromedriver-binary
-- toolz
-- bookbridge-mcp
-- demeter-fetch
-- mcp-calculator-wyt
-- seven-cloudapp-frame
-- equilipy
-- mezcla
-- odoo-addon-mail-gateway
-- odoo-addon-mail-composer-cc-bcc
-- odoo-addon-mail-quoted-reply
-- iterwrap
-- gh2gl
-- qclab
-- pymlem2
-- phanterpwa
-- 1d-qt-ideal-solver
-- passagemath-docbuild
-- passagemath-doc-pdf
-- passagemath-doc-html
-- odoo-addon-fetchmail-attach-from-folder
-- passagemath-database-stein-watkins

@@ -1,0 +1,11 @@
+{
+  "name": "pycfgcut",
+  "version": "0.3.2",
+  "summary": "Python bindings for cfgcut, the deterministic configuration slicer",
+  "author": "cfgcut maintainers",
+  "license": null,
+  "home_page": "https://cfgcut.bedecarroll.com",
+  "download_filename": "pycfgcut-0.3.2.tar.gz",
+  "download_time": "2025-10-17T05:15:27.302560",
+  "package_url": "https://pypi.org/project/pycfgcut/"
+}
