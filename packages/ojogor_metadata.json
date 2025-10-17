@@ -1,11 +1,11 @@
 {
   "name": "ojogor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A simple python web framework",
   "author": "Starexx",
   "license": null,
   "home_page": "https://github.com/realstarexx/ojogor",
-  "download_filename": "ojogor-1.0.0.tar.gz",
-  "download_time": "2025-10-17T15:34:02.117845",
+  "download_filename": "ojogor-1.0.2.tar.gz",
+  "download_time": "2025-10-17T15:51:03.968654",
   "package_url": "https://pypi.org/project/ojogor/"
 }

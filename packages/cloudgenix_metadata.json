@@ -1,0 +1,11 @@
+{
+  "name": "cloudgenix",
+  "version": "6.6.1b1",
+  "summary": "Python3 SDK for the CloudGenix AppFabric",
+  "author": "CloudGenix Developer Support",
+  "license": "MIT",
+  "home_page": "https://github.com/CloudGenix/sdk-python",
+  "download_filename": "cloudgenix-6.6.1b1.tar.gz",
+  "download_time": "2025-10-17T15:51:14.346321",
+  "package_url": "https://pypi.org/project/cloudgenix/"
+}

@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T15:34:39.127488
-- **Total Packages**: 96
-- **Total Size**: 26.57 MB
+- **Download Time**: 2025-10-17T15:51:41.097408
+- **Total Packages**: 83
+- **Total Size**: 22.69 MB
 
 ## Packages List
+- dogesec-commons
+- rhai-innovation-mini-trainer
+- custom_package_25731542
+- mongoguard
+- eykturkish
+- witrnhid
+- figmaker
+- Treeed
+- langchain-openai
+- novatel-edie
+- mapca
+- ut-pac
+- langchain-mistralai
+- langchain-ollama
+- eflips-model
+- prefect-mcp
+- xthttp
+- fitpdf
+- osm-integration-haystack
+- micro-rag-mcp
+- graph-games-proto
+- ojogor
+- elasticmagic
+- scc-firewall-manager-sdk
+- mediacrop
+- mcp-rag
+- gittyup
+- siibra
+- langchain-fireworks
+- vnpy_ctp
+- exafs
+- agentix-core
+- modal
+- decomp2dbg
+- absfuyu
+- cloudgenix
+- sonolus.py
 - pandare
 - radixtarget
 - ynca
@@ -16,7 +53,6 @@
 - tiledbsoma
 - nvidia-nat-s3
 - langchain-huggingface
-- scc-firewall-manager-sdk
 - llama-index-workflows
 - weni-feature-flags
 - nvidia-nat
@@ -36,8 +72,6 @@
 - api-foundry
 - nvidia-nat-phoenix
 - eth-prototype
-- ojogor
-- mediacrop
 - nvidia-nat-redis
 - molcraft
 - GEMspa-CLI
@@ -45,7 +79,6 @@
 - nvidia-nat-crewai
 - pychanasync
 - tiferet
-- Treeed
 - memfo
 - nvidia-nat-ingestion
 - apiout
@@ -56,49 +89,3 @@
 - lemonaid
 - nvidia-nat-agno
 - langchain-groq
-- planet-mcp
-- nvidia-nat-opentelemetry
-- ket-lang
-- nvidia-nat-ragaai
-- faststripe
-- nvidia-nat-profiling
-- nvidia-nat-data-flywheel
-- PyCheval
-- nvidia-nat-langchain
-- langchain-perplexity
-- schoolmospy
-- mcli-framework
-- aiqtoolkit-semantic-kernel
-- biblemate
-- arkparse
-- aiqtoolkit-weave
-- poetry-analysis
-- assertlang
-- odoo-addon-website-menu-by-user-status
-- aiqtoolkit-mem0ai
-- etextedit
-- aiqtoolkit-test
-- airbyte-source-google-ads
-- aiqtoolkit-llama-index
-- aiqtoolkit
-- graph-games-proto
-- loppers
-- aiqtoolkit-langchain
-- langchain-exa
-- talkieCLI
-- aiqtoolkit-crewai
-- pass-cli
-- aiqtoolkit-zep-cloud
-- langchain-qdrant
-- aiqtoolkit-agno
-- satori-python-adapter-onebot11
-- dsaria
-- langchain-nomic
-- langchain-chroma
-- shopee-afflib
-- vantage-agent
-- mcp-rag
-- firecrawl
-- OASYS2-XRayServer
-- firecrawl-py
-- OASYS2-XOPPY

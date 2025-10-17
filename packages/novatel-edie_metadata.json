@@ -1,0 +1,11 @@
+{
+  "name": "novatel-edie",
+  "version": "2.6.8",
+  "summary": "SDK for interfacing with and decoding data from NovAtel OEM7 receivers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "novatel_edie-2.6.8-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-17T15:50:55.816163",
+  "package_url": "https://pypi.org/project/novatel-edie/"
+}
