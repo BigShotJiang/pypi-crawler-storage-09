@@ -1,0 +1,11 @@
+{
+  "name": "napari-lattice",
+  "version": "1.0.6",
+  "summary": "Napari plugin for analysing and visualizing lattice lightsheet and Oblique Plane Microscopy data.",
+  "author": "Pradeep Rajasekhar, Lachlan Whitehead, Robert Haase, Michael Milton",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "napari_lattice-1.0.6.tar.gz",
+  "download_time": "2025-10-17T06:23:29.255276",
+  "package_url": "https://pypi.org/project/napari-lattice/"
+}

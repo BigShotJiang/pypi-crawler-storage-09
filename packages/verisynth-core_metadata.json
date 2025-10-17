@@ -1,0 +1,11 @@
+{
+  "name": "verisynth-core",
+  "version": "0.1.0",
+  "summary": "Open-source synthetic data generator with cryptographic proof receipts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "verisynth_core-0.1.0.tar.gz",
+  "download_time": "2025-10-17T06:22:54.639718",
+  "package_url": "https://pypi.org/project/verisynth-core/"
+}

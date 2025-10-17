@@ -1,11 +1,11 @@
 {
   "name": "osdu-perf",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "summary": "Performance Testing Framework for OSDU Services - A comprehensive tool for testing OSDU APIs with Locust and Azure Load Testing SDK",
   "author": "Janraj CJ",
   "license": null,
   "home_page": "https://github.com/janraj/osdu_perf",
-  "download_filename": "osdu_perf-1.0.20.tar.gz",
-  "download_time": "2025-10-16T12:32:53.772352",
+  "download_filename": "osdu_perf-1.0.21.tar.gz",
+  "download_time": "2025-10-17T06:23:07.808512",
   "package_url": "https://pypi.org/project/osdu-perf/"
 }

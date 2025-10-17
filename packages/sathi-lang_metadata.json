@@ -1,0 +1,11 @@
+{
+  "name": "sathi-lang",
+  "version": "1.2.1",
+  "summary": "Sathi Language — a Nepali-inspired programming language blending creativity, culture, and code.",
+  "author": "Nirajan Ghimire",
+  "license": "MIT",
+  "home_page": "https://github.com/nirajang20/Sathi-Language",
+  "download_filename": "sathi_lang-1.2.1.tar.gz",
+  "download_time": "2025-10-17T06:22:46.715060",
+  "package_url": "https://pypi.org/project/sathi-lang/"
+}

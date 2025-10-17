@@ -1,0 +1,11 @@
+{
+  "name": "dbbasic-admin",
+  "version": "0.1.0",
+  "summary": "Auto-discovery admin interface for dbbasic modules",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbbasic_admin-0.1.0.tar.gz",
+  "download_time": "2025-10-17T06:23:27.163911",
+  "package_url": "https://pypi.org/project/dbbasic-admin/"
+}

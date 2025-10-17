@@ -1,0 +1,11 @@
+{
+  "name": "data-enrichment-agent",
+  "version": "0.1.1",
+  "summary": "Intelligent data enrichment agent for automated feature engineering",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "data_enrichment_agent-0.1.1.tar.gz",
+  "download_time": "2025-10-17T06:22:57.288899",
+  "package_url": "https://pypi.org/project/data-enrichment-agent/"
+}
