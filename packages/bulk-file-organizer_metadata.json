@@ -1,0 +1,11 @@
+{
+  "name": "bulk-file-organizer",
+  "version": "0.1.2",
+  "summary": "A colorful CLI tool that organizes files into categorized folders based on file extensions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bulk_file_organizer-0.1.2.tar.gz",
+  "download_time": "2025-10-17T11:13:35.021764",
+  "package_url": "https://pypi.org/project/bulk-file-organizer/"
+}

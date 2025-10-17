@@ -1,11 +1,11 @@
 {
   "name": "mediawiki-to-pdf",
-  "version": "0.0",
+  "version": "1.0",
   "summary": "TBD",
   "author": "Gerard",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mediawiki_to_pdf-0.0.tar.gz",
-  "download_time": "2025-10-17T09:17:22.635805",
+  "download_filename": "mediawiki_to_pdf-1.0.tar.gz",
+  "download_time": "2025-10-17T11:13:47.701380",
   "package_url": "https://pypi.org/project/mediawiki-to-pdf/"
 }
