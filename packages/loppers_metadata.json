@@ -1,11 +1,11 @@
 {
   "name": "loppers",
-  "version": "1.4.0",
+  "version": "1.3.2",
   "summary": "Extract source file skeletons using tree-sitter queries",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "loppers-1.4.0.tar.gz",
-  "download_time": "2025-10-16T14:56:39.070715",
+  "download_filename": "loppers-1.3.2.tar.gz",
+  "download_time": "2025-10-17T10:42:11.254674",
   "package_url": "https://pypi.org/project/loppers/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cdntools",
+  "version": "0.2.0",
+  "summary": "Tools for modeling competitive protein dimerization networks.",
+  "author": "Xiaoyu Wu",
+  "license": "MIT",
+  "home_page": "https://github.com/BioProgramming-Lab/CDNtools",
+  "download_filename": "cdntools-0.2.0.tar.gz",
+  "download_time": "2025-10-17T10:41:45.033102",
+  "package_url": "https://pypi.org/project/cdntools/"
+}

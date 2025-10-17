@@ -1,0 +1,11 @@
+{
+  "name": "pgagent-yaml",
+  "version": "0.4.0",
+  "summary": "Yaml interface for pgagent",
+  "author": "Andrey Chernyakov",
+  "license": "BSD",
+  "home_page": "https://github.com/andruche/pgagent-yaml",
+  "download_filename": "pgagent_yaml-0.4.0.tar.gz",
+  "download_time": "2025-10-17T10:41:47.683103",
+  "package_url": "https://pypi.org/project/pgagent-yaml/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "anaflow",
+  "version": "1.2.0",
+  "summary": "AnaFlow - analytical solutions for the groundwater-flow equation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anaflow-1.2.0.tar.gz",
+  "download_time": "2025-10-17T10:41:58.762213",
+  "package_url": "https://pypi.org/project/anaflow/"
+}

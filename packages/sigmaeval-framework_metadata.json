@@ -1,0 +1,11 @@
+{
+  "name": "sigmaeval-framework",
+  "version": "0.1.2",
+  "summary": "The Gen AI App Evaluation Framework",
+  "author": "Itura AI",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Itura-AI/sigmaeval",
+  "download_filename": "sigmaeval_framework-0.1.2.tar.gz",
+  "download_time": "2025-10-17T10:42:03.221131",
+  "package_url": "https://pypi.org/project/sigmaeval-framework/"
+}

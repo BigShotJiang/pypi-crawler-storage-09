@@ -1,0 +1,11 @@
+{
+  "name": "eegpp3-beta",
+  "version": "1.2.4",
+  "summary": "EEG Phrase Predictor ver 3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eegpp3_beta-1.2.4.tar.gz",
+  "download_time": "2025-10-17T10:41:50.939031",
+  "package_url": "https://pypi.org/project/eegpp3-beta/"
+}

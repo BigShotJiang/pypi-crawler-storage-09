@@ -1,0 +1,11 @@
+{
+  "name": "graphdatascience",
+  "version": "1.17",
+  "summary": "A Python client for the Neo4j Graph Data Science (GDS) library",
+  "author": "Neo4j",
+  "license": "Apache License 2.0",
+  "home_page": "https://neo4j.com/product/graph-data-science/",
+  "download_filename": "graphdatascience-1.17.tar.gz",
+  "download_time": "2025-10-17T10:41:51.508766",
+  "package_url": "https://pypi.org/project/graphdatascience/"
+}

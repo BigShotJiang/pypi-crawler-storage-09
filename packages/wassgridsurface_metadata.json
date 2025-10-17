@@ -1,11 +1,11 @@
 {
   "name": "wassgridsurface",
-  "version": "0.11.2",
+  "version": "0.11.3",
   "summary": "WASS surface gridding tool",
   "author": "Filippo Bergamasco",
   "license": "GPL3",
   "home_page": null,
-  "download_filename": "wassgridsurface-0.11.2.tar.gz",
-  "download_time": "2025-10-17T10:17:19.713216",
+  "download_filename": "wassgridsurface-0.11.3.tar.gz",
+  "download_time": "2025-10-17T10:41:57.108142",
   "package_url": "https://pypi.org/project/wassgridsurface/"
 }

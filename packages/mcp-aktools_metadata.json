@@ -1,11 +1,11 @@
 {
   "name": "mcp-aktools",
-  "version": "0.0.1b0",
+  "version": "0.0.1b1",
   "summary": "MCP Server for aktools/akshare",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_aktools-0.0.1b0.tar.gz",
-  "download_time": "2025-10-17T10:17:17.647128",
+  "download_filename": "mcp_aktools-0.0.1b1.tar.gz",
+  "download_time": "2025-10-17T10:42:18.908575",
   "package_url": "https://pypi.org/project/mcp-aktools/"
 }

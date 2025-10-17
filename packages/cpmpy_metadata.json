@@ -1,0 +1,11 @@
+{
+  "name": "cpmpy",
+  "version": "0.9.28",
+  "summary": "A numpy-based library for modeling constraint programming problems",
+  "author": "Tias Guns",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/CPMpy/cpmpy",
+  "download_filename": "cpmpy-0.9.28.tar.gz",
+  "download_time": "2025-10-17T10:42:12.914964",
+  "package_url": "https://pypi.org/project/cpmpy/"
+}
