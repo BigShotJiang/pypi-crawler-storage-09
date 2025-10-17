@@ -1,11 +1,11 @@
 {
   "name": "interface-py",
-  "version": "1.3.8",
+  "version": "1.4.0",
   "summary": "A package to define interface in Python",
   "author": "Ehsan Karbasian",
   "license": null,
   "home_page": "https://github.com/ehsankarbasian/interface-py",
-  "download_filename": "interface_py-1.3.8.tar.gz",
-  "download_time": "2025-10-17T05:49:28.858592",
+  "download_filename": "interface_py-1.4.0.tar.gz",
+  "download_time": "2025-10-17T13:50:02.724134",
   "package_url": "https://pypi.org/project/interface-py/"
 }

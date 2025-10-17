@@ -1,0 +1,11 @@
+{
+  "name": "depths",
+  "version": "0.2.0",
+  "summary": "S3-native OpenTelemetry compatible observability layer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "depths-0.2.0.tar.gz",
+  "download_time": "2025-10-17T13:50:37.505280",
+  "package_url": "https://pypi.org/project/depths/"
+}

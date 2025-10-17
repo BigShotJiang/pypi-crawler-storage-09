@@ -1,11 +1,11 @@
 {
   "name": "scicat-sdk-py",
-  "version": "4.25.0",
+  "version": "4.25.1",
   "summary": "SciCat backend API",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "scicat_sdk_py-4.25.0.tar.gz",
-  "download_time": "2025-10-17T09:50:15.951467",
+  "download_filename": "scicat_sdk_py-4.25.1.tar.gz",
+  "download_time": "2025-10-17T13:50:30.619913",
   "package_url": "https://pypi.org/project/scicat-sdk-py/"
 }

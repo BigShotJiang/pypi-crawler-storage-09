@@ -1,0 +1,11 @@
+{
+  "name": "tvdatafeed-enhanced",
+  "version": "2.2.0",
+  "summary": "TradingView historical and live data downloader with advanced features",
+  "author": "StreamAlpha, rongardF",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tvdatafeed_enhanced-2.2.0.tar.gz",
+  "download_time": "2025-10-17T13:50:13.086996",
+  "package_url": "https://pypi.org/project/tvdatafeed-enhanced/"
+}
