@@ -1,8 +1,17 @@
 {
-  "download_time": "2025-10-17T13:50:44.923872",
-  "total_packages_downloaded": 87,
-  "total_size_mb": 51.69,
+  "download_time": "2025-10-17T13:53:12.190799",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 1.26,
   "packages": [
+    "mxcp",
+    "im-jote",
+    "snowflake-haystack",
+    "tidal-dl-ng",
+    "odoo-apps-Odoo-Apps-Spreadsheet",
+    "odoo-addon-spreadsheet_board_user_acl",
+    "ozonapi-async",
+    "pyside-cli",
+    "wandelbots-api-client",
     "pycc.id",
     "langchain-core",
     "sot-loss",
@@ -78,17 +87,6 @@
     "nvidia-compute-eval",
     "panther",
     "depths",
-    "odoo-addon-l10n-eu-oss-oca",
-    "django-smart-storages",
-    "compconf",
-    "rhsupportcli",
-    "operetta",
-    "tala",
-    "jbag",
-    "pyairahome",
-    "smallcat",
-    "tessdb-server",
-    "fastmcp",
-    "chanjo2"
+    "odoo-addon-l10n-eu-oss-oca"
   ]
 }

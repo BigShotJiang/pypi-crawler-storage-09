@@ -1,11 +1,20 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T13:50:44.923872
-- **Total Packages**: 87
-- **Total Size**: 51.69 MB
+- **Download Time**: 2025-10-17T13:53:12.190799
+- **Total Packages**: 85
+- **Total Size**: 1.26 MB
 
 ## Packages List
+- mxcp
+- im-jote
+- snowflake-haystack
+- tidal-dl-ng
+- odoo-apps-Odoo-Apps-Spreadsheet
+- odoo-addon-spreadsheet_board_user_acl
+- ozonapi-async
+- pyside-cli
+- wandelbots-api-client
 - pycc.id
 - langchain-core
 - sot-loss
@@ -82,14 +91,3 @@
 - panther
 - depths
 - odoo-addon-l10n-eu-oss-oca
-- django-smart-storages
-- compconf
-- rhsupportcli
-- operetta
-- tala
-- jbag
-- pyairahome
-- smallcat
-- tessdb-server
-- fastmcp
-- chanjo2

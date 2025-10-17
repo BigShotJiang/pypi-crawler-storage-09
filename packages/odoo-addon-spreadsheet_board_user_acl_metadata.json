@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-spreadsheet_board_user_acl",
+  "version": "18.0.1.0.0",
+  "summary": "Restricted access to spreadsheet dashboards app.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_spreadsheet_board_user_acl-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-17T13:52:29.078023",
+  "package_url": "https://pypi.org/project/odoo-addon-spreadsheet_board_user_acl/"
+}

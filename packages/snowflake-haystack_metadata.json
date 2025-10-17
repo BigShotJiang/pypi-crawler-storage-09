@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-haystack",
+  "version": "1.2.0",
+  "summary": "A Snowflake integration for the Haystack framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snowflake_haystack-1.2.0.tar.gz",
+  "download_time": "2025-10-17T13:52:27.472959",
+  "package_url": "https://pypi.org/project/snowflake-haystack/"
+}
