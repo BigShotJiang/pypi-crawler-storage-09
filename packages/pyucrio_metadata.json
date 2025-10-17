@@ -1,0 +1,11 @@
+{
+  "name": "pyucrio",
+  "version": "1.7.3",
+  "summary": "Python library supporting data access and analysis for riometer instrument data",
+  "author": "Darren Chaddock",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ucalgary-srs/pyUCRio",
+  "download_filename": "pyucrio-1.7.3.tar.gz",
+  "download_time": "2025-10-17T11:27:53.182110",
+  "package_url": "https://pypi.org/project/pyucrio/"
+}

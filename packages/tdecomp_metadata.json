@@ -1,0 +1,11 @@
+{
+  "name": "tdecomp",
+  "version": "0.2.14",
+  "summary": "Library for tensor and matrix decompositions applications",
+  "author": "Leon Strelkov",
+  "license": "BSD License",
+  "home_page": "https://github.com/leostre/tensor-decompositions.git",
+  "download_filename": "tdecomp-0.2.14.tar.gz",
+  "download_time": "2025-10-17T11:27:50.857318",
+  "package_url": "https://pypi.org/project/tdecomp/"
+}

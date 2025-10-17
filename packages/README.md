@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T11:14:06.234687
-- **Total Packages**: 83
-- **Total Size**: 13.87 MB
+- **Download Time**: 2025-10-17T11:28:35.572299
+- **Total Packages**: 87
+- **Total Size**: 26.44 MB
 
 ## Packages List
+- torchft-nightly
+- dcisionai-mcp-server
+- django-drf-keycloak-auth
+- locust
+- kindwise-api-client
+- django-ninja
+- tdecomp
+- hgraph
+- unique_internal_search
+- hyperscale-ozone
+- pyucrio
+- FlowerPower
+- ventrun
+- moduvent
+- dara-components
+- create-dara-app
+- dara-core
+- halerium-utilities
+- rl-scan-artifactory
+- AkhilShimnaKumar
+- aiospb
+- esp-matter-mfg-tool
+- z-zytome
+- byquant
+- ultralytics
+- AOT-biomaps
+- marketplace-handler
+- ComicGUISpider
+- doctablex
+- gpack
+- massgen
+- dakora
+- jupyterlab-exam-submission
+- Coreform-Cubit-Mesh-Export
+- nvfuser-cu128
+- nvfuser-cu126
+- mangadex-dl
+- tb-nightly
+- librt
 - fastlbp
 - flowetl
 - flowkit-jwt-generator
@@ -15,7 +54,6 @@
 - mixedassembly
 - dvh-tools
 - smart-bot-factory
-- Coreform-Cubit-Mesh-Export
 - ncsc
 - automower-ble
 - esgprofiler
@@ -25,11 +63,9 @@
 - fastapi-healthz
 - sunpeek
 - tp-shared
-- ventrun
 - smallcat
 - split-pdf-by-page
 - mv-pypowerstore
-- moduvent
 - biblemate
 - bulk-file-organizer
 - draive
@@ -46,7 +82,6 @@
 - dbbasic-admin
 - nonebot-plugin-githubcard
 - ewoxcore
-- gpack
 - kraken-wrapper
 - kraken-build
 - moai-adk
@@ -58,34 +93,3 @@
 - code-puppy
 - agnost
 - gobstopper
-- mugeshcalcu
-- FourCIPP
-- th2-grpc-act-template
-- imml
-- c2cciutils
-- nb-path
-- qilisdk
-- modulitiz-micro
-- SquirroClient
-- hgraph
-- deltachat-rpc-client
-- logicblocks.event.store
-- cccc-pair
-- agilab
-- odoo-addon-website-require-login
-- prompt-debugger
-- SpamKit
-- pytest-proofy
-- proofy-python
-- elasticsearch7-compatible
-- asgard-eopf
-- dodoenv
-- doc-store
-- odoo-addon-account-financial-report
-- taskanalytics-data-wrapper
-- konduktor-nightly
-- alibabacloud-cloudauth-intl20220809
-- locust
-- wasspost
-- pappardelle
-- trainy-policy-nightly

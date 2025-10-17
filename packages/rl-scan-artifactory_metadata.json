@@ -1,0 +1,11 @@
+{
+  "name": "rl-scan-artifactory",
+  "version": "1.0.4",
+  "summary": "Python package to process files from Artifactory with Spectra Assure.",
+  "author": "ReversingLabs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rl_scan_artifactory-1.0.4-py3-none-any.whl",
+  "download_time": "2025-10-17T11:27:57.562378",
+  "package_url": "https://pypi.org/project/rl-scan-artifactory/"
+}

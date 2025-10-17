@@ -1,0 +1,11 @@
+{
+  "name": "librt",
+  "version": "0.3.0",
+  "summary": "Mypyc runtime library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "librt-0.3.0.tar.gz",
+  "download_time": "2025-10-17T11:28:10.207073",
+  "package_url": "https://pypi.org/project/librt/"
+}

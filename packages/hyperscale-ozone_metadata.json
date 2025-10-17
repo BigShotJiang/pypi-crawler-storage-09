@@ -1,11 +1,11 @@
 {
   "name": "hyperscale-ozone",
-  "version": "0.17.1",
+  "version": "0.17.2",
   "summary": "Higher-level constructs build on troposphere",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperscale_ozone-0.17.1.tar.gz",
-  "download_time": "2025-10-17T10:42:14.006758",
+  "download_filename": "hyperscale_ozone-0.17.2.tar.gz",
+  "download_time": "2025-10-17T11:27:52.608601",
   "package_url": "https://pypi.org/project/hyperscale-ozone/"
 }
