@@ -1,0 +1,11 @@
+{
+  "name": "plugwise",
+  "version": "1.8.1",
+  "summary": "Plugwise Smile (Adam/Anna/P1) and Stretch module for Python 3.",
+  "author": "Plugwise device owners",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plugwise-1.8.1.tar.gz",
+  "download_time": "2025-10-17T07:15:34.157198",
+  "package_url": "https://pypi.org/project/plugwise/"
+}

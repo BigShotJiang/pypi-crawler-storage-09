@@ -1,0 +1,11 @@
+{
+  "name": "pyrinnaitouch",
+  "version": "0.13.1",
+  "summary": "A python interface to the Rinnai Touch Wifi controller",
+  "author": "Funtastix",
+  "license": "mit",
+  "home_page": "https://github.com/funtastix/pyrinnaitouch",
+  "download_filename": "pyrinnaitouch-0.13.1.tar.gz",
+  "download_time": "2025-10-17T07:15:35.712078",
+  "package_url": "https://pypi.org/project/pyrinnaitouch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eazysvn",
+  "version": "1.17.0",
+  "summary": "Make simple revision merges and branch switching much easier",
+  "author": "Philipp von Weitershausen",
+  "license": "GPL v2 or v3",
+  "home_page": "https://mg.pov.lt/eazysvn/",
+  "download_filename": "eazysvn-1.17.0.tar.gz",
+  "download_time": "2025-10-17T07:15:48.517087",
+  "package_url": "https://pypi.org/project/eazysvn/"
+}

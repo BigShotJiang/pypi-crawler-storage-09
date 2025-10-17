@@ -1,0 +1,11 @@
+{
+  "name": "basetrainer",
+  "version": "0.9.8",
+  "summary": "basetrainer",
+  "author": "PanJinquan",
+  "license": "MIT",
+  "home_page": "https://github.com/PanJinquan/Pytorch-Base-Trainer",
+  "download_filename": "basetrainer-0.9.8.tar.gz",
+  "download_time": "2025-10-17T07:15:50.062395",
+  "package_url": "https://pypi.org/project/basetrainer/"
+}
