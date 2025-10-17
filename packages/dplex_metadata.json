@@ -1,11 +1,11 @@
 {
   "name": "dplex",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": null,
   "author": "Igor Chesnokov",
   "license": null,
   "home_page": null,
-  "download_filename": "dplex-0.1.1.tar.gz",
-  "download_time": "2025-10-17T07:15:31.516550",
+  "download_filename": "dplex-0.1.2.tar.gz",
+  "download_time": "2025-10-17T11:38:16.855226",
   "package_url": "https://pypi.org/project/dplex/"
 }

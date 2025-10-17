@@ -1,0 +1,11 @@
+{
+  "name": "apheris-auth",
+  "version": "0.21.0",
+  "summary": "Apheris package to handle authentication and authorisation.",
+  "author": "Apheris",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apheris_auth-0.21.0-py3-none-any.whl",
+  "download_time": "2025-10-17T11:38:12.801957",
+  "package_url": "https://pypi.org/project/apheris-auth/"
+}

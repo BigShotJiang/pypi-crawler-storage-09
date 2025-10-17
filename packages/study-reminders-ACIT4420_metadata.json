@@ -1,11 +1,11 @@
 {
   "name": "study-reminders-ACIT4420",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "For a school assignment, a Python package that automates the generation and distribution of personalized study reminders for students.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "study_reminders_acit4420-1.0.1.tar.gz",
-  "download_time": "2025-10-17T09:18:06.922748",
+  "download_filename": "study_reminders_acit4420-1.0.2.tar.gz",
+  "download_time": "2025-10-17T11:38:13.956425",
   "package_url": "https://pypi.org/project/study-reminders-ACIT4420/"
 }

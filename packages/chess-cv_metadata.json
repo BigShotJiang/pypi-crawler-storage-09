@@ -1,0 +1,11 @@
+{
+  "name": "chess-cv",
+  "version": "0.6.0",
+  "summary": "CNN-based chess piece classifier",
+  "author": "S1M0N38",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chess_cv-0.6.0.tar.gz",
+  "download_time": "2025-10-17T11:38:23.251796",
+  "package_url": "https://pypi.org/project/chess-cv/"
+}

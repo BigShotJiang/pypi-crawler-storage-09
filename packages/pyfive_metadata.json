@@ -1,0 +1,11 @@
+{
+  "name": "pyfive",
+  "version": "0.9.0",
+  "summary": "A pure python HDF5 reader",
+  "author": null,
+  "license": "BSD License, Version 3-Clause",
+  "home_page": null,
+  "download_filename": "pyfive-0.9.0.tar.gz",
+  "download_time": "2025-10-17T11:38:38.069259",
+  "package_url": "https://pypi.org/project/pyfive/"
+}

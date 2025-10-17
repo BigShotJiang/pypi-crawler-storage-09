@@ -1,0 +1,11 @@
+{
+  "name": "cybersource-rest-client-python",
+  "version": "0.0.70",
+  "summary": "SDK for the CyberSource REST API",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/CyberSource/cybersource-rest-client-python",
+  "download_filename": "cybersource_rest_client_python-0.0.70.tar.gz",
+  "download_time": "2025-10-17T11:38:29.439647",
+  "package_url": "https://pypi.org/project/cybersource-rest-client-python/"
+}
