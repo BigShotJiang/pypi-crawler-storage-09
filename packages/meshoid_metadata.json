@@ -1,0 +1,11 @@
+{
+  "name": "meshoid",
+  "version": "1.48.6",
+  "summary": "Package for analysis of meshless simulation data",
+  "author": "Mike Grudić",
+  "license": "MIT",
+  "home_page": "http://github.com/mikegrudic/meshoid",
+  "download_filename": "meshoid-1.48.6-py3-none-any.whl",
+  "download_time": "2025-10-17T20:50:25.967408",
+  "package_url": "https://pypi.org/project/meshoid/"
+}

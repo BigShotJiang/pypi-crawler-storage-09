@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T20:40:22.107656
-- **Total Packages**: 86
-- **Total Size**: 40.76 MB
+- **Download Time**: 2025-10-17T20:51:06.998253
+- **Total Packages**: 89
+- **Total Size**: 16.63 MB
 
 ## Packages List
+- run-mcp-servers-with-aws-lambda
+- docs2markdown
+- psann
+- mcp-sqlalchemy
+- circular-import-detector
+- ejd
+- dashai-deepseek-model-package
+- tensorzero
+- hyperliquid-python-sdk
+- django-bolt
+- moto
+- featureform-enterprise
+- ol-themed-jupyter
+- agentle
+- wgpu
+- mozilla-taskgraph
+- arc-atlas
+- md-to-conf
+- checkdmarc
+- meshoid
 - xatra
 - jmstate
 - tobiko-cloud-pydantic
@@ -75,20 +95,3 @@
 - dayhoff-tools
 - sheet2vcf
 - pandare
-- agentic-context-engineering
-- fastinit
-- crdclib
-- pipemake-utils
-- langgraph-prebuilt
-- MAMMOth-commons
-- snakemake-logger-plugin-snkmt
-- MAI-Bias
-- django-rahavard
-- kaqing
-- l2m2
-- pebble-tool
-- xync-schema
-- OpenGeodeWeb-Back
-- sunpeek
-- xn-client
-- sharktuner
