@@ -1,0 +1,11 @@
+{
+  "name": "easyappmaker",
+  "version": "1.0.0",
+  "summary": "Personal Python apps: alarmapp, browserapp, and more.",
+  "author": "Jay Barua",
+  "license": null,
+  "home_page": null,
+  "download_filename": "easyappmaker-1.0.0.tar.gz",
+  "download_time": "2025-10-17T22:14:42.522801",
+  "package_url": "https://pypi.org/project/easyappmaker/"
+}

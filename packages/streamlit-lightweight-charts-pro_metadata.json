@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-lightweight-charts-pro",
+  "version": "0.1.3",
+  "summary": "Enhanced Streamlit wrapper for TradingView's lightweight-charts with ultra-simplified API and performance optimizations",
+  "author": "Nand Kapadia",
+  "license": null,
+  "home_page": "https://github.com/nandkapadia/streamlit-lightweight-charts-pro",
+  "download_filename": "streamlit_lightweight_charts_pro-0.1.3.tar.gz",
+  "download_time": "2025-10-17T22:14:44.079783",
+  "package_url": "https://pypi.org/project/streamlit-lightweight-charts-pro/"
+}

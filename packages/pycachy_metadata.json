@@ -1,0 +1,11 @@
+{
+  "name": "pycachy",
+  "version": "0.0.3",
+  "summary": "Cache your API calls with a single line of code. No mocks, no fixtures. Just faster, cleaner code.",
+  "author": "Tommy",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/cachy",
+  "download_filename": "pycachy-0.0.3.tar.gz",
+  "download_time": "2025-10-17T22:14:39.940534",
+  "package_url": "https://pypi.org/project/pycachy/"
+}

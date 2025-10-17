@@ -1,0 +1,11 @@
+{
+  "name": "pydust-utils",
+  "version": "0.1.0",
+  "summary": "Python utilities for DUST pre- and postprocessing",
+  "author": "Alessandro Cocco",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydust_utils-0.1.0.tar.gz",
+  "download_time": "2025-10-17T22:14:45.109365",
+  "package_url": "https://pypi.org/project/pydust-utils/"
+}
