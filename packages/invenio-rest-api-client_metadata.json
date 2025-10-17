@@ -1,0 +1,11 @@
+{
+  "name": "invenio-rest-api-client",
+  "version": "12.0.0",
+  "summary": "A client library for accessing Invenio REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "invenio_rest_api_client-12.0.0.tar.gz",
+  "download_time": "2025-10-17T14:50:42.297424",
+  "package_url": "https://pypi.org/project/invenio-rest-api-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "license-manager-simulator",
+  "version": "4.4.2",
+  "summary": "The License Manager Simulator is an application that simulates output from 5 license servers for use in the development of applications which interface to the license servers.",
+  "author": "OmniVector Solutions",
+  "license": "MIT",
+  "home_page": "https://github.com/omnivector-solutions/license-manager",
+  "download_filename": "license_manager_simulator-4.4.2.tar.gz",
+  "download_time": "2025-10-17T14:50:56.274545",
+  "package_url": "https://pypi.org/project/license-manager-simulator/"
+}

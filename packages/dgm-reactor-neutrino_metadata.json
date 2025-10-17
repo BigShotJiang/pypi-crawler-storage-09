@@ -1,0 +1,11 @@
+{
+  "name": "dgm-reactor-neutrino",
+  "version": "0.2.2",
+  "summary": "The package implements computational nodes for reactor electron antineutrino (oscillation) physics analysis for dag-modelling",
+  "author": "DAGModelling Team",
+  "license": null,
+  "home_page": "https://github.com/dagflow-team/dgm-reactor-neutrino",
+  "download_filename": "dgm_reactor_neutrino-0.2.2.tar.gz",
+  "download_time": "2025-10-17T14:51:31.828777",
+  "package_url": "https://pypi.org/project/dgm-reactor-neutrino/"
+}

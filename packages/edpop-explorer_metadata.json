@@ -1,0 +1,11 @@
+{
+  "name": "edpop-explorer",
+  "version": "0.15.1",
+  "summary": "Common interface to multiple library catalogues and bibliographical databases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edpop_explorer-0.15.1.tar.gz",
+  "download_time": "2025-10-17T14:50:39.049593",
+  "package_url": "https://pypi.org/project/edpop-explorer/"
+}

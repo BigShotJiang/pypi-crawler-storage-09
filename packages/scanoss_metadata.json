@@ -1,0 +1,11 @@
+{
+  "name": "scanoss",
+  "version": "1.37.0",
+  "summary": "Simple Python library to leverage the SCANOSS APIs",
+  "author": "SCANOSS",
+  "license": "MIT",
+  "home_page": "https://scanoss.com",
+  "download_filename": "scanoss-1.37.0.tar.gz",
+  "download_time": "2025-10-17T14:50:50.964839",
+  "package_url": "https://pypi.org/project/scanoss/"
+}

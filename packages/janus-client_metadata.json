@@ -1,0 +1,11 @@
+{
+  "name": "janus-client",
+  "version": "0.7.3",
+  "summary": "Janus WebRTC gateway Python async client.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "janus_client-0.7.3.tar.gz",
+  "download_time": "2025-10-17T14:51:20.940286",
+  "package_url": "https://pypi.org/project/janus-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "soe-vinorm",
+  "version": "0.3.2",
+  "summary": "An effective text normalization tool for Vietnamese",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "soe_vinorm-0.3.2.tar.gz",
+  "download_time": "2025-10-17T14:50:47.022952",
+  "package_url": "https://pypi.org/project/soe-vinorm/"
+}
