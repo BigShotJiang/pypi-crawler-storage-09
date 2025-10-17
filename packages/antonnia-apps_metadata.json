@@ -1,11 +1,11 @@
 {
   "name": "antonnia-apps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Python SDK for Antonnia Apps API",
   "author": "Antonnia",
   "license": "MIT",
   "home_page": "https://github.com/antonnia-com-br/antonnia-apps",
-  "download_filename": "antonnia_apps-1.0.0.tar.gz",
-  "download_time": "2025-10-16T17:54:11.083918",
+  "download_filename": "antonnia_apps-1.0.1.tar.gz",
+  "download_time": "2025-10-17T15:33:48.894148",
   "package_url": "https://pypi.org/project/antonnia-apps/"
 }

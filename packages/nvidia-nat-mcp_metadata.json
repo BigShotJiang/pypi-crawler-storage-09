@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nat-mcp",
+  "version": "1.4.0a20251015",
+  "summary": "Subpackage for MCP client integration in NeMo Agent toolkit",
+  "author": "NVIDIA Corporation",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nvidia_nat_mcp-1.4.0a20251015-py3-none-any.whl",
+  "download_time": "2025-10-17T15:33:59.953442",
+  "package_url": "https://pypi.org/project/nvidia-nat-mcp/"
+}

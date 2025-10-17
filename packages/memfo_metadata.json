@@ -1,0 +1,11 @@
+{
+  "name": "memfo",
+  "version": "1.0.6",
+  "summary": "Display Tool for /proc/meminfo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memfo-1.0.6.tar.gz",
+  "download_time": "2025-10-17T15:34:07.567120",
+  "package_url": "https://pypi.org/project/memfo/"
+}

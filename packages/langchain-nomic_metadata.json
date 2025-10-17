@@ -1,0 +1,11 @@
+{
+  "name": "langchain-nomic",
+  "version": "1.0.0",
+  "summary": "An integration package connecting Nomic and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_nomic-1.0.0.tar.gz",
+  "download_time": "2025-10-17T15:34:34.326161",
+  "package_url": "https://pypi.org/project/langchain-nomic/"
+}

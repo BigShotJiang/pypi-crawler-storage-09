@@ -1,11 +1,11 @@
 {
   "name": "pass-cli",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "CLI interface for pass",
   "author": "Aleksandr Block",
   "license": "MIT",
   "home_page": "https://github.com/a7f4/pass_cli",
-  "download_filename": "pass_cli-0.0.5.tar.gz",
-  "download_time": "2025-10-17T14:51:09.994845",
+  "download_filename": "pass_cli-0.0.6.tar.gz",
+  "download_time": "2025-10-17T15:34:31.022185",
   "package_url": "https://pypi.org/project/pass-cli/"
 }
