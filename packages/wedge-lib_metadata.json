@@ -1,0 +1,11 @@
+{
+  "name": "wedge-lib",
+  "version": "3.1.26",
+  "summary": "Wedge library for django application",
+  "author": "François Schneider",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wedge_lib-3.1.26.tar.gz",
+  "download_time": "2025-10-17T16:19:43.009646",
+  "package_url": "https://pypi.org/project/wedge-lib/"
+}

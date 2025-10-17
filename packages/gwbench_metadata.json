@@ -1,0 +1,11 @@
+{
+  "name": "gwbench",
+  "version": "0.8.9",
+  "summary": "A small tool to benchmark GW events",
+  "author": "Ssohrab Borhanian",
+  "license": null,
+  "home_page": "https://gitlab.com/sborhanian/gwbench",
+  "download_filename": "gwbench-0.8.9.tar.gz",
+  "download_time": "2025-10-17T16:19:18.675646",
+  "package_url": "https://pypi.org/project/gwbench/"
+}

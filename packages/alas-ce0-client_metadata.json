@@ -1,0 +1,11 @@
+{
+  "name": "alas-ce0-client",
+  "version": "5.6.1",
+  "summary": "API client for Alas.Ce0 project",
+  "author": "Leonardo Zambra",
+  "license": "MIT",
+  "home_page": "https://github.com/pypa/alas-ce0-client",
+  "download_filename": "alas_ce0_client-5.6.1.tar.gz",
+  "download_time": "2025-10-17T16:19:44.550341",
+  "package_url": "https://pypi.org/project/alas-ce0-client/"
+}

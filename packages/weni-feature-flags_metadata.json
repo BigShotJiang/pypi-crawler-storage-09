@@ -1,11 +1,11 @@
 {
   "name": "weni-feature-flags",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Weni's feature flags SDK for Python backends",
   "author": "Kallil Souza dos Santos",
   "license": null,
   "home_page": null,
-  "download_filename": "weni_feature_flags-0.1.2.tar.gz",
-  "download_time": "2025-10-17T15:33:52.328684",
+  "download_filename": "weni_feature_flags-0.1.3.tar.gz",
+  "download_time": "2025-10-17T16:19:43.520342",
   "package_url": "https://pypi.org/project/weni-feature-flags/"
 }

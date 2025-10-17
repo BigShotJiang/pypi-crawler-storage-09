@@ -1,0 +1,11 @@
+{
+  "name": "som-abb",
+  "version": "0.1.0",
+  "summary": "A Somali abbreviation replacement library",
+  "author": "ABDOL",
+  "license": null,
+  "home_page": "https://github.com/abdoltd/somali_abbreviation",
+  "download_filename": "som_abb-0.1.0.tar.gz",
+  "download_time": "2025-10-17T16:19:14.035868",
+  "package_url": "https://pypi.org/project/som-abb/"
+}

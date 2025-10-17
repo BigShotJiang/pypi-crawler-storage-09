@@ -1,0 +1,11 @@
+{
+  "name": "esgf-qa",
+  "version": "0.3.0",
+  "summary": "QA based on compliance-checker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esgf_qa-0.3.0.tar.gz",
+  "download_time": "2025-10-17T16:19:09.404831",
+  "package_url": "https://pypi.org/project/esgf-qa/"
+}

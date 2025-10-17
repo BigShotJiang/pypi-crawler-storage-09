@@ -1,0 +1,11 @@
+{
+  "name": "mocodo",
+  "version": "4.3.3",
+  "summary": "Modélisation Conceptuelle de Données. Nickel. Ni souris.",
+  "author": "Aristide Grange",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mocodo-4.3.3.tar.gz",
+  "download_time": "2025-10-17T16:19:16.105810",
+  "package_url": "https://pypi.org/project/mocodo/"
+}

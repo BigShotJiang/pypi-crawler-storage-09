@@ -1,11 +1,11 @@
 {
   "name": "mic-worker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Worker package for async tasks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mic_worker-0.1.1.tar.gz",
-  "download_time": "2025-10-17T14:51:06.764115",
+  "download_filename": "mic_worker-0.1.2.tar.gz",
+  "download_time": "2025-10-17T16:19:07.345495",
   "package_url": "https://pypi.org/project/mic-worker/"
 }

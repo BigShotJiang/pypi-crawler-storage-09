@@ -1,11 +1,11 @@
 {
   "name": "blueprint-kit",
-  "version": "1.0.66",
+  "version": "1.0.71",
   "summary": "Blueprint CLI, part of Blueprint Kit. A tool to bootstrap your projects for Blueprint-Driven Development (BDD).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blueprint_kit-1.0.66.tar.gz",
-  "download_time": "2025-10-16T22:40:06.143529",
+  "download_filename": "blueprint_kit-1.0.71.tar.gz",
+  "download_time": "2025-10-17T16:19:26.401486",
   "package_url": "https://pypi.org/project/blueprint-kit/"
 }
