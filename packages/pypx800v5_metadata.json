@@ -1,0 +1,11 @@
+{
+  "name": "pypx800v5",
+  "version": "1.4.3",
+  "summary": "Control the IPX800V5 and its extensions.",
+  "author": "Aohzan",
+  "license": null,
+  "home_page": "https://github.com/aohzan/pypx800v5",
+  "download_filename": "pypx800v5-1.4.3.tar.gz",
+  "download_time": "2025-10-17T09:50:08.162182",
+  "package_url": "https://pypi.org/project/pypx800v5/"
+}

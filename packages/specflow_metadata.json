@@ -1,11 +1,11 @@
 {
   "name": "specflow",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A Python library for JSON Schema validation with a fluent, type-safe API",
   "author": "Pedro José Mora Gallegos",
   "license": null,
   "home_page": null,
-  "download_filename": "specflow-0.0.2.tar.gz",
-  "download_time": "2025-10-16T09:17:15.959361",
+  "download_filename": "specflow-0.0.3.tar.gz",
+  "download_time": "2025-10-17T09:50:08.682333",
   "package_url": "https://pypi.org/project/specflow/"
 }

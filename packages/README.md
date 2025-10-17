@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T09:40:10.428048
-- **Total Packages**: 85
-- **Total Size**: 19.94 MB
+- **Download Time**: 2025-10-17T09:50:45.613596
+- **Total Packages**: 88
+- **Total Size**: 10.91 MB
 
 ## Packages List
+- pheme
+- fastapi-mock-service
+- fast-array-utils
+- logicblocks.event.store
+- qrgrader
+- explicit-python
+- nidx-binding
+- tno.quantum.ml.regression.linear_regression
+- code-intelligence
+- rstream
+- seibpy
+- nucliadb-utils
+- RetroScoreTool
+- nucliadb-telemetry
+- nucliadb-sdk
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- nidx-protos
+- pyzotero
+- pypx800v5
+- specflow
+- sws-spark-dissemination-helper
+- sarmat
+- poelis-sdk
+- toml-decouple
+- poet-api
+- pydantic-ai-claude-code
+- tools-collections-python
+- dissect.target
+- tree-sitter-arkts-open
+- kagura-ai
+- funstall
+- scicat-sdk-py
+- gvm-tools
+- spoon-ai-sdk
 - batplot
 - deeplabel-sdk
 - flarchitect
@@ -36,7 +73,6 @@
 - xatra
 - donkit-retriever
 - trailpack
-- tools-collections-python
 - langchain-ydb
 - gcore
 - pypaq
@@ -58,36 +94,3 @@
 - odoo-addon-mail_server_filter
 - odoo-addon-base_external_mssql
 - odoo-addon-base_db_anonymization
-- odoo-addon-base_action_manager_access
-- odoo-addon-auth_totp_ip_check
-- odoo-addon-auth_impersonate_user
-- pydsql
-- symphony_bdk_python
-- pycrosstalker
-- anemoi-env
-- mignonFramework
-- visier-platform-sdk
-- wuying-agentbay-sdk
-- inoopa_utils
-- birdgame
-- open-agent-sdk
-- vital
-- tbp-nightly
-- mode-continued
-- proteobench
-- mediawiki-to-pdf
-- py-pde
-- imerit-ango
-- ango
-- parsac
-- findstring
-- nkululeko
-- mayini-framework
-- adstoolbox
-- safe-s3-storage
-- django-components
-- io4it
-- pylapy
-- astronomer-cosmos
-- nb-path
-- dsstools
