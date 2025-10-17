@@ -1,13 +1,8 @@
 {
-  "download_time": "2025-10-17T16:46:16.629946",
-  "total_packages_downloaded": 86,
-  "total_size_mb": 50.5,
+  "download_time": "2025-10-17T16:56:08.382028",
+  "total_packages_downloaded": 87,
+  "total_size_mb": 4.69,
   "packages": [
-    "txt2stix",
-    "pynxtools-raman",
-    "fsspec-utils",
-    "agilab",
-    "chuchichaestli",
     "folder2md4llms",
     "pynxtools-ellips",
     "omni-epix",
@@ -53,6 +48,7 @@
     "solweig-gpu",
     "create-rl-app",
     "efootprint",
+    "agilab",
     "llama-index-workflows",
     "ozonapi-async",
     "pynxtools-apm",
@@ -88,6 +84,11 @@
     "xai-sdk",
     "stllrent-bootstrap",
     "pynxtools",
-    "mainsequence"
+    "mainsequence",
+    "sonolus.py",
+    "focus-response",
+    "django-tasks",
+    "airweave-sdk",
+    "tartex"
   ]
 }

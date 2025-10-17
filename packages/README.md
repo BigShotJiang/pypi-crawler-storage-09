@@ -1,16 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T16:46:16.629946
-- **Total Packages**: 86
-- **Total Size**: 50.5 MB
+- **Download Time**: 2025-10-17T16:56:08.382028
+- **Total Packages**: 87
+- **Total Size**: 4.69 MB
 
 ## Packages List
-- txt2stix
-- pynxtools-raman
-- fsspec-utils
-- agilab
-- chuchichaestli
 - folder2md4llms
 - pynxtools-ellips
 - omni-epix
@@ -56,6 +51,7 @@
 - solweig-gpu
 - create-rl-app
 - efootprint
+- agilab
 - llama-index-workflows
 - ozonapi-async
 - pynxtools-apm
@@ -92,3 +88,8 @@
 - stllrent-bootstrap
 - pynxtools
 - mainsequence
+- sonolus.py
+- focus-response
+- django-tasks
+- airweave-sdk
+- tartex
