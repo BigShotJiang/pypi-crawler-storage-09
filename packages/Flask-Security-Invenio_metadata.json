@@ -1,0 +1,11 @@
+{
+  "name": "Flask-Security-Invenio",
+  "version": "3.8.1",
+  "summary": "\"Simple security for Flask apps.\"",
+  "author": "CERN/TU Wien/JRC",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/flask-security-invenio",
+  "download_filename": "flask_security_invenio-3.8.1.tar.gz",
+  "download_time": "2025-10-17T12:51:59.982247",
+  "package_url": "https://pypi.org/project/Flask-Security-Invenio/"
+}

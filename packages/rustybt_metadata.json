@@ -1,0 +1,11 @@
+{
+  "name": "rustybt",
+  "version": "0.1.0",
+  "summary": "Modern Python backtesting engine built on Zipline-Reloaded, enhanced with Decimal precision, Polars data engine, and live trading capabilities",
+  "author": "Quantopian Inc, Stefan Jansen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rustybt-0.1.0-cp313-cp313-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-17T12:51:33.359245",
+  "package_url": "https://pypi.org/project/rustybt/"
+}

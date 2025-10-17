@@ -1,0 +1,11 @@
+{
+  "name": "fedcast",
+  "version": "0.1.1b1",
+  "summary": "A modular framework for time series forecasting using federated learning, built on top of the Flower framework",
+  "author": "FedCast Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/NKDataConv/FedCast",
+  "download_filename": "fedcast-0.1.1b1.tar.gz",
+  "download_time": "2025-10-17T12:51:48.019211",
+  "package_url": "https://pypi.org/project/fedcast/"
+}

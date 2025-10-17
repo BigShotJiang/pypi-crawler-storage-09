@@ -1,0 +1,11 @@
+{
+  "name": "device-management-interface",
+  "version": "1.18.0",
+  "summary": "Protobuf interface definitions",
+  "author": "VOLTHA project",
+  "license": "Apache Software License",
+  "home_page": "https://gerrit.opencord.org/plugins/gitiles/device-management-interface",
+  "download_filename": "device-management-interface-1.18.0.tar.gz",
+  "download_time": "2025-10-17T12:51:23.939641",
+  "package_url": "https://pypi.org/project/device-management-interface/"
+}

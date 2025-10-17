@@ -1,0 +1,11 @@
+{
+  "name": "pycfm",
+  "version": "0.4.3",
+  "summary": "Obtem dados de médicos acessando informações do Conselho Federal de Medicina",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycfm-0.4.3.tar.gz",
+  "download_time": "2025-10-17T12:51:38.354916",
+  "package_url": "https://pypi.org/project/pycfm/"
+}

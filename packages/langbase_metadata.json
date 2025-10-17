@@ -1,0 +1,11 @@
+{
+  "name": "langbase",
+  "version": "0.0.5",
+  "summary": "Python SDK for the Langbase API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langbase-0.0.5.tar.gz",
+  "download_time": "2025-10-17T12:52:05.435578",
+  "package_url": "https://pypi.org/project/langbase/"
+}

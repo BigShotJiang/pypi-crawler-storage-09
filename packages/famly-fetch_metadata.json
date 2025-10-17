@@ -1,0 +1,11 @@
+{
+  "name": "famly-fetch",
+  "version": "0.3.0",
+  "summary": "Fetch your (kid's) images from famly.co",
+  "author": "Jacob Bunk Nielsen, Morten Siebuhr, iLeoDo, Tom Vincent",
+  "license": null,
+  "home_page": null,
+  "download_filename": "famly_fetch-0.3.0.tar.gz",
+  "download_time": "2025-10-17T12:51:16.637125",
+  "package_url": "https://pypi.org/project/famly-fetch/"
+}

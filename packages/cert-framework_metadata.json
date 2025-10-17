@@ -1,11 +1,11 @@
 {
   "name": "cert-framework",
-  "version": "0.2.0",
-  "summary": "Semantic document comparison with validated accuracy (87.6% on STS-Benchmark)",
+  "version": "0.2.1",
+  "summary": "A framework to test your LLM application for reliability",
   "author": "Javier Marin",
   "license": null,
   "home_page": "https://github.com/Javihaus/cert-framework",
-  "download_filename": "cert_framework-0.2.0.tar.gz",
-  "download_time": "2025-10-17T11:50:11.219547",
+  "download_filename": "cert_framework-0.2.1.tar.gz",
+  "download_time": "2025-10-17T12:51:30.821804",
   "package_url": "https://pypi.org/project/cert-framework/"
 }

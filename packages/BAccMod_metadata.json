@@ -1,0 +1,11 @@
+{
+  "name": "BAccMod",
+  "version": "0.4.0",
+  "summary": "Calculate 2D and 3d acceptance model for creating maps with gammapy (IACT analysis)",
+  "author": "Mathieu de Bony de Lavergne, Gabriel Emery, Marie-Sophie Carrasco",
+  "license": "LGPL v3",
+  "home_page": "https://github.com/mdebony/BAccMod",
+  "download_filename": "baccmod-0.4.0.tar.gz",
+  "download_time": "2025-10-17T12:52:07.671581",
+  "package_url": "https://pypi.org/project/BAccMod/"
+}
