@@ -1,0 +1,11 @@
+{
+  "name": "devforge",
+  "version": "1.0.0",
+  "summary": "A fast CLI tool to scaffold Python projects",
+  "author": "Hythm Saad",
+  "license": null,
+  "home_page": "https://github.com/hythm/devforge",
+  "download_filename": "devforge-1.0.0.tar.gz",
+  "download_time": "2025-10-17T11:50:00.781657",
+  "package_url": "https://pypi.org/project/devforge/"
+}

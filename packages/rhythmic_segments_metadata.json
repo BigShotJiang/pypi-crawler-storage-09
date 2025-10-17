@@ -1,0 +1,11 @@
+{
+  "name": "rhythmic_segments",
+  "version": "0.1.8",
+  "summary": "Research code for basic Rhythmic Segment Analysis.",
+  "author": "Bas Cornelissen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rhythmic_segments-0.1.8.tar.gz",
+  "download_time": "2025-10-17T11:50:01.301090",
+  "package_url": "https://pypi.org/project/rhythmic_segments/"
+}

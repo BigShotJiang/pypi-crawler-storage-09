@@ -1,0 +1,11 @@
+{
+  "name": "tsinfer",
+  "version": "0.4.2",
+  "summary": "Infer tree sequences from genetic variation data.",
+  "author": "Tskit Developers",
+  "license": "GNU GPLv3+",
+  "home_page": "https://tskit.dev/tsinfer",
+  "download_filename": "tsinfer-0.4.2.tar.gz",
+  "download_time": "2025-10-17T11:50:15.359034",
+  "package_url": "https://pypi.org/project/tsinfer/"
+}

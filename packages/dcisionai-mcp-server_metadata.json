@@ -1,11 +1,11 @@
 {
   "name": "dcisionai-mcp-server",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "summary": "DcisionAI MCP Server for Mathematical Optimization with Enhanced Solver Selection and Business Explainability",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcisionai_mcp_server-1.4.3.tar.gz",
-  "download_time": "2025-10-17T11:38:09.767012",
+  "download_filename": "dcisionai_mcp_server-1.4.4.tar.gz",
+  "download_time": "2025-10-17T11:50:15.878847",
   "package_url": "https://pypi.org/project/dcisionai-mcp-server/"
 }

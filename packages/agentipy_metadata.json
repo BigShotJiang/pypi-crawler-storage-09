@@ -1,11 +1,11 @@
 {
   "name": "agentipy",
-  "version": "2.1.2.post7",
+  "version": "2.1.2.post8",
   "summary": "A Python toolkit for on chain agents",
   "author": "Utilify",
   "license": null,
   "home_page": "https://github.com/niceberginc/agentipy",
-  "download_filename": "agentipy-2.1.2.post7.tar.gz",
-  "download_time": "2025-10-16T13:48:12.701554",
+  "download_filename": "agentipy-2.1.2.post8.tar.gz",
+  "download_time": "2025-10-17T11:49:58.704572",
   "package_url": "https://pypi.org/project/agentipy/"
 }
