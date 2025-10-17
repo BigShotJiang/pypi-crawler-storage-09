@@ -1,0 +1,11 @@
+{
+  "name": "lazo-index-service",
+  "version": "0.8.0",
+  "summary": "A Python client library for accessing the Lazo gRPC service",
+  "author": "Fernando Chirigati",
+  "license": "Apache-2.0",
+  "home_page": "https://gitlab.com/ViDA-NYU/auctus/lazo-index-service",
+  "download_filename": "lazo_index_service-0.8.0.tar.gz",
+  "download_time": "2025-10-17T16:45:54.501324",
+  "package_url": "https://pypi.org/project/lazo-index-service/"
+}

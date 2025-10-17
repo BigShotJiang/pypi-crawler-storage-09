@@ -1,0 +1,11 @@
+{
+  "name": "pg-import",
+  "version": "2.6.0",
+  "summary": "git to pg converter",
+  "author": "Andrey Chernyakov",
+  "license": "BSD",
+  "home_page": "https://github.com/comagic/pg_import",
+  "download_filename": "pg_import-2.6.0.tar.gz",
+  "download_time": "2025-10-17T16:45:59.362626",
+  "package_url": "https://pypi.org/project/pg-import/"
+}
