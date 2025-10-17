@@ -1,11 +1,11 @@
 {
   "name": "keba-keenergy-api",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "A Python wrapper for the KEBA KeEnergy API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "keba_keenergy_api-2.3.0.tar.gz",
-  "download_time": "2025-10-16T18:22:40.422269",
+  "download_filename": "keba_keenergy_api-2.3.1.tar.gz",
+  "download_time": "2025-10-17T22:32:50.981591",
   "package_url": "https://pypi.org/project/keba-keenergy-api/"
 }

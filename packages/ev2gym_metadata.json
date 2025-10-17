@@ -1,0 +1,11 @@
+{
+  "name": "ev2gym",
+  "version": "2.0.0",
+  "summary": "A realistic V2G simulator environment",
+  "author": "Stavros Orfanoudakis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ev2gym-2.0.0.tar.gz",
+  "download_time": "2025-10-17T22:32:48.929088",
+  "package_url": "https://pypi.org/project/ev2gym/"
+}

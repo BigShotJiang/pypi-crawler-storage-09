@@ -1,0 +1,11 @@
+{
+  "name": "nitpick",
+  "version": "0.38.0",
+  "summary": "Enforce the same settings across multiple language-independent projects",
+  "author": "W. Augusto Andreoli",
+  "license": "MIT",
+  "home_page": "https://github.com/andreoliwa/nitpick",
+  "download_filename": "nitpick-0.38.0.tar.gz",
+  "download_time": "2025-10-17T22:32:25.747281",
+  "package_url": "https://pypi.org/project/nitpick/"
+}

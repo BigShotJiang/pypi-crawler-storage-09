@@ -1,11 +1,11 @@
 {
   "name": "nvidia-dali-nightly-cuda130",
-  "version": "1.53.0.dev20251016",
-  "summary": "NVIDIA DALI nightly  for CUDA 13.0. Git SHA: e5d5c9a7de5c827a09c744a0267618e27a5b284d",
+  "version": "1.53.0.dev20251017",
+  "summary": "NVIDIA DALI nightly  for CUDA 13.0. Git SHA: e2db4d795524dd2274dec9fbe479d2e8e50c6f23",
   "author": "NVIDIA Corporation",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/NVIDIA/dali",
-  "download_filename": "nvidia_dali_nightly_cuda130-1.53.0.dev20251016.tar.gz",
-  "download_time": "2025-10-16T16:45:51.328079",
+  "download_filename": "nvidia_dali_nightly_cuda130-1.53.0.dev20251017.tar.gz",
+  "download_time": "2025-10-17T22:32:37.092023",
   "package_url": "https://pypi.org/project/nvidia-dali-nightly-cuda130/"
 }
