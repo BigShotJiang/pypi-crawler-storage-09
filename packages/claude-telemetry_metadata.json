@@ -1,0 +1,11 @@
+{
+  "name": "claude-telemetry",
+  "version": "0.3.0",
+  "summary": "OpenTelemetry instrumentation for Claude agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_telemetry-0.3.0.tar.gz",
+  "download_time": "2025-10-17T23:28:17.687441",
+  "package_url": "https://pypi.org/project/claude-telemetry/"
+}

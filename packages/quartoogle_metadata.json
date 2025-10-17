@@ -1,0 +1,11 @@
+{
+  "name": "quartoogle",
+  "version": "0.1.2",
+  "summary": "Compile quarto docs directly to google drive",
+  "author": "Zach Kurtz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quartoogle-0.1.2.tar.gz",
+  "download_time": "2025-10-17T23:28:27.992654",
+  "package_url": "https://pypi.org/project/quartoogle/"
+}

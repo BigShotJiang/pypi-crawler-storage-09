@@ -1,0 +1,11 @@
+{
+  "name": "custom-sort-cli",
+  "version": "0.1.0",
+  "summary": "A custom sort command line tool using Python and Click.",
+  "author": "Bohdan",
+  "license": null,
+  "home_page": "https://github.com/bohdanfariyon/custom-sort",
+  "download_filename": "custom_sort_cli-0.1.0.tar.gz",
+  "download_time": "2025-10-17T23:28:27.435460",
+  "package_url": "https://pypi.org/project/custom-sort-cli/"
+}
