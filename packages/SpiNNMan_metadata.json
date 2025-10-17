@@ -1,0 +1,11 @@
+{
+  "name": "SpiNNMan",
+  "version": "1!7.4.1",
+  "summary": "Interaction with a SpiNNaker Machine",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/SpiNNakerManchester/SpiNNMan",
+  "download_filename": "spinnman-1!7.4.1.tar.gz",
+  "download_time": "2025-10-17T08:22:04.164186",
+  "package_url": "https://pypi.org/project/SpiNNMan/"
+}

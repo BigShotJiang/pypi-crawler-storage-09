@@ -1,0 +1,11 @@
+{
+  "name": "SpiNNFrontEndCommon",
+  "version": "1!7.4.1",
+  "summary": "Common SpiNNaker Front end functions",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/SpiNNakerManchester/SpiNNFrontEndCommon",
+  "download_filename": "spinnfrontendcommon-1!7.4.1.tar.gz",
+  "download_time": "2025-10-17T08:22:02.106775",
+  "package_url": "https://pypi.org/project/SpiNNFrontEndCommon/"
+}

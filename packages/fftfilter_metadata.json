@@ -1,0 +1,11 @@
+{
+  "name": "fftfilter",
+  "version": "0.3",
+  "summary": "FFT-Filter provides a GUI to remove periodic baselines from measurements by FFT-filtering the data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fftfilter-0.3.tar.gz",
+  "download_time": "2025-10-17T08:21:53.843760",
+  "package_url": "https://pypi.org/project/fftfilter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OASYS1-Elettra-Extensions",
+  "version": "0.2.77",
+  "summary": "OASYS extensions for Elettra",
+  "author": "Aljosa Hafner",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oasys-elettra-kit/OASYS1-ELETTRA-Extensions",
+  "download_filename": "OASYS1-Elettra-Extensions-0.2.77.tar.gz",
+  "download_time": "2025-10-17T08:21:55.399952",
+  "package_url": "https://pypi.org/project/OASYS1-Elettra-Extensions/"
+}

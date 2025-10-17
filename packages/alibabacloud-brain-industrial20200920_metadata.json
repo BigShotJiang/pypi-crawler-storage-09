@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-brain-industrial20200920",
+  "version": "2.1.2",
+  "summary": "Alibaba Cloud brain-industrial (20200920) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_brain-industrial20200920-2.1.2.tar.gz",
+  "download_time": "2025-10-17T08:21:23.746864",
+  "package_url": "https://pypi.org/project/alibabacloud-brain-industrial20200920/"
+}

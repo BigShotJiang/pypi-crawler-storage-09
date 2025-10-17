@@ -1,0 +1,11 @@
+{
+  "name": "cosyvoice-client",
+  "version": "1.0.4",
+  "summary": "Asynchronous streaming TTS client for CosyVoice",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cosyvoice_client-1.0.4.tar.gz",
+  "download_time": "2025-10-17T08:21:52.822590",
+  "package_url": "https://pypi.org/project/cosyvoice-client/"
+}

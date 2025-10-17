@@ -1,0 +1,11 @@
+{
+  "name": "SpiNNakerGraphFrontEnd",
+  "version": "1!7.4.1",
+  "summary": "Front end to the SpiNNaker tool chain which uses a basic graph",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/SpiNNakerManchester/SpiNNakerGraphFrontEnd",
+  "download_filename": "spinnakergraphfrontend-1!7.4.1.tar.gz",
+  "download_time": "2025-10-17T08:22:01.082534",
+  "package_url": "https://pypi.org/project/SpiNNakerGraphFrontEnd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lmspace",
+  "version": "0.1.0",
+  "summary": "Runner that provisions Azure OpenAI assistants from YAML configs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lmspace-0.1.0.tar.gz",
+  "download_time": "2025-10-17T08:21:32.012446",
+  "package_url": "https://pypi.org/project/lmspace/"
+}

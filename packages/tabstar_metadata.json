@@ -1,11 +1,11 @@
 {
   "name": "tabstar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tabstar-1.0.0.tar.gz",
-  "download_time": "2025-10-17T05:33:26.842085",
+  "download_filename": "tabstar-1.0.1.tar.gz",
+  "download_time": "2025-10-17T08:21:32.526175",
   "package_url": "https://pypi.org/project/tabstar/"
 }

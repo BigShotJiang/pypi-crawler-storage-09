@@ -1,0 +1,11 @@
+{
+  "name": "temp-wapi",
+  "version": "0.0.2",
+  "summary": "Fetches current temperature for given latitude and longitude",
+  "author": "Alireza Alizadeh",
+  "license": null,
+  "home_page": "https://github.com/Alireza123480/temp_wapi",
+  "download_filename": "temp_wapi-0.0.2.tar.gz",
+  "download_time": "2025-10-17T08:21:48.099692",
+  "package_url": "https://pypi.org/project/temp-wapi/"
+}
