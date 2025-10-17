@@ -1,11 +1,11 @@
 {
   "name": "dsf-label-sdk",
-  "version": "1.1.11",
+  "version": "1.2.2",
   "summary": "Professional SDK for DSF Label Adaptive Formula API",
   "author": "Jaime Alexander Jimenez",
   "license": null,
   "home_page": "https://github.com/jaimeajl/dsf-label-sdk",
-  "download_filename": "dsf_label_sdk-1.1.11.tar.gz",
-  "download_time": "2025-10-16T21:49:32.728139",
+  "download_filename": "dsf_label_sdk-1.2.2.tar.gz",
+  "download_time": "2025-10-17T18:55:08.918462",
   "package_url": "https://pypi.org/project/dsf-label-sdk/"
 }

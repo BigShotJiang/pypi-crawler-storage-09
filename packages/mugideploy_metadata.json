@@ -1,0 +1,11 @@
+{
+  "name": "mugideploy",
+  "version": "0.0.30",
+  "summary": "C++ deploy utility",
+  "author": "Doronin Stanislav",
+  "license": null,
+  "home_page": "https://github.com/mugiseyebrows/mugideploy",
+  "download_filename": "mugideploy-0.0.30.tar.gz",
+  "download_time": "2025-10-17T18:55:11.051136",
+  "package_url": "https://pypi.org/project/mugideploy/"
+}

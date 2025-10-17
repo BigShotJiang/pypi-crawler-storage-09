@@ -1,0 +1,11 @@
+{
+  "name": "har2tree",
+  "version": "1.34.0",
+  "summary": "HTTP Archive (HAR) to ETE Toolkit generator",
+  "author": "Raphaël Vinot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "har2tree-1.34.0.tar.gz",
+  "download_time": "2025-10-17T18:55:07.300987",
+  "package_url": "https://pypi.org/project/har2tree/"
+}

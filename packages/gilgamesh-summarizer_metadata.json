@@ -1,11 +1,11 @@
 {
   "name": "gilgamesh-summarizer",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A package for summarizing RDF graphs for Question Answering pipelines",
   "author": "Kostas Plas",
   "license": null,
   "home_page": null,
-  "download_filename": "gilgamesh_summarizer-0.1.7.tar.gz",
-  "download_time": "2025-10-17T17:15:38.488141",
+  "download_filename": "gilgamesh_summarizer-0.1.8.tar.gz",
+  "download_time": "2025-10-17T18:55:22.594039",
   "package_url": "https://pypi.org/project/gilgamesh-summarizer/"
 }

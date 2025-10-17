@@ -1,11 +1,11 @@
 {
   "name": "riddhulib",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A simple addition library by Riddhesh with comments and docstrings.",
   "author": "Riddhesh Wagvekar",
   "license": null,
   "home_page": null,
-  "download_filename": "riddhulib-0.1.1.tar.gz",
-  "download_time": "2025-10-17T18:45:58.615631",
+  "download_filename": "riddhulib-0.1.2.tar.gz",
+  "download_time": "2025-10-17T18:55:06.756815",
   "package_url": "https://pypi.org/project/riddhulib/"
 }

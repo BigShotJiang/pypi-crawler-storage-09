@@ -1,0 +1,11 @@
+{
+  "name": "snowglobe-sdk",
+  "version": "0.2.6",
+  "summary": "A client library for accessing Snowglobe SDK",
+  "author": "Guardrails AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "snowglobe_sdk-0.2.6.tar.gz",
+  "download_time": "2025-10-17T18:55:17.651237",
+  "package_url": "https://pypi.org/project/snowglobe-sdk/"
+}

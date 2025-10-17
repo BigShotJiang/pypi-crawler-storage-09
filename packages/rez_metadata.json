@@ -1,0 +1,11 @@
+{
+  "name": "rez",
+  "version": "3.3.0",
+  "summary": "A cross-platform packaging system that can build and install multiple version of packages, and dynamically configure resolved environments at runtime.",
+  "author": "Allan Johns",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/AcademySoftwareFoundation/rez",
+  "download_filename": "rez-3.3.0.tar.gz",
+  "download_time": "2025-10-17T18:55:06.219557",
+  "package_url": "https://pypi.org/project/rez/"
+}

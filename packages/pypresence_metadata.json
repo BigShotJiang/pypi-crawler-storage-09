@@ -1,0 +1,11 @@
+{
+  "name": "pypresence",
+  "version": "4.6.1",
+  "summary": "Discord RPC client written in Python",
+  "author": "qwertyquerty",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypresence-4.6.1.tar.gz",
+  "download_time": "2025-10-17T18:55:07.838248",
+  "package_url": "https://pypi.org/project/pypresence/"
+}

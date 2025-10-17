@@ -1,0 +1,11 @@
+{
+  "name": "mnemosyne-journal",
+  "version": "0.1.0",
+  "summary": "A simple encrypted journaling application that is named after the ancient Greek goddess of memories.",
+  "author": "siru",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnemosyne_journal-0.1.0.tar.gz",
+  "download_time": "2025-10-17T18:55:29.500496",
+  "package_url": "https://pypi.org/project/mnemosyne-journal/"
+}

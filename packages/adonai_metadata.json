@@ -1,0 +1,11 @@
+{
+  "name": "adonai",
+  "version": "0.0.2",
+  "summary": "Compute the Approximate Chromatic Number for undirected graph encoded in DIMACS format.",
+  "author": "Frank Vega",
+  "license": "MIT License",
+  "home_page": "https://github.com/frankvegadelgado/adonai",
+  "download_filename": "adonai-0.0.2.tar.gz",
+  "download_time": "2025-10-17T18:55:32.105626",
+  "package_url": "https://pypi.org/project/adonai/"
+}
