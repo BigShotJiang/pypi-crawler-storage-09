@@ -1,0 +1,11 @@
+{
+  "name": "engines4ai",
+  "version": "1.0.6",
+  "summary": "A comprehensive Python wrapper for SearXNG search API, providing specialized search engines for various categories (general, images, videos, news, maps, IT, science) with structured dataclass-based results.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "engines4ai-1.0.6.tar.gz",
+  "download_time": "2025-10-17T01:09:59.430295",
+  "package_url": "https://pypi.org/project/engines4ai/"
+}

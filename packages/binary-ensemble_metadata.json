@@ -1,0 +1,11 @@
+{
+  "name": "binary-ensemble",
+  "version": "0.3.0",
+  "summary": "Python bindings for the Binary Ensemble Package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "binary_ensemble-0.3.0.tar.gz",
+  "download_time": "2025-10-17T01:09:37.619171",
+  "package_url": "https://pypi.org/project/binary-ensemble/"
+}

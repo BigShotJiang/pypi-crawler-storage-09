@@ -1,0 +1,11 @@
+{
+  "name": "django-swingtime",
+  "version": "3.0.0",
+  "summary": "A Django calendaring application",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_swingtime-3.0.0.tar.gz",
+  "download_time": "2025-10-17T01:09:39.226204",
+  "package_url": "https://pypi.org/project/django-swingtime/"
+}

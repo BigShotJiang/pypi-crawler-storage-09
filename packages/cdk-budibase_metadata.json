@@ -1,0 +1,11 @@
+{
+  "name": "cdk-budibase",
+  "version": "0.0.790",
+  "summary": "Use AWS CDK to create budibase server",
+  "author": "Neil Kuan<guan840912@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/neilkuan/cdk-budibase.git",
+  "download_filename": "cdk_budibase-0.0.790.tar.gz",
+  "download_time": "2025-10-17T01:09:58.395572",
+  "package_url": "https://pypi.org/project/cdk-budibase/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cyclonedds-nightly",
+  "version": "2025.10.17",
+  "summary": "Eclipse Cyclone DDS Python binding",
+  "author": "Eclipse Cyclone DDS Committers",
+  "license": "EPL-2.0, BSD-3-Clause",
+  "home_page": "https://cyclonedds.io",
+  "download_filename": "cyclonedds_nightly-2025.10.17.tar.gz",
+  "download_time": "2025-10-17T01:09:58.916444",
+  "package_url": "https://pypi.org/project/cyclonedds-nightly/"
+}
