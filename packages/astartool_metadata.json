@@ -1,0 +1,11 @@
+{
+  "name": "astartool",
+  "version": "0.1.4",
+  "summary": "toolkit for python",
+  "author": "A.Star",
+  "license": "Apache v2.0",
+  "home_page": "https://gitee.com/hoops/astartool",
+  "download_filename": "astartool-0.1.4.tar.gz",
+  "download_time": "2025-10-17T10:17:51.504324",
+  "package_url": "https://pypi.org/project/astartool/"
+}

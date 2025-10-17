@@ -1,0 +1,11 @@
+{
+  "name": "cryptlex.lexfloatclient",
+  "version": "4.12.1",
+  "summary": "LexFloatClient API wrapper for Python",
+  "author": "Cryptlex, LLC",
+  "license": null,
+  "home_page": "https://github.com/cryptlex/lexfloatclient-python",
+  "download_filename": "cryptlex_lexfloatclient-4.12.1.tar.gz",
+  "download_time": "2025-10-17T10:17:11.303623",
+  "package_url": "https://pypi.org/project/cryptlex.lexfloatclient/"
+}

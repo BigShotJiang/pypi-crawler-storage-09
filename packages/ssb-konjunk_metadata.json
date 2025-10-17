@@ -1,0 +1,11 @@
+{
+  "name": "ssb-konjunk",
+  "version": "2.0.0",
+  "summary": "SSB Konjunk 422",
+  "author": "Johanne Saxegaard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ssb_konjunk-2.0.0.tar.gz",
+  "download_time": "2025-10-17T10:17:19.182721",
+  "package_url": "https://pypi.org/project/ssb-konjunk/"
+}

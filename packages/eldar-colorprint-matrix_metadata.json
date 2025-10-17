@@ -1,0 +1,11 @@
+{
+  "name": "eldar-colorprint-matrix",
+  "version": "0.0.1",
+  "summary": "A simple Python library for colorful terminal text output",
+  "author": "Eldar",
+  "license": null,
+  "home_page": "https://github.com/eldar/colorprint",
+  "download_filename": "eldar_colorprint_matrix-0.0.1.tar.gz",
+  "download_time": "2025-10-17T10:17:31.781115",
+  "package_url": "https://pypi.org/project/eldar-colorprint-matrix/"
+}

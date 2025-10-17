@@ -1,0 +1,11 @@
+{
+  "name": "prompt-debugger",
+  "version": "0.1.0",
+  "summary": "Debug AI responses, understand failures, and get automatic improvement suggestions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prompt_debugger-0.1.0.tar.gz",
+  "download_time": "2025-10-17T10:17:10.581407",
+  "package_url": "https://pypi.org/project/prompt-debugger/"
+}

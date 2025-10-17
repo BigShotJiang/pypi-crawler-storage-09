@@ -1,0 +1,11 @@
+{
+  "name": "cogstim",
+  "version": "0.2.2",
+  "summary": "Visual cognitive-stimulus generator (ANS dots, shapes, gratings)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cogstim-0.2.2.tar.gz",
+  "download_time": "2025-10-17T10:17:20.241749",
+  "package_url": "https://pypi.org/project/cogstim/"
+}

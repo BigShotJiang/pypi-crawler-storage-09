@@ -1,0 +1,11 @@
+{
+  "name": "smartcoop-python-sdk",
+  "version": "1.1.0",
+  "summary": "A Python SDK for the SmartCoop API",
+  "author": "Omlet",
+  "license": null,
+  "home_page": "https://github.com/Omlet-Ltd/smartcoop-python-sdk",
+  "download_filename": "smartcoop-python-sdk-1.1.0.tar.gz",
+  "download_time": "2025-10-17T10:17:50.483241",
+  "package_url": "https://pypi.org/project/smartcoop-python-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "onepush",
+  "version": "1.7.0",
+  "summary": "A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk.",
+  "author": "y1ndan",
+  "license": "MIT",
+  "home_page": "https://github.com/y1ndan/onepush",
+  "download_filename": "onepush-1.7.0.tar.gz",
+  "download_time": "2025-10-17T10:17:50.994173",
+  "package_url": "https://pypi.org/project/onepush/"
+}

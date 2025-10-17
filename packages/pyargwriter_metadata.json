@@ -1,0 +1,11 @@
+{
+  "name": "pyargwriter",
+  "version": "1.1.4",
+  "summary": "Automatically generates ArgumentParser setups for Python classes and their methods.",
+  "author": "Robin Uhrich",
+  "license": "MIT",
+  "home_page": "https://github.com/RobinU434/PyArgWriter",
+  "download_filename": "pyargwriter-1.1.4.tar.gz",
+  "download_time": "2025-10-17T10:17:48.380630",
+  "package_url": "https://pypi.org/project/pyargwriter/"
+}

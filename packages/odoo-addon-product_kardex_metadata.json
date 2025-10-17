@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product_kardex",
+  "version": "18.0.1.0.0",
+  "summary": "Module summary.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_product_kardex-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-17T10:17:45.797831",
+  "package_url": "https://pypi.org/project/odoo-addon-product_kardex/"
+}

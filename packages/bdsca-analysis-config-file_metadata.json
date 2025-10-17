@@ -1,0 +1,11 @@
+{
+  "name": "bdsca-analysis-config-file",
+  "version": "0.1.5",
+  "summary": "Tools and CLI for handling BDSCA analysis configuration file(s).",
+  "author": "Jouni Lehto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bdsca_analysis_config_file-0.1.5.tar.gz",
+  "download_time": "2025-10-17T10:17:23.418816",
+  "package_url": "https://pypi.org/project/bdsca-analysis-config-file/"
+}

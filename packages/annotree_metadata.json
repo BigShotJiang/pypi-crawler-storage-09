@@ -1,11 +1,11 @@
 {
   "name": "annotree",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Generate annotated file tree structures with descriptions from file comments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "annotree-0.1.1.tar.gz",
-  "download_time": "2025-10-16T08:48:00.642195",
+  "download_filename": "annotree-0.2.0.tar.gz",
+  "download_time": "2025-10-17T10:17:36.439911",
   "package_url": "https://pypi.org/project/annotree/"
 }
