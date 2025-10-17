@@ -1,11 +1,11 @@
 {
   "name": "code-puppy",
-  "version": "0.0.210",
+  "version": "0.0.211",
   "summary": "Code generation agent",
   "author": "Michael Pfaffenberger",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "code_puppy-0.0.210.tar.gz",
-  "download_time": "2025-10-17T02:40:33.541587",
+  "download_filename": "code_puppy-0.0.211.tar.gz",
+  "download_time": "2025-10-17T03:26:13.551584",
   "package_url": "https://pypi.org/project/code-puppy/"
 }

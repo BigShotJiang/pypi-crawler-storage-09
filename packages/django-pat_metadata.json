@@ -1,0 +1,11 @@
+{
+  "name": "django-pat",
+  "version": "2.0.0",
+  "summary": "A Django package for creating, using, and managing personal access tokens.",
+  "author": "Chris Muthig",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_pat-2.0.0.tar.gz",
+  "download_time": "2025-10-17T03:25:58.144713",
+  "package_url": "https://pypi.org/project/django-pat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyegm",
+  "version": "0.3.0",
+  "summary": "PyEGM: a physics-inspired exemplar growth classifier with prototypes and arrival centers; NumPy/Scikit-Learn core GPU scoring is auto-enabled if the user installs PyTorch+CUDA separately.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyegm-0.3.0.tar.gz",
+  "download_time": "2025-10-17T03:25:59.173887",
+  "package_url": "https://pypi.org/project/pyegm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "editscore",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A high-fidelity reward model for instruction-based image editing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "editscore-0.1.6.tar.gz",
-  "download_time": "2025-10-16T11:39:06.713693",
+  "download_filename": "editscore-0.1.7.tar.gz",
+  "download_time": "2025-10-17T03:25:57.613323",
   "package_url": "https://pypi.org/project/editscore/"
 }

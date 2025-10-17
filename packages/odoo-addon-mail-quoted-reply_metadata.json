@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-quoted-reply",
+  "version": "18.0.1.0.0.3",
+  "summary": "Make a reply using a message",
+  "author": "Creu Blanca,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/mail",
+  "download_filename": "odoo_addon_mail_quoted_reply-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-10-17T03:25:45.458267",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-quoted-reply/"
+}

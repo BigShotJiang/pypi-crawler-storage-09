@@ -1,0 +1,11 @@
+{
+  "name": "ommx-openjij-adapter",
+  "version": "2.0.11",
+  "summary": "OMMX Adapter for OpenJij.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ommx_openjij_adapter-2.0.11.tar.gz",
+  "download_time": "2025-10-17T03:25:43.260095",
+  "package_url": "https://pypi.org/project/ommx-openjij-adapter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-fi-edicode",
+  "version": "19.0.1.0.0.2",
+  "summary": "Adds EDI code field and operators",
+  "author": "Futural, Odoo Community Association (OCA), Avoin.Systems",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/l10n-finland",
+  "download_filename": "odoo_addon_l10n_fi_edicode-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-17T03:25:55.456853",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-fi-edicode/"
+}
