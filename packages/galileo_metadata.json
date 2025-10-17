@@ -1,11 +1,11 @@
 {
   "name": "galileo",
-  "version": "1.27.0",
+  "version": "1.27.1",
   "summary": "Client library for the Galileo platform.",
   "author": "Galileo Technologies Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "galileo-1.27.0.tar.gz",
-  "download_time": "2025-10-16T18:54:18.774722",
+  "download_filename": "galileo-1.27.1.tar.gz",
+  "download_time": "2025-10-17T15:16:24.363338",
   "package_url": "https://pypi.org/project/galileo/"
 }

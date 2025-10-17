@@ -1,0 +1,11 @@
+{
+  "name": "clifford",
+  "version": "1.5.0",
+  "summary": "Numerical Geometric Algebra Module",
+  "author": "Robert Kern",
+  "license": "bsd",
+  "home_page": "http://clifford.readthedocs.io",
+  "download_filename": "clifford-1.5.0.tar.gz",
+  "download_time": "2025-10-17T15:16:38.601922",
+  "package_url": "https://pypi.org/project/clifford/"
+}

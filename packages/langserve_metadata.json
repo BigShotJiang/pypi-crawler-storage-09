@@ -1,0 +1,11 @@
+{
+  "name": "langserve",
+  "version": "0.3.3",
+  "summary": null,
+  "author": "LangChain",
+  "license": "LangServe",
+  "home_page": "https://github.com/langchain-ai/langserve",
+  "download_filename": "langserve-0.3.3.tar.gz",
+  "download_time": "2025-10-17T15:16:12.299674",
+  "package_url": "https://pypi.org/project/langserve/"
+}

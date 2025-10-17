@@ -1,0 +1,11 @@
+{
+  "name": "hamlette",
+  "version": "0.1.0",
+  "summary": "Enriches Hamcrest with a fluent asserter and handy matchers for expressive, readable tests.",
+  "author": "Ovunc Cetin",
+  "license": null,
+  "home_page": "https://github.com/ovunccetin/hamlette",
+  "download_filename": "hamlette-0.1.0.tar.gz",
+  "download_time": "2025-10-17T15:16:02.722237",
+  "package_url": "https://pypi.org/project/hamlette/"
+}

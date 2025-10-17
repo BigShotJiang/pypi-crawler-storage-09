@@ -1,0 +1,11 @@
+{
+  "name": "pmemstat",
+  "version": "3.0.2",
+  "summary": "Report Proportional Memory on Linux",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmemstat-3.0.2.tar.gz",
+  "download_time": "2025-10-17T15:16:13.852062",
+  "package_url": "https://pypi.org/project/pmemstat/"
+}

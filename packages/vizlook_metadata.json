@@ -1,0 +1,11 @@
+{
+  "name": "vizlook",
+  "version": "0.1.1",
+  "summary": "The official Python library for the Vizlook API",
+  "author": "Vizlook",
+  "license": "MIT",
+  "home_page": "https://github.com/vizlook/vizlook-python",
+  "download_filename": "vizlook-0.1.1.tar.gz",
+  "download_time": "2025-10-17T15:16:26.980391",
+  "package_url": "https://pypi.org/project/vizlook/"
+}
