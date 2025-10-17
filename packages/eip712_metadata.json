@@ -1,0 +1,11 @@
+{
+  "name": "eip712",
+  "version": "0.2.14",
+  "summary": "eip712: Message classes for typed structured data hashing and signing in Ethereum",
+  "author": "ApeWorX Ltd.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ApeWorX/eip712",
+  "download_filename": "eip712-0.2.14.tar.gz",
+  "download_time": "2025-10-17T20:17:57.146429",
+  "package_url": "https://pypi.org/project/eip712/"
+}

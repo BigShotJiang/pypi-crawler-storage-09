@@ -1,0 +1,11 @@
+{
+  "name": "FlaskAPIServer",
+  "version": "0.2.1.2",
+  "summary": "Готовый сервер flask для быстрого использования API",
+  "author": "falbue",
+  "license": null,
+  "home_page": "https://github.com/falbue/FlaskAPIServer",
+  "download_filename": "flaskapiserver-0.2.1.2.tar.gz",
+  "download_time": "2025-10-17T20:17:48.667889",
+  "package_url": "https://pypi.org/project/FlaskAPIServer/"
+}

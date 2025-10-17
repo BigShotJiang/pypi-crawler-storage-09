@@ -1,0 +1,11 @@
+{
+  "name": "Qt.py",
+  "version": "1.4.8",
+  "summary": "Python 2 & 3 compatibility wrapper around all Qt bindings - PySide, PySide2, PyQt4 and PyQt5.",
+  "author": "Marcus Ottosson",
+  "license": "MIT",
+  "home_page": "https://github.com/mottosso/Qt",
+  "download_filename": "qt_py-1.4.8.tar.gz",
+  "download_time": "2025-10-17T20:18:08.460893",
+  "package_url": "https://pypi.org/project/Qt.py/"
+}

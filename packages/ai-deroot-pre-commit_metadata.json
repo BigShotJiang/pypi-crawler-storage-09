@@ -1,0 +1,11 @@
+{
+  "name": "ai-deroot-pre-commit",
+  "version": "0.0.9",
+  "summary": "A pre-commit hook for managing symlinks to AI configuration files stored in a hidden directory",
+  "author": "Scott Hyndman",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ai_deroot_pre_commit-0.0.9.tar.gz",
+  "download_time": "2025-10-17T20:18:23.598629",
+  "package_url": "https://pypi.org/project/ai-deroot-pre-commit/"
+}

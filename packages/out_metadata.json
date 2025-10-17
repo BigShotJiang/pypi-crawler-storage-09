@@ -1,0 +1,11 @@
+{
+  "name": "out",
+  "version": "0.81",
+  "summary": "Fun take on logging for non-huge projects. Gets \"outta\" the way.",
+  "author": "Mike Miller",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/mixmastamyk/out",
+  "download_filename": "out-0.81.tar.gz",
+  "download_time": "2025-10-17T20:17:46.485736",
+  "package_url": "https://pypi.org/project/out/"
+}
