@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-schemathesislibrary",
+  "version": "0.47.0",
+  "summary": "Robot Framework SchemathesisLibrary to automatically create test cases from API specifications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotframework_schemathesislibrary-0.47.0.tar.gz",
+  "download_time": "2025-10-17T04:42:05.137491",
+  "package_url": "https://pypi.org/project/robotframework-schemathesislibrary/"
+}

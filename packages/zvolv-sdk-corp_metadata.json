@@ -1,11 +1,11 @@
 {
   "name": "zvolv-sdk-corp",
-  "version": "0.0.54",
+  "version": "0.0.55",
   "summary": "The Zvolv API Platform SDK for Python",
   "author": "Akshay Jadhav",
   "license": "MIT",
   "home_page": "https://github.com/zvolvapi/python-zvolv-sdk",
-  "download_filename": "zvolv_sdk_corp-0.0.54.tar.gz",
-  "download_time": "2025-10-16T13:19:58.692070",
+  "download_filename": "zvolv_sdk_corp-0.0.55.tar.gz",
+  "download_time": "2025-10-17T04:42:15.992437",
   "package_url": "https://pypi.org/project/zvolv-sdk-corp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "keytopPyUtils",
-  "version": "2.5.0.6",
+  "version": "2.5.0.7",
   "summary": "keytop python utils",
   "author": "zhangjukai",
   "license": null,
   "home_page": null,
-  "download_filename": "keytoppyutils-2.5.0.6.tar.gz",
-  "download_time": "2025-10-17T04:19:04.154537",
+  "download_filename": "keytoppyutils-2.5.0.7.tar.gz",
+  "download_time": "2025-10-17T04:42:21.468034",
   "package_url": "https://pypi.org/project/keytopPyUtils/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "quantlabs",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Professional quantitative trading research platform with ML-powered backtesting, multi-source options analysis, portfolio management, and interactive Plotly visualizations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quantlabs-0.2.1.tar.gz",
-  "download_time": "2025-10-16T22:11:58.223845",
+  "download_filename": "quantlabs-0.3.0.tar.gz",
+  "download_time": "2025-10-17T04:42:13.226415",
   "package_url": "https://pypi.org/project/quantlabs/"
 }
