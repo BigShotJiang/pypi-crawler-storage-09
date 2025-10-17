@@ -1,0 +1,11 @@
+{
+  "name": "balderhub-webdriver",
+  "version": "0.0.1b0",
+  "summary": "balderhub-webdriver: balderhub package that provides features for working with WebDriver protoctol",
+  "author": "Max Stahlschmidt and others",
+  "license": "MIT",
+  "home_page": "https://hub.balder.dev/projects/webdriver",
+  "download_filename": "balderhub_webdriver-0.0.1b0.tar.gz",
+  "download_time": "2025-10-17T17:42:56.308958",
+  "package_url": "https://pypi.org/project/balderhub-webdriver/"
+}

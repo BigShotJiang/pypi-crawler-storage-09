@@ -1,11 +1,11 @@
 {
   "name": "circular-import-detector",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "A tool to detect circular imports in Python projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "circular_import_detector-1.0.6.tar.gz",
-  "download_time": "2025-10-17T17:30:54.287020",
+  "download_filename": "circular_import_detector-1.0.7.tar.gz",
+  "download_time": "2025-10-17T17:43:09.880991",
   "package_url": "https://pypi.org/project/circular-import-detector/"
 }

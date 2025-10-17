@@ -1,0 +1,11 @@
+{
+  "name": "pyams-auth-apikey",
+  "version": "2.1.0",
+  "summary": "PyAMS authentication module using API keys",
+  "author": "Thierry Florac",
+  "license": "ZPL",
+  "home_page": "https://pyams.readthedocs.io",
+  "download_filename": "pyams_auth_apikey-2.1.0.tar.gz",
+  "download_time": "2025-10-17T17:42:49.116391",
+  "package_url": "https://pypi.org/project/pyams-auth-apikey/"
+}

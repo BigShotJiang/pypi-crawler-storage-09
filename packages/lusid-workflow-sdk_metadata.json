@@ -1,0 +1,11 @@
+{
+  "name": "lusid-workflow-sdk",
+  "version": "2.1.179",
+  "summary": "FINBOURNE Workflow API",
+  "author": "FINBOURNE Technology",
+  "license": "MIT",
+  "home_page": "https://github.com/finbourne/workflow-sdk-python",
+  "download_filename": "lusid_workflow_sdk-2.1.179.tar.gz",
+  "download_time": "2025-10-17T17:43:05.127482",
+  "package_url": "https://pypi.org/project/lusid-workflow-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "square-administration",
+  "version": "3.4.7",
+  "summary": "common business layer for my personal server.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "square_administration-3.4.7.tar.gz",
+  "download_time": "2025-10-17T17:43:15.093238",
+  "package_url": "https://pypi.org/project/square-administration/"
+}

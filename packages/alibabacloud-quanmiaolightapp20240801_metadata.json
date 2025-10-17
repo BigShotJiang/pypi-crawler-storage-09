@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-quanmiaolightapp20240801",
+  "version": "2.12.1",
+  "summary": "Alibaba Cloud QuanMiaoLightApp (20240801) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_quanmiaolightapp20240801-2.12.1.tar.gz",
+  "download_time": "2025-10-17T17:42:56.825750",
+  "package_url": "https://pypi.org/project/alibabacloud-quanmiaolightapp20240801/"
+}
