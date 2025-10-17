@@ -1,11 +1,11 @@
 {
   "name": "adorable-cli",
-  "version": "0.1.10",
-  "summary": "A simple Agno-based CLI assistant",
-  "author": "Your Name",
+  "version": "0.1.11",
+  "summary": "A powerful CLI super agent",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adorable_cli-0.1.10.tar.gz",
-  "download_time": "2025-10-16T15:16:48.820381",
+  "download_filename": "adorable_cli-0.1.11.tar.gz",
+  "download_time": "2025-10-17T05:49:40.114918",
   "package_url": "https://pypi.org/project/adorable-cli/"
 }

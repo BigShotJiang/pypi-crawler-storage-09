@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T05:34:10.092882
-- **Total Packages**: 81
-- **Total Size**: 13.4 MB
+- **Download Time**: 2025-10-17T05:50:07.206654
+- **Total Packages**: 84
+- **Total Size**: 8.88 MB
 
 ## Packages List
+- rapidocr-onnxruntime-huawei
+- piket
+- klira
+- jaxl-python
+- bkmr
+- zvolv-sdk-corp
+- py-dict-comparing-xethhung12
+- truefoundry
+- zepben.examples
+- open-agent-sdk
+- google-gmail-mcpserver
+- pulumi-confluentcloud
+- rbx.cp
+- robhan-cdk-lib.aws-grafana
+- robhan-cdk-lib.aws-aps
+- intersphinx-registry
+- computemate
+- interface-py
+- robhan-cdk-lib.utils
+- numcodecs-wasm-reinterpret
+- numcodecs-wasm-random-projection
+- numcodecs-wasm-pco
+- numcodecs-wasm-log
+- numcodecs-wasm-linear-quantize
+- numcodecs-wasm-jpeg2000
+- numcodecs-wasm-identity
+- numcodecs-wasm-fourier-network
+- numcodecs-wasm-fixed-offset-scale
+- numcodecs-wasm-bit-round
+- numcodecs-wasm-asinh
+- pulumi-cloudngfwaws
+- agentmake
+- Navygram
+- pulumi-cloudinit
+- pulumi-cloudamqp
+- pulumi-azuread
+- adorable-cli
+- pulumi-azuredevops
+- geetools
+- common-things
+- func-validator
 - tool-box-951
 - rapyer
 - mns-scheduler
@@ -17,8 +58,6 @@
 - cell-decipher
 - projectaria-mps
 - mapmatcher4gmns
-- zepben.examples
-- py-dict-comparing-xethhung12
 - swanlab
 - c3d-parser
 - pulumi-auth0
@@ -47,43 +86,7 @@
 - universal-mcp-agents
 - pulumi-aiven
 - nd-prover
-- interface-py
 - gpe-tokenizer
-- ffpm
 - fastapps
 - mace-descriptor
 - more-sso-auth
-- semfire
-- open-agent-sdk
-- tinyai-memory
-- common-things
-- magicdsa
-- curverunner
-- darknet2any
-- coiled
-- pycfgcut
-- BatchalignHK
-- bookbridge-mcp
-- batchalign
-- dyff-schema
-- featureform-enterprise
-- DLMSAdapter
-- LogBar
-- apache-beam
-- autogit
-- odoo-index-mcp
-- financegy
-- DLMS-SPODES-client
-- dragon-ml-toolbox
-- chatgpt_hj3415
-- data-prep-toolkit
-- snippy-nextgen
-- data-prep-toolkit-transforms
-- numcore
-- tablestore
-- fujielab-audio-mcnr-input
-- iamdata
-- robotframework-schemathesislibrary
-- amitysolutions.dolphin-mcp
-- cammy
-- plategaio
