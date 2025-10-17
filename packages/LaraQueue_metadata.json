@@ -1,11 +1,11 @@
 {
   "name": "LaraQueue",
-  "version": "0.0.7",
-  "summary": "Sync Laravel queue with Python - simple and lightweight.",
+  "version": "0.0.8",
+  "summary": "Simple and lightweight queue synchronization between Python and Laravel using Redis",
   "author": "Anton Mashkovtsev",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "laraqueue-0.0.7.tar.gz",
-  "download_time": "2025-10-17T18:55:08.375065",
+  "download_filename": "laraqueue-0.0.8.tar.gz",
+  "download_time": "2025-10-17T19:13:03.752362",
   "package_url": "https://pypi.org/project/LaraQueue/"
 }

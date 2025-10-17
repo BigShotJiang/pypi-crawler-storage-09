@@ -1,11 +1,11 @@
 {
   "name": "specifyplus",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "SpecifyPlus CLI - Enhanced Spec-Driven Development toolkit with patterns & templates for building scalable multi-agent AI systems. Treats specifications, architecture history, prompt history, tests, and automated evaluations as first-class artifacts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "specifyplus-0.0.12-py3-none-any.whl",
-  "download_time": "2025-10-17T15:16:44.359004",
+  "download_filename": "specifyplus-0.0.13-py3-none-any.whl",
+  "download_time": "2025-10-17T19:13:05.871082",
   "package_url": "https://pypi.org/project/specifyplus/"
 }

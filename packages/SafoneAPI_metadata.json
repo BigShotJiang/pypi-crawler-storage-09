@@ -1,0 +1,11 @@
+{
+  "name": "SafoneAPI",
+  "version": "1.0.70",
+  "summary": "Asynchronous Python Wrapper For SafoneAPI",
+  "author": "AsmSafone",
+  "license": "MIT",
+  "home_page": "https://github.com/AsmSafone/SafoneAPI",
+  "download_filename": "safoneapi-1.0.70.tar.gz",
+  "download_time": "2025-10-17T19:12:54.187394",
+  "package_url": "https://pypi.org/project/SafoneAPI/"
+}

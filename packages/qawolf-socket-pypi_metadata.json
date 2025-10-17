@@ -1,11 +1,11 @@
 {
   "name": "qawolf-socket-pypi",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "QA Wolf automation testing package",
   "author": "QA Wolf Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qawolf_socket_pypi-0.0.10.tar.gz",
-  "download_time": "2025-10-17T17:15:49.824217",
+  "download_filename": "qawolf_socket_pypi-0.0.11.tar.gz",
+  "download_time": "2025-10-17T19:13:09.000632",
   "package_url": "https://pypi.org/project/qawolf-socket-pypi/"
 }

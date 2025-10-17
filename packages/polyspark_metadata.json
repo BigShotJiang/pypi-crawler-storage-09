@@ -1,0 +1,11 @@
+{
+  "name": "polyspark",
+  "version": "0.4.0",
+  "summary": "Generate PySpark DataFrames using polyfactory for testing and development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polyspark-0.4.0.tar.gz",
+  "download_time": "2025-10-17T19:13:02.194868",
+  "package_url": "https://pypi.org/project/polyspark/"
+}

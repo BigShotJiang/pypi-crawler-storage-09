@@ -1,11 +1,11 @@
 {
   "name": "langchain-trigger-server",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Generic event-driven triggers framework",
   "author": "Open Agent Platform Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_trigger_server-0.3.2.tar.gz",
-  "download_time": "2025-10-17T18:55:34.203828",
+  "download_filename": "langchain_trigger_server-0.3.3.tar.gz",
+  "download_time": "2025-10-17T19:12:48.210881",
   "package_url": "https://pypi.org/project/langchain-trigger-server/"
 }

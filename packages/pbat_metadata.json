@@ -1,0 +1,11 @@
+{
+  "name": "pbat",
+  "version": "0.0.27",
+  "summary": "Batch file preprocessor",
+  "author": "Stanislav Doronin",
+  "license": null,
+  "home_page": "https://github.com/mugiseyebrows/pbat",
+  "download_filename": "pbat-0.0.27.tar.gz",
+  "download_time": "2025-10-17T19:13:13.201054",
+  "package_url": "https://pypi.org/project/pbat/"
+}
