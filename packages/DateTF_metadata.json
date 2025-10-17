@@ -1,0 +1,11 @@
+{
+  "name": "DateTF",
+  "version": "0.1.0",
+  "summary": "This module provides two lightweight, immutable date wrapper classes — MonthEndDate and WeekendDate",
+  "author": "TF",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datetf-0.1.0.tar.gz",
+  "download_time": "2025-10-17T13:16:53.501206",
+  "package_url": "https://pypi.org/project/DateTF/"
+}

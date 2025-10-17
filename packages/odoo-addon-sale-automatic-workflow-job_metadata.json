@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-automatic-workflow-job",
+  "version": "18.0.1.0.1",
+  "summary": "Execute sale automatic workflows in queue jobs",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_automatic_workflow_job-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-10-17T13:16:50.783960",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-automatic-workflow-job/"
+}

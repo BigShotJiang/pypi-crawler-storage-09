@@ -1,0 +1,11 @@
+{
+  "name": "toadr3",
+  "version": "0.17.0",
+  "summary": "Tiny OpenADR 3 compatible client Python Library",
+  "author": "Jean-Paul Balabanian",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "toadr3-0.17.0.tar.gz",
+  "download_time": "2025-10-17T13:17:22.363349",
+  "package_url": "https://pypi.org/project/toadr3/"
+}

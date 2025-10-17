@@ -1,11 +1,11 @@
 {
   "name": "qDNA",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "QuantumDNA is an open-source Python package for simulating energy and charge transfer in DNA using quantum mechanical methods.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "qdna-1.0.0.tar.gz",
-  "download_time": "2025-10-17T10:17:13.006084",
+  "download_filename": "qdna-1.0.1.tar.gz",
+  "download_time": "2025-10-17T13:17:21.843440",
   "package_url": "https://pypi.org/project/qDNA/"
 }

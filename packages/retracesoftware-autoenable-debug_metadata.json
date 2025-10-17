@@ -1,11 +1,11 @@
 {
   "name": "retracesoftware-autoenable-debug",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Auto-enable retracesoftware instrumentation",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "retracesoftware_autoenable_debug-0.1.1-py3-none-any.whl",
-  "download_time": "2025-10-16T10:43:32.830501",
+  "download_filename": "retracesoftware_autoenable_debug-0.1.2-py3-none-any.whl",
+  "download_time": "2025-10-17T13:17:35.631328",
   "package_url": "https://pypi.org/project/retracesoftware-autoenable-debug/"
 }

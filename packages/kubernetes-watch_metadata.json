@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-watch",
+  "version": "0.1.12",
+  "summary": null,
+  "author": "bmotevalli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kubernetes_watch-0.1.12.tar.gz",
+  "download_time": "2025-10-17T13:17:11.766424",
+  "package_url": "https://pypi.org/project/kubernetes-watch/"
+}

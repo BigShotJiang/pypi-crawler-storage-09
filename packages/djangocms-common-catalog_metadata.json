@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-common-catalog",
+  "version": "2.1.2",
+  "summary": "DjangoCMS Common Catalog",
+  "author": "Zdeněk Böhm, CZ.NIC",
+  "license": "GPLv3+",
+  "home_page": "https://gitlab.nic.cz/djangocms-apps/djangocms-common-catalog.git",
+  "download_filename": "djangocms_common_catalog-2.1.2.tar.gz",
+  "download_time": "2025-10-17T13:17:09.672286",
+  "package_url": "https://pypi.org/project/djangocms-common-catalog/"
+}

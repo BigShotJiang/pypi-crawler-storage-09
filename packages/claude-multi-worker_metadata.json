@@ -1,0 +1,11 @@
+{
+  "name": "claude-multi-worker",
+  "version": "0.3.1",
+  "summary": "Claude Code統合タスク管理フレームワーク v0.3.1 - requirements.mdから自動でタスク生成、循環依存自動修正、Git連携、進捗可視化",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_multi_worker-0.3.1.tar.gz",
+  "download_time": "2025-10-17T13:17:17.632586",
+  "package_url": "https://pypi.org/project/claude-multi-worker/"
+}

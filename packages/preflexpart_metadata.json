@@ -1,0 +1,11 @@
+{
+  "name": "preflexpart",
+  "version": "0.1.2",
+  "summary": "A Python library for pre-processing FLEXPART inputs",
+  "author": "Nina Burgdorfer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "preflexpart-0.1.2.tar.gz",
+  "download_time": "2025-10-17T13:17:29.795338",
+  "package_url": "https://pypi.org/project/preflexpart/"
+}

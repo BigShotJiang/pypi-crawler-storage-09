@@ -1,0 +1,11 @@
+{
+  "name": "drillcore-transformations",
+  "version": "0.3.0",
+  "summary": "Transform structural drillcore measurements.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "drillcore_transformations-0.3.0.tar.gz",
+  "download_time": "2025-10-17T13:17:12.286303",
+  "package_url": "https://pypi.org/project/drillcore-transformations/"
+}

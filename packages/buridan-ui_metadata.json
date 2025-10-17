@@ -1,11 +1,11 @@
 {
   "name": "buridan-ui",
-  "version": "0.7.5b0",
+  "version": "0.7.6b0",
   "summary": "Buridan UI – A Reflex-based UI component library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "buridan_ui-0.7.5b0.tar.gz",
-  "download_time": "2025-10-17T10:41:54.388515",
+  "download_filename": "buridan_ui-0.7.6b0.tar.gz",
+  "download_time": "2025-10-17T13:16:57.616324",
   "package_url": "https://pypi.org/project/buridan-ui/"
 }

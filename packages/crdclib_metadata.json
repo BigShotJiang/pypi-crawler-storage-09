@@ -1,11 +1,11 @@
 {
   "name": "crdclib",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "summary": "A collection of functions useful for interactive with parts of the CRDC ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crdclib-0.0.8.tar.gz",
-  "download_time": "2025-10-17T12:51:40.967601",
+  "download_filename": "crdclib-0.0.10.tar.gz",
+  "download_time": "2025-10-17T13:17:00.769707",
   "package_url": "https://pypi.org/project/crdclib/"
 }
