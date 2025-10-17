@@ -1,11 +1,11 @@
 {
   "name": "couchbase-infrastructure",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "CLI tool and Python library for automating Couchbase Capella infrastructure setup",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "couchbase_infrastructure-0.1.9.tar.gz",
-  "download_time": "2025-10-16T09:17:17.002758",
+  "download_filename": "couchbase_infrastructure-0.1.12.tar.gz",
+  "download_time": "2025-10-17T06:47:51.269311",
   "package_url": "https://pypi.org/project/couchbase-infrastructure/"
 }

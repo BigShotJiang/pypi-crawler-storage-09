@@ -1,11 +1,11 @@
 {
   "name": "optimum-onnx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Optimum ONNX is an interface between the Hugging Face libraries and ONNX / ONNX Runtime",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "optimum_onnx-0.0.2.tar.gz",
-  "download_time": "2025-10-16T09:41:46.366468",
+  "download_filename": "optimum_onnx-0.0.3.tar.gz",
+  "download_time": "2025-10-17T06:48:05.972785",
   "package_url": "https://pypi.org/project/optimum-onnx/"
 }

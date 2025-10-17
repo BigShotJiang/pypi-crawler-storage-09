@@ -1,0 +1,11 @@
+{
+  "name": "spindlex",
+  "version": "0.1.0",
+  "summary": "A pure-Python SSHv2 client/server library",
+  "author": "Spindle Team",
+  "license": "MIT",
+  "home_page": "https://github.com/spindle-dev/spindle",
+  "download_filename": "spindlex-0.1.0.tar.gz",
+  "download_time": "2025-10-17T06:48:10.324807",
+  "package_url": "https://pypi.org/project/spindlex/"
+}
