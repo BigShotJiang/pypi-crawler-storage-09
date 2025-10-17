@@ -1,0 +1,11 @@
+{
+  "name": "votuderep",
+  "version": "0.4.0",
+  "summary": "A CLI tool for dereplicating and filtering viral contigs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "votuderep-0.4.0.tar.gz",
+  "download_time": "2025-10-17T14:37:04.860679",
+  "package_url": "https://pypi.org/project/votuderep/"
+}

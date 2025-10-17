@@ -1,0 +1,11 @@
+{
+  "name": "gecco-tool",
+  "version": "0.10.0",
+  "summary": "Gene Cluster prediction with Conditional random fields. (renamed to gecco)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gecco_tool-0.10.0.tar.gz",
+  "download_time": "2025-10-17T14:36:59.718973",
+  "package_url": "https://pypi.org/project/gecco-tool/"
+}

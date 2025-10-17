@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website-menu-by-user-status",
+  "version": "17.0.1.0.0.2",
+  "summary": "Allow to manage the display of website.menus",
+  "author": "Savoir-faire Linux,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/website",
+  "download_filename": "odoo_addon_website_menu_by_user_status-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-17T14:36:54.209707",
+  "package_url": "https://pypi.org/project/odoo-addon-website-menu-by-user-status/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "litterate",
+  "version": "0.1.0",
+  "summary": "Generate beautiful literate programming-style description of your code from comment annotations",
+  "author": "James",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "litterate-0.1.0.tar.gz",
+  "download_time": "2025-10-17T14:36:41.917678",
+  "package_url": "https://pypi.org/project/litterate/"
+}

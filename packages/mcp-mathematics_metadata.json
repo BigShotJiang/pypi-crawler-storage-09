@@ -1,0 +1,11 @@
+{
+  "name": "mcp-mathematics",
+  "version": "2.2.4",
+  "summary": "Production-ready MCP server built with FastMCP v2 for comprehensive mathematical operations, providing 52 advanced functions, 158 unit conversions, and enterprise-grade security",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_mathematics-2.2.4.tar.gz",
+  "download_time": "2025-10-17T14:36:43.161123",
+  "package_url": "https://pypi.org/project/mcp-mathematics/"
+}

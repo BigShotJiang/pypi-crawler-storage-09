@@ -1,11 +1,11 @@
 {
   "name": "social-interaction-cloud",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "summary": "Social Interaction Cloud Framework",
-  "author": "Landon Brown, Thomas Wiggers, Thomas Orden, Ting-Chia Chiang",
+  "author": "Mike Ligthart, Landon Brown, Lilly Schwarzenbach, Thomas Wiggers, Thomas Orden, Ting-Chia Chiang, Koen Hindriks",
   "license": null,
   "home_page": null,
-  "download_filename": "social_interaction_cloud-2.1.0.tar.gz",
-  "download_time": "2025-10-16T13:20:00.784413",
+  "download_filename": "social_interaction_cloud-2.1.2.tar.gz",
+  "download_time": "2025-10-17T14:36:55.977735",
   "package_url": "https://pypi.org/project/social-interaction-cloud/"
 }

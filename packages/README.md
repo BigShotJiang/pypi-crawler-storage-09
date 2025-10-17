@@ -1,20 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T14:16:30.914605
-- **Total Packages**: 87
-- **Total Size**: 21.8 MB
+- **Download Time**: 2025-10-17T14:37:30.789771
+- **Total Packages**: 85
+- **Total Size**: 19.14 MB
 
 ## Packages List
+- pxwebpy
+- anotiai-pii-masker
+- litterate
+- panoptic
+- mcp-mathematics
+- isa-common
+- jamlib
+- mplang-nightly
+- superagent-ai
+- bourdieuvectors
+- cars
+- bluer-sbc
+- tedana
+- system-initiative-api-client
+- cmap-wsxmTopy
+- dag-modelling
+- gurddy-mcp
+- cellmech
+- beaver-db
+- OctoBot-Commons
+- icat-plus-client
+- graph-games-proto
+- odoo-addon-website-menu-by-user-status
+- ppp-connectors
+- vappman
+- social-interaction-cloud
+- mcp-sqlalchemy
+- testpulcli
+- zgw-consumers
+- magic-class
+- reward-hub
+- gecco-tool
+- maistro-csv-tool
+- circular-import-detector
+- hukudo-ingress
+- acontext
+- lmpc
+- phandas
+- panda-math
+- frog-acid
+- votuderep
+- langchain-anthropic
+- rapidata
+- financial-services-register-api
+- sp-obs
+- pytorchcocotools
+- aait
+- adaptive-sdk
+- liman-signal-processing
+- accrqa
+- giorgio
+- ptxcompiler
+- zrok
+- deephonor-gym
+- simpletuner
+- files-com
 - io4it
 - unsloth
 - naneos-devices
-- graph-games-proto
-- cmap-wsxmTopy
 - graphene-django-cruddals
 - pyside-cli
-- frog-acid
-- gba
 - ttun
 - unsloth-zoo
 - facture-electronique
@@ -22,9 +74,7 @@
 - constellaration
 - mcp-transcoder
 - tilelog
-- ptxcompiler
 - git-profiles
-- aait
 - IQL
 - vital
 - cleanote
@@ -34,7 +84,6 @@
 - pytest-ipywidgets
 - jaxnasium
 - solara-server
-- isa-common
 - solara-ui
 - solara-enterprise
 - solara
@@ -42,54 +91,3 @@
 - fantraxapi
 - jua
 - pyfibers
-- tensordict-nightly
-- pykingenie
-- mxcp
-- im-jote
-- frogfast
-- snowflake-haystack
-- tidal-dl-ng
-- odoo-apps-Odoo-Apps-Spreadsheet
-- odoo-addon-spreadsheet_board_user_acl
-- ozonapi-async
-- wandelbots-api-client
-- pycc.id
-- langchain-core
-- sot-loss
-- hqapi-client
-- epicure
-- cdk8s-plus-32
-- rag-kmk
-- cdk8s-plus-31
-- deltachat-rpc-server
-- m3d
-- openconcept
-- GameSentenceMiner
-- pydantic-ai-claude-code
-- interface-py
-- webtoolkit
-- akshare
-- torappu-excel
-- treesimulator
-- md-to-conf
-- hummingbot
-- OpenGeode-Inspector
-- pytrilogy
-- investing-algorithm-framework
-- bitwarden-exporter
-- AOT-biomaps
-- wheelspin-gif
-- cdk8s-plus-33
-- circular-import-detector
-- Geode-Common
-- agentle
-- tvdatafeed-enhanced
-- my-platform-sdk-package
-- gecco
-- confkit
-- maps4fs
-- xarray-ms
-- acontext-py
-- airbyte-source-google-ads
-- decision-optimization-client
-- cfg4py

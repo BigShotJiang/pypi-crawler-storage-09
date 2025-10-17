@@ -1,0 +1,11 @@
+{
+  "name": "anotiai-pii-masker",
+  "version": "0.0.2",
+  "summary": "Cloud-powered PII detection and masking with local fallback support.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anotiai_pii_masker-0.0.2.tar.gz",
+  "download_time": "2025-10-17T14:36:41.340250",
+  "package_url": "https://pypi.org/project/anotiai-pii-masker/"
+}

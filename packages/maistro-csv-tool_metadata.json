@@ -1,0 +1,11 @@
+{
+  "name": "maistro-csv-tool",
+  "version": "1.0.0",
+  "summary": "CSV dosyalarını okuyan/yazan, JSON ile etkileşen basit bir yardımcı araç",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maistro_csv_tool-1.0.0.tar.gz",
+  "download_time": "2025-10-17T14:37:00.294604",
+  "package_url": "https://pypi.org/project/maistro-csv-tool/"
+}
