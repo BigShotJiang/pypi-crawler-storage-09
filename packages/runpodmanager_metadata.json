@@ -1,0 +1,11 @@
+{
+  "name": "runpodmanager",
+  "version": "0.1.1",
+  "summary": "Python library to manage RunPod pods",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "runpodmanager-0.1.1.tar.gz",
+  "download_time": "2025-10-17T18:00:45.779747",
+  "package_url": "https://pypi.org/project/runpodmanager/"
+}

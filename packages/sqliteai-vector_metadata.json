@@ -1,11 +1,11 @@
 {
   "name": "sqliteai-vector",
-  "version": "0.9.47",
+  "version": "0.9.49",
   "summary": "Python prebuilt binaries for SQLite Vector extension for all supported platforms and architectures.",
   "author": "SQLite AI Team",
   "license": null,
   "home_page": null,
-  "download_filename": "sqliteai_vector-0.9.47-py3-none-macosx_10_9_x86_64.whl",
-  "download_time": "2025-10-17T17:15:52.297398",
+  "download_filename": "sqliteai_vector-0.9.49-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-17T18:00:54.040986",
   "package_url": "https://pypi.org/project/sqliteai-vector/"
 }

@@ -1,17 +1,71 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-17T17:43:35.957420
-- **Total Packages**: 85
-- **Total Size**: 30.58 MB
+- **Download Time**: 2025-10-17T18:01:35.025804
+- **Total Packages**: 92
+- **Total Size**: 23.19 MB
 
 ## Packages List
+- snkmt
+- dbbasic-accounts
+- antonnia-events
+- psann
+- kaio
+- configium
+- projectaria-gen2-pilot-dataset
+- canvas-mcp
+- lmstudio
+- oh-my-git-agent
+- glomos
+- eizon-lib
+- pulpcore.client.pulpcore
+- runpodmanager
+- docktdeep
+- test-package293202
+- qcs-sdk-python-grpc-web
+- qcs-sdk-python
+- blueprint-kit
+- odoo-addon-l10n-br-fiscal
+- balderhub-selenium
+- optimade
+- zlang
+- rubin-repertoire
+- maliput-malidrive
+- maliput
+- sqliteai-vector
+- famo-data-validator
+- adobe-helper
+- ut-log
+- rediacc
+- feed-ursus
+- philh_myftp_biz
+- agilicus
+- schemathesis
+- datawrapper
+- circular-import-detector
+- flybehavior-response
+- abstract-utilities
+- frisbo
+- bpe-openai
+- cirrus-geo
+- agave
+- terralab-cli
+- pyzotero
+- discrete-distribution-network
+- entari-plugin-hyw
+- disposable-email-domains
+- forteenall-kit
+- gguf-connector
+- ctapipe-io-zfits
+- deepagents
+- alibabacloud-ecd20200930
+- alibabacloud-ecs20140526
+- alibabacloud-schedulerx320240624
 - pm-rank
 - beatstoch
 - pyams-auth-apikey
 - YoutubeVideoCrawler
 - open-agent-sdk
-- famo-data-validator
 - alibabacloud-ecd20201002
 - chromator
 - alibabacloud-eflo-controller20221215
@@ -20,7 +74,6 @@
 - alibabacloud-rtc20180111
 - alibabacloud-chatbot20220408
 - datamanifest
-- abstract-utilities
 - catadjust
 - balderhub-webdriver
 - alibabacloud-quanmiaolightapp20240801
@@ -45,49 +98,3 @@
 - drills-pro-proto
 - assemblyai
 - maquinaweb-shared-auth
-- llmakits
-- mayutils
-- decorative-secrets
-- circular-import-detector
-- pomlock
-- ut-log
-- graph-games-proto
-- continual-foragax
-- langchain-google-vertexai
-- edx-enterprise
-- overflow-hydro
-- reward-hub
-- square-administration
-- pnpl
-- mjaf
-- cursorflow
-- airbyte-cdk
-- sagemaker-studio-dataengineering-extensions
-- lacuscore
-- sagemaker-studio-dataengineering-sessions
-- omtx
-- assertlang
-- scc-firewall-manager-sdk
-- llama-stack-provider-ragas
-- FractalNet
-- snakemake
-- ece-calculator
-- powerchord
-- airweave-sdk
-- t-sql
-- bam-masterdata
-- fileglancer
-- wmill-pg
-- wmill
-- windmill-api
-- lemonaid
-- materials-commons-cli
-- GenTS
-- unicms-template-italia
-- sot-loss
-- pynxtools-mpes
-- crc-pulp-service-client
-- crc-pulp-file-client
-- open-aea-ledger-fetchai
-- crc-pulp-maven-client
-- open-aea-ledger-solana

@@ -1,0 +1,11 @@
+{
+  "name": "balderhub-selenium",
+  "version": "0.0.1b0",
+  "summary": "balderhub-selenium: balderhub package that provides bindings to the selenium framework",
+  "author": "Max Stahlschmidt and others",
+  "license": "MIT",
+  "home_page": "https://hub.balder.dev/projects/selenium",
+  "download_filename": "balderhub_selenium-0.0.1b0.tar.gz",
+  "download_time": "2025-10-17T18:00:50.364769",
+  "package_url": "https://pypi.org/project/balderhub-selenium/"
+}

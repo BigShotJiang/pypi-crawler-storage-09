@@ -1,0 +1,11 @@
+{
+  "name": "dbbasic-accounts",
+  "version": "0.1.1",
+  "summary": "Unix-style user accounts with web-friendly API - file system integration included",
+  "author": "Dan Q",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbbasic_accounts-0.1.1.tar.gz",
+  "download_time": "2025-10-17T18:00:38.010454",
+  "package_url": "https://pypi.org/project/dbbasic-accounts/"
+}

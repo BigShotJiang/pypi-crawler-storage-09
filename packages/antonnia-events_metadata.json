@@ -1,0 +1,11 @@
+{
+  "name": "antonnia-events",
+  "version": "1.0.8",
+  "summary": "Python SDK for Antonnia Events and Webhooks",
+  "author": "Antonnia",
+  "license": "MIT",
+  "home_page": "https://github.com/antonnia/antonnia-python",
+  "download_filename": "antonnia_events-1.0.8.tar.gz",
+  "download_time": "2025-10-17T18:00:38.643083",
+  "package_url": "https://pypi.org/project/antonnia-events/"
+}

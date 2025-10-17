@@ -1,11 +1,11 @@
 {
   "name": "frisbo",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Python SDK for the Frisbo API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "frisbo-0.1.0.tar.gz",
-  "download_time": "2025-10-16T20:17:46.377185",
+  "download_filename": "frisbo-0.1.2.tar.gz",
+  "download_time": "2025-10-17T18:01:02.722791",
   "package_url": "https://pypi.org/project/frisbo/"
 }
