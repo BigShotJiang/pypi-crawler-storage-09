@@ -1,11 +1,11 @@
 {
   "name": "pipeMT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Pipeline training framework for multiple large pytorch models on multiple devices",
   "author": "ITcarrot",
   "license": "MIT  # 例如 MIT、Apache-2.0 等",
   "home_page": "https://github.com/ITcarrot/pipeMT",
-  "download_filename": "pipemt-0.1.1.tar.gz",
-  "download_time": "2025-10-18T07:14:32.157250",
+  "download_filename": "pipemt-0.1.2.tar.gz",
+  "download_time": "2025-10-18T17:12:35.905484",
   "package_url": "https://pypi.org/project/pipeMT/"
 }

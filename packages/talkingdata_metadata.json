@@ -1,11 +1,11 @@
 {
   "name": "talkingdata",
-  "version": "0.6.0",
+  "version": "0.8.0",
   "summary": "A lightweight, multi-provider AI Data Analysis library using SQL reasoning on pandas DataFrames.",
   "author": "Mohammad Abdullah",
   "license": null,
   "home_page": "https://mabdullah40.github.io/Open-Analysis/",
-  "download_filename": "talkingdata-0.6.0.tar.gz",
-  "download_time": "2025-10-18T16:50:37.467857",
+  "download_filename": "talkingdata-0.8.0.tar.gz",
+  "download_time": "2025-10-18T17:12:26.938584",
   "package_url": "https://pypi.org/project/talkingdata/"
 }
