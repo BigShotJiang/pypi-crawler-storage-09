@@ -1,11 +1,11 @@
 {
   "name": "bourdieuvectors",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "BourdieuVectors library for inferring vectors",
   "author": "Simon Hecht",
   "license": "GPL 3.0",
   "home_page": "https://github.com/aaad/bourdieuvectors-client",
-  "download_filename": "bourdieuvectors-0.1.1.tar.gz",
-  "download_time": "2025-10-17T14:36:46.024865",
+  "download_filename": "bourdieuvectors-0.1.2.tar.gz",
+  "download_time": "2025-10-18T14:50:28.556974",
   "package_url": "https://pypi.org/project/bourdieuvectors/"
 }

@@ -1,12 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T14:42:07.116846
-- **Total Packages**: 84
-- **Total Size**: 8.44 MB
+- **Download Time**: 2025-10-18T14:51:03.057357
+- **Total Packages**: 79
+- **Total Size**: 6.47 MB
 
 ## Packages List
+- aind-anatomical-utils
+- shareddata
+- cheap-settings
+- odoo-addon-mail-brand
+- quantjourney
+- mcp-server-excel-sql
+- dreamer4
+- zentropy-py
+- pyairahome
+- SAMBA-ilum
+- tarotteller
 - cdmn-mcp-server
+- immuno-compass
+- pathlibutil
+- bourdieuvectors
+- dagnostics
+- alphaflow
+- markdown-query
+- eyepop
+- funstall
+- stegawave
 - grasp_agents
 - biblemate
 - computemate
@@ -18,13 +38,11 @@
 - graph-games-proto
 - ratio1
 - rhythmic_segments
-- mcp-server-excel-sql
 - llmakits
 - telegram-bot-discussion
 - witrnhid
 - saas-core-lib
 - yta-programming
-- quantjourney
 - agentmake
 - testprofiler
 - iGSTT
@@ -54,7 +72,6 @@
 - chutes
 - bqtools-json
 - vega-framework
-- shareddata
 - odoo14-addon-ssi-hr
 - highway-env
 - arrowspace
@@ -68,25 +85,3 @@
 - maestral
 - easycoder
 - docu-devs-api-client
-- audiobook-reader
-- reywechat
-- polyfactory
-- ppget
-- sws-api-client
-- opendvp
-- junit2html
-- make-mlops-easy
-- pybirdsreynolds
-- safedrop
-- uiautodev
-- PyNormaliz
-- py-partiql-parser
-- mcp-hmr
-- PyAstronomy
-- django-cfg
-- tensordict-nightly
-- llm-provider-factory
-- mcp-use
-- ultragpt
-- ultraprint
-- ray-utilities

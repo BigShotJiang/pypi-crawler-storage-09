@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-brand",
+  "version": "18.0.1.0.0.2",
+  "summary": "If a model has a brand defined to it, emails send from this model will be branded accordingly.",
+  "author": "Odoo Community Association (OCA), Gert Pellin / Snakebyte Development, bosd",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/brand",
+  "download_filename": "odoo_addon_mail_brand-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-18T14:50:21.636060",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-brand/"
+}

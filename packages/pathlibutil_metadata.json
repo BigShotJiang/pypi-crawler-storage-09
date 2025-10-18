@@ -1,0 +1,11 @@
+{
+  "name": "pathlibutil",
+  "version": "0.3.6",
+  "summary": "inherits from pathlib.Path with methods for hashing, copying, deleting and more",
+  "author": "Christoph Dörrer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pathlibutil-0.3.6.tar.gz",
+  "download_time": "2025-10-18T14:50:28.024215",
+  "package_url": "https://pypi.org/project/pathlibutil/"
+}
