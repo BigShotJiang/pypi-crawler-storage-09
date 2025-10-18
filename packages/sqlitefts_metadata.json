@@ -1,0 +1,11 @@
+{
+  "name": "sqlitefts",
+  "version": "1.0.1",
+  "summary": "A Python binding for tokenizers of SQLite Full Text Search",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlitefts-1.0.1.tar.gz",
+  "download_time": "2025-10-18T18:20:22.682406",
+  "package_url": "https://pypi.org/project/sqlitefts/"
+}

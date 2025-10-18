@@ -1,0 +1,11 @@
+{
+  "name": "pysynclient",
+  "version": "0.1.1",
+  "summary": "Automatically detects the location of the synology drive client folders and returns its parent location.",
+  "author": "Dominik Braun",
+  "license": "GPL-3.0 license",
+  "home_page": null,
+  "download_filename": "pysynclient-0.1.1.tar.gz",
+  "download_time": "2025-10-18T18:20:24.278010",
+  "package_url": "https://pypi.org/project/pysynclient/"
+}

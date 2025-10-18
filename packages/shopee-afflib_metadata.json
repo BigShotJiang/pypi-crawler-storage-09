@@ -1,11 +1,11 @@
 {
   "name": "shopee-afflib",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "Biblioteca para integração com a API de Afiliados da Shopee (síncrona e assíncrona).",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shopee_afflib-1.0.11.tar.gz",
-  "download_time": "2025-10-18T17:28:05.646089",
+  "download_filename": "shopee_afflib-1.0.12.tar.gz",
+  "download_time": "2025-10-18T18:20:10.968231",
   "package_url": "https://pypi.org/project/shopee-afflib/"
 }

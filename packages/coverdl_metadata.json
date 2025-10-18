@@ -1,11 +1,11 @@
 {
   "name": "coverdl",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "A command-line tool for downloading high quality album cover art",
   "author": "viown",
   "license": null,
   "home_page": null,
-  "download_filename": "coverdl-0.4.1.tar.gz",
-  "download_time": "2025-10-17T13:17:36.150482",
+  "download_filename": "coverdl-0.4.3.tar.gz",
+  "download_time": "2025-10-18T18:20:14.263724",
   "package_url": "https://pypi.org/project/coverdl/"
 }

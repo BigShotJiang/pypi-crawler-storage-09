@@ -1,0 +1,11 @@
+{
+  "name": "pydahua",
+  "version": "0.1.1",
+  "summary": "Dahua biometric Python integration library",
+  "author": "Sreethul Krishna",
+  "license": "LGPL 3.0",
+  "home_page": "https://github.com/KSreethul/pydahua",
+  "download_filename": "pydahua-0.1.1.tar.gz",
+  "download_time": "2025-10-18T18:20:07.798895",
+  "package_url": "https://pypi.org/project/pydahua/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "libprng",
+  "version": "0.0.1",
+  "summary": "Pseudo-random number generators from across projects",
+  "author": null,
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "libprng-0.0.1.tar.gz",
+  "download_time": "2025-10-18T18:20:13.184299",
+  "package_url": "https://pypi.org/project/libprng/"
+}

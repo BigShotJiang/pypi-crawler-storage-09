@@ -1,0 +1,11 @@
+{
+  "name": "kerykeion",
+  "version": "4.26.3",
+  "summary": "A python library for astrology.",
+  "author": "Giacomo Battaglia",
+  "license": "AGPL-3.0",
+  "home_page": "https://www.kerykeion.net/",
+  "download_filename": "kerykeion-4.26.3.tar.gz",
+  "download_time": "2025-10-18T18:20:16.550988",
+  "package_url": "https://pypi.org/project/kerykeion/"
+}

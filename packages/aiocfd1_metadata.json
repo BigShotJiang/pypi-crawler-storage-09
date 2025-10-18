@@ -1,0 +1,11 @@
+{
+  "name": "aiocfd1",
+  "version": "1.0.0",
+  "summary": "An asyncio wrapper for Cloudflare D1 REST API.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "aiocfd1-1.0.0.tar.gz",
+  "download_time": "2025-10-18T18:20:10.440379",
+  "package_url": "https://pypi.org/project/aiocfd1/"
+}
