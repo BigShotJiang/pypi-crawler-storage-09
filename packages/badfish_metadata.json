@@ -1,11 +1,11 @@
 {
   "name": "badfish",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Badfish is a Redfish-based API tool for managing bare-metal systems via the Redfish API",
   "author": "Gonzalo Rafuls",
   "license": "GPLv3",
   "home_page": "https://github.com/redhat-performance/badfish",
-  "download_filename": "badfish-1.0.4.tar.gz",
-  "download_time": "2025-10-18T09:50:09.505669",
+  "download_filename": "badfish-1.0.5.tar.gz",
+  "download_time": "2025-10-18T10:15:13.366847",
   "package_url": "https://pypi.org/project/badfish/"
 }

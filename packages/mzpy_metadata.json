@@ -1,11 +1,11 @@
 {
   "name": "mzpy",
-  "version": "0.5",
+  "version": "0.5.1",
   "summary": "A pandas-like toolkit for MS data handling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mzpy-0.5-py3-none-any.whl",
-  "download_time": "2025-10-18T07:28:08.595652",
+  "download_filename": "mzpy-0.5.1-py3-none-any.whl",
+  "download_time": "2025-10-18T10:15:09.609126",
   "package_url": "https://pypi.org/project/mzpy/"
 }

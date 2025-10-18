@@ -1,0 +1,11 @@
+{
+  "name": "grafi-dev",
+  "version": "0.0.9",
+  "summary": "Run a grafi Assistant locally with a live workflow graph & trace viewer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grafi_dev-0.0.9.tar.gz",
+  "download_time": "2025-10-18T10:15:00.909386",
+  "package_url": "https://pypi.org/project/grafi-dev/"
+}
