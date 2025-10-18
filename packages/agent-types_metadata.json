@@ -1,11 +1,11 @@
 {
   "name": "agent-types",
-  "version": "1.18",
+  "version": "1.18.1",
   "summary": "This package defines the interface of AI agent modules.",
   "author": "xi",
   "license": "Apache-2.0 license",
   "home_page": null,
-  "download_filename": "agent_types-1.18-py3-none-any.whl",
-  "download_time": "2025-10-17T03:48:05.393694",
+  "download_filename": "agent_types-1.18.1-py3-none-any.whl",
+  "download_time": "2025-10-18T08:52:26.272187",
   "package_url": "https://pypi.org/project/agent-types/"
 }

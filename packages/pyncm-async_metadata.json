@@ -1,0 +1,11 @@
+{
+  "name": "pyncm-async",
+  "version": "1.8.1",
+  "summary": "NeteaseCloudMusic APIs for Python 3.x 适用于 Python 3 的网易云音乐异步 API",
+  "author": "greats3an",
+  "license": null,
+  "home_page": "https://github.com/greats3an/pyncm",
+  "download_filename": "pyncm_async-1.8.1.tar.gz",
+  "download_time": "2025-10-18T08:52:24.016334",
+  "package_url": "https://pypi.org/project/pyncm-async/"
+}

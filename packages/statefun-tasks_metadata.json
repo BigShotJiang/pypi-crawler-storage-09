@@ -1,0 +1,11 @@
+{
+  "name": "statefun-tasks",
+  "version": "1.2.4",
+  "summary": "Tasks API for Stateful Functions on Flink",
+  "author": "Frans King & Luke Ashworth",
+  "license": "https://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": "https://fransking.github.io/flink-statefun-tasks",
+  "download_filename": "statefun_tasks-1.2.4.tar.gz",
+  "download_time": "2025-10-18T08:52:25.136631",
+  "package_url": "https://pypi.org/project/statefun-tasks/"
+}
