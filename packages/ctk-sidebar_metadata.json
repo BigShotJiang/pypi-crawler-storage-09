@@ -1,0 +1,11 @@
+{
+  "name": "ctk-sidebar",
+  "version": "0.2.3",
+  "summary": "A modern sidebar navigation control for CustomTkinter",
+  "author": "Anthony Bernaert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctk_sidebar-0.2.3.tar.gz",
+  "download_time": "2025-10-18T21:13:05.552472",
+  "package_url": "https://pypi.org/project/ctk-sidebar/"
+}

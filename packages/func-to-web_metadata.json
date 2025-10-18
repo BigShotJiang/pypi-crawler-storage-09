@@ -1,11 +1,11 @@
 {
   "name": "func-to-web",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Transform any Python function into a web interface automatically",
   "author": "Beltrán Offerrall",
   "license": null,
   "home_page": null,
-  "download_filename": "func_to_web-0.7.1.tar.gz",
-  "download_time": "2025-10-17T21:50:07.843183",
+  "download_filename": "func_to_web-0.7.2.tar.gz",
+  "download_time": "2025-10-18T21:13:01.260992",
   "package_url": "https://pypi.org/project/func-to-web/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sdss-target-selection",
+  "version": "1.4.4",
+  "summary": "Code to perform target selection for BHM/MWM using catalogdb",
+  "author": "José Sánchez-Gallego",
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "sdss_target_selection-1.4.4.tar.gz",
+  "download_time": "2025-10-18T21:13:15.643692",
+  "package_url": "https://pypi.org/project/sdss-target-selection/"
+}
