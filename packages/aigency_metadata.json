@@ -1,0 +1,11 @@
+{
+  "name": "aigency",
+  "version": "0.1.1",
+  "summary": "AI Agent Development Acceleration Kit — build, run, and orchestrate intelligent agents with a production‑ready Agent‑to‑Agent (A2A) runtime.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aigency-0.1.1.tar.gz",
+  "download_time": "2025-10-18T11:12:35.761781",
+  "package_url": "https://pypi.org/project/aigency/"
+}

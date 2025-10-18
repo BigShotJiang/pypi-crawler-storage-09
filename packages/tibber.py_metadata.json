@@ -1,0 +1,11 @@
+{
+  "name": "tibber.py",
+  "version": "0.7.1",
+  "summary": "A python wrapper for the Tibber API.",
+  "author": "BeatsuDev",
+  "license": "MIT",
+  "home_page": "https://tibberpy.readthedocs.io/en/latest/",
+  "download_filename": "tibber_py-0.7.1.tar.gz",
+  "download_time": "2025-10-18T11:12:22.891990",
+  "package_url": "https://pypi.org/project/tibber.py/"
+}

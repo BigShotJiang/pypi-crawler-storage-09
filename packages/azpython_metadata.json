@@ -1,0 +1,11 @@
+{
+  "name": "azpython",
+  "version": "0.1.1",
+  "summary": "Python3 AZ.COM HTTP API Connector",
+  "author": "az",
+  "license": "MIT License",
+  "home_page": "https://github.com/selinayiya/api-python-demo",
+  "download_filename": "azpython-0.1.1.tar.gz",
+  "download_time": "2025-10-18T11:12:16.366428",
+  "package_url": "https://pypi.org/project/azpython/"
+}

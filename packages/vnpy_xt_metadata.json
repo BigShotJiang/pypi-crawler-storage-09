@@ -1,0 +1,11 @@
+{
+  "name": "vnpy_xt",
+  "version": "1.4.6",
+  "summary": "RQData datafeed for VeighNa quant trading framework.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vnpy_xt-1.4.6.tar.gz",
+  "download_time": "2025-10-18T11:12:17",
+  "package_url": "https://pypi.org/project/vnpy_xt/"
+}
