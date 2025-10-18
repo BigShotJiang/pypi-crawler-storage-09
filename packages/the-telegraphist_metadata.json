@@ -1,11 +1,11 @@
 {
   "name": "the-telegraphist",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A Python-based rhythm game about transmitting messages in Morse code.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "the_telegraphist-1.0.5.tar.gz",
-  "download_time": "2025-10-18T17:38:47.720823",
+  "download_filename": "the_telegraphist-1.0.6.tar.gz",
+  "download_time": "2025-10-18T17:50:19.856120",
   "package_url": "https://pypi.org/project/the-telegraphist/"
 }

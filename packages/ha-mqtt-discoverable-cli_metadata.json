@@ -1,0 +1,11 @@
+{
+  "name": "ha-mqtt-discoverable-cli",
+  "version": "0.22.1",
+  "summary": "CLI tools for the ha-mqtt-discoverable module",
+  "author": "Joe Block",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "ha_mqtt_discoverable_cli-0.22.1.tar.gz",
+  "download_time": "2025-10-18T17:50:15.966975",
+  "package_url": "https://pypi.org/project/ha-mqtt-discoverable-cli/"
+}
