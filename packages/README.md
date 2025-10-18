@@ -1,17 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T08:21:01.553556
-- **Total Packages**: 77
-- **Total Size**: 9.94 MB
+- **Download Time**: 2025-10-18T08:43:31.442043
+- **Total Packages**: 83
+- **Total Size**: 7.73 MB
 
 ## Packages List
+- azpaddypy
+- param-lsp
+- fairyfishnet
+- nvfuser-cu126
+- nvfuser-cu128
+- yaso-paste
+- comfykit
+- xmind-mcp
+- ucon
+- mignonFramework
+- agviz
+- onlyuserclient
+- cockup
+- xplt
+- feldera
+- multi-puzzle-solver
+- dost-cat
+- abagentsdk
+- tiktok-account-checker
+- FastIoC
+- gisweb-tenants
+- diffsptk
+- owocr
+- apppy-sb
+- supercode
+- apppy-aws
 - apppy-app
 - mtgeo
 - vega-framework
 - vsh-tools
 - apppy-auth
-- agviz
 - daytona_sdk
 - daytona
 - open-agent-sdk
@@ -25,13 +50,11 @@
 - rate-limiter-decorator
 - apppy-logger
 - witrnhid
-- azpaddypy
 - apppy-generic
 - kubecrds
 - apppy-clients
 - apppy-env
 - mplang-nightly
-- multi-puzzle-solver
 - promtprof
 - djaploy
 - spyder-okvim
@@ -66,20 +89,3 @@
 - mcli-framework
 - pipeline-csv-gazprom-infotech
 - eclips-blossom-ai
-- jp-medicine-master
-- upgini
-- EncodingExplosion
-- gohutool-dataflow
-- onvif-python
-- private-assistant-commons
-- workflows-mcp
-- cdmn-mcp-server
-- mcp-postgres-duwenji
-- cognitora
-- mzpy
-- gilknocker
-- comfykit
-- mdbookhtml2pdf
-- gisweb-tenants
-- easyocr-unstructured
-- xai-creditscorecard

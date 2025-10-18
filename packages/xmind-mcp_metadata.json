@@ -1,11 +1,11 @@
 {
   "name": "xmind-mcp",
-  "version": "1.0.1.post35",
-  "summary": "XMind MCP stdio tools: create/read/analyze/convert mind maps without a server",
+  "version": "1.0.3",
+  "summary": "XMind MCP Server - 智能思维导图操作和转换",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xmind_mcp-1.0.1.post35.tar.gz",
-  "download_time": "2025-10-17T16:19:15.062778",
+  "download_filename": "xmind_mcp-1.0.3-py3-none-any.whl",
+  "download_time": "2025-10-18T08:42:50.078724",
   "package_url": "https://pypi.org/project/xmind-mcp/"
 }

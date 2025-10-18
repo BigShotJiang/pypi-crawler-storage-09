@@ -1,0 +1,11 @@
+{
+  "name": "FastIoC",
+  "version": "0.2.0",
+  "summary": "IoC/DI container for FastAPI with automatic type-based dependency injection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastioc-0.2.0.tar.gz",
+  "download_time": "2025-10-18T08:42:56.688445",
+  "package_url": "https://pypi.org/project/FastIoC/"
+}
