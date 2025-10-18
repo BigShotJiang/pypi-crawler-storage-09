@@ -1,0 +1,11 @@
+{
+  "name": "dotflow-py",
+  "version": "0.1.0",
+  "summary": "A Python-based DOT language interpreter with multiple API styles",
+  "author": "wambua",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/dotflow-py/",
+  "download_filename": "dotflow_py-0.1.0.tar.gz",
+  "download_time": "2025-10-18T19:24:02.308618",
+  "package_url": "https://pypi.org/project/dotflow-py/"
+}

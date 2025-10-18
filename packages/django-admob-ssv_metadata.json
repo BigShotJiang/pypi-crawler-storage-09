@@ -1,0 +1,11 @@
+{
+  "name": "django-admob-ssv",
+  "version": "3.4.0",
+  "summary": "Admob server-side verification for Django projects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_admob_ssv-3.4.0.tar.gz",
+  "download_time": "2025-10-18T19:24:07.477656",
+  "package_url": "https://pypi.org/project/django-admob-ssv/"
+}
