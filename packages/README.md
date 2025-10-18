@@ -1,33 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T18:44:36.713588
+- **Download Time**: 2025-10-18T18:53:42.938411
 - **Total Packages**: 79
-- **Total Size**: 16.52 MB
+- **Total Size**: 0 MB
 
 ## Packages List
-- fmpapi
-- univocalx-dj
-- micktrace
-- healthdatalayer
-- sf-quant
-- semantic-lexicon
-- fppull
-- winipedia-utils
-- agentle
-- lyricsipsum
-- worklet
-- ollama-chat
-- fullmetalalchemy
-- winloop
-- markdown-up
-- replink
-- xmind-mcp
-- tvdatafeed-enhanced
-- termingpt
-- chisel
-- m9s-party-carddav-client
-- sae-lens
 - odoo-plugin-manager
 - django-ragamuffin
 - m9s-dav-client
@@ -38,6 +16,7 @@
 - m9s-party-vcard
 - fake-focus
 - PILSkinMC
+- termingpt
 - geek-cafe-saas-sdk
 - ethpm-types
 - bare-script
@@ -50,8 +29,11 @@
 - ididi
 - bluer-ugv
 - webquiz
+- xmind-mcp
+- worklet
 - bluer-sbc
 - ssrjson
+- semantic-lexicon
 - chess-cv
 - tinyshift
 - dcisionai-mcp-server
@@ -66,7 +48,6 @@
 - ffmpeg-normalize
 - multiagent-core
 - libprng
-- langchain-sarvam
 - coverdl
 - stepup-reprep
 - reposmith-tol
@@ -85,3 +66,22 @@
 - pyarchinit-mini
 - pysynclient
 - torch-diffsim
+- llm-schema-lite
+- arrow
+- Treeed
+- thinagents
+- e2b
+- pyguiadapterlite
+- pytao
+- the-telegraphist
+- mkmapdiary
+- MtRemote
+- boto3-assist
+- bandai-lib
+- ha-mqtt-discoverable-cli
+- playwright-traceview-html
+- pytest-no-problem
+- haphazard
+- das
+- reykit
+- reydb
