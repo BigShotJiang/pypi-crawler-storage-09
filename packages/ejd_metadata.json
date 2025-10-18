@@ -1,11 +1,11 @@
 {
   "name": "ejd",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ejd-0.0.9.tar.gz",
-  "download_time": "2025-10-17T21:38:46.905042",
+  "download_filename": "ejd-0.1.0.tar.gz",
+  "download_time": "2025-10-18T06:45:48.384585",
   "package_url": "https://pypi.org/project/ejd/"
 }

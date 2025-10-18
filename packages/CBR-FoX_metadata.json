@@ -1,11 +1,11 @@
 {
   "name": "CBR-FoX",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "A case-based reasoning python library that aims to help researchers find similar cases according to an input case with a wide range of methods that can detect similarity based on the features of each time series",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cbr_fox-1.0.6.tar.gz",
-  "download_time": "2025-10-18T05:32:20.330654",
+  "download_filename": "cbr_fox-1.0.7.tar.gz",
+  "download_time": "2025-10-18T06:45:38.056877",
   "package_url": "https://pypi.org/project/CBR-FoX/"
 }

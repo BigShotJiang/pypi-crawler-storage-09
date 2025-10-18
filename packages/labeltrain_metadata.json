@@ -1,0 +1,11 @@
+{
+  "name": "labeltrain",
+  "version": "3.0.0",
+  "summary": "Advanced Image Labeling Tool - ابزار پیشرفته برچسب‌گذاری تصاویر",
+  "author": "Mahdi Mirzakhani",
+  "license": null,
+  "home_page": "https://github.com/yourusername/labeltrain",
+  "download_filename": "labeltrain-3.0.0.tar.gz",
+  "download_time": "2025-10-18T06:45:53.076025",
+  "package_url": "https://pypi.org/project/labeltrain/"
+}

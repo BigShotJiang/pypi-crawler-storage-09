@@ -1,11 +1,11 @@
 {
   "name": "finch-tensor",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "Sparse Tensor Programming in Python powered by Finch.jl",
   "author": "Willow Ahrens",
   "license": null,
   "home_page": null,
-  "download_filename": "finch_tensor-0.2.13.tar.gz",
-  "download_time": "2025-10-17T07:50:20.218216",
+  "download_filename": "finch_tensor-0.2.14.tar.gz",
+  "download_time": "2025-10-18T06:46:08.063896",
   "package_url": "https://pypi.org/project/finch-tensor/"
 }

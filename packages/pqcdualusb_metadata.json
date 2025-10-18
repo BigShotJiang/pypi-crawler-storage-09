@@ -1,0 +1,11 @@
+{
+  "name": "pqcdualusb",
+  "version": "0.1.4",
+  "summary": "Post-Quantum Cryptography Dual USB Token Library for secure backup operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pqcdualusb-0.1.4.tar.gz",
+  "download_time": "2025-10-18T06:45:52.038157",
+  "package_url": "https://pypi.org/project/pqcdualusb/"
+}

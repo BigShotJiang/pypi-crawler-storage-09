@@ -1,0 +1,11 @@
+{
+  "name": "fast-sugiyama",
+  "version": "0.5.1",
+  "summary": "A fast and flexible hierarchical graph layout engine.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_sugiyama-0.5.1-cp311-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-10-18T06:46:01.837661",
+  "package_url": "https://pypi.org/project/fast-sugiyama/"
+}

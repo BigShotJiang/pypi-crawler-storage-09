@@ -1,0 +1,11 @@
+{
+  "name": "libfsntfs-python",
+  "version": "20251018",
+  "summary": "Python bindings module for libfsntfs",
+  "author": "Joachim Metz",
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)",
+  "home_page": null,
+  "download_filename": "libfsntfs-python-20251018.tar.gz",
+  "download_time": "2025-10-18T06:45:37.029863",
+  "package_url": "https://pypi.org/project/libfsntfs-python/"
+}

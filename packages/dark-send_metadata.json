@@ -1,0 +1,11 @@
+{
+  "name": "dark-send",
+  "version": "1.2.0",
+  "summary": "A Command Line Interface for Telegram",
+  "author": "Irfan Jalal",
+  "license": null,
+  "home_page": "https://github.com/mindhuntr/dark-send",
+  "download_filename": "dark_send-1.2.0.tar.gz",
+  "download_time": "2025-10-18T06:46:13.700822",
+  "package_url": "https://pypi.org/project/dark-send/"
+}

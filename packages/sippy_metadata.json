@@ -1,0 +1,11 @@
+{
+  "name": "sippy",
+  "version": "2.2.2",
+  "summary": "RFC3261 SIP Stack and Back-to-Back User Agent (B2BUA)",
+  "author": "Sippy Software, Inc.",
+  "license": "BSD",
+  "home_page": "http://www.b2bua.org/",
+  "download_filename": "sippy-2.2.2.tar.gz",
+  "download_time": "2025-10-18T06:46:09.089145",
+  "package_url": "https://pypi.org/project/sippy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "verbum-cli",
+  "version": "0.3.0",
+  "summary": "Verbum is a Rich-powered command-line and API tool for reading, searching, and exploring the Bible interactively.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "verbum_cli-0.3.0.tar.gz",
+  "download_time": "2025-10-18T06:45:38.599561",
+  "package_url": "https://pypi.org/project/verbum-cli/"
+}
