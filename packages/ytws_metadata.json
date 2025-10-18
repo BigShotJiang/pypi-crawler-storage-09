@@ -1,0 +1,11 @@
+{
+  "name": "ytws",
+  "version": "0.4.3",
+  "summary": "YouTube Whisper - A YouTube Downloader with Transcription",
+  "author": "faker2048",
+  "license": null,
+  "home_page": "https://github.com/faker2048/youtube-whisper",
+  "download_filename": "ytws-0.4.3.tar.gz",
+  "download_time": "2025-10-18T07:14:32.674803",
+  "package_url": "https://pypi.org/project/ytws/"
+}

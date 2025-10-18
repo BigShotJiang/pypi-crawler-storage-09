@@ -1,11 +1,11 @@
 {
   "name": "chinese-year-calc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "中国纪年计算器",
   "author": "xystudio",
   "license": "MIT",
-  "home_page": "https://github.com/xystudio889/chinese_year_calc",
-  "download_filename": "chinese_year_calc-0.1.0.tar.gz",
-  "download_time": "2025-10-18T05:32:25.505102",
+  "home_page": "https://github.com/xystudio889/chinese-year-calc",
+  "download_filename": "chinese_year_calc-0.1.1.tar.gz",
+  "download_time": "2025-10-18T07:14:31.077909",
   "package_url": "https://pypi.org/project/chinese-year-calc/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "matp",
-  "version": "0.2.0",
-  "summary": "Matryoshka Protocol - Production-grade invisible secure messaging",
+  "version": "0.3.0",
+  "summary": "Matryoshka Protocol - Invisible secure messaging",
   "author": "Sangeet Sharma",
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": "https://github.com/sangeet01/matp",
-  "download_filename": "matp-0.2.0.tar.gz",
-  "download_time": "2025-10-17T07:31:14.802420",
+  "download_filename": "matp-0.3.0.tar.gz",
+  "download_time": "2025-10-18T07:14:21.605817",
   "package_url": "https://pypi.org/project/matp/"
 }
