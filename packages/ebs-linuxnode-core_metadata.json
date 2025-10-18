@@ -1,0 +1,11 @@
+{
+  "name": "ebs-linuxnode-core",
+  "version": "3.2.2",
+  "summary": "Twisted based linux application node core",
+  "author": "Chintalagiri Shashank",
+  "license": null,
+  "home_page": "https://github.com/ebs-universe/ebs-linuxnode-core",
+  "download_filename": "ebs_linuxnode_core-3.2.2.tar.gz",
+  "download_time": "2025-10-18T12:29:04.570979",
+  "package_url": "https://pypi.org/project/ebs-linuxnode-core/"
+}

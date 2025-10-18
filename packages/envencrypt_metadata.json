@@ -1,0 +1,11 @@
+{
+  "name": "envencrypt",
+  "version": "0.1.1",
+  "summary": "Add your description here",
+  "author": "Dyve ltd, Igor Petrovic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "envencrypt-0.1.1.tar.gz",
+  "download_time": "2025-10-18T12:28:54.124538",
+  "package_url": "https://pypi.org/project/envencrypt/"
+}
