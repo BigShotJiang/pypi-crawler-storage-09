@@ -1,0 +1,11 @@
+{
+  "name": "ephem-cli",
+  "version": "2.0.6",
+  "summary": "A minimal and configurable astrology CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ephem_cli-2.0.6.tar.gz",
+  "download_time": "2025-10-18T16:51:14.731249",
+  "package_url": "https://pypi.org/project/ephem-cli/"
+}

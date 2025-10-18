@@ -1,0 +1,11 @@
+{
+  "name": "OctoBot-Market-Making",
+  "version": "2.0.13",
+  "summary": "Cryptocurrencies market making bot",
+  "author": "Drakkar-Software",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/Drakkar-Software/OctoBot-Market-Making",
+  "download_filename": "octobot_market_making-2.0.13.tar.gz",
+  "download_time": "2025-10-18T16:51:07.770116",
+  "package_url": "https://pypi.org/project/OctoBot-Market-Making/"
+}

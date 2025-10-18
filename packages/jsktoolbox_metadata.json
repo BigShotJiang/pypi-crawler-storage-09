@@ -1,0 +1,11 @@
+{
+  "name": "jsktoolbox",
+  "version": "1.2.1",
+  "summary": "Small sets of classes for various operations.",
+  "author": "Jacek 'Szumak' Kotlarski",
+  "license": "MIT",
+  "home_page": "https://github.com/Szumak75/JskToolBox/tree/1.2.1",
+  "download_filename": "jsktoolbox-1.2.1.tar.gz",
+  "download_time": "2025-10-18T16:50:39.130445",
+  "package_url": "https://pypi.org/project/jsktoolbox/"
+}

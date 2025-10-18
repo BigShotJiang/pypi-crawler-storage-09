@@ -1,0 +1,11 @@
+{
+  "name": "libgen-api-enhanced",
+  "version": "1.2.3",
+  "summary": "Search Library genesis by Title or Author",
+  "author": "Onurhan Ak",
+  "license": "MIT",
+  "home_page": "https://github.com/onurhanak/libgen-api-enhanced",
+  "download_filename": "libgen_api_enhanced-1.2.3.tar.gz",
+  "download_time": "2025-10-18T16:51:01.134766",
+  "package_url": "https://pypi.org/project/libgen-api-enhanced/"
+}

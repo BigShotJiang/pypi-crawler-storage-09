@@ -1,0 +1,11 @@
+{
+  "name": "pandas-datavalidation",
+  "version": "1.0.0",
+  "summary": "A simple survey data validation package using pandas.",
+  "author": "NaveenChandra Cherupally",
+  "license": null,
+  "home_page": "https://github.com/ChandraCherupally/pandas_validator",
+  "download_filename": "pandas_datavalidation-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-18T16:50:49.103032",
+  "package_url": "https://pypi.org/project/pandas-datavalidation/"
+}

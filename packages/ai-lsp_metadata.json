@@ -1,0 +1,11 @@
+{
+  "name": "ai-lsp",
+  "version": "0.1.0",
+  "summary": "AI-powered Language Server with intelligent diagnostics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_lsp-0.1.0.tar.gz",
+  "download_time": "2025-10-18T16:50:44.512510",
+  "package_url": "https://pypi.org/project/ai-lsp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mistletoe",
+  "version": "1.5.0",
+  "summary": "A fast, extensible Markdown parser in pure Python.",
+  "author": "Mi Yu",
+  "license": "MIT",
+  "home_page": "https://github.com/miyuchina/mistletoe",
+  "download_filename": "mistletoe-1.5.0.tar.gz",
+  "download_time": "2025-10-18T16:50:50.638749",
+  "package_url": "https://pypi.org/project/mistletoe/"
+}

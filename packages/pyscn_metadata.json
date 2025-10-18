@@ -1,11 +1,11 @@
 {
   "name": "pyscn",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "An intelligent Python code quality analyzer with architectural guidance",
   "author": "DaisukeYoda",
   "license": "MIT",
   "home_page": "https://github.com/ludo-technologies/pyscn",
-  "download_filename": "pyscn-1.2.1-py3-none-macosx_10_9_x86_64.whl",
-  "download_time": "2025-10-18T13:27:41.969360",
+  "download_filename": "pyscn-1.2.2-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-18T16:50:57.901974",
   "package_url": "https://pypi.org/project/pyscn/"
 }
