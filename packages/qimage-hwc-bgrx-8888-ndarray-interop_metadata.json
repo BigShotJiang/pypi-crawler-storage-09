@@ -1,0 +1,11 @@
+{
+  "name": "qimage-hwc-bgrx-8888-ndarray-interop",
+  "version": "0.1.0a0",
+  "summary": "Zero-copy conversion between Qt QImage (in `Format_RGB32`/`Format_ARGB32`) and NumPy ndarray (in HWC BGRX 8888 format).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qimage_hwc_bgrx_8888_ndarray_interop-0.1.0a0.tar.gz",
+  "download_time": "2025-10-18T06:21:16.402366",
+  "package_url": "https://pypi.org/project/qimage-hwc-bgrx-8888-ndarray-interop/"
+}
