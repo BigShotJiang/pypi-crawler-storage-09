@@ -1,0 +1,11 @@
+{
+  "name": "pymmdc",
+  "version": "0.1.0",
+  "summary": "Pure Python Mermaid Diagram Converter with robust error handling",
+  "author": "wambua",
+  "license": "GNU v3",
+  "home_page": "https://pypi.org/project/pymmdc/",
+  "download_filename": "pymmdc-0.1.0.tar.gz",
+  "download_time": "2025-10-18T19:36:36.626792",
+  "package_url": "https://pypi.org/project/pymmdc/"
+}

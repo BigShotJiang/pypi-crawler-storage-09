@@ -1,0 +1,11 @@
+{
+  "name": "soundscan",
+  "version": "1.0.0",
+  "summary": "CLI toolkit for searching, recognizing and downloading music.",
+  "author": "wambua",
+  "license": "GNU v3",
+  "home_page": "https://pypi.org/project/soundscan/",
+  "download_filename": "soundscan-1.0.0.tar.gz",
+  "download_time": "2025-10-18T19:36:35.585728",
+  "package_url": "https://pypi.org/project/soundscan/"
+}

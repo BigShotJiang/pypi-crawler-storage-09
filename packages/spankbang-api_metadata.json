@@ -1,0 +1,11 @@
+{
+  "name": "spankbang-api",
+  "version": "1.7",
+  "summary": "A Python API for the Porn Site spankbang.com",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "spankbang_api-1.7.tar.gz",
+  "download_time": "2025-10-18T19:36:35.066005",
+  "package_url": "https://pypi.org/project/spankbang-api/"
+}
