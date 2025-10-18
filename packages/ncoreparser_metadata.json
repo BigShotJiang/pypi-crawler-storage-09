@@ -1,0 +1,11 @@
+{
+  "name": "ncoreparser",
+  "version": "4.0.1",
+  "summary": "Package to download from ncore.pro",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ncoreparser-4.0.1.tar.gz",
+  "download_time": "2025-10-18T22:16:31.192295",
+  "package_url": "https://pypi.org/project/ncoreparser/"
+}

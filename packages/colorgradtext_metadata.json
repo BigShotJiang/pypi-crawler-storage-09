@@ -1,0 +1,11 @@
+{
+  "name": "colorgradtext",
+  "version": "1.0.0",
+  "summary": "Apply amazing horizontal and vertical color gradients to text and ASCII art in the terminal.",
+  "author": "Og_Ten",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "colorgradtext-1.0.0.tar.gz",
+  "download_time": "2025-10-18T22:16:20.055785",
+  "package_url": "https://pypi.org/project/colorgradtext/"
+}

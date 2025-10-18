@@ -1,11 +1,11 @@
 {
   "name": "experimented",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Experiment store.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "experimented-0.0.5.tar.gz",
-  "download_time": "2025-10-18T21:13:15.119799",
+  "download_filename": "experimented-0.0.6.tar.gz",
+  "download_time": "2025-10-18T22:16:28.337850",
   "package_url": "https://pypi.org/project/experimented/"
 }
