@@ -1,11 +1,11 @@
 {
   "name": "apppy-auth",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Authentication definitions for server development",
   "author": "Tim Kral",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apppy_auth-0.3.3.tar.gz",
-  "download_time": "2025-10-18T16:18:13.927294",
+  "download_filename": "apppy_auth-0.3.4.tar.gz",
+  "download_time": "2025-10-18T16:42:07.164294",
   "package_url": "https://pypi.org/project/apppy-auth/"
 }

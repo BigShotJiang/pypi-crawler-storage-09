@@ -1,11 +1,11 @@
 {
   "name": "apppy-aws",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "AWS integrations for server development",
   "author": "Tim Kral",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apppy_aws-0.3.3.tar.gz",
-  "download_time": "2025-10-18T16:18:10.519940",
+  "download_filename": "apppy_aws-0.3.4.tar.gz",
+  "download_time": "2025-10-18T16:42:04.271432",
   "package_url": "https://pypi.org/project/apppy-aws/"
 }
