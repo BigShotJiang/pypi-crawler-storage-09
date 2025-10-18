@@ -1,0 +1,11 @@
+{
+  "name": "cognitora",
+  "version": "1.6.1",
+  "summary": "Official Python SDK for Cognitora - Operating System for Autonomous AI Agents",
+  "author": "Cognitora Team",
+  "license": null,
+  "home_page": "https://github.com/Cognitora/python-sdk",
+  "download_filename": "cognitora-1.6.1.tar.gz",
+  "download_time": "2025-10-18T07:28:07.421015",
+  "package_url": "https://pypi.org/project/cognitora/"
+}

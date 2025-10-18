@@ -1,0 +1,11 @@
+{
+  "name": "adaptio",
+  "version": "0.5.1",
+  "summary": "Adaptio 是一个基于 Python asyncio 的智能并发控制工具。它借鉴了 TCP 拥塞控制算法的思想，可以根据系统负载动态调整并发任务的数量，从而优化任务吞吐量并防止过载。此外，还提供了一个装饰器，当任务因系统过载失败时自动重试。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adaptio-0.5.1.tar.gz",
+  "download_time": "2025-10-18T07:28:16.602886",
+  "package_url": "https://pypi.org/project/adaptio/"
+}

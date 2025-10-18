@@ -1,19 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T07:15:01.002521
-- **Total Packages**: 85
-- **Total Size**: 18.8 MB
+- **Download Time**: 2025-10-18T07:28:54.360278
+- **Total Packages**: 89
+- **Total Size**: 1.52 MB
 
 ## Packages List
+- cognitora
+- mzpy
+- cdmn-mcp-server
+- gilknocker
+- flexmetric
 - mozyq
+- comfykit
+- gohutool-dataflow
+- mdbookhtml2pdf
+- gisweb-tenants
+- easyocr-unstructured
+- xai-creditscorecard
+- sound-rs
+- onnxscript
+- 1xn-vmcp
+- PyProtectorX
+- adaptio
+- tritonparse
+- apppy-aws
+- apppy-sb
 - apppy-app
 - speedbuild
 - apppy-clients
 - apppy-auth
 - apppy-fs
 - apppy-fastql
-- flexmetric
 - qing-client
 - apppy-queues
 - matp
@@ -67,7 +85,6 @@
 - expview
 - mcp-server-excel-sql
 - ui-tars
-- 1xn-vmcp
 - ejd
 - graphistry
 - pysentry-rs
@@ -78,16 +95,3 @@
 - pqcdualusb
 - labeltrain
 - drills-pro-proto
-- django-spire
-- openbb-core
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- anyenv
-- pulumi-aws-native
-- supercode
-- machineconfig
-- doccmd
-- SURE-tools
-- simply-mcp
-- cdk8s-awscdk-resolver
-- dragon-ml-toolbox

@@ -1,0 +1,11 @@
+{
+  "name": "mdbookhtml2pdf",
+  "version": "0.2.0",
+  "summary": "Convert mdBook HTML to PDF with TOC, code highlighting and mermaid diagrams",
+  "author": "min",
+  "license": null,
+  "home_page": "https://gitee.com/jakHall/mdbookhtml2pdf.git",
+  "download_filename": "mdbookhtml2pdf-0.2.0.tar.gz",
+  "download_time": "2025-10-18T07:28:12.508044",
+  "package_url": "https://pypi.org/project/mdbookhtml2pdf/"
+}
