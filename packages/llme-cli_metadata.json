@@ -1,11 +1,11 @@
 {
   "name": "llme-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A command-line interface for language models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llme_cli-0.1.0.tar.gz",
-  "download_time": "2025-10-16T21:26:44.847209",
+  "download_filename": "llme_cli-0.1.1.tar.gz",
+  "download_time": "2025-10-18T19:12:05.651056",
   "package_url": "https://pypi.org/project/llme-cli/"
 }
