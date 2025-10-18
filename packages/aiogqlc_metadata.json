@@ -1,0 +1,11 @@
+{
+  "name": "aiogqlc",
+  "version": "5.4.0",
+  "summary": "aiohttp based GraphQL client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiogqlc-5.4.0.tar.gz",
+  "download_time": "2025-10-18T01:07:06.607509",
+  "package_url": "https://pypi.org/project/aiogqlc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cdmn-mcp-server",
+  "version": "1.0.0",
+  "summary": "FastMCP 기반 DMN 서버로 자연어 입력을 받아 DMN 규칙을 실행하고 결과를 반환하는 MCP 서버",
+  "author": "rickjang",
+  "license": "MIT",
+  "home_page": "https://github.com/rickjang/cdmn-mcp-server",
+  "download_filename": "cdmn_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-10-18T01:06:56.880937",
+  "package_url": "https://pypi.org/project/cdmn-mcp-server/"
+}

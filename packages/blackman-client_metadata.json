@@ -1,0 +1,11 @@
+{
+  "name": "blackman-client",
+  "version": "0.0.5",
+  "summary": "Blackman AI API",
+  "author": "Blackman AI",
+  "license": null,
+  "home_page": "https://github.com/blackman-ai/python-sdk",
+  "download_filename": "blackman_client-0.0.5.tar.gz",
+  "download_time": "2025-10-18T01:07:38.384196",
+  "package_url": "https://pypi.org/project/blackman-client/"
+}

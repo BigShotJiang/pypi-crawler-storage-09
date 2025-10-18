@@ -1,0 +1,11 @@
+{
+  "name": "mcposprint",
+  "version": "1.0.0",
+  "summary": "MCP server for thermal printer task card generation",
+  "author": "MCPOSprint Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcposprint-1.0.0.tar.gz",
+  "download_time": "2025-10-18T01:07:41.040329",
+  "package_url": "https://pypi.org/project/mcposprint/"
+}
