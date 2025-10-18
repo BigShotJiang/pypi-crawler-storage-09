@@ -1,26 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T21:37:37.350361
-- **Total Packages**: 81
-- **Total Size**: 15.13 MB
+- **Download Time**: 2025-10-18T21:50:54.666644
+- **Total Packages**: 79
+- **Total Size**: 0.44 MB
 
 ## Packages List
-- CDMClient
-- hash-directory
-- uv
-- uv-build
-- carconnectivity-connector-audi
-- svc-infra
-- pydemy
-- bitbucket-code-reviewer
-- datachain
-- xcomponent
-- topologicpy
-- StudentScore
-- appium-python-client-shadowstep
-- cartography
-- botapi-py
 - sae-lens
 - cratermaker
 - market-data-core
@@ -35,6 +20,7 @@
 - func-to-web
 - ry-pg-utils
 - clgenomics
+- svc-infra
 - pdf-watermark
 - unidata-blocks
 - tuxtoaster
@@ -72,6 +58,7 @@
 - greener-servermock
 - greener-reporter
 - wauxio
+- hash-directory
 - PyTorchLabFlow
 - abstract-ocr
 - pelican-hep
@@ -87,3 +74,14 @@
 - dcisionai-mcp-server
 - nanogpt-sdk
 - classy-fastapi
+- hostedpi
+- claude-mpm
+- unrealircd-rpc-py
+- square-file-store
+- solarmoonpy
+- Baku
+- bitfinex-api-py
+- crisp-t
+- heaobject
+- iniconfig
+- cryptoservice
