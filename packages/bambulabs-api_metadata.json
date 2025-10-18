@@ -1,0 +1,11 @@
+{
+  "name": "bambulabs-api",
+  "version": "2.6.5",
+  "summary": "API for BambuLab 3D Printers over MQTT",
+  "author": "Chris Ioannidis",
+  "license": null,
+  "home_page": "https://github.com/acse-ci223/bambulabs_api",
+  "download_filename": "bambulabs_api-2.6.5.tar.gz",
+  "download_time": "2025-10-18T15:29:36.731303",
+  "package_url": "https://pypi.org/project/bambulabs-api/"
+}

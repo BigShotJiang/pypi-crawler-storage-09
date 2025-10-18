@@ -1,11 +1,11 @@
 {
   "name": "cockup",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Yet another backup tool for various configurations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cockup-0.1.7.tar.gz",
-  "download_time": "2025-10-18T09:15:26.252558",
+  "download_filename": "cockup-0.1.8.tar.gz",
+  "download_time": "2025-10-18T15:29:20.928648",
   "package_url": "https://pypi.org/project/cockup/"
 }
