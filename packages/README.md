@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T04:18:31.442855
-- **Total Packages**: 79
-- **Total Size**: 5.73 MB
+- **Download Time**: 2025-10-18T04:41:17.665586
+- **Total Packages**: 77
+- **Total Size**: 16.83 MB
 
 ## Packages List
+- tremolo-login
+- abstract-windows
+- dooservice-cli
+- bear-dereth
+- queryboost
+- SURE-tools
+- singtown-ai
+- neutronapi
+- gurddy-mcp
+- torchtitan
+- typeagent
+- reyserver
+- voicellm
+- pex
+- dana-python
+- phonopy
+- pulumi-alicloud
+- openrouter-provider
 - pylineament
 - dektools
 - keras-nlp-nightly
@@ -13,7 +31,6 @@
 - aenet-gpr
 - rds-proxy-password-rotation
 - snowflake-connector-python-nightly
-- pulumi-alicloud
 - quanta-pdf
 - GreenPoster
 - tirex-mirror
@@ -22,7 +39,6 @@
 - huv
 - chromedriver-binary
 - pyEdge-package-name-reservation-1
-- openrouter-provider
 - aolog
 - nomenklatura-mpt
 - pagesage
@@ -41,7 +57,6 @@
 - format-json
 - mcli-framework
 - mdbq
-- reyserver
 - tree-sitter-autolang
 - dstklib
 - mace-descriptor
@@ -52,14 +67,12 @@
 - static-frame
 - duckplus
 - describealign
-- SURE-tools
 - pulumi-newrelic
 - claude-multi-worker
 - pytest-pyodide
 - weather-app-feifei
 - veris-ai
 - vercel
-- gurddy-mcp
 - publicsuffixlist
 - plain.jobs
 - mscore3
@@ -70,18 +83,3 @@
 - cdktf-cdktf-provider-newrelic
 - kenkenpa
 - cdktf-cdktf-provider-consul
-- phonopy
-- mcp-server-excel-sql
-- authflow
-- ojogor
-- connectonion
-- keras-rs-nightly
-- multiSSH3
-- oven-language
-- GANDLF
-- brokle
-- calico_lib
-- plain.oauth
-- plain
-- odoo-addon-l10n-es-aeat-sii-oca
-- gguf-connector

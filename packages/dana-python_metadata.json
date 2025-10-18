@@ -1,0 +1,11 @@
+{
+  "name": "dana-python",
+  "version": "1.1.10",
+  "summary": "API Client (SDK) for DANA APIs based on https://dashboard.dana.id/api-docs",
+  "author": "DANA Package Manager ",
+  "license": null,
+  "home_page": "https://dashboard.dana.id/api-docs",
+  "download_filename": "dana_python-1.1.10.tar.gz",
+  "download_time": "2025-10-18T04:40:45.462920",
+  "package_url": "https://pypi.org/project/dana-python/"
+}
