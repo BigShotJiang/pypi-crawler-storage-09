@@ -1,0 +1,11 @@
+{
+  "name": "agviz",
+  "version": "1.0.0",
+  "summary": "AutoGrad Visualizer (agviz): Visualize dependencies between states/parameters in autograd tree.",
+  "author": "James Hazelden",
+  "license": null,
+  "home_page": "https://github.com/meeree/agviz",
+  "download_filename": "agviz-1.0.0.tar.gz",
+  "download_time": "2025-10-18T08:20:20.140185",
+  "package_url": "https://pypi.org/project/agviz/"
+}

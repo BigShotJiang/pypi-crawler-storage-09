@@ -1,11 +1,11 @@
 {
   "name": "srikanth-mcp-portfolio",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "MCP server for Srikanth's portfolio data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "srikanth_mcp_portfolio-1.4.0.tar.gz",
-  "download_time": "2025-10-17T15:16:19.077443",
+  "download_filename": "srikanth_mcp_portfolio-1.5.0.tar.gz",
+  "download_time": "2025-10-18T08:20:24.769373",
   "package_url": "https://pypi.org/project/srikanth-mcp-portfolio/"
 }

@@ -1,22 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T07:50:39.873779
-- **Total Packages**: 83
-- **Total Size**: 1.48 MB
+- **Download Time**: 2025-10-18T08:21:01.553556
+- **Total Packages**: 77
+- **Total Size**: 9.94 MB
 
 ## Packages List
+- apppy-app
+- mtgeo
+- vega-framework
+- vsh-tools
+- apppy-auth
+- agviz
+- daytona_sdk
+- daytona
+- open-agent-sdk
+- apppy-fastql
+- apppy-fs
+- bluer-sbc
+- apppy-queues
+- srikanth-mcp-portfolio
+- apppy-db
+- mu-teg-sim
+- rate-limiter-decorator
+- apppy-logger
+- witrnhid
+- azpaddypy
+- apppy-generic
+- kubecrds
+- apppy-clients
+- apppy-env
+- mplang-nightly
+- multi-puzzle-solver
+- promtprof
+- djaploy
+- spyder-okvim
+- miniflux-exporter
+- mcp-mathematics
+- flexmetric
+- wela-agents
+- prefect
+- connectonion
+- pyglove
+- prefect-client
+- Blinter
+- mcp-factory
+- docutranslate
+- weather-app-feifei
+- bool-hybrid-array
+- daytona_api_client_async
+- daytona_api_client
+- puree-ui
+- mozyq
+- qctrl-fire-opal-riken-client
+- sopy-fem
+- hvdaccelerators
+- lib-clockifybot
+- pyportainer
 - qctrl-fire-opal-riken-commons
 - nasap-net
 - CBR-FoX
-- mozyq
 - akari-bot-webrender
 - lattifai
-- bool-hybrid-array
 - faster-eth-abi
 - mcli-framework
 - pipeline-csv-gazprom-infotech
-- flexmetric
 - eclips-blossom-ai
 - jp-medicine-master
 - upgini
@@ -25,7 +73,6 @@
 - onvif-python
 - private-assistant-commons
 - workflows-mcp
-- sopy-fem
 - cdmn-mcp-server
 - mcp-postgres-duwenji
 - cognitora
@@ -36,56 +83,3 @@
 - gisweb-tenants
 - easyocr-unstructured
 - xai-creditscorecard
-- sound-rs
-- onnxscript
-- adaptio
-- tritonparse
-- apppy-aws
-- apppy-sb
-- apppy-app
-- speedbuild
-- apppy-clients
-- apppy-auth
-- apppy-fs
-- apppy-fastql
-- qing-client
-- apppy-queues
-- matp
-- apppy-db
-- apppy-logger
-- streamlit-nightly
-- claude-multi-worker
-- apppy-generic
-- LSTM-SAM-TL
-- apppy-env
-- commonmeta-py
-- cockup
-- robotframework-schemathesislibrary
-- astrotel
-- StreamingCommunity
-- petsard
-- tf-models-nightly
-- sparq
-- ssage
-- django-cfg
-- chinese-year-calc
-- Geode-Explicit
-- pipeMT
-- ytws
-- xcpcio
-- lattifai-core
-- reyserver
-- hvdaccelerators
-- fastapps
-- format-json
-- OpenGeode-GeosciencesIO
-- truss
-- Treeed
-- libfsntfs-python
-- critical-es-value
-- verbum-cli
-- cryptoservice
-- arbor-ai
-- patterpunk
-- wandelbots-api-client
-- envresolve

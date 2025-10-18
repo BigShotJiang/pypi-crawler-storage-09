@@ -1,11 +1,11 @@
 {
   "name": "hvdaccelerators",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hvdaccelerators-0.2.0.tar.gz",
-  "download_time": "2025-10-18T07:14:34.754313",
+  "download_filename": "hvdaccelerators-0.2.1.tar.gz",
+  "download_time": "2025-10-18T08:20:45.757812",
   "package_url": "https://pypi.org/project/hvdaccelerators/"
 }

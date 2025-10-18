@@ -1,0 +1,11 @@
+{
+  "name": "wela-agents",
+  "version": "0.0.18",
+  "summary": "An agent framework for Wela",
+  "author": "Lewis Wu",
+  "license": "MIT",
+  "home_page": "https://github.com/lewiswu1209/wela_agents.git",
+  "download_filename": "wela_agents-0.0.18.tar.gz",
+  "download_time": "2025-10-18T08:20:36.297494",
+  "package_url": "https://pypi.org/project/wela-agents/"
+}
