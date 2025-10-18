@@ -1,0 +1,11 @@
+{
+  "name": "jp-medicine-master",
+  "version": "2.0.2",
+  "summary": "日本で使用される医薬品マスタを簡単に取得・利用するためのライブラリ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jp_medicine_master-2.0.2.tar.gz",
+  "download_time": "2025-10-18T07:50:02.168579",
+  "package_url": "https://pypi.org/project/jp-medicine-master/"
+}

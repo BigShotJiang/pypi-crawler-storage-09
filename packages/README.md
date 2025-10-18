@@ -1,16 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T07:38:59.241881
-- **Total Packages**: 85
-- **Total Size**: 0.98 MB
+- **Download Time**: 2025-10-18T07:50:39.873779
+- **Total Packages**: 83
+- **Total Size**: 1.48 MB
 
 ## Packages List
+- qctrl-fire-opal-riken-commons
+- nasap-net
+- CBR-FoX
+- mozyq
+- akari-bot-webrender
+- lattifai
+- bool-hybrid-array
+- faster-eth-abi
+- mcli-framework
+- pipeline-csv-gazprom-infotech
+- flexmetric
+- eclips-blossom-ai
+- jp-medicine-master
+- upgini
+- EncodingExplosion
 - gohutool-dataflow
 - onvif-python
 - private-assistant-commons
-- mozyq
-- 1xn-vmcp
 - workflows-mcp
 - sopy-fem
 - cdmn-mcp-server
@@ -18,7 +31,6 @@
 - cognitora
 - mzpy
 - gilknocker
-- flexmetric
 - comfykit
 - mdbookhtml2pdf
 - gisweb-tenants
@@ -67,27 +79,13 @@
 - fastapps
 - format-json
 - OpenGeode-GeosciencesIO
-- getaix-fexcel
 - truss
 - Treeed
 - libfsntfs-python
 - critical-es-value
-- CBR-FoX
 - verbum-cli
 - cryptoservice
 - arbor-ai
 - patterpunk
 - wandelbots-api-client
 - envresolve
-- pulumi-command
-- htmlgen-mcp
-- fgo-api-types
-- django-googler
-- gal-gateway
-- GreenPoster
-- pytsg
-- expview
-- mcp-server-excel-sql
-- ui-tars
-- ejd
-- graphistry

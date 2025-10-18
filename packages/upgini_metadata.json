@@ -1,11 +1,11 @@
 {
   "name": "upgini",
-  "version": "1.2.138",
+  "version": "1.2.139",
   "summary": "Intelligent data search & enrichment for Machine Learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "upgini-1.2.138.tar.gz",
-  "download_time": "2025-10-17T17:42:58.387124",
+  "download_filename": "upgini-1.2.139.tar.gz",
+  "download_time": "2025-10-18T07:50:02.707796",
   "package_url": "https://pypi.org/project/upgini/"
 }

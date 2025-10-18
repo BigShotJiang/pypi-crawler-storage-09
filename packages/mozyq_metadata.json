@@ -1,11 +1,11 @@
 {
   "name": "mozyq",
-  "version": "0.0.9",
+  "version": "0.0.12",
   "summary": null,
   "author": "Gilad Kutiel",
   "license": null,
   "home_page": "https://mozyq.org",
-  "download_filename": "mozyq-0.0.9.tar.gz",
-  "download_time": "2025-10-18T07:38:10.345587",
+  "download_filename": "mozyq-0.0.12.tar.gz",
+  "download_time": "2025-10-18T07:49:57.521155",
   "package_url": "https://pypi.org/project/mozyq/"
 }
