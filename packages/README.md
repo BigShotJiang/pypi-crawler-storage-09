@@ -1,14 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T08:53:05.673602
-- **Total Packages**: 84
-- **Total Size**: 8.92 MB
+- **Download Time**: 2025-10-18T09:16:06.515824
+- **Total Packages**: 87
+- **Total Size**: 7.24 MB
 
 ## Packages List
+- RetrievalMind
+- reqman
+- vishwa-fastapi-utils
+- eigen-robotics
+- omniregress
+- Functions-d
+- backtracking-llm
+- xmind-mcp
+- cockup
+- python-xz
+- NeuraPython
+- sportdata
+- odoo-addon-l10n-es-aeat-sii-oca
+- django-blog-package
+- sync-pre-commit-lock
+- domcontext
+- vector-dataloader
+- htmlgen-mcp
+- adv-optm
+- scdata
+- xiangxinai
+- autogluon.common
+- nomenklatura-mpt
+- enumgen
+- param-management-client
+- treerequests
+- playwright-traceview-html
+- python-project-template-AS
+- svg.py
+- llmakits
+- sploitscan
+- unicms-template-italia
+- lusid-sdk
+- reykit
+- reyfetch
+- fipiranfunds
+- mdbq
+- concurry
+- hello-py-zaqar
+- claude-multi-worker
+- onlyuserclient
 - zfx
 - maplestory-openapi
-- enumgen
 - param-lsp
 - MoleCool
 - azpaddypy
@@ -25,11 +65,9 @@
 - nvfuser-cu128
 - yaso-paste
 - comfykit
-- xmind-mcp
 - ucon
 - mignonFramework
 - agviz
-- cockup
 - xplt
 - feldera
 - multi-puzzle-solver
@@ -55,38 +93,3 @@
 - apppy-fs
 - bluer-sbc
 - apppy-queues
-- srikanth-mcp-portfolio
-- apppy-db
-- mu-teg-sim
-- rate-limiter-decorator
-- apppy-logger
-- witrnhid
-- apppy-generic
-- kubecrds
-- apppy-clients
-- apppy-env
-- mplang-nightly
-- promtprof
-- djaploy
-- spyder-okvim
-- miniflux-exporter
-- mcp-mathematics
-- flexmetric
-- wela-agents
-- prefect
-- connectonion
-- pyglove
-- prefect-client
-- Blinter
-- mcp-factory
-- docutranslate
-- weather-app-feifei
-- bool-hybrid-array
-- daytona_api_client_async
-- daytona_api_client
-- puree-ui
-- mozyq
-- qctrl-fire-opal-riken-client
-- sopy-fem
-- hvdaccelerators
-- lib-clockifybot

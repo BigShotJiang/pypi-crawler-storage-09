@@ -1,0 +1,11 @@
+{
+  "name": "svg.py",
+  "version": "1.9.2",
+  "summary": "SVG drawing library",
+  "author": "Gram",
+  "license": "MIT",
+  "home_page": "https://github.com/orsinium-labs/svg",
+  "download_filename": "svg_py-1.9.2.tar.gz",
+  "download_time": "2025-10-18T09:15:36.500841",
+  "package_url": "https://pypi.org/project/svg.py/"
+}

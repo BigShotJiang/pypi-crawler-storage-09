@@ -1,0 +1,11 @@
+{
+  "name": "python-project-template-AS",
+  "version": "0.1.1",
+  "summary": "A minimal Python project demonstrating best practices for testing, documentation, and CI/CD. It implements a mini calculator as a minimal example.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_project_template_as-0.1.1.tar.gz",
+  "download_time": "2025-10-18T09:15:35.990577",
+  "package_url": "https://pypi.org/project/python-project-template-AS/"
+}

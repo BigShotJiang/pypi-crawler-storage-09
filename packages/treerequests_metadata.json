@@ -1,0 +1,11 @@
+{
+  "name": "treerequests",
+  "version": "0.0.16",
+  "summary": "A wrapper for requests for integration with html tree parsers",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "treerequests-0.0.16.tar.gz",
+  "download_time": "2025-10-18T09:15:34.970014",
+  "package_url": "https://pypi.org/project/treerequests/"
+}

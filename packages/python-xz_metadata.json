@@ -1,0 +1,11 @@
+{
+  "name": "python-xz",
+  "version": "0.6.0",
+  "summary": "Pure Python implementation of the XZ file format with random access support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_xz-0.6.0.tar.gz",
+  "download_time": "2025-10-18T09:15:26.763724",
+  "package_url": "https://pypi.org/project/python-xz/"
+}
