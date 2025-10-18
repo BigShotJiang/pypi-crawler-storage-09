@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T13:28:14.858853
-- **Total Packages**: 86
-- **Total Size**: 28.78 MB
+- **Download Time**: 2025-10-18T13:39:58.848504
+- **Total Packages**: 80
+- **Total Size**: 7.95 MB
 
 ## Packages List
+- tefasfon
+- tovextravaganza
+- odsbox
+- PyYPAC
+- telegram-bot-discussion
+- light-compressor
+- ppget
+- clusternet
+- NeuraPython
+- vnpy_portfoliostrategy
+- uncontrol
+- tnm-config
+- hishel
+- tflite-micro
+- yanga
+- reywechat
+- deep-decoder
+- maleo-identity
+- thinagents
+- codeaudit
 - mcp-hmr
 - chutes
 - spatio
@@ -19,15 +39,12 @@
 - quickscale-cli
 - quickscale-core
 - yulksync
-- uncontrol
 - clonf
-- tovextravaganza
 - phidown
 - wt-resource-tool
 - saas-core-lib
 - xmind-mcp
 - spot-planner
-- odsbox
 - apppolicy-scanner
 - pyscn
 - ut-xls
@@ -40,7 +57,6 @@
 - nbdev-numpy
 - nbdev-stdlib
 - llmling-agent
-- PyYPAC
 - vachoppy
 - flacopyus
 - pymqi
@@ -48,7 +64,6 @@
 - bagit-utils
 - vnpy_spreadtrading
 - shopee-afflib
-- deep-decoder
 - hui2
 - penguin-tamer
 - aioboto3
@@ -71,24 +86,3 @@
 - neurodatahub-cli
 - llmling
 - rustsat
-- test-pypi-vmcp
-- rodrigo0000-fastapi-core-controllers
-- rodrigo0000-fastapi-core-config
-- clifford
-- framewise
-- gpustack-runtime
-- prek
-- magnetoo
-- abagentsdk
-- topolib
-- computemate
-- reywechat
-- mystringlib-eldar-matrix
-- easyfederated
-- schemez
-- biblemate
-- agilab
-- agentmake
-- agi-core
-- agi-cluster
-- agi-node

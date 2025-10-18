@@ -1,0 +1,11 @@
+{
+  "name": "clusternet",
+  "version": "0.9.3",
+  "summary": "Distributed Software Defined Network Emulation",
+  "author": "Esaú Mascarenhas",
+  "license": "MIT License",
+  "home_page": "https://github.com/EsauM10/clusternet",
+  "download_filename": "clusternet-0.9.3.tar.gz",
+  "download_time": "2025-10-18T13:39:20.661806",
+  "package_url": "https://pypi.org/project/clusternet/"
+}
