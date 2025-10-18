@@ -1,0 +1,11 @@
+{
+  "name": "minecraft-avatar-generator",
+  "version": "0.1.0",
+  "summary": "A command-line utility to generate 2D and 3D isometric renders of Minecraft skins from a player's username, UUID, or skin hash.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "minecraft_avatar_generator-0.1.0.tar.gz",
+  "download_time": "2025-10-18T11:36:57.935506",
+  "package_url": "https://pypi.org/project/minecraft-avatar-generator/"
+}

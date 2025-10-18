@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T11:26:03.084031
-- **Total Packages**: 72
-- **Total Size**: 3.51 MB
+- **Download Time**: 2025-10-18T11:37:33.398607
+- **Total Packages**: 80
+- **Total Size**: 23.26 MB
 
 ## Packages List
+- assisted-service-client
+- test-pypi-vmcp
+- onestep
+- odoo-addon-l10n-es-aeat-sii-oca
+- Treeed
+- pyzotero
+- browzy-io
+- strawberry-graphql-django
+- evileye
+- ttkbootstrap
+- vnpy_tts
+- waldiez-jupyter
+- spot-planner
+- jinjanator-plugins
+- torchx-nightly
+- minecraft-avatar-generator
+- comfyui-frontend-package
+- bigtree
+- wagtailmedia
 - reykit
 - modusa
 - torchft-nightly
@@ -17,7 +36,6 @@
 - xmind-mcp
 - fhws
 - freeds-lab-jaffle-kafe
-- test-pypi-vmcp
 - pyfabricops
 - mcp-server-excel-sql
 - jmcfunction
@@ -68,13 +86,3 @@
 - konduktor-nightly
 - geocompy
 - trainy-policy-nightly
-- letta-nightly
-- spatio
-- bluer-ugv
-- spot-planner
-- zfx
-- moose-lib
-- circle-of-confusion
-- SwiftGUI
-- logab
-- cicore
