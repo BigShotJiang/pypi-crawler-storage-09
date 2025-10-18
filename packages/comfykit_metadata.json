@@ -1,11 +1,11 @@
 {
   "name": "comfykit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "ComfyUI Python SDK for developers - Build AI generation into your app",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "comfykit-0.1.1.tar.gz",
-  "download_time": "2025-10-18T08:42:49.545080",
+  "download_filename": "comfykit-0.1.2.tar.gz",
+  "download_time": "2025-10-18T09:30:02.476657",
   "package_url": "https://pypi.org/project/comfykit/"
 }

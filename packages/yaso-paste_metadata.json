@@ -1,11 +1,11 @@
 {
   "name": "yaso-paste",
-  "version": "0.1.0",
+  "version": "3.0.0",
   "summary": "Simple async Python library to paste text or files to yaso.su",
   "author": "Arctix",
   "license": "MIT",
   "home_page": "https://github.com/Arctixinc/yaso_paste",
-  "download_filename": "yaso_paste-0.1.0.tar.gz",
-  "download_time": "2025-10-18T08:42:48.992709",
+  "download_filename": "yaso_paste-3.0.0.tar.gz",
+  "download_time": "2025-10-18T09:30:00.917148",
   "package_url": "https://pypi.org/project/yaso-paste/"
 }

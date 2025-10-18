@@ -1,12 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T09:16:06.515824
-- **Total Packages**: 87
-- **Total Size**: 7.24 MB
+- **Download Time**: 2025-10-18T09:30:40.529526
+- **Total Packages**: 84
+- **Total Size**: 2.13 MB
 
 ## Packages List
+- simple-ytdownloader
 - RetrievalMind
+- bjtube
+- vibecore
+- minitensor
+- spot-planner
+- bool-hybrid-array
+- easyrip
+- yaso-paste
+- parsesafe
+- enumgen
+- comfykit
+- pycanarytoken
+- omniopt2
+- phidown
+- HexSS
+- vega-framework
+- django-bulk-triggers
+- tbp-nightly
+- instaui-echarts
+- eclips-blossom-ai
+- domcontext
 - reqman
 - vishwa-fastapi-utils
 - eigen-robotics
@@ -21,7 +42,6 @@
 - odoo-addon-l10n-es-aeat-sii-oca
 - django-blog-package
 - sync-pre-commit-lock
-- domcontext
 - vector-dataloader
 - htmlgen-mcp
 - adv-optm
@@ -29,7 +49,6 @@
 - xiangxinai
 - autogluon.common
 - nomenklatura-mpt
-- enumgen
 - param-management-client
 - treerequests
 - playwright-traceview-html
@@ -63,8 +82,6 @@
 - fairyfishnet
 - nvfuser-cu126
 - nvfuser-cu128
-- yaso-paste
-- comfykit
 - ucon
 - mignonFramework
 - agviz
@@ -73,23 +90,3 @@
 - multi-puzzle-solver
 - dost-cat
 - abagentsdk
-- tiktok-account-checker
-- FastIoC
-- gisweb-tenants
-- diffsptk
-- owocr
-- apppy-sb
-- supercode
-- apppy-aws
-- apppy-app
-- mtgeo
-- vega-framework
-- vsh-tools
-- apppy-auth
-- daytona_sdk
-- daytona
-- open-agent-sdk
-- apppy-fastql
-- apppy-fs
-- bluer-sbc
-- apppy-queues

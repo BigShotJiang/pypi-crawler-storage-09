@@ -1,0 +1,11 @@
+{
+  "name": "pycanarytoken",
+  "version": "0.1.0",
+  "summary": "A Python library to generate Canarytokens",
+  "author": "JACK",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycanarytoken-0.1.0.tar.gz",
+  "download_time": "2025-10-18T09:30:02.994334",
+  "package_url": "https://pypi.org/project/pycanarytoken/"
+}

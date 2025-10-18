@@ -1,11 +1,11 @@
 {
   "name": "enumgen",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Application to generate C enumerations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "enumgen-0.1.1.tar.gz",
-  "download_time": "2025-10-18T09:15:33.949010",
+  "download_filename": "enumgen-0.1.2.tar.gz",
+  "download_time": "2025-10-18T09:30:01.954518",
   "package_url": "https://pypi.org/project/enumgen/"
 }

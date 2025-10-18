@@ -1,11 +1,11 @@
 {
   "name": "domcontext",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Parse DOM trees into clean, LLM-friendly context",
   "author": "Steve Wang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "domcontext-0.1.1.tar.gz",
-  "download_time": "2025-10-18T09:15:29.834753",
+  "download_filename": "domcontext-0.1.2.tar.gz",
+  "download_time": "2025-10-18T09:30:08.261515",
   "package_url": "https://pypi.org/project/domcontext/"
 }
