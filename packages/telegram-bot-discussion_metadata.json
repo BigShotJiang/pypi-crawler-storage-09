@@ -1,11 +1,11 @@
 {
   "name": "telegram-bot-discussion",
-  "version": "0.0.1760798123834472",
+  "version": "0.0.1760800256456030",
   "summary": "Telegram-bot framework `telegram-bot-discussion` based on native Telegram Bot API Python-library `python-telegram-bot`.",
   "author": "ILYA",
   "license": null,
   "home_page": null,
-  "download_filename": "telegram_bot_discussion-0.0.1760798123834472-py3-none-any.whl",
-  "download_time": "2025-10-18T14:41:30.885559",
+  "download_filename": "telegram_bot_discussion-0.0.1760800256456030-py3-none-any.whl",
+  "download_time": "2025-10-18T15:14:28.495585",
   "package_url": "https://pypi.org/project/telegram-bot-discussion/"
 }

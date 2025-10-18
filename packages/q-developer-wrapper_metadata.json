@@ -1,0 +1,11 @@
+{
+  "name": "q-developer-wrapper",
+  "version": "0.0.2",
+  "summary": "Python wrapper for Q Developer CLI",
+  "author": "Anthony Bernabeu, Corneliu Croitoru",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/cornelcroi/q-developer-wrapper",
+  "download_filename": "q_developer_wrapper-0.0.2.tar.gz",
+  "download_time": "2025-10-18T15:14:21.036439",
+  "package_url": "https://pypi.org/project/q-developer-wrapper/"
+}

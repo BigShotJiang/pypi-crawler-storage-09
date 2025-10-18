@@ -1,11 +1,11 @@
 {
   "name": "iGSTT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Gemini STT CLI",
-  "author": "MLeo",
+  "author": "iChochy",
   "license": "MIT",
-  "home_page": "https://stt.mleo.site",
-  "download_filename": "igstt-0.1.0.tar.gz",
-  "download_time": "2025-10-18T14:41:34.488101",
+  "home_page": "https://stt.ichochy.com",
+  "download_filename": "igstt-0.1.1.tar.gz",
+  "download_time": "2025-10-18T15:14:29.100501",
   "package_url": "https://pypi.org/project/iGSTT/"
 }

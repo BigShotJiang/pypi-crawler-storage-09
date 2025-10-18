@@ -1,0 +1,11 @@
+{
+  "name": "meu-primeiro-pacote-exemplo",
+  "version": "0.1.0",
+  "summary": "Um pacote de calculadora simples",
+  "author": "Seu Nome",
+  "license": null,
+  "home_page": "https://github.com/Cempressa",
+  "download_filename": "meu_primeiro_pacote_exemplo-0.1.0.tar.gz",
+  "download_time": "2025-10-18T15:14:32.709751",
+  "package_url": "https://pypi.org/project/meu-primeiro-pacote-exemplo/"
+}
