@@ -1,0 +1,11 @@
+{
+  "name": "aiowhitebit-mcp",
+  "version": "0.3.0",
+  "summary": "MCP server and client for WhiteBit cryptocurrency exchange API",
+  "author": "doubledare704",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/doubledare704/aiowhitebit-mcp",
+  "download_filename": "aiowhitebit_mcp-0.3.0.tar.gz",
+  "download_time": "2025-10-18T19:50:17.195464",
+  "package_url": "https://pypi.org/project/aiowhitebit-mcp/"
+}

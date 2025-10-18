@@ -1,11 +1,11 @@
 {
   "name": "surveytomato",
-  "version": "0.0.1",
-  "summary": "Add your description here",
+  "version": "0.1.2",
+  "summary": "Build dynamic surveys with Python",
   "author": "Alexander Schau",
   "license": null,
   "home_page": null,
-  "download_filename": "surveytomato-0.0.1.tar.gz",
-  "download_time": "2025-10-18T16:50:43.463379",
+  "download_filename": "surveytomato-0.1.2.tar.gz",
+  "download_time": "2025-10-18T19:50:16.662881",
   "package_url": "https://pypi.org/project/surveytomato/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "StudentScore",
+  "version": "0.5.0",
+  "summary": "Computing score of a given student assignment",
+  "author": "Yves Chevallier",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "studentscore-0.5.0.tar.gz",
+  "download_time": "2025-10-18T19:50:11.243081",
+  "package_url": "https://pypi.org/project/StudentScore/"
+}

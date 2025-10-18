@@ -1,0 +1,11 @@
+{
+  "name": "sonicslicer",
+  "version": "1.0.0",
+  "summary": "CLI toolkit for converting text to audio.",
+  "author": "wambua",
+  "license": "GNU v3",
+  "home_page": "https://pypi.org/project/slicer/",
+  "download_filename": "sonicslicer-1.0.0.tar.gz",
+  "download_time": "2025-10-18T19:50:18.736078",
+  "package_url": "https://pypi.org/project/sonicslicer/"
+}

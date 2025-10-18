@@ -1,16 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T19:37:14.678658
-- **Total Packages**: 86
-- **Total Size**: 2.3 MB
+- **Download Time**: 2025-10-18T19:50:55.298713
+- **Total Packages**: 82
+- **Total Size**: 2.29 MB
 
 ## Packages List
+- StudentScore
+- fullmetalalchemy
+- linkminer
+- ry-pg-utils
+- image-labeling-yolo
+- dcisionai-mcp-server
+- multi-puzzle-solver
+- svc-infra
+- premai
+- relatipy
+- surveytomato
+- aiowhitebit-mcp
+- hash-directory
+- allen-dataverse-client
+- sonicslicer
+- boursobank-scraper
+- mysql-ch-replicator
 - pathao-api
 - sqlfluff
 - sqlfluff-templater-dbt
 - gitnextrelease
-- ry-pg-utils
 - glycogym
 - pypokeclient
 - tree-sitter-vie
@@ -28,7 +44,6 @@
 - junit2html
 - aiowhitebit
 - PyTorchLabFlow
-- relatipy
 - dotflow-py
 - braintrust
 - install-k2
@@ -37,7 +52,6 @@
 - saini
 - kopipasta
 - deqr
-- fullmetalalchemy
 - sweetbean
 - django-admob-ssv
 - mace-descriptor
@@ -74,21 +88,3 @@
 - winipedia-utils
 - agentle
 - lyricsipsum
-- worklet
-- ollama-chat
-- winloop
-- markdown-up
-- replink
-- xmind-mcp
-- tvdatafeed-enhanced
-- termingpt
-- chisel
-- m9s-party-carddav-client
-- odoo-plugin-manager
-- django-ragamuffin
-- m9s-dav-client
-- nominal-api-protos
-- nominal-api
-- hololinked
-- s2a-sdk
-- m9s-party-vcard
