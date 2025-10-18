@@ -1,8 +1,9 @@
 {
-  "download_time": "2025-10-18T22:51:16.122381",
-  "total_packages_downloaded": 88,
-  "total_size_mb": 22.48,
+  "download_time": "2025-10-18T23:15:10.879777",
+  "total_packages_downloaded": 87,
+  "total_size_mb": 3.49,
   "packages": [
+    "source-coop-mcp",
     "flock-core",
     "iterai",
     "experimented",
@@ -14,7 +15,6 @@
     "powerpoint-mcp",
     "psycopg-binary",
     "psycopg",
-    "source-coop-mcp",
     "tts-webui-extension.openai-tts-api",
     "odoo-addon-l10n-br-account",
     "nuralshell",
@@ -89,7 +89,6 @@
     "bitbucket-code-reviewer",
     "datachain",
     "xcomponent",
-    "topologicpy",
-    "StudentScore"
+    "topologicpy"
   ]
 }
