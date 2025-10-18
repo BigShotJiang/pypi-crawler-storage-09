@@ -1,11 +1,11 @@
 {
   "name": "dcisionai-mcp-server",
-  "version": "1.8.7",
-  "summary": "DcisionAI MCP Server for Mathematical Optimization with MathOpt Integration, Enhanced Variable Expansion, Truth Guardian Validation, and Knowledge Base Integration",
+  "version": "1.8.15",
+  "summary": "DcisionAI MCP Server - Complete FastMCP Implementation with Tools, Resources, and Prompts for Mathematical Optimization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcisionai_mcp_server-1.8.7.tar.gz",
-  "download_time": "2025-10-18T19:50:13.937323",
+  "download_filename": "dcisionai_mcp_server-1.8.15.tar.gz",
+  "download_time": "2025-10-18T20:16:21.781120",
   "package_url": "https://pypi.org/project/dcisionai-mcp-server/"
 }

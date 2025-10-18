@@ -1,11 +1,11 @@
 {
   "name": "termingpt",
-  "version": "1.0.2",
-  "summary": "AI-powered terminal assistant for code generation, security scanning, and interactive AI chat",
+  "version": "1.0.5",
+  "summary": "AI-powered terminal assistant with 5 models, production-ready code generation, and security scanning",
   "author": "TheNooB",
   "license": null,
   "home_page": "https://github.com/thenoob4/termingpt",
-  "download_filename": "termingpt-1.0.2.tar.gz",
-  "download_time": "2025-10-18T18:44:04.552855",
+  "download_filename": "termingpt-1.0.5.tar.gz",
+  "download_time": "2025-10-18T20:16:05.927808",
   "package_url": "https://pypi.org/project/termingpt/"
 }
