@@ -1,8 +1,9 @@
 {
-  "download_time": "2025-10-18T23:39:15.531223",
+  "download_time": "2025-10-18T23:51:32.086128",
   "total_packages_downloaded": 90,
-  "total_size_mb": 4.01,
+  "total_size_mb": 0.12,
   "packages": [
+    "Kadrajan",
     "yt-dlp",
     "machineconfig",
     "nv-ingest",
@@ -45,7 +46,6 @@
     "optical-ray-tracer",
     "bitbucket-code-reviewer",
     "checkcrontab",
-    "Kadrajan",
     "bountylab",
     "snakemake-jobmonitor",
     "wdlc",
