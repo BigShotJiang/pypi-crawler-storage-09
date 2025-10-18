@@ -1,11 +1,11 @@
 {
   "name": "witrnhid",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A Python API for WITRN HID devices.",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "witrnhid-0.3.0.tar.gz",
-  "download_time": "2025-10-18T10:15:18.390179",
+  "download_filename": "witrnhid-0.3.1.tar.gz",
+  "download_time": "2025-10-18T14:30:44.226630",
   "package_url": "https://pypi.org/project/witrnhid/"
 }

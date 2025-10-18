@@ -1,11 +1,11 @@
 {
   "name": "assertlang",
-  "version": "3.0.0",
+  "version": "0.0.4",
   "summary": "Executable contracts for multi-agent systems - deterministic coordination across frameworks and languages",
   "author": "AssertLang Contributors",
   "license": null,
   "home_page": "https://github.com/AssertLang/AssertLang",
-  "download_filename": "assertlang-3.0.0.tar.gz",
-  "download_time": "2025-10-17T12:51:54.761751",
+  "download_filename": "assertlang-0.0.4.tar.gz",
+  "download_time": "2025-10-18T14:30:36.499569",
   "package_url": "https://pypi.org/project/assertlang/"
 }
