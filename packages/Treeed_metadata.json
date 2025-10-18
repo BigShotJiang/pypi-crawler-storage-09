@@ -1,11 +1,11 @@
 {
   "name": "Treeed",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Библиотека для создания и отображения 3D объектов с помощью PyOpenGL и Pygame",
   "author": "Umar",
   "license": null,
   "home_page": null,
-  "download_filename": "treeed-0.3.0.tar.gz",
-  "download_time": "2025-10-18T11:36:51.981784",
+  "download_filename": "treeed-0.3.1.tar.gz",
+  "download_time": "2025-10-18T11:50:18.226786",
   "package_url": "https://pypi.org/project/Treeed/"
 }

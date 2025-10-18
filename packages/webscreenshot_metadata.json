@@ -1,0 +1,11 @@
+{
+  "name": "webscreenshot",
+  "version": "2.95",
+  "summary": "A simple script to screenshot a list of websites",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "webscreenshot-2.95.tar.gz",
+  "download_time": "2025-10-18T11:50:10.705210",
+  "package_url": "https://pypi.org/project/webscreenshot/"
+}

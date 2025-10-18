@@ -1,0 +1,11 @@
+{
+  "name": "supercrypt",
+  "version": "2.0.0",
+  "summary": "Ultra-secure custom mathematical encryption library with file encryption support",
+  "author": "ATHALLAH RAJENDRA PUTRA JUNIARTO",
+  "license": null,
+  "home_page": null,
+  "download_filename": "supercrypt-2.0.0.tar.gz",
+  "download_time": "2025-10-18T11:50:08.600130",
+  "package_url": "https://pypi.org/project/supercrypt/"
+}

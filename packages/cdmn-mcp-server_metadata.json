@@ -1,11 +1,11 @@
 {
   "name": "cdmn-mcp-server",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "하이브리드 DMN MCP 서버 - cDMN API와 표준 XML 파싱을 모두 지원하는 FastMCP 기반 의사결정 서버",
   "author": "rickjang",
   "license": "MIT",
   "home_page": "https://github.com/rickjang/cdmn-mcp-server",
-  "download_filename": "cdmn_mcp_server-2.0.0.tar.gz",
-  "download_time": "2025-10-18T10:33:52.409638",
+  "download_filename": "cdmn_mcp_server-2.0.1.tar.gz",
+  "download_time": "2025-10-18T11:50:15.390114",
   "package_url": "https://pypi.org/project/cdmn-mcp-server/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ddd-cli",
-  "version": "1.9.1",
+  "version": "1.9.3",
   "summary": "CLI for adding DDD support to Python/Django projects",
   "author": "Ragnar Bermúdez La O",
   "license": null,
   "home_page": null,
-  "download_filename": "ddd_cli-1.9.1.tar.gz",
-  "download_time": "2025-10-18T11:25:28.625684",
+  "download_filename": "ddd_cli-1.9.3.tar.gz",
+  "download_time": "2025-10-18T11:50:12.239236",
   "package_url": "https://pypi.org/project/ddd-cli/"
 }
