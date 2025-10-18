@@ -1,11 +1,11 @@
 {
   "name": "quantjourney",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "QuantJourney SDK",
   "author": "QuantJourney",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "quantjourney-1.0.3.tar.gz",
-  "download_time": "2025-10-18T15:14:27.127273",
+  "download_filename": "quantjourney-1.0.4.tar.gz",
+  "download_time": "2025-10-18T21:27:18.200450",
   "package_url": "https://pypi.org/project/quantjourney/"
 }

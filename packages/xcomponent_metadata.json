@@ -1,11 +1,11 @@
 {
   "name": "xcomponent",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "An embeded component base template engine - inspired by JSX",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xcomponent-0.8.2.tar.gz",
-  "download_time": "2025-10-18T15:14:17.986565",
+  "download_filename": "xcomponent-0.8.3-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2025-10-18T21:27:13.217943",
   "package_url": "https://pypi.org/project/xcomponent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aio-ld2410",
+  "version": "1.0.2",
+  "summary": "Asynchonous library for the HiLink LD2410 presence detector module",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aio_ld2410-1.0.2.tar.gz",
+  "download_time": "2025-10-18T21:27:20.876150",
+  "package_url": "https://pypi.org/project/aio-ld2410/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "contact-energy-nz",
+  "version": "0.1.18621115660",
+  "summary": "API Connector to fetch usage data from Contact Energy NZ utilities provider",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contact_energy_nz-0.1.18621115660.tar.gz",
+  "download_time": "2025-10-18T21:27:18.735076",
+  "package_url": "https://pypi.org/project/contact-energy-nz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "whitespace-format",
+  "version": "0.0.9",
+  "summary": "Linter and formatter for source code files and text files",
+  "author": "David Pal",
+  "license": "MIT",
+  "home_page": "https://github.com/DavidPal/whitespace-format",
+  "download_filename": "whitespace_format-0.0.9.tar.gz",
+  "download_time": "2025-10-18T21:27:19.803052",
+  "package_url": "https://pypi.org/project/whitespace-format/"
+}
