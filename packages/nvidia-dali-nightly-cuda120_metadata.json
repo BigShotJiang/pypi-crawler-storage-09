@@ -1,11 +1,11 @@
 {
   "name": "nvidia-dali-nightly-cuda120",
-  "version": "1.53.0.dev20251016",
-  "summary": "NVIDIA DALI nightly  for CUDA 12.0. Git SHA: e5d5c9a7de5c827a09c744a0267618e27a5b284d",
+  "version": "1.53.0.dev20251017",
+  "summary": "NVIDIA DALI nightly  for CUDA 12.0. Git SHA: e2db4d795524dd2274dec9fbe479d2e8e50c6f23",
   "author": "NVIDIA Corporation",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/NVIDIA/dali",
-  "download_filename": "nvidia_dali_nightly_cuda120-1.53.0.dev20251016.tar.gz",
-  "download_time": "2025-10-16T18:54:13.651532",
+  "download_filename": "nvidia_dali_nightly_cuda120-1.53.0.dev20251017.tar.gz",
+  "download_time": "2025-10-18T17:28:04.092481",
   "package_url": "https://pypi.org/project/nvidia-dali-nightly-cuda120/"
 }

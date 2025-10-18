@@ -1,0 +1,11 @@
+{
+  "name": "autofaiss-community",
+  "version": "2.17.0",
+  "summary": "# AutoFaiss Community",
+  "author": "Criteo",
+  "license": null,
+  "home_page": "https://github.com/satishlokkoju/autofaiss",
+  "download_filename": "autofaiss_community-2.17.0.tar.gz",
+  "download_time": "2025-10-18T17:28:10.346429",
+  "package_url": "https://pypi.org/project/autofaiss-community/"
+}

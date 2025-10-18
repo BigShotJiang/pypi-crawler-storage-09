@@ -1,0 +1,11 @@
+{
+  "name": "trove-setup",
+  "version": "1.2.0",
+  "summary": "Simple TUI for setting up trove classifiers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trove_setup-1.2.0.tar.gz",
+  "download_time": "2025-10-18T17:28:08.299197",
+  "package_url": "https://pypi.org/project/trove-setup/"
+}

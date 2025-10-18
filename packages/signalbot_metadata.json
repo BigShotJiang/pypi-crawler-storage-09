@@ -1,0 +1,11 @@
+{
+  "name": "signalbot",
+  "version": "0.20.0",
+  "summary": "Framework to create your own Signal bots",
+  "author": "René Filip",
+  "license": "MIT",
+  "home_page": "https://github.com/filipre/signalbot",
+  "download_filename": "signalbot-0.20.0.tar.gz",
+  "download_time": "2025-10-18T17:28:05.134279",
+  "package_url": "https://pypi.org/project/signalbot/"
+}

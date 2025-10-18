@@ -1,0 +1,11 @@
+{
+  "name": "pycosec",
+  "version": "0.1.0",
+  "summary": "Matrix COSEC biometric Python integration library",
+  "author": "Sreethul Krishna",
+  "license": "LGPL 3.0",
+  "home_page": "https://github.com/KSreethul/pycosec",
+  "download_filename": "pycosec-0.1.0.tar.gz",
+  "download_time": "2025-10-18T17:28:03.575406",
+  "package_url": "https://pypi.org/project/pycosec/"
+}
