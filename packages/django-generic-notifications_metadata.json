@@ -1,0 +1,11 @@
+{
+  "name": "django-generic-notifications",
+  "version": "2.1.0",
+  "summary": "A flexible, multi-channel notification system for Django applications with built-in support for email digests, user preferences, and extensible delivery channels.",
+  "author": "Kevin Renskers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_generic_notifications-2.1.0.tar.gz",
+  "download_time": "2025-10-18T13:50:18.469761",
+  "package_url": "https://pypi.org/project/django-generic-notifications/"
+}

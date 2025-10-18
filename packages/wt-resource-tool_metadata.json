@@ -1,11 +1,11 @@
 {
   "name": "wt-resource-tool",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wt_resource_tool-0.4.1.tar.gz",
-  "download_time": "2025-10-18T13:27:38.257066",
+  "download_filename": "wt_resource_tool-0.4.2.tar.gz",
+  "download_time": "2025-10-18T13:50:10.922012",
   "package_url": "https://pypi.org/project/wt-resource-tool/"
 }
