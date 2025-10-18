@@ -1,11 +1,11 @@
 {
   "name": "apppy-logger",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Python logger extensions for server development",
   "author": "Tim Kral",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apppy_logger-0.3.2.tar.gz",
-  "download_time": "2025-10-18T15:50:30.774604",
+  "download_filename": "apppy_logger-0.3.3.tar.gz",
+  "download_time": "2025-10-18T16:18:08.259897",
   "package_url": "https://pypi.org/project/apppy-logger/"
 }

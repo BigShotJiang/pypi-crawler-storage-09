@@ -1,0 +1,11 @@
+{
+  "name": "code-workspace-sync",
+  "version": "0.1.1",
+  "summary": "synchronize a VS Code workspace with directories in a source repositories folder",
+  "author": "W. J. Meijer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "code_workspace_sync-0.1.1.tar.gz",
+  "download_time": "2025-10-18T16:17:43.200412",
+  "package_url": "https://pypi.org/project/code-workspace-sync/"
+}

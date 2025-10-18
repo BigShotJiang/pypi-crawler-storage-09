@@ -1,11 +1,11 @@
 {
   "name": "apppy-app",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Application definitions and infrastructure for server development",
   "author": "Tim Kral",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apppy_app-0.3.2.tar.gz",
-  "download_time": "2025-10-18T15:50:34.875443",
+  "download_filename": "apppy_app-0.3.3.tar.gz",
+  "download_time": "2025-10-18T16:18:12.793103",
   "package_url": "https://pypi.org/project/apppy-app/"
 }

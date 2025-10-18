@@ -1,0 +1,11 @@
+{
+  "name": "dhk.csv2xlsx",
+  "version": "2.0.0",
+  "summary": "Read a CSV file and write an XLSX file with optional formatting.",
+  "author": "David Harris Kiesel",
+  "license": "MIT",
+  "home_page": "https://github.com/DavidKiesel/python-csv2xlsx",
+  "download_filename": "dhk_csv2xlsx-2.0.0.tar.gz",
+  "download_time": "2025-10-18T16:17:46.103859",
+  "package_url": "https://pypi.org/project/dhk.csv2xlsx/"
+}

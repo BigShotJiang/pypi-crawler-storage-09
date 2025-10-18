@@ -1,17 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T15:50:56.735393
-- **Total Packages**: 82
-- **Total Size**: 15.29 MB
+- **Download Time**: 2025-10-18T16:18:25.941305
+- **Total Packages**: 83
+- **Total Size**: 3.23 MB
 
 ## Packages List
+- emtest
+- g2p-phonemizer
+- kivy-garden.ebs.core
+- sisyphus-ai
+- py-ullr
+- stegawave
+- code-workspace-sync
+- ebs-linuxnode-gui-kivy-core
+- fleet-client
+- flacopyus
+- dreamer4
+- dhk.csv2xlsx
+- cutbynoise
+- testprofiler
+- healthdatalayer
+- davidkhala.tencent.map
+- detroit
+- restack_ai
+- mkdocs-changelog-feed-plugin
+- chutes
+- aider-ce
+- animageo
 - datus-agent
-- talkingdata
 - wirl-pregel-runner
 - wirl-lang
-- archer-api-client
-- chutes
 - tovextravaganza
 - xtdamo
 - pyajazz
@@ -36,7 +55,6 @@
 - neurodatahub-cli
 - abstract-ocr
 - heaserver-accounts
-- dreamer4
 - pr-prompt
 - private-assistant-commons
 - apppy-logger
@@ -71,20 +89,3 @@
 - cs2pattern
 - flame-acid
 - tng-python
-- torram
-- heaserver-organizations
-- alethic-ism-db
-- owocr
-- pyprismo
-- vcspull
-- crackenpy
-- udapi
-- uk_bin_collection
-- rhythmic_segments
-- heaserver
-- bluer-ugv
-- mcp-server-excel-sql
-- jupyterlab-ariakedark-theme
-- moai-adk
-- streetview-dl
-- cyberdrop-dl-patched

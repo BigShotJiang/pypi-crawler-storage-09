@@ -1,0 +1,11 @@
+{
+  "name": "sisyphus-ai",
+  "version": "0.1.1",
+  "summary": "Natural Language Compiler - Multi-agent orchestration system that turns your words into production-ready code",
+  "author": null,
+  "license": "Sustainable Use License 1.0",
+  "home_page": null,
+  "download_filename": "sisyphus_ai-0.1.1.tar.gz",
+  "download_time": "2025-10-18T16:17:41.499986",
+  "package_url": "https://pypi.org/project/sisyphus-ai/"
+}

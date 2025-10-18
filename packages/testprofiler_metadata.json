@@ -1,11 +1,11 @@
 {
   "name": "testprofiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Lightweight testing utility for Python functions with profiling and logging.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "testprofiler-1.0.0.tar.gz",
-  "download_time": "2025-10-18T14:41:33.974858",
+  "download_filename": "testprofiler-1.0.1.tar.gz",
+  "download_time": "2025-10-18T16:17:47.243781",
   "package_url": "https://pypi.org/project/testprofiler/"
 }
