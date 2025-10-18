@@ -1,11 +1,11 @@
 {
   "name": "abstract-ocr",
-  "version": "0.0.1.13",
+  "version": "0.0.1.16",
   "summary": "abstract_ocr",
   "author": "putkoff",
   "license": null,
   "home_page": null,
-  "download_filename": "abstract_ocr-0.0.1.13.tar.gz",
-  "download_time": "2025-10-18T15:29:16.694699",
+  "download_filename": "abstract_ocr-0.0.1.16.tar.gz",
+  "download_time": "2025-10-18T15:50:28.217315",
   "package_url": "https://pypi.org/project/abstract-ocr/"
 }

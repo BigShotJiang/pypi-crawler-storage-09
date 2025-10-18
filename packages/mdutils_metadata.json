@@ -1,0 +1,11 @@
+{
+  "name": "mdutils",
+  "version": "1.8.1",
+  "summary": "Useful package for creating Markdown files while executing python code.",
+  "author": "Didac Coll",
+  "license": "MIT",
+  "home_page": "https://github.com/didix21/mdutils",
+  "download_filename": "mdutils-1.8.1.tar.gz",
+  "download_time": "2025-10-18T15:50:36.415010",
+  "package_url": "https://pypi.org/project/mdutils/"
+}

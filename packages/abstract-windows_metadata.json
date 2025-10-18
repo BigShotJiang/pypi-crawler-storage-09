@@ -1,11 +1,11 @@
 {
   "name": "abstract-windows",
-  "version": "0.0.19",
+  "version": "0.0.21",
   "summary": null,
   "author": "putkoff",
   "license": null,
   "home_page": "https://github.com/AbstractEndeavors/abstract_windows",
-  "download_filename": "abstract_windows-0.0.19.tar.gz",
-  "download_time": "2025-10-18T04:40:38.411378",
+  "download_filename": "abstract_windows-0.0.21.tar.gz",
+  "download_time": "2025-10-18T15:50:31.285548",
   "package_url": "https://pypi.org/project/abstract-windows/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tovextravaganza",
-  "version": "1.1.2",
+  "version": "1.2.1",
   "summary": "Python toolkit for solving the Tolman-Oppenheimer-Volkoff (TOV) equations and exploring neutron star properties",
   "author": "Hosein Gholami",
   "license": "MIT",
   "home_page": "https://github.com/PsiPhiDelta/TOVExtravaganza",
-  "download_filename": "tovextravaganza-1.1.2.tar.gz",
-  "download_time": "2025-10-18T14:13:05.936018",
+  "download_filename": "tovextravaganza-1.2.1.tar.gz",
+  "download_time": "2025-10-18T15:50:16.807868",
   "package_url": "https://pypi.org/project/tovextravaganza/"
 }

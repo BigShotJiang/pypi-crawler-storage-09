@@ -1,0 +1,11 @@
+{
+  "name": "archer-api-client",
+  "version": "1.0.0",
+  "summary": "A comprehensive Python library for Archer IRM API integration",
+  "author": "Takeshi Cho",
+  "license": null,
+  "home_page": "https://github.com/yourusername/archer-api-client",
+  "download_filename": "archer_api_client-1.0.0.tar.gz",
+  "download_time": "2025-10-18T15:50:15.784861",
+  "package_url": "https://pypi.org/project/archer-api-client/"
+}

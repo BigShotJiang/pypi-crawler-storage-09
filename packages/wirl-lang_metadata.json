@@ -1,0 +1,11 @@
+{
+  "name": "wirl-lang",
+  "version": "0.1.0",
+  "summary": "WIRL workflow DSL grammar and parser",
+  "author": "Artem Goncharov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wirl_lang-0.1.0.tar.gz",
+  "download_time": "2025-10-18T15:50:15.273214",
+  "package_url": "https://pypi.org/project/wirl-lang/"
+}

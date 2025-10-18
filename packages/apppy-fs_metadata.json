@@ -1,11 +1,11 @@
 {
   "name": "apppy-fs",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Python filesystem definitions for server development",
   "author": "Tim Kral",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apppy_fs-0.3.1.tar.gz",
-  "download_time": "2025-10-18T08:20:23.038651",
+  "download_filename": "apppy_fs-0.3.2.tar.gz",
+  "download_time": "2025-10-18T15:50:33.332463",
   "package_url": "https://pypi.org/project/apppy-fs/"
 }
