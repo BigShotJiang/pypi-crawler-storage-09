@@ -1,11 +1,11 @@
 {
   "name": "dcisionai-mcp-server",
-  "version": "1.8.15",
+  "version": "1.8.18",
   "summary": "DcisionAI MCP Server - Complete FastMCP Implementation with Tools, Resources, and Prompts for Mathematical Optimization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcisionai_mcp_server-1.8.15.tar.gz",
-  "download_time": "2025-10-18T20:16:21.781120",
+  "download_filename": "dcisionai_mcp_server-1.8.18-py3-none-any.whl",
+  "download_time": "2025-10-18T20:32:12.226876",
   "package_url": "https://pypi.org/project/dcisionai-mcp-server/"
 }

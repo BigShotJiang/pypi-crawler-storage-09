@@ -1,0 +1,11 @@
+{
+  "name": "Baku",
+  "version": "1.2.0",
+  "summary": "Simple, Markdown-based blogging engine",
+  "author": "Vlad Riscutia",
+  "license": "MIT",
+  "home_page": "http://github.com/vladris/baku/",
+  "download_filename": "baku-1.2.0.tar.gz",
+  "download_time": "2025-10-18T20:32:17.871157",
+  "package_url": "https://pypi.org/project/Baku/"
+}

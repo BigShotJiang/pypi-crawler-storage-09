@@ -1,0 +1,11 @@
+{
+  "name": "TM1py",
+  "version": "2.2",
+  "summary": "A python module for TM1.",
+  "author": "Marius Wirtz",
+  "license": "MIT",
+  "home_page": "https://github.com/cubewise-code/tm1py",
+  "download_filename": "tm1py-2.2.tar.gz",
+  "download_time": "2025-10-18T20:32:33.888588",
+  "package_url": "https://pypi.org/project/TM1py/"
+}

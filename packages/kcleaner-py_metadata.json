@@ -1,0 +1,11 @@
+{
+  "name": "kcleaner-py",
+  "version": "0.2.1",
+  "summary": "Secure CLI tool to identify and delete KATE backup files (*.~ and .*~) with user confirmation.",
+  "author": "Skye",
+  "license": "GNU v3",
+  "home_page": "https://github.com/skye-cyber/kcleaner",
+  "download_filename": "kcleaner_py-0.2.1.tar.gz",
+  "download_time": "2025-10-18T20:32:37.086023",
+  "package_url": "https://pypi.org/project/kcleaner-py/"
+}

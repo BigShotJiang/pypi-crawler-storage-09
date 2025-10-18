@@ -1,0 +1,11 @@
+{
+  "name": "nanogpt-sdk",
+  "version": "0.1.1",
+  "summary": "Python client for the NanoGPT API",
+  "author": "Kalen McMillan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nanogpt_sdk-0.1.1.tar.gz",
+  "download_time": "2025-10-18T20:32:13.436891",
+  "package_url": "https://pypi.org/project/nanogpt-sdk/"
+}

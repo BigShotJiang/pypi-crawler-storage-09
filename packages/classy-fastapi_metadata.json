@@ -1,0 +1,11 @@
+{
+  "name": "classy-fastapi",
+  "version": "0.7.0",
+  "summary": "Class based routing for FastAPI",
+  "author": "Oliver Dain",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/companionlabs-opensource/classy-fastapi",
+  "download_filename": "classy_fastapi-0.7.0.tar.gz",
+  "download_time": "2025-10-18T20:32:13.994124",
+  "package_url": "https://pypi.org/project/classy-fastapi/"
+}
