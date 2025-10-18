@@ -1,11 +1,11 @@
 {
   "name": "CDMClient",
-  "version": "0.3.2",
+  "version": "1.0.0",
   "summary": "CDMClient",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cdmclient-0.3.2.tar.gz",
-  "download_time": "2025-10-18T14:30:35.981134",
+  "download_filename": "cdmclient-1.0.0.tar.gz",
+  "download_time": "2025-10-18T21:36:54.332435",
   "package_url": "https://pypi.org/project/CDMClient/"
 }

@@ -1,8 +1,17 @@
 {
-  "download_time": "2025-10-18T21:27:56.504462",
-  "total_packages_downloaded": 82,
-  "total_size_mb": 6.97,
+  "download_time": "2025-10-18T21:37:37.350361",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 15.13,
   "packages": [
+    "CDMClient",
+    "hash-directory",
+    "uv",
+    "uv-build",
+    "carconnectivity-connector-audi",
+    "svc-infra",
+    "pydemy",
+    "bitbucket-code-reviewer",
+    "datachain",
     "xcomponent",
     "topologicpy",
     "StudentScore",
@@ -23,7 +32,6 @@
     "func-to-web",
     "ry-pg-utils",
     "clgenomics",
-    "svc-infra",
     "pdf-watermark",
     "unidata-blocks",
     "tuxtoaster",
@@ -61,7 +69,6 @@
     "greener-servermock",
     "greener-reporter",
     "wauxio",
-    "hash-directory",
     "PyTorchLabFlow",
     "abstract-ocr",
     "pelican-hep",
@@ -76,14 +83,6 @@
     "strawberry-graphql",
     "dcisionai-mcp-server",
     "nanogpt-sdk",
-    "classy-fastapi",
-    "hostedpi",
-    "claude-mpm",
-    "unrealircd-rpc-py",
-    "square-file-store",
-    "solarmoonpy",
-    "Baku",
-    "bitfinex-api-py",
-    "crisp-t"
+    "classy-fastapi"
   ]
 }
