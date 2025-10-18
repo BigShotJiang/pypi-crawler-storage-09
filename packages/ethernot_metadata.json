@@ -1,0 +1,11 @@
+{
+  "name": "ethernot",
+  "version": "0.1.8",
+  "summary": "Simple, anyonymous chat app where messages are never saved to a disk. Ever.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ethernot-0.1.8.tar.gz",
+  "download_time": "2025-10-18T03:18:58.910995",
+  "package_url": "https://pypi.org/project/ethernot/"
+}

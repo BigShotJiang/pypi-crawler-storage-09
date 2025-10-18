@@ -1,0 +1,11 @@
+{
+  "name": "amplify",
+  "version": "1.4.1",
+  "summary": "Amplify SDK for Quantum Annealing and Ising Machines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amplify-1.4.1-cp310-cp310-macosx_12_0_arm64.whl",
+  "download_time": "2025-10-18T03:18:54.388756",
+  "package_url": "https://pypi.org/project/amplify/"
+}
