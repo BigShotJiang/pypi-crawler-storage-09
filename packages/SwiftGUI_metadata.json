@@ -1,0 +1,11 @@
+{
+  "name": "SwiftGUI",
+  "version": "0.10.3",
+  "summary": "An easy-to-use package for creating functional GUIs very quickly",
+  "author": "Eric aka LeButch",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/CheesecakeTV/SwiftGUI",
+  "download_filename": "swiftgui-0.10.3.tar.gz",
+  "download_time": "2025-10-18T10:50:21.795727",
+  "package_url": "https://pypi.org/project/SwiftGUI/"
+}

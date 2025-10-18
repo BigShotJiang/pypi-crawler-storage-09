@@ -1,11 +1,11 @@
 {
   "name": "lift-timeseries-cleaner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A small library to preprocess diary/transaction data for time series models.",
-  "author": "John Kamau",
+  "author": null,
   "license": null,
-  "home_page": "https://example.com/timeseries-cleaner",
-  "download_filename": "lift_timeseries_cleaner-0.1.0.tar.gz",
-  "download_time": "2025-10-18T10:15:01.991530",
+  "home_page": null,
+  "download_filename": "lift_timeseries_cleaner-0.1.1.tar.gz",
+  "download_time": "2025-10-18T10:50:09.109504",
   "package_url": "https://pypi.org/project/lift-timeseries-cleaner/"
 }
