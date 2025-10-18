@@ -1,12 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T09:30:40.529526
-- **Total Packages**: 84
-- **Total Size**: 2.13 MB
+- **Download Time**: 2025-10-18T09:40:56.294182
+- **Total Packages**: 82
+- **Total Size**: 1.64 MB
 
 ## Packages List
+- omniopt2
+- odoo-addon-sale-delivery-state
 - simple-ytdownloader
+- facture-electronique
+- tuxtoaster
+- tint-zaqar
+- eigen-robotics
+- NeuraPython
+- odoo-addon-l10n-es-aeat-sii-oca
+- nomenklatura-mpt
+- selenium-yaml
+- vnpy_polygon
+- pycanarytoken
+- whl-logmap
+- deepdoctection
+- mcpcn-office-powerpoint-mcp-server
+- mdbq
 - RetrievalMind
 - bjtube
 - vibecore
@@ -18,8 +34,6 @@
 - parsesafe
 - enumgen
 - comfykit
-- pycanarytoken
-- omniopt2
 - phidown
 - HexSS
 - vega-framework
@@ -30,16 +44,13 @@
 - domcontext
 - reqman
 - vishwa-fastapi-utils
-- eigen-robotics
 - omniregress
 - Functions-d
 - backtracking-llm
 - xmind-mcp
 - cockup
 - python-xz
-- NeuraPython
 - sportdata
-- odoo-addon-l10n-es-aeat-sii-oca
 - django-blog-package
 - sync-pre-commit-lock
 - vector-dataloader
@@ -48,7 +59,6 @@
 - scdata
 - xiangxinai
 - autogluon.common
-- nomenklatura-mpt
 - param-management-client
 - treerequests
 - playwright-traceview-html
@@ -61,7 +71,6 @@
 - reykit
 - reyfetch
 - fipiranfunds
-- mdbq
 - concurry
 - hello-py-zaqar
 - claude-multi-worker
@@ -79,14 +88,3 @@
 - instaui-tdesign
 - ut-pac
 - tfp-nightly
-- fairyfishnet
-- nvfuser-cu126
-- nvfuser-cu128
-- ucon
-- mignonFramework
-- agviz
-- xplt
-- feldera
-- multi-puzzle-solver
-- dost-cat
-- abagentsdk

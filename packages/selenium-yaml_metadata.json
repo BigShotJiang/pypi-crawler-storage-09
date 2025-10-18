@@ -1,0 +1,11 @@
+{
+  "name": "selenium-yaml",
+  "version": "1.0.98",
+  "summary": "Selenium bots using YAML",
+  "author": "Abhishek Verma",
+  "license": null,
+  "home_page": "https://github.com/wigeria/selenium-yaml-core",
+  "download_filename": "selenium_yaml-1.0.98.tar.gz",
+  "download_time": "2025-10-18T09:40:18.576068",
+  "package_url": "https://pypi.org/project/selenium-yaml/"
+}
