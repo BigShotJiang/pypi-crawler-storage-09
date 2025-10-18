@@ -1,11 +1,11 @@
 {
   "name": "GreenPoster",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A Python library for text rendering on images with green-based compositing.",
   "author": "Codedash",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "greenposter-0.1.4.tar.gz",
-  "download_time": "2025-10-18T10:15:06.262241",
+  "download_filename": "greenposter-0.1.5.tar.gz",
+  "download_time": "2025-10-18T11:25:38.942326",
   "package_url": "https://pypi.org/project/GreenPoster/"
 }

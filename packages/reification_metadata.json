@@ -1,0 +1,11 @@
+{
+  "name": "reification",
+  "version": "1.0.12",
+  "summary": "Reified generics in Python to get type parameters at runtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reification-1.0.12.tar.gz",
+  "download_time": "2025-10-18T11:25:35.827747",
+  "package_url": "https://pypi.org/project/reification/"
+}

@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T11:13:03.473831
-- **Total Packages**: 78
-- **Total Size**: 11.57 MB
+- **Download Time**: 2025-10-18T11:26:03.084031
+- **Total Packages**: 72
+- **Total Size**: 3.51 MB
 
 ## Packages List
+- reykit
+- modusa
+- torchft-nightly
+- saigon-py
+- htmx-components
+- ut-pac
+- ddd-cli
+- dsites
+- xmind-mcp
+- fhws
+- freeds-lab-jaffle-kafe
+- test-pypi-vmcp
+- pyfabricops
+- mcp-server-excel-sql
+- jmcfunction
+- odoo-addon-spreadsheet-dashboard-oca
+- odoo-addon-spreadsheet-oca
+- ssl-sentinel
+- shareddata
+- eykturkish
+- reification
+- omniopt2
+- wisort
+- sdml-kafka-client
+- apdtflow
+- akshare
+- GreenPoster
+- webquiz-stress-test
+- machineconfig
 - azpython
 - vnpy_xt
 - SnakeScan
@@ -14,8 +43,6 @@
 - pipbert
 - myprintx
 - instaui-shiki
-- omniopt2
-- ssl-sentinel
 - tibber.py
 - pynxtools-spm
 - tq-utils
@@ -26,11 +53,9 @@
 - share-links
 - dublib
 - tool-scorer
-- wisort
 - hyjinx
 - pyibis-ami
 - waldiez
-- apdtflow
 - plotly-ml
 - nvd-client
 - jafkafegen
@@ -38,11 +63,9 @@
 - qcc
 - unique_toolkit
 - aigency
-- ut-pac
 - lift-timeseries-cleaner
 - pytorch_optimizer
 - konduktor-nightly
-- shareddata
 - geocompy
 - trainy-policy-nightly
 - letta-nightly
@@ -55,32 +78,3 @@
 - SwiftGUI
 - logab
 - cicore
-- halftone-converter
-- cdmn-mcp-server
-- mapillary-downloader
-- strava-activity-mcp-server
-- reykit
-- reydb
-- nonebot-plugin-ai-turtle-soup
-- x-spaces-dl
-- husqvarna-automower-ble
-- ytfetcher
-- GreenPoster
-- tf-keras-nightly
-- tint-zaqar
-- webscout
-- odoo-addon-l10n-es-aeat-sii-oca
-- grafi-dev
-- quash-mcp
-- critical-es-value
-- deepmcpagent
-- ai-edge-torch-nightly
-- pyslope
-- fificore
-- mcli-framework
-- pypcapkit
-- pylizlib
-- flowlens-mcp-server
-- anticaptchaofficial
-- NeuraPython
-- mzpy
