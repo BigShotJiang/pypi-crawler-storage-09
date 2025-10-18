@@ -1,0 +1,11 @@
+{
+  "name": "django-fullname-localization",
+  "version": "0.2.2",
+  "summary": "Add localization support for user's fullname.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_fullname_localization-0.2.2.tar.gz",
+  "download_time": "2025-10-18T13:00:48.464804",
+  "package_url": "https://pypi.org/project/django-fullname-localization/"
+}

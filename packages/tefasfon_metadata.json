@@ -1,0 +1,11 @@
+{
+  "name": "tefasfon",
+  "version": "0.4.0",
+  "summary": "Fetches fund data from the TEFAS website.",
+  "author": "Uraz Akgül",
+  "license": "MIT",
+  "home_page": "https://github.com/urazakgul/tefasfon",
+  "download_filename": "tefasfon-0.4.0.tar.gz",
+  "download_time": "2025-10-18T13:00:45.012470",
+  "package_url": "https://pypi.org/project/tefasfon/"
+}

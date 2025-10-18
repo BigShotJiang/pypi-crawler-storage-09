@@ -1,0 +1,11 @@
+{
+  "name": "rodrigo0000-fastapi-core-config",
+  "version": "1.0.0",
+  "summary": "Configuration, security, and repository utilities for FastAPI",
+  "author": "Rodrigo Diaz Munoz",
+  "license": null,
+  "home_page": "https://github.com/Rodrigo0000ESP/ComponentsFactory",
+  "download_filename": "rodrigo0000_fastapi_core_config-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-18T13:00:25.439704",
+  "package_url": "https://pypi.org/project/rodrigo0000-fastapi-core-config/"
+}

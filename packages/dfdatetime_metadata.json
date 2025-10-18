@@ -1,0 +1,11 @@
+{
+  "name": "dfdatetime",
+  "version": "20251018",
+  "summary": "Digital Forensics date and time (dfDateTime).",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/log2timeline/dfdatetime",
+  "download_filename": "dfdatetime-20251018.tar.gz",
+  "download_time": "2025-10-18T13:00:39.235061",
+  "package_url": "https://pypi.org/project/dfdatetime/"
+}

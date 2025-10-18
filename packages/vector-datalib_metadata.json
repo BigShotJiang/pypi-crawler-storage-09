@@ -1,11 +1,11 @@
 {
   "name": "vector-datalib",
-  "version": "1.0.1b0",
+  "version": "1.1.0b0",
   "summary": "VECTOR: N-dimensional coordinate database with O(1) lookups",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vector_datalib-1.0.1b0.tar.gz",
-  "download_time": "2025-10-17T23:28:25.215319",
+  "download_filename": "vector_datalib-1.1.0b0.tar.gz",
+  "download_time": "2025-10-18T13:00:55.508930",
   "package_url": "https://pypi.org/project/vector-datalib/"
 }

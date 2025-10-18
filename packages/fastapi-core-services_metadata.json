@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-core-services",
+  "version": "1.0.0",
+  "summary": "Service layer for FastAPI with Email, Stripe, and Plan management",
+  "author": "Rodrigo Diaz Munoz",
+  "license": null,
+  "home_page": "https://github.com/Rodrigo0000ESP/ComponentsFactory",
+  "download_filename": "fastapi_core_services-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-18T13:00:39.782977",
+  "package_url": "https://pypi.org/project/fastapi-core-services/"
+}

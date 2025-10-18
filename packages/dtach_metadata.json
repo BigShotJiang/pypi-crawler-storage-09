@@ -1,0 +1,11 @@
+{
+  "name": "dtach",
+  "version": "0.31.0",
+  "summary": "A Python tool to maintain a modular package architecture.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dtach-0.31.0.tar.gz",
+  "download_time": "2025-10-18T13:00:57.126163",
+  "package_url": "https://pypi.org/project/dtach/"
+}

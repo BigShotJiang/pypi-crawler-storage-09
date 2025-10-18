@@ -1,0 +1,11 @@
+{
+  "name": "magnetoo",
+  "version": "0.1.0",
+  "summary": "find the best magnet links for your torrents on your terminal!",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "magnetoo-0.1.0.tar.gz",
+  "download_time": "2025-10-18T13:00:28.962080",
+  "package_url": "https://pypi.org/project/magnetoo/"
+}

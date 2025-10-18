@@ -1,0 +1,11 @@
+{
+  "name": "parakeet-stream",
+  "version": "0.6.0",
+  "summary": "Simple, powerful streaming transcription for Python using NVIDIA's Parakeet TDT 0.6b",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parakeet_stream-0.6.0.tar.gz",
+  "download_time": "2025-10-18T13:00:38.686635",
+  "package_url": "https://pypi.org/project/parakeet-stream/"
+}
