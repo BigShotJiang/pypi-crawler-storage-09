@@ -1,27 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T07:28:54.360278
-- **Total Packages**: 89
-- **Total Size**: 1.52 MB
+- **Download Time**: 2025-10-18T07:38:59.241881
+- **Total Packages**: 85
+- **Total Size**: 0.98 MB
 
 ## Packages List
+- gohutool-dataflow
+- onvif-python
+- private-assistant-commons
+- mozyq
+- 1xn-vmcp
+- workflows-mcp
+- sopy-fem
+- cdmn-mcp-server
+- mcp-postgres-duwenji
 - cognitora
 - mzpy
-- cdmn-mcp-server
 - gilknocker
 - flexmetric
-- mozyq
 - comfykit
-- gohutool-dataflow
 - mdbookhtml2pdf
 - gisweb-tenants
 - easyocr-unstructured
 - xai-creditscorecard
 - sound-rs
 - onnxscript
-- 1xn-vmcp
-- PyProtectorX
 - adaptio
 - tritonparse
 - apppy-aws
@@ -87,11 +91,3 @@
 - ui-tars
 - ejd
 - graphistry
-- pysentry-rs
-- wmill-pg
-- togglr-sdk
-- wmill
-- windmill-api
-- pqcdualusb
-- labeltrain
-- drills-pro-proto
