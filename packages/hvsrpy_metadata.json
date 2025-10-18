@@ -1,0 +1,11 @@
+{
+  "name": "hvsrpy",
+  "version": "2.1.0",
+  "summary": "A Python package for horizontal-to-vertical spectral ratio processing",
+  "author": "Joseph P. Vantassel",
+  "license": null,
+  "home_page": "https://github.com/jpvantassel/hvsrpy",
+  "download_filename": "hvsrpy-2.1.0.tar.gz",
+  "download_time": "2025-10-18T22:50:39.569161",
+  "package_url": "https://pypi.org/project/hvsrpy/"
+}

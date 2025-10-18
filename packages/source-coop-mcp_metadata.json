@@ -1,0 +1,11 @@
+{
+  "name": "source-coop-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Source Cooperative auto-discovery and data exploration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "source_coop_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-18T22:50:30.910001",
+  "package_url": "https://pypi.org/project/source-coop-mcp/"
+}

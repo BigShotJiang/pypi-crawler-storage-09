@@ -1,0 +1,11 @@
+{
+  "name": "gitman",
+  "version": "3.7",
+  "summary": "A language-agnostic dependency manager using Git.",
+  "author": "Jace Browning",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/gitman",
+  "download_filename": "gitman-3.7.tar.gz",
+  "download_time": "2025-10-18T22:50:37.769343",
+  "package_url": "https://pypi.org/project/gitman/"
+}
