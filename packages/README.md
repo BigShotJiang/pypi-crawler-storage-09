@@ -1,20 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T18:20:45.154848
-- **Total Packages**: 82
-- **Total Size**: 18.1 MB
+- **Download Time**: 2025-10-18T18:44:36.713588
+- **Total Packages**: 79
+- **Total Size**: 16.52 MB
 
 ## Packages List
-- webquiz
-- xmind-mcp
-- termingpt
-- fake-focus
+- fmpapi
+- univocalx-dj
+- micktrace
+- healthdatalayer
+- sf-quant
+- semantic-lexicon
+- fppull
+- winipedia-utils
+- agentle
+- lyricsipsum
 - worklet
+- ollama-chat
+- fullmetalalchemy
+- winloop
+- markdown-up
+- replink
+- xmind-mcp
+- tvdatafeed-enhanced
+- termingpt
+- chisel
+- m9s-party-carddav-client
+- sae-lens
+- odoo-plugin-manager
+- django-ragamuffin
+- m9s-dav-client
+- nominal-api-protos
+- nominal-api
+- hololinked
+- s2a-sdk
+- m9s-party-vcard
+- fake-focus
+- PILSkinMC
+- geek-cafe-saas-sdk
+- ethpm-types
+- bare-script
+- django-admin-notice
+- simplyprint-bambu-lab
+- shopee-afflib
+- snakemake-jobmonitor
+- kerykeion
+- copra-theorem-prover
+- ididi
+- bluer-ugv
+- webquiz
 - bluer-sbc
 - ssrjson
-- odoo-plugin-manager
-- semantic-lexicon
 - chess-cv
 - tinyshift
 - dcisionai-mcp-server
@@ -25,7 +62,6 @@
 - mcp-client-for-ollama
 - links-notation
 - aiocfd1
-- shopee-afflib
 - artemis-model
 - ffmpeg-normalize
 - multiagent-core
@@ -33,9 +69,7 @@
 - langchain-sarvam
 - coverdl
 - stepup-reprep
-- geek-cafe-saas-sdk
 - reposmith-tol
-- kerykeion
 - nhisml
 - cosmograph
 - aind-registration-utils
@@ -51,40 +85,3 @@
 - pyarchinit-mini
 - pysynclient
 - torch-diffsim
-- llm-schema-lite
-- arrow
-- Treeed
-- thinagents
-- e2b
-- pyguiadapterlite
-- pytao
-- the-telegraphist
-- mkmapdiary
-- MtRemote
-- boto3-assist
-- bandai-lib
-- ha-mqtt-discoverable-cli
-- playwright-traceview-html
-- pytest-no-problem
-- haphazard
-- das
-- reykit
-- reydb
-- signalblast
-- dreamer4
-- incaricli
-- spot-planner
-- parsek
-- drills-pro-proto
-- ha-mqtt-discoverable
-- torchness
-- fullmetalalchemy
-- gplay-scraper
-- siscom
-- bitbucket-code-reviewer
-- AkhilShimnaKumar
-- blackdoc
-- reywechat
-- reyserver
-- reyfetch
-- lg-agents

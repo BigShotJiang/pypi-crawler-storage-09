@@ -1,0 +1,11 @@
+{
+  "name": "replink",
+  "version": "0.2.0",
+  "summary": "A simple CLI for piping code to a REPL running in a separate pane",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "replink-0.2.0.tar.gz",
+  "download_time": "2025-10-18T18:44:02.967405",
+  "package_url": "https://pypi.org/project/replink/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "s2a-sdk",
+  "version": "1.0.2",
+  "summary": "Official Python SDK for S2A Speech-to-Actions Platform",
+  "author": "99Technologies AI",
+  "license": null,
+  "home_page": "https://github.com/99technologies-ai/s2a-sdk-python",
+  "download_filename": "s2a_sdk-1.0.2.tar.gz",
+  "download_time": "2025-10-18T18:44:09.873091",
+  "package_url": "https://pypi.org/project/s2a-sdk/"
+}
