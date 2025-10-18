@@ -1,11 +1,11 @@
 {
   "name": "phidown",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "A project using AWS services and dataset tools for Sentinel data",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "phidown-0.1.21.tar.gz",
-  "download_time": "2025-10-18T09:30:04.080247",
+  "download_filename": "phidown-0.1.22.tar.gz",
+  "download_time": "2025-10-18T13:27:37.737823",
   "package_url": "https://pypi.org/project/phidown/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pymqi",
+  "version": "1.12.12",
+  "summary": "The development of this product is currently on hold.",
+  "author": "Zato Source s.r.o.",
+  "license": "Python Software Foundation License",
+  "home_page": "https://zato.io/pymqi",
+  "download_filename": "pymqi-1.12.12.tar.gz",
+  "download_time": "2025-10-18T13:27:49.447739",
+  "package_url": "https://pypi.org/project/pymqi/"
+}

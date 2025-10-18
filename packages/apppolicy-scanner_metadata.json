@@ -1,11 +1,11 @@
 {
   "name": "apppolicy-scanner",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Local-first scanner that maps Apple/Google policy requirements to your iOS/Android manifests.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apppolicy_scanner-1.0.2.tar.gz",
-  "download_time": "2025-10-17T18:55:20.963841",
+  "download_filename": "apppolicy_scanner-1.0.3.tar.gz",
+  "download_time": "2025-10-18T13:27:41.377223",
   "package_url": "https://pypi.org/project/apppolicy-scanner/"
 }
