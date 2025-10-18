@@ -1,11 +1,11 @@
 {
   "name": "testpulcli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A professional CLI for managing Bittensor subnet pool operations",
   "author": "Testpulcli Team",
   "license": null,
   "home_page": null,
-  "download_filename": "testpulcli-0.1.1.tar.gz",
-  "download_time": "2025-10-17T14:36:57.125760",
+  "download_filename": "testpulcli-0.1.2.tar.gz",
+  "download_time": "2025-10-18T05:32:19.819122",
   "package_url": "https://pypi.org/project/testpulcli/"
 }

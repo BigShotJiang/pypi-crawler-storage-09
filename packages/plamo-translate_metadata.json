@@ -1,0 +1,11 @@
+{
+  "name": "plamo-translate",
+  "version": "1.0.5",
+  "summary": "A command-line interface for translation using the plamo-2-translate model with local execution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plamo_translate-1.0.5-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-18T05:32:23.960460",
+  "package_url": "https://pypi.org/project/plamo-translate/"
+}
