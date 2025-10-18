@@ -1,0 +1,11 @@
+{
+  "name": "x-spaces-dl",
+  "version": "1.0.8",
+  "summary": "A powerful command-line tool and Python library for downloading Twitter/X Spaces recordings",
+  "author": "pyvrma",
+  "license": "MIT",
+  "home_page": "https://github.com/w3Abhishek/x-spaces-dl",
+  "download_filename": "x_spaces_dl-1.0.8.tar.gz",
+  "download_time": "2025-10-18T10:33:55.479584",
+  "package_url": "https://pypi.org/project/x-spaces-dl/"
+}
