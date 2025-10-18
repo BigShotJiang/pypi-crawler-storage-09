@@ -1,0 +1,11 @@
+{
+  "name": "LSTM-SAM-TL",
+  "version": "0.2.1",
+  "summary": "Bi-LSTM with custom Attention Mechanism and Tuning: Training/Test and TimeSeries CV models",
+  "author": "Samuel Daramola",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "LSTM-SAM-TL-0.2.1.tar.gz",
+  "download_time": "2025-10-18T05:14:46.604564",
+  "package_url": "https://pypi.org/project/LSTM-SAM-TL/"
+}
