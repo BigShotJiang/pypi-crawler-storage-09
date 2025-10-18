@@ -1,11 +1,11 @@
 {
   "name": "gal-gateway",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Gateway Abstraction Layer - Provider-agnostic API Gateway configuration system",
   "author": "Dietmar Burkard",
   "license": "MIT",
   "home_page": "https://github.com/pt9912/x-gal",
-  "download_filename": "gal_gateway-1.1.0.tar.gz",
-  "download_time": "2025-10-18T06:45:44.273425",
+  "download_filename": "gal_gateway-1.2.0.tar.gz",
+  "download_time": "2025-10-18T14:13:24.025643",
   "package_url": "https://pypi.org/project/gal-gateway/"
 }

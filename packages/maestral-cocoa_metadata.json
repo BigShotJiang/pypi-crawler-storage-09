@@ -1,0 +1,11 @@
+{
+  "name": "maestral-cocoa",
+  "version": "1.9.5",
+  "summary": "Open-source Dropbox client for macOS and Linux.",
+  "author": "Sam Schott",
+  "license": null,
+  "home_page": "https://maestral.app",
+  "download_filename": "maestral_cocoa-1.9.5.tar.gz",
+  "download_time": "2025-10-18T14:13:06.456854",
+  "package_url": "https://pypi.org/project/maestral-cocoa/"
+}

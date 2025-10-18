@@ -1,0 +1,11 @@
+{
+  "name": "polyfactory",
+  "version": "2.22.3",
+  "summary": "Mock data generation factories",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polyfactory-2.22.3.tar.gz",
+  "download_time": "2025-10-18T14:13:13.144601",
+  "package_url": "https://pypi.org/project/polyfactory/"
+}

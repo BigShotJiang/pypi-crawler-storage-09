@@ -1,0 +1,11 @@
+{
+  "name": "PyNormaliz",
+  "version": "2.23",
+  "summary": "An interface to Normaliz",
+  "author": "Sebastian Gutsche, Richard Sieg, Winfried Bruns",
+  "license": null,
+  "home_page": "https://github.com/Normaliz/PyNormaliz",
+  "download_filename": "pynormaliz-2.23.tar.gz",
+  "download_time": "2025-10-18T14:13:17.789183",
+  "package_url": "https://pypi.org/project/PyNormaliz/"
+}

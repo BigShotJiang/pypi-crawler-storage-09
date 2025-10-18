@@ -1,11 +1,11 @@
 {
   "name": "mcp-hmr",
-  "version": "0.0.2",
+  "version": "0.0.2.1",
   "summary": "Hot Reloading for MCP Servers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_hmr-0.0.2-py3-none-any.whl",
-  "download_time": "2025-10-18T13:27:29.022524",
+  "download_filename": "mcp_hmr-0.0.2.1-py3-none-any.whl",
+  "download_time": "2025-10-18T14:13:18.811862",
   "package_url": "https://pypi.org/project/mcp-hmr/"
 }

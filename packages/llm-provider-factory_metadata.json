@@ -1,11 +1,11 @@
 {
   "name": "llm-provider-factory",
-  "version": "0.5.9",
-  "summary": "A unified interface for multiple LLM providers with image generation support (OpenAI, Anthropic, Gemini, VertexAI, Ollama + DALL-E, Replicate)",
+  "version": "0.6.0",
+  "summary": "A unified interface for multiple LLM providers with image generation and speech-to-text support (OpenAI, Anthropic, Gemini, VertexAI, Ollama + DALL-E, Replicate, Whisper, Google Speech)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_provider_factory-0.5.9.tar.gz",
-  "download_time": "2025-10-16T10:52:38.246601",
+  "download_filename": "llm_provider_factory-0.6.0.tar.gz",
+  "download_time": "2025-10-18T14:13:20.958633",
   "package_url": "https://pypi.org/project/llm-provider-factory/"
 }

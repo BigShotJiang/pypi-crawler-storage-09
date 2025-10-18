@@ -1,0 +1,11 @@
+{
+  "name": "usso-jwt",
+  "version": "0.2.10",
+  "summary": "A simple and lightweight Python package for handling JWT (JSON Web Token) operations with USSO (Unified Single Sign-On).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "usso_jwt-0.2.10.tar.gz",
+  "download_time": "2025-10-18T14:13:08.000548",
+  "package_url": "https://pypi.org/project/usso-jwt/"
+}
