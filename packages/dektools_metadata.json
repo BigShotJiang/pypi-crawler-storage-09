@@ -1,11 +1,11 @@
 {
   "name": "dektools",
-  "version": "0.4.71",
+  "version": "0.4.72",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dektools-0.4.71-py3-none-any.whl",
-  "download_time": "2025-10-16T10:18:18.271102",
+  "download_filename": "dektools-0.4.72-py3-none-any.whl",
+  "download_time": "2025-10-18T04:17:50.148287",
   "package_url": "https://pypi.org/project/dektools/"
 }
