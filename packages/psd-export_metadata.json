@@ -1,0 +1,11 @@
+{
+  "name": "psd-export",
+  "version": "1.0.36",
+  "summary": "Fast exporting of PSDs with [tagged] layers for variants.",
+  "author": "cromachina",
+  "license": null,
+  "home_page": null,
+  "download_filename": "psd_export-1.0.36.tar.gz",
+  "download_time": "2025-10-18T23:38:32.993956",
+  "package_url": "https://pypi.org/project/psd-export/"
+}

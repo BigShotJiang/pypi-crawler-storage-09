@@ -1,9 +1,20 @@
 {
-  "download_time": "2025-10-18T23:29:04.194461",
-  "total_packages_downloaded": 88,
-  "total_size_mb": 13.33,
+  "download_time": "2025-10-18T23:39:15.531223",
+  "total_packages_downloaded": 90,
+  "total_size_mb": 4.01,
   "packages": [
+    "yt-dlp",
+    "machineconfig",
+    "nv-ingest",
+    "nv-ingest-client",
+    "nv-ingest-api",
+    "hydrusvideodeduplicator",
+    "pydust-utils",
     "uncertainAPI",
+    "psd-export",
+    "django-ragamuffin",
+    "fppull",
+    "tasks-tui-app",
     "GNServer",
     "cardy",
     "jshunter",
@@ -81,15 +92,6 @@
     "eolymp",
     "qmad",
     "hvsrpy",
-    "litellm",
-    "nearust",
-    "ypricemagic",
-    "reno-structured-output",
-    "anipy-cli",
-    "anipy-api",
-    "elinor",
-    "upcat",
-    "hash-directory",
-    "ogc-todo-cli"
+    "litellm"
   ]
 }

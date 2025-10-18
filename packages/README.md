@@ -1,12 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T23:29:04.194461
-- **Total Packages**: 88
-- **Total Size**: 13.33 MB
+- **Download Time**: 2025-10-18T23:39:15.531223
+- **Total Packages**: 90
+- **Total Size**: 4.01 MB
 
 ## Packages List
+- yt-dlp
+- machineconfig
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- hydrusvideodeduplicator
+- pydust-utils
 - uncertainAPI
+- psd-export
+- django-ragamuffin
+- fppull
+- tasks-tui-app
 - GNServer
 - cardy
 - jshunter
@@ -85,12 +96,3 @@
 - qmad
 - hvsrpy
 - litellm
-- nearust
-- ypricemagic
-- reno-structured-output
-- anipy-cli
-- anipy-api
-- elinor
-- upcat
-- hash-directory
-- ogc-todo-cli
