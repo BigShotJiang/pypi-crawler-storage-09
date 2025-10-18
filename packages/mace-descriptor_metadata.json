@@ -1,11 +1,11 @@
 {
   "name": "mace-descriptor",
-  "version": "0.9.3",
+  "version": "0.9.5",
   "summary": "Minimal fork of MACE for fast descriptor extraction from pretrained foundation models.",
   "author": "In Won Yeu",
   "license": "MIT",
   "home_page": "https://github.com/InWonYeu/mace-descriptor",
-  "download_filename": "mace_descriptor-0.9.3.tar.gz",
-  "download_time": "2025-10-18T03:53:23.183917",
+  "download_filename": "mace_descriptor-0.9.5.tar.gz",
+  "download_time": "2025-10-18T04:51:18.599655",
   "package_url": "https://pypi.org/project/mace-descriptor/"
 }
