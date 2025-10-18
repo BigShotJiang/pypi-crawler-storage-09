@@ -1,14 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T03:45:41.485970
-- **Total Packages**: 84
-- **Total Size**: 23.47 MB
+- **Download Time**: 2025-10-18T03:54:02.972852
+- **Total Packages**: 81
+- **Total Size**: 3.17 MB
 
 ## Packages List
+- know.py
+- mdbq
+- cve-report-aggregator
+- reyserver
+- tree-sitter-autolang
+- NitroExpose
+- dstklib
+- mace-descriptor
+- streetview-dl
+- pulumi-snowflake
+- mcli-framework
+- geodiff
+- lisette
+- static-frame
+- duckplus
+- describealign
+- django-googler
 - SURE-tools
 - nomenklatura-mpt
-- pulumi-snowflake
 - pulumi-newrelic
 - claude-multi-worker
 - pytest-pyodide
@@ -60,33 +76,14 @@
 - gurddy
 - assisted-service-client
 - postgres-mcp-pro-plus
-- NitroExpose
 - security-run-off
 - beads-mcp
 - ethernot
 - statsig-python-core
 - novel-downloader
-- mdbq
 - wanting
 - skyforge-mcp
 - exness-data-preprocess
 - cqc-quam-state
 - autosarimax
 - meilisearch-python-sdk
-- cmaboss
-- mcp-coaia-sequential-thinking
-- zfx
-- bountylab
-- godot-pypi-test
-- cve-report-aggregator
-- mcp-chatbot
-- sphinx-uml
-- banko-ai-assistant
-- fnschool
-- cq-stanza
-- cycl
-- DedupeCopy
-- cohesion-tools
-- omnigen-usf
-- nonebot-plugin-poker
-- plain.sessions
