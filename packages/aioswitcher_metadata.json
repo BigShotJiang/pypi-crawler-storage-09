@@ -1,0 +1,11 @@
+{
+  "name": "aioswitcher",
+  "version": "6.0.3",
+  "summary": "PyPi module integrating with various Switcher devices",
+  "author": "Tomer Figenblat",
+  "license": "Apache-2.0",
+  "home_page": "https://pypi.org/project/aioswitcher/",
+  "download_filename": "aioswitcher-6.0.3.tar.gz",
+  "download_time": "2025-10-18T02:35:11.908626",
+  "package_url": "https://pypi.org/project/aioswitcher/"
+}

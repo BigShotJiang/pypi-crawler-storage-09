@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-uml",
+  "version": "0.4.0",
+  "summary": "Build UML diagrams in the documentation.",
+  "author": "Marc-Olivier Buob",
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "sphinx_uml-0.4.0.tar.gz",
+  "download_time": "2025-10-18T02:34:28.494649",
+  "package_url": "https://pypi.org/project/sphinx-uml/"
+}

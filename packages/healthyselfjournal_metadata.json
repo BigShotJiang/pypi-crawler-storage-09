@@ -1,11 +1,11 @@
 {
   "name": "healthyselfjournal",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "Voice journaling CLI with Whisper transcription and Claude follow-ups",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "healthyselfjournal-0.2.6.tar.gz",
-  "download_time": "2025-10-18T01:07:21.686250",
+  "download_filename": "healthyselfjournal-0.2.7.tar.gz",
+  "download_time": "2025-10-18T02:35:11.382893",
   "package_url": "https://pypi.org/project/healthyselfjournal/"
 }

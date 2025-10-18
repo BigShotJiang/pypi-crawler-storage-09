@@ -1,0 +1,11 @@
+{
+  "name": "caltechdata-api",
+  "version": "1.10.6",
+  "summary": "Python wrapper for CaltechDATA API.",
+  "author": "Thomas E Morrell, Rohan Bhattarai, Elizabeth Won, Alexander A Abakah, Kshemaahna Nagi",
+  "license": "MIT",
+  "home_page": "https://github.com/caltechlibrary/caltechdata_api",
+  "download_filename": "caltechdata_api-1.10.6.tar.gz",
+  "download_time": "2025-10-18T02:34:55.193961",
+  "package_url": "https://pypi.org/project/caltechdata-api/"
+}

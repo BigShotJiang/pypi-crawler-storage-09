@@ -1,0 +1,11 @@
+{
+  "name": "cohesion-tools",
+  "version": "0.7.6",
+  "summary": "A preprocessing and evaluation tools for Japanese cohesion analysis",
+  "author": "Nobuhiro Ueda",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cohesion_tools-0.7.6.tar.gz",
+  "download_time": "2025-10-18T02:34:31.980994",
+  "package_url": "https://pypi.org/project/cohesion-tools/"
+}

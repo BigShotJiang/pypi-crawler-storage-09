@@ -1,0 +1,11 @@
+{
+  "name": "mcp-codemind",
+  "version": "2.0.3",
+  "summary": "Multi-Workspace MCP Memory Server for GitHub Copilot with automatic re-indexing",
+  "author": "MrUnreal",
+  "license": "MIT",
+  "home_page": "https://github.com/MrUnreal/codemind",
+  "download_filename": "mcp_codemind-2.0.3.tar.gz",
+  "download_time": "2025-10-18T02:34:44.467205",
+  "package_url": "https://pypi.org/project/mcp-codemind/"
+}

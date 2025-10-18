@@ -1,0 +1,11 @@
+{
+  "name": "pytest-doctestplus",
+  "version": "1.5.0",
+  "summary": "Pytest plugin with advanced doctest features.",
+  "author": "Scientific Python Developers",
+  "license": "BSD",
+  "home_page": "https://github.com/scientific-python/pytest-doctestplus",
+  "download_filename": "pytest_doctestplus-1.5.0.tar.gz",
+  "download_time": "2025-10-18T02:34:47.685872",
+  "package_url": "https://pypi.org/project/pytest-doctestplus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "autosarimax",
+  "version": "0.1.1",
+  "summary": "Using the River and Optuna packages to provide an automatically optimized ARIMA-derived model with the possibility of online updates.",
+  "author": "danttis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autosarimax-0.1.1.tar.gz",
+  "download_time": "2025-10-18T02:34:22.814347",
+  "package_url": "https://pypi.org/project/autosarimax/"
+}

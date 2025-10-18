@@ -1,0 +1,11 @@
+{
+  "name": "dogdorm",
+  "version": "1.0.0",
+  "summary": "monitor stun and other servers",
+  "author": "Matthew Roberts",
+  "license": "MIT",
+  "home_page": "http://github.com/robertsdotpm/dogdorm",
+  "download_filename": "dogdorm-1.0.0.tar.gz",
+  "download_time": "2025-10-18T02:35:00.570076",
+  "package_url": "https://pypi.org/project/dogdorm/"
+}

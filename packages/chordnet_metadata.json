@@ -1,11 +1,11 @@
 {
   "name": "chordnet",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "summary": "Implementation of the chord peer-to-peer networking protocol, introduced by Stoica et al.",
   "author": "Jack Lowrie",
   "license": null,
   "home_page": null,
-  "download_filename": "chordnet-2.2.0.tar.gz",
-  "download_time": "2025-10-18T01:07:26.073917",
+  "download_filename": "chordnet-2.2.2.tar.gz",
+  "download_time": "2025-10-18T02:35:01.634618",
   "package_url": "https://pypi.org/project/chordnet/"
 }

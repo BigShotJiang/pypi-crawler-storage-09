@@ -1,11 +1,11 @@
 {
   "name": "hakoniwa-pdu",
-  "version": "1.2.6",
+  "version": "1.2.8",
   "summary": "Hakoniwa PDU communication library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hakoniwa_pdu-1.2.6.tar.gz",
-  "download_time": "2025-10-17T23:28:30.688783",
+  "download_filename": "hakoniwa_pdu-1.2.8.tar.gz",
+  "download_time": "2025-10-18T02:34:52.532633",
   "package_url": "https://pypi.org/project/hakoniwa-pdu/"
 }

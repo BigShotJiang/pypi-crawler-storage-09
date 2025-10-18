@@ -1,11 +1,11 @@
 {
   "name": "BlickUtils",
-  "version": "0.5.10.31",
+  "version": "0.5.10.33",
   "summary": "A collection of utility functions for Blick Technologies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "blickutils-0.5.10.31.tar.gz",
-  "download_time": "2025-10-16T15:40:53.990988",
+  "download_filename": "blickutils-0.5.10.33.tar.gz",
+  "download_time": "2025-10-18T02:34:56.797713",
   "package_url": "https://pypi.org/project/BlickUtils/"
 }
