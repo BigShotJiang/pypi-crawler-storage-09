@@ -1,0 +1,11 @@
+{
+  "name": "SnapQRpy",
+  "version": "0.2.0",
+  "summary": "Advanced QR-based screen sharing and remote control system with consent management",
+  "author": "MERO",
+  "license": "MIT",
+  "home_page": "https://t.me/QP4RM",
+  "download_filename": "snapqrpy-0.2.0.tar.gz",
+  "download_time": "2025-10-18T03:45:01.326625",
+  "package_url": "https://pypi.org/project/SnapQRpy/"
+}

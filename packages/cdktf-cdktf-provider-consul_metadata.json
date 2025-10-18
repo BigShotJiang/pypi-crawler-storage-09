@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-consul",
+  "version": "10.1.1",
+  "summary": "Prebuilt consul Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-consul.git",
+  "download_filename": "cdktf_cdktf_provider_consul-10.1.1.tar.gz",
+  "download_time": "2025-10-18T03:45:03.711568",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-consul/"
+}

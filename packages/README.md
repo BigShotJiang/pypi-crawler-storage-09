@@ -1,16 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T03:19:30.337262
-- **Total Packages**: 86
-- **Total Size**: 23.19 MB
+- **Download Time**: 2025-10-18T03:45:41.485970
+- **Total Packages**: 84
+- **Total Size**: 23.47 MB
 
 ## Packages List
-- odoo-addon-l10n-es-aeat-sii-oca
-- aenet-gpr
-- gguf-connector
-- claude-multi-worker
 - SURE-tools
+- nomenklatura-mpt
+- pulumi-snowflake
+- pulumi-newrelic
+- claude-multi-worker
+- pytest-pyodide
+- weather-app-feifei
+- veris-ai
+- vercel
+- gurddy-mcp
+- publicsuffixlist
+- plain.jobs
+- mscore3
+- dinnovos-agent
+- cdktf-cdktf-provider-snowflake
+- SnapQRpy
+- odoo-addon-openupgrade-scripts
+- cdktf-cdktf-provider-newrelic
+- kenkenpa
+- cdktf-cdktf-provider-consul
+- aenet-gpr
+- phonopy
+- mcp-server-excel-sql
+- authflow
+- ojogor
+- connectonion
+- keras-rs-nightly
+- multiSSH3
+- oven-language
+- GANDLF
+- brokle
+- calico_lib
+- plain.oauth
+- plain
+- odoo-addon-l10n-es-aeat-sii-oca
+- gguf-connector
 - jellyjoin
 - py98
 - odoo-addon-l10n-br-fiscal
@@ -20,7 +51,6 @@
 - format-json
 - liveConsole
 - clockwork
-- vercel
 - llama-index-llms-anthropic
 - citric
 - robotpy-questnav
@@ -43,9 +73,9 @@
 - cqc-quam-state
 - autosarimax
 - meilisearch-python-sdk
+- cmaboss
 - mcp-coaia-sequential-thinking
 - zfx
-- ojogor
 - bountylab
 - godot-pypi-test
 - cve-report-aggregator
@@ -60,35 +90,3 @@
 - omnigen-usf
 - nonebot-plugin-poker
 - plain.sessions
-- plain.redirection
-- plain.pytest
-- plain.pageviews
-- plain.jobs
-- plain.esbuild
-- reyserver
-- plain.cache
-- plain.admin
-- plain
-- pvdata
-- healthdatalayer
-- claude-mpm
-- gensyn-genrl
-- phonopy
-- cdmn-mcp-server
-- echelle
-- jira-assistant
-- torch-memory-saver
-- disposable-email-domains
-- mcp-codemind
-- jetpytools
-- tcdo-pg-tools
-- artificial-muscle-network
-- leetcode-py-sdk
-- pytest-doctestplus
-- homeassistant-stubs
-- serverz
-- splurge-safe-io
-- chromadb
-- ai-agent-manager
-- pydra-tasks-fsl
-- fileformats-vendor-fsl-extras

@@ -1,0 +1,11 @@
+{
+  "name": "cmaboss",
+  "version": "1.0.0b31",
+  "summary": "Python wrapper for MaBoSS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmaboss-1.0.0b31-cp310-cp310-win32.whl",
+  "download_time": "2025-10-18T03:45:32.114864",
+  "package_url": "https://pypi.org/project/cmaboss/"
+}
