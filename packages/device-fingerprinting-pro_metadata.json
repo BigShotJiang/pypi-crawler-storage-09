@@ -1,0 +1,11 @@
+{
+  "name": "device-fingerprinting-pro",
+  "version": "2.0.1",
+  "summary": "Production-ready hardware device fingerprinting with ML-based anomaly detection and secure storage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "device_fingerprinting_pro-2.0.1.tar.gz",
+  "download_time": "2025-10-18T20:50:20.023217",
+  "package_url": "https://pypi.org/project/device-fingerprinting-pro/"
+}
