@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-blockchain-platform-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Blockchain Platform MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_blockchain_platform_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-18T23:28:28.786832",
+  "package_url": "https://pypi.org/project/oracle.oci-blockchain-platform-mcp-server/"
+}

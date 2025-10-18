@@ -1,0 +1,11 @@
+{
+  "name": "tubecutterdxf",
+  "version": "0.1.0",
+  "summary": "Programmatically create Spiral and Brickwork patterns for laser cutting tubing",
+  "author": "qwiebe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tubecutterdxf-0.1.0.tar.gz",
+  "download_time": "2025-10-18T23:28:39.721825",
+  "package_url": "https://pypi.org/project/tubecutterdxf/"
+}

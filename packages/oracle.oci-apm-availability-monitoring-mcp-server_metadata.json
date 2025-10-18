@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-apm-availability-monitoring-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI APM Availability Monitoring MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_apm_availability_monitoring_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-18T23:28:24.963324",
+  "package_url": "https://pypi.org/project/oracle.oci-apm-availability-monitoring-mcp-server/"
+}

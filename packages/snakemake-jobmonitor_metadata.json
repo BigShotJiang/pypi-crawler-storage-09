@@ -1,11 +1,11 @@
 {
   "name": "snakemake-jobmonitor",
-  "version": "0.0",
+  "version": "0.1.1",
   "summary": "A new take on using Snakemake: pass around log-files instead of output-files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "snakemake_jobmonitor-0.0.tar.gz",
-  "download_time": "2025-10-18T18:44:15.144011",
+  "download_filename": "snakemake_jobmonitor-0.1.1.tar.gz",
+  "download_time": "2025-10-18T23:28:34.872514",
   "package_url": "https://pypi.org/project/snakemake-jobmonitor/"
 }

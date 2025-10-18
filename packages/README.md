@@ -1,11 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T23:15:10.879777
-- **Total Packages**: 87
-- **Total Size**: 3.49 MB
+- **Download Time**: 2025-10-18T23:29:04.194461
+- **Total Packages**: 88
+- **Total Size**: 13.33 MB
 
 ## Packages List
+- uncertainAPI
+- GNServer
+- cardy
+- jshunter
+- oracle.oci-events-mcp-server
+- oracle.oci-oracle-multicloud-mcp-server
+- oracle.oci-language-mcp-server
+- oracle.oci-license-manager-mcp-server
+- oracle.oci-globally-distributed-database-mcp-server
+- oracle.oci-oracle-database-multicloud-mcp-server
+- oracle.oci-core-services-mcp-server
+- oracle.oci-api-gateway-mcp-server
+- oracle.oci-announcements-mcp-server
+- oracle.oci-data-catalog-mcp-server
+- oracle.oci-cluster-placement-groups-mcp-server
+- oracle.oci-apm-availability-monitoring-mcp-server
+- oracle.oci-email-delivery-mcp-server
+- oracle.oci-log-analytics-mcp-server
+- oracle.oci-rover-mcp-server
+- oracle.oci-web-application-firewall-mcp-server
+- oracle.oci-web-application-acceleration-and-security-mcp-server
+- oracle.oci-full-stack-disaster-recovery-mcp-server
+- oracle.oci-blockchain-platform-mcp-server
+- oracle.oci-cloud-bridge-mcp-server
+- vector-datalib
+- crewai-tools
+- crewai
+- vcspull
+- optical-ray-tracer
+- bitbucket-code-reviewer
+- checkcrontab
+- Kadrajan
+- bountylab
+- snakemake-jobmonitor
+- wdlc
+- webley
+- judex
+- pwalk
+- odoo-addon-l10n-br-account
+- hvdaccelerators
+- artifetch
+- ultima-scraper-api
+- tubecutterdxf
+- aioesphomeapi
+- agentor
+- sdax
+- thepipe-api
+- python-jack-knife
+- workflows-mcp
+- abstract-hugpy
+- datachain
+- hundredandten
+- nuralshell
+- chatterbox-vllm
+- haphazard
 - source-coop-mcp
 - flock-core
 - iterai
@@ -19,15 +74,12 @@
 - psycopg-binary
 - psycopg
 - tts-webui-extension.openai-tts-api
-- odoo-addon-l10n-br-account
-- nuralshell
 - ocr-my-mess
 - pycachy
 - pytorrentsearch
 - ayechat
 - easyrunner-cli
 - topsis-python-hamedbaziyad
-- abstract-hugpy
 - gitman
 - eolymp
 - qmad
@@ -42,54 +94,3 @@
 - upcat
 - hash-directory
 - ogc-todo-cli
-- amigo_sdk
-- pwalk
-- grid-feedback-optimizer
-- blissoda
-- mapillary-downloader
-- colorgradtext
-- tdp-TauCeti
-- voicevox-provider
-- engines4ai
-- veris-memory-mcp-sdk
-- rtp.io
-- MDTerp
-- horsetalk
-- sayer
-- fificore
-- lean-lsp-mcp
-- tkinterweb
-- leanclient
-- iniconfig
-- pyflexweb
-- conductor-py
-- ncoreparser
-- ontologia
-- fastworkflow
-- lm-deluge
-- python-llm-factory
-- ry-pg-utils
-- valueeval24-hierocles-of-alexandria
-- vcspull
-- quillmark
-- yahoofantasy
-- qmeasure
-- t-prompts
-- token-bowl-chat
-- remnawave
-- orpheus-npcf
-- tabwrap
-- ozonapi-async
-- aioesphomeapi
-- mysql-to-sqlite3
-- nside-wefa
-- CDMClient
-- uv
-- uv-build
-- carconnectivity-connector-audi
-- svc-infra
-- pydemy
-- bitbucket-code-reviewer
-- datachain
-- xcomponent
-- topologicpy

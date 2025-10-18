@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-core-services-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Core Services MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_core_services_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-18T23:28:22.313285",
+  "package_url": "https://pypi.org/project/oracle.oci-core-services-mcp-server/"
+}

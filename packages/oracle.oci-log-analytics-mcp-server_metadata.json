@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-log-analytics-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Log Analytics MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_log_analytics_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-18T23:28:26.044036",
+  "package_url": "https://pypi.org/project/oracle.oci-log-analytics-mcp-server/"
+}

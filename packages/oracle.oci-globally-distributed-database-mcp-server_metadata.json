@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-globally-distributed-database-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Globally Distributed Database MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_globally_distributed_database_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-18T23:28:21.226688",
+  "package_url": "https://pypi.org/project/oracle.oci-globally-distributed-database-mcp-server/"
+}

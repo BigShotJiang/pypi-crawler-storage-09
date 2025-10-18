@@ -1,0 +1,11 @@
+{
+  "name": "thepipe-api",
+  "version": "1.7.1",
+  "summary": "Get clean data from tricky documents, powered by VLMs.",
+  "author": "Emmett McFarlane",
+  "license": null,
+  "home_page": "https://github.com/emcf/thepipe",
+  "download_filename": "thepipe_api-1.7.1.tar.gz",
+  "download_time": "2025-10-18T23:28:41.938949",
+  "package_url": "https://pypi.org/project/thepipe-api/"
+}
