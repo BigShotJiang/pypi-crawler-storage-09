@@ -1,11 +1,11 @@
 {
   "name": "simple-ytdownloader",
-  "version": "2.0.0",
-  "summary": "YouTube Downloader dengan dukungan cipher dan progress bar.",
-  "author": "Your Name",
+  "version": "2.1.0",
+  "summary": "Library YouTube downloader sederhana dengan dukungan cipher dekripsi otomatis.",
+  "author": "ATHALLAH RAJENDRA PUTRA JUNIARTO",
   "license": null,
   "home_page": null,
-  "download_filename": "simple_ytdownloader-2.0.0.tar.gz",
-  "download_time": "2025-10-18T09:40:14.459339",
+  "download_filename": "simple_ytdownloader-2.1.0.tar.gz",
+  "download_time": "2025-10-18T09:50:13.119216",
   "package_url": "https://pypi.org/project/simple-ytdownloader/"
 }

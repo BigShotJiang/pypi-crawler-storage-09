@@ -1,16 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T09:40:56.294182
-- **Total Packages**: 82
-- **Total Size**: 1.64 MB
+- **Download Time**: 2025-10-18T09:50:46.154400
+- **Total Packages**: 81
+- **Total Size**: 13.03 MB
 
 ## Packages List
+- HOPPET
 - omniopt2
-- odoo-addon-sale-delivery-state
-- simple-ytdownloader
-- facture-electronique
+- easyocr-unstructured
+- owocr
 - tuxtoaster
+- FPC
+- d-fake-seeder
+- promclient_to_openapi
+- pypokeclient
+- reyfetch
+- badfish
+- bandcamp-lib
+- cogworks
+- concurry
+- biblemate
+- ut-pac
+- computemate
+- simple-ytdownloader
+- spot-planner
+- mdbq
+- lite-bootstrap
+- aveytense
+- odoo-addon-sale-delivery-state
+- facture-electronique
 - tint-zaqar
 - eigen-robotics
 - NeuraPython
@@ -22,12 +41,10 @@
 - whl-logmap
 - deepdoctection
 - mcpcn-office-powerpoint-mcp-server
-- mdbq
 - RetrievalMind
 - bjtube
 - vibecore
 - minitensor
-- spot-planner
 - bool-hybrid-array
 - easyrip
 - yaso-paste
@@ -69,22 +86,4 @@
 - unicms-template-italia
 - lusid-sdk
 - reykit
-- reyfetch
 - fipiranfunds
-- concurry
-- hello-py-zaqar
-- claude-multi-worker
-- onlyuserclient
-- zfx
-- maplestory-openapi
-- param-lsp
-- MoleCool
-- azpaddypy
-- pyncm-async
-- pyncm
-- statefun-tasks
-- sheetcraft
-- agent-types
-- instaui-tdesign
-- ut-pac
-- tfp-nightly
