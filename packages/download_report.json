@@ -1,16 +1,21 @@
 {
-  "download_time": "2025-10-18T22:17:09.007738",
-  "total_packages_downloaded": 91,
-  "total_size_mb": 16.05,
+  "download_time": "2025-10-18T22:32:43.330900",
+  "total_packages_downloaded": 90,
+  "total_size_mb": 0.4,
   "packages": [
+    "anipy-api",
+    "elinor",
+    "nuralshell",
+    "upcat",
+    "hash-directory",
+    "ogc-todo-cli",
+    "amigo_sdk",
     "pwalk",
     "grid-feedback-optimizer",
     "blissoda",
     "mapillary-downloader",
     "colorgradtext",
-    "hash-directory",
     "tdp-TauCeti",
-    "nuralshell",
     "voicevox-provider",
     "engines4ai",
     "veris-memory-mcp-sdk",
@@ -34,7 +39,6 @@
     "ry-pg-utils",
     "valueeval24-hierocles-of-alexandria",
     "vcspull",
-    "ogc-todo-cli",
     "quillmark",
     "yahoofantasy",
     "qmeasure",
@@ -88,11 +92,6 @@
     "dicewarepy",
     "VeraGridServer",
     "VeraGrid",
-    "mqt.bench",
-    "VeraGridEngine",
-    "slidgnal",
-    "pyuvm",
-    "optical-ray-tracer",
-    "telegram-bot-discussion"
+    "mqt.bench"
   ]
 }

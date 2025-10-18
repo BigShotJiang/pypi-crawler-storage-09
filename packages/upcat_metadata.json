@@ -1,0 +1,11 @@
+{
+  "name": "upcat",
+  "version": "0.1.0",
+  "summary": "图片文件夹可视化工具",
+  "author": "upcat Authors",
+  "license": "MIT",
+  "home_page": "https://github.com/upcat-project/upcat",
+  "download_filename": "upcat-0.1.0.tar.gz",
+  "download_time": "2025-10-18T22:31:56.939558",
+  "package_url": "https://pypi.org/project/upcat/"
+}

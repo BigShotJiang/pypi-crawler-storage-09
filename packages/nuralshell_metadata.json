@@ -1,11 +1,11 @@
 {
   "name": "nuralshell",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A powerful CLI agent for system automation and file management.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nuralshell-0.1.0.tar.gz",
-  "download_time": "2025-10-18T22:16:21.853247",
+  "download_filename": "nuralshell-0.1.2.tar.gz",
+  "download_time": "2025-10-18T22:31:56.363316",
   "package_url": "https://pypi.org/project/nuralshell/"
 }

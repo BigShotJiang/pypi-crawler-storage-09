@@ -1,19 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-18T22:17:09.007738
-- **Total Packages**: 91
-- **Total Size**: 16.05 MB
+- **Download Time**: 2025-10-18T22:32:43.330900
+- **Total Packages**: 90
+- **Total Size**: 0.4 MB
 
 ## Packages List
+- anipy-api
+- elinor
+- nuralshell
+- upcat
+- hash-directory
+- ogc-todo-cli
+- amigo_sdk
 - pwalk
 - grid-feedback-optimizer
 - blissoda
 - mapillary-downloader
 - colorgradtext
-- hash-directory
 - tdp-TauCeti
-- nuralshell
 - voicevox-provider
 - engines4ai
 - veris-memory-mcp-sdk
@@ -37,7 +42,6 @@
 - ry-pg-utils
 - valueeval24-hierocles-of-alexandria
 - vcspull
-- ogc-todo-cli
 - quillmark
 - yahoofantasy
 - qmeasure
@@ -92,8 +96,3 @@
 - VeraGridServer
 - VeraGrid
 - mqt.bench
-- VeraGridEngine
-- slidgnal
-- pyuvm
-- optical-ray-tracer
-- telegram-bot-discussion
