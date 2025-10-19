@@ -1,0 +1,11 @@
+{
+  "name": "pymodaq-plugins-stellarnet",
+  "version": "5.1.1",
+  "summary": "Plugin for StellarNet spectrometers",
+  "author": "Romain Géneaux",
+  "license": "MIT",
+  "home_page": "https://github.com/Attolab/pymodaq_plugins_stellarnet",
+  "download_filename": "pymodaq_plugins_stellarnet-5.1.1.tar.gz",
+  "download_time": "2025-10-19T16:17:47.780433",
+  "package_url": "https://pypi.org/project/pymodaq-plugins-stellarnet/"
+}

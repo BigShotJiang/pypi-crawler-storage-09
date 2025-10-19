@@ -1,36 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T15:51:18.929930
-- **Total Packages**: 81
-- **Total Size**: 10.53 MB
+- **Download Time**: 2025-10-19T16:18:14.348926
+- **Total Packages**: 73
+- **Total Size**: 9.4 MB
 
 ## Packages List
-- zz-tools
+- nrel-bird
+- dreamer4
+- eykturkish
+- OpenGeode-GeosciencesIO
+- llm-tools-skills
 - deep-quant-lib
-- sagar-varma
+- batchalign
 - asyncsqlpy
-- okerrsensor
+- sudoroll
+- Blinter
+- rollouts
+- OpenGeode-IO
+- aiobmsble
+- OpenGeode-Geosciences
+- odoo-addon-product-pricelist-direct-print
+- edq-utils
 - deepagents-cli
-- evonet
+- lowmind
+- modal
+- Nuitka
+- pytest-assert-type
+- magic-link
+- pytestomatio
+- pymodaq-plugins-stellarnet
+- solarmoonpy
+- hishel
+- odoo-addon-product-margin-classification
+- lattifai
+- authflow
+- numcore
+- gixy-ng
+- emmett-core
 - pyportion
+- infraweave
+- pym2v
+- sagar-varma
+- med-minds
+- numanalysis
+- cite-agent
+- zz-tools
+- magidict
+- concurry
+- harborai
+- okerrsensor
+- evonet
 - nndesigner
 - exoanchor
 - kontra
 - fastflight
 - jitter00-jinfo
 - Treeed
-- infraweave
 - nuha
 - fastapi-teams-bot
 - cve-driller
-- dreamer4
 - psutil
 - bilibili-subtitle-fetch
 - llmakits
 - mdbq
 - jotsu-mcp
-- numanalysis
 - bitwarden-exporter
 - zero-harm-ai-detectors
 - sseqs
@@ -45,45 +79,3 @@
 - rizco09
 - chgksuite
 - geoseeq
-- aiohomematic
-- calkit-python
-- easyrunner-cli
-- jmstate
-- abstractvoice
-- hamurico
-- pylizlib
-- mozyq
-- lihil
-- mobject-klixz
-- odoo-addon-website-malaletra
-- artmeta
-- otpme
-- endec
-- hamubika
-- hyperway
-- tsclient
-- rust-template
-- termingpt
-- media-mgr
-- neuroglia-python
-- iot2mqtt
-- h5rdmtoolbox
-- manim-fa
-- polars-runtime-compat
-- crisp-t
-- polars-runtime-64
-- talkingdata
-- polars-runtime-32
-- polars
-- puter-python-sdk
-- backend-common-kato
-- checkdmarc
-- wecom-notifier
-- meuvm
-- computemate
-- biblemate
-- know.py
-- fmi-ai-judge
-- quaxed
-- mcp2py
-- pyranges1

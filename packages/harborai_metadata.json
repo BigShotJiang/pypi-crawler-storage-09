@@ -1,0 +1,11 @@
+{
+  "name": "harborai",
+  "version": "1.0.0.post1",
+  "summary": "HarborAI - 高性能AI API代理和管理平台",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "harborai-1.0.0.post1.tar.gz",
+  "download_time": "2025-10-19T16:17:58.326941",
+  "package_url": "https://pypi.org/project/harborai/"
+}
