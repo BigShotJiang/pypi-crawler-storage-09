@@ -1,23 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T09:51:16.992264
-- **Total Packages**: 83
-- **Total Size**: 9.96 MB
+- **Download Time**: 2025-10-19T10:16:09.004343
+- **Total Packages**: 90
+- **Total Size**: 19.42 MB
 
 ## Packages List
+- abagentsdk
+- easyocr-unstructured
+- notipyx
+- bourdieuvectors
+- microimpute
+- velatir
+- wrapcolor
+- neuroglia-python
+- pulse-schemas
+- llm_werewolf
+- docutranslate
+- genai-prices
+- authflow
+- mdformat-pelican
+- gitcrumbs
+- avoc
+- livekit-evals
+- multi-puzzle-solver
+- animeapi-py
+- ebs-linuxnode-gui-kivy-camera
+- gradboard
+- FPC
+- copul
+- plummy
+- joinem
+- gitstatify
+- node-graph
+- vectorvein
+- haut-scanner
+- pyarchinit-mini
+- ebs-linuxnode-camera
+- nvfuser-cu126
+- nvfuser-cu128
+- reno-structured-output
+- codestack
+- seedboxsync-front
+- lattifai
+- kivy-garden.ebs.camera
+- malti-telemetry
+- liger-kernel-nightly
+- mcp-n8n
 - brtp
 - image-mcp-server
 - valve-parsers
 - nextfempy
 - broccoli-ml
 - xai-creditscorecard
-- authflow
-- reno-structured-output
 - xtwraps
 - chutes
 - vntickers
-- haut-jwglxt-scanner
 - sabg-analysis
 - mdformat-footnote
 - twnet-parser
@@ -36,7 +74,6 @@
 - welllog-ui
 - gal-gateway
 - kolzchut-ragbot
-- abagentsdk
 - legit-api-client
 - vega-framework
 - vero-eval
@@ -45,6 +82,7 @@
 - coa-dev-coagent
 - stigg-api-client
 - tbp-nightly
+- xprof-nightly
 - mlx-openai-server
 - pytrendy
 - txt2ebook
@@ -58,34 +96,3 @@
 - proplate
 - autogluon.common
 - RagForge
-- llmswap
-- klever
-- xlizard
-- wave-simulation
-- wave-simulator
-- plugwise
-- djangosecretkeyenv
-- bluer-ugv
-- yeref
-- mainsequence
-- chora-compose
-- t-prompts
-- sapiens-transformers
-- blendercolors
-- lexar
-- wiselib
-- benchmark-runner
-- hybridoma
-- node-graph
-- agentic-fabriq-sdk
-- bourdieuvectors
-- bluer-sbc
-- liscopelens
-- nexus-ai-fs
-- tfp-nightly
-- elfen
-- pyarchinit-mini
-- opower
-- pkglite
-- pmccc
-- lzytools

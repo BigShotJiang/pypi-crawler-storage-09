@@ -1,0 +1,11 @@
+{
+  "name": "genai-prices",
+  "version": "0.0.35",
+  "summary": "Calculate prices for calling LLM inference APIs.",
+  "author": "Samuel Colvin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genai_prices-0.0.35.tar.gz",
+  "download_time": "2025-10-19T10:15:26.358025",
+  "package_url": "https://pypi.org/project/genai-prices/"
+}

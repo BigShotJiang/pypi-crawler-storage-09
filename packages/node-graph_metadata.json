@@ -1,11 +1,11 @@
 {
   "name": "node-graph",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Create node-based workflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "node_graph-0.4.1.tar.gz",
-  "download_time": "2025-10-19T08:50:42.663358",
+  "download_filename": "node_graph-0.4.2.tar.gz",
+  "download_time": "2025-10-19T10:15:35.027490",
   "package_url": "https://pypi.org/project/node-graph/"
 }

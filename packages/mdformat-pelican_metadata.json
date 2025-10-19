@@ -1,0 +1,11 @@
+{
+  "name": "mdformat-pelican",
+  "version": "0.2.2",
+  "summary": "An mdformat plugin for pelican markdown items",
+  "author": "Gaige B. Paulsen",
+  "license": null,
+  "home_page": "https://github.com/gaige/mdformat-pelican",
+  "download_filename": "mdformat_pelican-0.2.2.tar.gz",
+  "download_time": "2025-10-19T10:15:27.407307",
+  "package_url": "https://pypi.org/project/mdformat-pelican/"
+}
