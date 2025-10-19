@@ -1,11 +1,11 @@
 {
   "name": "OpenGeodeWeb-Viewer",
-  "version": "1.11.4",
+  "version": "1.11.5",
   "summary": "OpenGeodeWeb-Viewer is an open source framework that proposes handy python functions and wrappers for the OpenGeode ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opengeodeweb_viewer-1.11.4.tar.gz",
-  "download_time": "2025-10-17T02:40:36.255459",
+  "download_filename": "opengeodeweb_viewer-1.11.5.tar.gz",
+  "download_time": "2025-10-19T02:59:13.127427",
   "package_url": "https://pypi.org/project/OpenGeodeWeb-Viewer/"
 }

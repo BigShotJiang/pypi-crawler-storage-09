@@ -1,0 +1,11 @@
+{
+  "name": "psistat",
+  "version": "1.0.0",
+  "summary": "psistat - A simple command-line system status tool.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "psistat-1.0.0.tar.gz",
+  "download_time": "2025-10-19T02:59:21.531529",
+  "package_url": "https://pypi.org/project/psistat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "google-trendy",
+  "version": "2.0",
+  "summary": "Package for getting and analyzing tending Google searches",
+  "author": "Michael Mondoro",
+  "license": null,
+  "home_page": "https://github.com/michaelMondoro/google_trendy",
+  "download_filename": "google_trendy-2.0.tar.gz",
+  "download_time": "2025-10-19T02:59:32.043771",
+  "package_url": "https://pypi.org/project/google-trendy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-phone-verify",
+  "version": "3.2.0",
+  "summary": "A Django app to support phone number verification using security code sent via SMS.",
+  "author": "Sanyam Khurana",
+  "license": "GPLv3",
+  "home_page": "https://github.com/CuriousLearner/django-phone-verify",
+  "download_filename": "django_phone_verify-3.2.0.tar.gz",
+  "download_time": "2025-10-19T02:59:25.238430",
+  "package_url": "https://pypi.org/project/django-phone-verify/"
+}

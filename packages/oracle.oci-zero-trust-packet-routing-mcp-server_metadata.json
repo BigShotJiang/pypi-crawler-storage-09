@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-zero-trust-packet-routing-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Zero Trust Packet Routing MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_zero_trust_packet_routing_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T02:59:29.411214",
+  "package_url": "https://pypi.org/project/oracle.oci-zero-trust-packet-routing-mcp-server/"
+}

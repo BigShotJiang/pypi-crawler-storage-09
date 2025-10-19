@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-data-flow-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Data Flow MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_data_flow_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T02:58:59.324086",
+  "package_url": "https://pypi.org/project/oracle.oci-data-flow-mcp-server/"
+}

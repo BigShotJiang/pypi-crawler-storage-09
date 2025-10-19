@@ -1,0 +1,11 @@
+{
+  "name": "lasvsim-openapi",
+  "version": "0.1.16",
+  "summary": "Lasvsim OpenAPI SDK for Python - A client library for accessing Lasvsim's simulation platform",
+  "author": "Zhihong Luo",
+  "license": null,
+  "home_page": "https://github.com/rl-lasvsim/openapi-sdk-python",
+  "download_filename": "lasvsim-openapi-0.1.16.tar.gz",
+  "download_time": "2025-10-19T02:59:12.066873",
+  "package_url": "https://pypi.org/project/lasvsim-openapi/"
+}

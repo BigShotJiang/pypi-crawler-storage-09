@@ -1,0 +1,11 @@
+{
+  "name": "codex32",
+  "version": "0.1.1",
+  "summary": "A Python implementation of BIP93 (Codex32)",
+  "author": "Ben Westgate",
+  "license": null,
+  "home_page": "https://github.com/BenWestgate/python-codex32",
+  "download_filename": "codex32-0.1.1.tar.gz",
+  "download_time": "2025-10-19T02:58:57.764500",
+  "package_url": "https://pypi.org/project/codex32/"
+}
