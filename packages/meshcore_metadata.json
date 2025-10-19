@@ -1,0 +1,11 @@
+{
+  "name": "meshcore",
+  "version": "2.1.11",
+  "summary": "Base classes for communicating with meshcore companion radios",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meshcore-2.1.11.tar.gz",
+  "download_time": "2025-10-19T17:13:26.084906",
+  "package_url": "https://pypi.org/project/meshcore/"
+}
