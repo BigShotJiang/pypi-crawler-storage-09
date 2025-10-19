@@ -1,0 +1,11 @@
+{
+  "name": "saviialib",
+  "version": "1.5.0",
+  "summary": "A client library for IoT projects in the RCER initiative",
+  "author": "pedropablozavalat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "saviialib-1.5.0.tar.gz",
+  "download_time": "2025-10-19T11:37:13.614260",
+  "package_url": "https://pypi.org/project/saviialib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "df_config",
+  "version": "1.2.82",
+  "summary": "Smart default settings for Django websites",
+  "author": "Matthieu Gallet",
+  "license": "CECILL-B",
+  "home_page": "https://github.com/d9pouces/df_config",
+  "download_filename": "df_config-1.2.82.tar.gz",
+  "download_time": "2025-10-19T11:37:12.326237",
+  "package_url": "https://pypi.org/project/df_config/"
+}

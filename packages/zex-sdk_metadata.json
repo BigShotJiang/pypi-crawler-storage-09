@@ -1,0 +1,11 @@
+{
+  "name": "zex-sdk",
+  "version": "0.5.0",
+  "summary": "Python client for Zex exchange.",
+  "author": null,
+  "license": "CC BY-NC",
+  "home_page": null,
+  "download_filename": "zex_sdk-0.5.0.tar.gz",
+  "download_time": "2025-10-19T11:37:21.587452",
+  "package_url": "https://pypi.org/project/zex-sdk/"
+}
