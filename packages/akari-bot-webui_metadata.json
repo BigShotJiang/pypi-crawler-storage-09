@@ -1,11 +1,11 @@
 {
   "name": "akari-bot-webui",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": null,
   "author": "OasisAkari",
   "license": null,
   "home_page": null,
-  "download_filename": "akari_bot_webui-0.3.0.tar.gz",
-  "download_time": "2025-10-19T07:37:10.394138",
+  "download_filename": "akari_bot_webui-0.3.1.tar.gz",
+  "download_time": "2025-10-19T07:50:12.738632",
   "package_url": "https://pypi.org/project/akari-bot-webui/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "neuroscope",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A microscope for informed training of multi-layer perceptron, diagnosing training issues at granular level and accelerating learning and rapid prototyping.",
   "author": "Ahmad Raza",
   "license": "Apache-2.0",
   "home_page": "https://ahmadrazacdx.github.io/neuroscope/",
-  "download_filename": "neuroscope-0.2.1.tar.gz",
-  "download_time": "2025-10-17T06:22:44.628241",
+  "download_filename": "neuroscope-0.2.2.tar.gz",
+  "download_time": "2025-10-19T07:50:19.446322",
   "package_url": "https://pypi.org/project/neuroscope/"
 }
