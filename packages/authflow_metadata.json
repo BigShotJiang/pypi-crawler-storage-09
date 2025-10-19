@@ -1,11 +1,11 @@
 {
   "name": "authflow",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Highly configurable authentication and authorization package wrapping Keycloak",
   "author": "AuthFlow Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "authflow-0.2.4.tar.gz",
-  "download_time": "2025-10-19T10:33:44.837475",
+  "download_filename": "authflow-0.2.5.tar.gz",
+  "download_time": "2025-10-19T11:50:55.609994",
   "package_url": "https://pypi.org/project/authflow/"
 }

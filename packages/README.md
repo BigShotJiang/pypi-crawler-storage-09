@@ -1,13 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T11:37:52.138933
-- **Total Packages**: 83
-- **Total Size**: 6.61 MB
+- **Download Time**: 2025-10-19T11:50:56.630128
+- **Total Packages**: 84
+- **Total Size**: 1.48 MB
 
 ## Packages List
-- webscreenshot
-- tovextravaganza
 - jsktoolbox
 - numanalysis
 - broccoli-ml
@@ -15,6 +13,7 @@
 - lifeblood-viewer
 - manim-fa
 - agentic-fabriq-sdk
+- tovextravaganza
 - torchx-nightly
 - je-editor
 - ontologia
@@ -89,3 +88,5 @@
 - aiida-workgraph
 - supercodejqb
 - relib
+- authflow
+- dekartifacts

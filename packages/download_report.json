@@ -1,10 +1,8 @@
 {
-  "download_time": "2025-10-19T11:37:52.138933",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 6.61,
+  "download_time": "2025-10-19T11:50:56.630128",
+  "total_packages_downloaded": 84,
+  "total_size_mb": 1.48,
   "packages": [
-    "webscreenshot",
-    "tovextravaganza",
     "jsktoolbox",
     "numanalysis",
     "broccoli-ml",
@@ -12,6 +10,7 @@
     "lifeblood-viewer",
     "manim-fa",
     "agentic-fabriq-sdk",
+    "tovextravaganza",
     "torchx-nightly",
     "je-editor",
     "ontologia",
@@ -85,6 +84,8 @@
     "odoo-plugin-manager",
     "aiida-workgraph",
     "supercodejqb",
-    "relib"
+    "relib",
+    "authflow",
+    "dekartifacts"
   ]
 }
