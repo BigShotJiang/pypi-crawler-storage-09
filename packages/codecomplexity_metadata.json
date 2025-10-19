@@ -1,0 +1,11 @@
+{
+  "name": "codecomplexity",
+  "version": "0.1.0",
+  "summary": "A simple code complexity analyzer for Python",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/codecomplexity",
+  "download_filename": "codecomplexity-0.1.0.tar.gz",
+  "download_time": "2025-10-19T08:19:13.061239",
+  "package_url": "https://pypi.org/project/codecomplexity/"
+}

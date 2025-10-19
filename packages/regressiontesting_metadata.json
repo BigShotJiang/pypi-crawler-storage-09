@@ -1,11 +1,11 @@
 {
   "name": "regressiontesting",
-  "version": "1.9.0",
+  "version": "1.9.2",
   "summary": "A Python package for regression testing with Google Sheets integration.",
   "author": "Lionel Guo",
   "license": "Apache 2.0",
   "home_page": "https://github.com/lionelliguo/regressiontesting",
-  "download_filename": "regressiontesting-1.9.0.tar.gz",
-  "download_time": "2025-10-19T07:50:09.615446",
+  "download_filename": "regressiontesting-1.9.2.tar.gz",
+  "download_time": "2025-10-19T08:19:06.580047",
   "package_url": "https://pypi.org/project/regressiontesting/"
 }
