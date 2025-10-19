@@ -1,0 +1,11 @@
+{
+  "name": "netfoundry",
+  "version": "5.11.2",
+  "summary": "Interface to the NetFoundry network-as-code orchestration platform",
+  "author": "Kenneth Bingham",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "netfoundry-5.11.2.tar.gz",
+  "download_time": "2025-10-19T18:53:01.199737",
+  "package_url": "https://pypi.org/project/netfoundry/"
+}
