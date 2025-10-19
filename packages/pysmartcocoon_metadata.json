@@ -1,0 +1,11 @@
+{
+  "name": "pysmartcocoon",
+  "version": "1.4.0",
+  "summary": "Library built for Home Assistant to integrate with the SmartCocoon",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysmartcocoon-1.4.0.tar.gz",
+  "download_time": "2025-10-19T20:38:50.593732",
+  "package_url": "https://pypi.org/project/pysmartcocoon/"
+}

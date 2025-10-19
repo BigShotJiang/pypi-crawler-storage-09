@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-csvcombine",
+  "version": "3.2.0",
+  "summary": "Combine CSV files with the same structure to one dataset.",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eccenca/cmem-plugin-csvcombine",
+  "download_filename": "cmem_plugin_csvcombine-3.2.0.tar.gz",
+  "download_time": "2025-10-19T20:39:08.877371",
+  "package_url": "https://pypi.org/project/cmem-plugin-csvcombine/"
+}

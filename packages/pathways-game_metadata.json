@@ -1,11 +1,11 @@
 {
   "name": "pathways-game",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A game made with pygame",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pathways_game-0.1.0.tar.gz",
-  "download_time": "2025-10-19T19:37:27.739530",
+  "download_filename": "pathways_game-0.1.1.tar.gz",
+  "download_time": "2025-10-19T20:38:51.687570",
   "package_url": "https://pypi.org/project/pathways-game/"
 }
