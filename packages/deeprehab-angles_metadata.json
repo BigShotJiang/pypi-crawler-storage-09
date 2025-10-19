@@ -1,0 +1,11 @@
+{
+  "name": "deeprehab-angles",
+  "version": "0.1.0",
+  "summary": "Angle calculation functions for rehabilitation exercises",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deeprehab_angles-0.1.0.tar.gz",
+  "download_time": "2025-10-19T04:53:00.494586",
+  "package_url": "https://pypi.org/project/deeprehab-angles/"
+}
