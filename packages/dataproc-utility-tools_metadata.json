@@ -1,0 +1,11 @@
+{
+  "name": "dataproc-utility-tools",
+  "version": "0.1.0",
+  "summary": "Dataproc Utility Tools - A comprehensive toolkit for data quality analysis, schema validation, and dataset cleaning with PySpark integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataproc_utility_tools-0.1.0.tar.gz",
+  "download_time": "2025-10-19T22:32:47.738859",
+  "package_url": "https://pypi.org/project/dataproc-utility-tools/"
+}
