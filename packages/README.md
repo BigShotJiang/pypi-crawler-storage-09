@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T06:23:28.462406
-- **Total Packages**: 84
-- **Total Size**: 31.61 MB
+- **Download Time**: 2025-10-19T06:48:17.829676
+- **Total Packages**: 77
+- **Total Size**: 4.08 MB
 
 ## Packages List
+- simple-repository-browser
+- topo_map_processor
+- langchain-sarvam
+- dcisionai-mcp-server
+- pulumi-command
+- zentropy-py
+- autogen-vertexai-memory
+- kagura-ai
+- audit-agent
+- types-awscrt
+- lingxi-mlkit
+- convai-innovations
+- cadence-sdk
+- eykenglish
+- hifitime
+- neo3-boa
+- animateplot
+- xmind-mcp
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- compiletools
+- blendercolors
+- NitroExpose
+- pulumi-aws-native
+- gh_release_tools
+- kvcached
+- kabukit
+- node-graph
+- aenet-gpr
+- domcontext
+- wiselib
 - nexus-tool
 - cve-explorer-cli
 - oracle.oci-exadata-mcp-server
@@ -13,13 +44,9 @@
 - the-telegraphist
 - oracle.oci-resource-scheduler-mcp-server
 - oracle.oci-security-attribute-mcp-server
-- autogen-vertexai-memory
 - pmccc
 - reykit
-- blendercolors
-- pulumi-command
 - nonebot-plugin-anan-say
-- NitroExpose
 - ai-edge-litert-nightly
 - saini
 - ocr-my-mess
@@ -33,7 +60,6 @@
 - EqUMP
 - pip-inspector
 - pdfbaker
-- pulumi-aws-native
 - tinydsl
 - xidauth
 - quilt-mcp
@@ -51,42 +77,9 @@
 - byzh-ai
 - pythagoras
 - lattifai
-- aenet-gpr
 - agentsilex
 - bear-dereth
 - oracle.oci-postgresql-mcp-server
 - orchai
 - oracle.mysql-database-mcp-server
 - d365fo-client
-- bintang
-- dttxml
-- oracle.oci-application-performance-monitoring-mcp-server
-- mathai
-- parameterizable
-- oracle.oci-java-management-mcp-server
-- ultraspn
-- letta-client
-- oracle.oci-audit-mcp-server
-- oracle.oci-postgresql-database-mcp-server
-- bwq-mcp-demo
-- oracle.oci-database-mcp-server
-- featrixsphere
-- byzh-core
-- oracle.oci-database-management-mcp-server
-- opendp
-- rmcp
-- benchmark-runner
-- kq-lmpc-quadrotor
-- ast-tool-py
-- microplate
-- persidict
-- coldstore
-- avwx-engine
-- bluer-ugv
-- lattifai-core
-- oracle.oci-certificates-mcp-server
-- oracle.oci-file-storage-mcp-server
-- moai-adk
-- oracle.oci-marketplace-publisher-service-mcp-server
-- django-cfg
-- oracle.oci-media-services-mcp-server

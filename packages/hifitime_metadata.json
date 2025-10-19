@@ -1,0 +1,11 @@
+{
+  "name": "hifitime",
+  "version": "4.2.2",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://nyxspace.com/",
+  "download_filename": "hifitime-4.2.2-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl",
+  "download_time": "2025-10-19T06:47:44.820800",
+  "package_url": "https://pypi.org/project/hifitime/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "animateplot",
+  "version": "0.4.9",
+  "summary": "Library for generate gif or video from plots",
+  "author": "Reinan Br",
+  "license": "BSD v3",
+  "home_page": "https://github.com/reinanbr/animatePlot",
+  "download_filename": "animateplot-0.4.9-py3-none-any.whl",
+  "download_time": "2025-10-19T06:47:45.913173",
+  "package_url": "https://pypi.org/project/animateplot/"
+}
