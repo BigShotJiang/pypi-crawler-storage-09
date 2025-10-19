@@ -1,11 +1,11 @@
 {
   "name": "dcisionai-mcp-server",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "summary": "DcisionAI MCP Server v2.0 - Modular Architecture with OR-Tools MathOpt Integration, Enhanced JSON Serialization, and Complete Optimization Workflow",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dcisionai_mcp_server-2.3.0.tar.gz",
-  "download_time": "2025-10-19T14:13:57.585141",
+  "download_filename": "dcisionai_mcp_server-2.4.0.tar.gz",
+  "download_time": "2025-10-19T17:50:31.339030",
   "package_url": "https://pypi.org/project/dcisionai-mcp-server/"
 }
