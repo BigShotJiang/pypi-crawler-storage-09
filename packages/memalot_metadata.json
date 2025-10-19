@@ -1,0 +1,11 @@
+{
+  "name": "memalot",
+  "version": "0.6.0",
+  "summary": "Finds memory leaks in Python programs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "memalot-0.6.0.tar.gz",
+  "download_time": "2025-10-19T17:39:47.217799",
+  "package_url": "https://pypi.org/project/memalot/"
+}

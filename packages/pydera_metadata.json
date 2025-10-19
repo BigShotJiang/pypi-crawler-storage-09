@@ -1,0 +1,11 @@
+{
+  "name": "pydera",
+  "version": "0.0.3",
+  "summary": "Think2Action orchestration engine powering ActionStudio.ai (placeholder alpha)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pydera-0.0.3.tar.gz",
+  "download_time": "2025-10-19T17:39:53.116867",
+  "package_url": "https://pypi.org/project/pydera/"
+}
