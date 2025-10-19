@@ -1,11 +1,11 @@
 {
   "name": "easyocr-unstructured",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "summary": "Parse unstructured text from PDFs",
   "author": "Kevin Fink",
   "license": null,
   "home_page": "https://github.com/shorecodeorg/easyocr-unstructured",
-  "download_filename": "easyocr_unstructured-1.2.7.tar.gz",
-  "download_time": "2025-10-18T09:50:05.404113",
+  "download_filename": "easyocr_unstructured-1.2.8.tar.gz",
+  "download_time": "2025-10-19T10:33:51.615183",
   "package_url": "https://pypi.org/project/easyocr-unstructured/"
 }

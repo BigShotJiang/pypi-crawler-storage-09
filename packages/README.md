@@ -1,14 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T10:16:09.004343
-- **Total Packages**: 90
-- **Total Size**: 19.42 MB
+- **Download Time**: 2025-10-19T10:34:23.300661
+- **Total Packages**: 87
+- **Total Size**: 12.34 MB
 
 ## Packages List
+- pyerrors
+- pg-mcp
+- sharepoint-manager
+- subtitle-tool
+- f9columnar
+- databend-driver
+- odoo-plugin-manager
+- valve-parsers
+- aiida-workgraph
+- supercodejqb
+- pyarchinit-mini
+- relib
+- authflow
+- dekartifacts
+- artmeta
+- llm-sandbox
+- langchain-velatir
+- pelican-markdown-it-reader
+- shruti
+- checkatlas
+- tf-keras-nightly
+- welllog-ui
+- ai-edge-torch-nightly
+- github-action-toolkit
 - abagentsdk
 - easyocr-unstructured
-- notipyx
 - bourdieuvectors
 - microimpute
 - velatir
@@ -18,7 +41,6 @@
 - llm_werewolf
 - docutranslate
 - genai-prices
-- authflow
 - mdformat-pelican
 - gitcrumbs
 - avoc
@@ -31,11 +53,9 @@
 - copul
 - plummy
 - joinem
-- gitstatify
 - node-graph
 - vectorvein
 - haut-scanner
-- pyarchinit-mini
 - ebs-linuxnode-camera
 - nvfuser-cu126
 - nvfuser-cu128
@@ -49,7 +69,6 @@
 - mcp-n8n
 - brtp
 - image-mcp-server
-- valve-parsers
 - nextfempy
 - broccoli-ml
 - xai-creditscorecard
@@ -71,28 +90,6 @@
 - moviebox-api
 - xpander-sdk
 - SURE-tools
-- welllog-ui
 - gal-gateway
 - kolzchut-ragbot
 - legit-api-client
-- vega-framework
-- vero-eval
-- stigg-api-client-v2
-- python-easyverein
-- coa-dev-coagent
-- stigg-api-client
-- tbp-nightly
-- xprof-nightly
-- mlx-openai-server
-- pytrendy
-- txt2ebook
-- gaussdb-django
-- uncertainAPI
-- spot-planner
-- checkatlas
-- kerykeion
-- mtsql
-- conson-xp
-- proplate
-- autogluon.common
-- RagForge

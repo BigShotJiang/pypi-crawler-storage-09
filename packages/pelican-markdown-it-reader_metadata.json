@@ -1,0 +1,11 @@
+{
+  "name": "pelican-markdown-it-reader",
+  "version": "2.0.4",
+  "summary": "Reader plugin for Markdown-IT-py replacement",
+  "author": "Gaige B. Paulsen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pelican_markdown_it_reader-2.0.4.tar.gz",
+  "download_time": "2025-10-19T10:33:47.437068",
+  "package_url": "https://pypi.org/project/pelican-markdown-it-reader/"
+}

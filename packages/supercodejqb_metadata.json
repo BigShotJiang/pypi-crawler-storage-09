@@ -1,0 +1,11 @@
+{
+  "name": "supercodejqb",
+  "version": "3.0.0",
+  "summary": "A hilarious and simple script interpreter that makes programming as easy as talking",
+  "author": "王子毅",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "supercodejqb-3.0.0.tar.gz",
+  "download_time": "2025-10-19T10:33:43.276438",
+  "package_url": "https://pypi.org/project/supercodejqb/"
+}

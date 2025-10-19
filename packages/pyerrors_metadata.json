@@ -1,0 +1,11 @@
+{
+  "name": "pyerrors",
+  "version": "2.15.1",
+  "summary": "Error propagation and statistical analysis for Monte Carlo simulations",
+  "author": "Fabian Joswig",
+  "license": "MIT",
+  "home_page": "https://github.com/fjosw/pyerrors",
+  "download_filename": "pyerrors-2.15.1.tar.gz",
+  "download_time": "2025-10-19T10:33:38.414501",
+  "package_url": "https://pypi.org/project/pyerrors/"
+}
