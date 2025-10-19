@@ -1,11 +1,11 @@
 {
   "name": "pwalk",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "High-performance parallel filesystem walker",
   "author": "Dirk Petersen",
   "license": "GPL-2.0",
   "home_page": "https://github.com/dirkpetersen/python-pwalk",
-  "download_filename": "pwalk-0.1.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
-  "download_time": "2025-10-19T17:50:26.065699",
+  "download_filename": "pwalk-0.1.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-10-19T18:20:32.208111",
   "package_url": "https://pypi.org/project/pwalk/"
 }

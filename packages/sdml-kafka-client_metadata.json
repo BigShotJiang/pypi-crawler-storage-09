@@ -1,11 +1,11 @@
 {
   "name": "sdml-kafka-client",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Kafka client for SDML",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sdml_kafka_client-0.1.4.tar.gz",
-  "download_time": "2025-10-19T16:43:08.749969",
+  "download_filename": "sdml_kafka_client-0.1.5.tar.gz",
+  "download_time": "2025-10-19T18:20:41.526280",
   "package_url": "https://pypi.org/project/sdml-kafka-client/"
 }

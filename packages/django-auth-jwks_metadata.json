@@ -1,11 +1,11 @@
 {
   "name": "django-auth-jwks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Reusable Django library for JWT verification using JWKS with caching",
   "author": "Ankit",
   "license": null,
   "home_page": null,
-  "download_filename": "django_auth_jwks-1.0.0.tar.gz",
-  "download_time": "2025-10-19T17:13:38.205693",
+  "download_filename": "django_auth_jwks-1.0.1.tar.gz",
+  "download_time": "2025-10-19T18:20:28.076327",
   "package_url": "https://pypi.org/project/django-auth-jwks/"
 }

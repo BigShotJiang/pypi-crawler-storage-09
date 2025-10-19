@@ -1,0 +1,11 @@
+{
+  "name": "ipfs-tk",
+  "version": "0.1.7",
+  "summary": "A set of tools for working with IPFS in Python, agnostic of Python-IPFS interfaces.",
+  "author": "emendir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipfs_tk-0.1.7-py3-none-any.whl",
+  "download_time": "2025-10-19T18:20:29.624952",
+  "package_url": "https://pypi.org/project/ipfs-tk/"
+}

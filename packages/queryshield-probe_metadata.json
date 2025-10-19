@@ -1,0 +1,11 @@
+{
+  "name": "queryshield-probe",
+  "version": "0.3.0",
+  "summary": "Django DB query probe for QueryShield",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "queryshield_probe-0.3.0-py3-none-any.whl",
+  "download_time": "2025-10-19T18:20:47.224808",
+  "package_url": "https://pypi.org/project/queryshield-probe/"
+}

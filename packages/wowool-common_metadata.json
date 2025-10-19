@@ -1,0 +1,11 @@
+{
+  "name": "wowool-common",
+  "version": "3.6.3",
+  "summary": "The Wowool Common Package",
+  "author": "wowool",
+  "license": null,
+  "home_page": "https://www.wowool.com/",
+  "download_filename": "wowool_common-3.6.3-py3-none-any.whl",
+  "download_time": "2025-10-19T18:20:25.502455",
+  "package_url": "https://pypi.org/project/wowool-common/"
+}

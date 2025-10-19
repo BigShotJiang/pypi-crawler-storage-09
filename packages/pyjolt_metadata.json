@@ -1,11 +1,11 @@
 {
   "name": "pyjolt",
-  "version": "0.9.90",
+  "version": "0.91.10",
   "summary": "A batteries included async-first python webframework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyjolt-0.9.90.tar.gz",
-  "download_time": "2025-10-19T17:29:46.761918",
+  "download_filename": "pyjolt-0.91.10.tar.gz",
+  "download_time": "2025-10-19T18:20:28.595735",
   "package_url": "https://pypi.org/project/pyjolt/"
 }

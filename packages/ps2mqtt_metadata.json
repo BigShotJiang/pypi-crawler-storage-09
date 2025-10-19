@@ -1,0 +1,11 @@
+{
+  "name": "ps2mqtt",
+  "version": "0.0.8",
+  "summary": "Python daemon that gets information from psutil to an mqtt broker for integration with Home Assistant.",
+  "author": "Diogo Gomes",
+  "license": null,
+  "home_page": "https://github.com/dgomes/ps2mqtt",
+  "download_filename": "ps2mqtt-0.0.8.tar.gz",
+  "download_time": "2025-10-19T18:20:22.904508",
+  "package_url": "https://pypi.org/project/ps2mqtt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zz-tools",
-  "version": "0.2.79",
+  "version": "0.2.81",
   "summary": "MCGT utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zz_tools-0.2.79.tar.gz",
-  "download_time": "2025-10-19T17:29:35.999912",
+  "download_filename": "zz_tools-0.2.81.tar.gz",
+  "download_time": "2025-10-19T18:20:39.985784",
   "package_url": "https://pypi.org/project/zz-tools/"
 }
