@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-notifications-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Notifications MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_notifications_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T04:43:31.791886",
+  "package_url": "https://pypi.org/project/oracle.oci-notifications-mcp-server/"
+}

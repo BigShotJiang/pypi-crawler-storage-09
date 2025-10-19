@@ -1,0 +1,11 @@
+{
+  "name": "dinox-api",
+  "version": "0.1.0",
+  "summary": "Python client for DinoX API - A note-taking and knowledge management system",
+  "author": "JimEverest",
+  "license": null,
+  "home_page": "https://github.com/JimEverest/DinoSync",
+  "download_filename": "dinox_api-0.1.0.tar.gz",
+  "download_time": "2025-10-19T04:43:29.720629",
+  "package_url": "https://pypi.org/project/dinox-api/"
+}

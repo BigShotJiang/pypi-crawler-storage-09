@@ -1,22 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T04:20:34.595872
-- **Total Packages**: 87
-- **Total Size**: 30.01 MB
+- **Download Time**: 2025-10-19T04:44:00.284331
+- **Total Packages**: 83
+- **Total Size**: 9.68 MB
 
 ## Packages List
+- kabukit
+- miniacd
+- gpt-pr
+- autogen-vertexai-memory
+- python-fasthtml
+- assertlang
+- bool-hybrid-array
+- SURE-tools
+- kq-lmpc-quadrotor
+- embersort
+- authflow
+- oracle.oci-devops-mcp-server
+- pmccc
+- oracle.oci-bastion-mcp-server
+- oracle.oci-database-tools-mcp-server
+- xcpcio
+- xmind-mcp
+- oracle.oci-oracle-cloud-migrations-mcp-server
+- gpe-tokenizer
+- oracle.oci-generative-ai-mcp-server
+- concurry
+- mcp-vector-search
+- ElPeriodic
+- dinox-api
+- oracle.oci-oracle-content-management-mcp-server
+- keras-nlp-nightly
+- keras-hub-nightly
+- oracle.oci-notifications-mcp-server
+- mcli-framework
+- describealign
+- rosdomofon
+- oracle.oci-secure-desktops-mcp-server
+- starlake-snowflake
+- starlake-dagster
+- starlake-airflow
+- claude-mpm
+- yta-programming
 - acet
 - starlake-orchestration
 - poolcli
-- kq-lmpc-quadrotor
 - byzh-ai
-- xcpcio
 - cdktf-cdktf-provider-gitlab
 - anytype-pyclient
 - mdformat-wikilink
 - zc.buildout.languageserver
-- yta-programming
 - angle-emb
 - aenet-gpr
 - chromedriver-binary
@@ -32,7 +66,6 @@
 - absfuyu
 - amati
 - oracle.oci-data-science-mcp-server
-- assertlang
 - oracle.oci-marketplace-mcp-server
 - oracle.oci-network-firewall-mcp-server
 - odoo-addon-spreadsheet-dashboard-oca
@@ -42,15 +75,11 @@
 - mcts-gen
 - lovely-jax
 - nexusflowmeter
-- autogen-vertexai-memory
 - oracle.oci-autoscaling-mcp-server
 - oracle.oci-pre-built-function-document-generator-mcp-server
 - mikrotik-certbot
 - oracle.oci-ai-data-platform-mcp-server
-- claude-mpm
 - ezdxf
-- mcli-framework
-- gpe-tokenizer
 - fppull
 - lingxi-mlkit
 - rebrain
@@ -59,37 +88,4 @@
 - svc-infra
 - youtube-dl-nightly
 - keras-rs-nightly
-- miniacd
 - pyqrackising
-- SURE-tools
-- aitoolkit-esp32
-- python-snake-game
-- fluxura
-- abstractassistant
-- GANDLF
-- ryutils
-- termcolorx
-- welllog-ui
-- tencent-wedata-feature-engineering
-- amp-benchkit
-- quadrotor-koopman-datafree
-- oracle.mysql-mcp-server
-- static-dicomweb-creator
-- oracle.oci-health-checks-mcp-server
-- oracle.oci-ops-insights-mcp-server
-- dagster-dify
-- MoleCool
-- pygenpdf
-- odoo-addon-l10n-es-aeat-sii-oca
-- oracle.oci-vault-key-management-mcp-server
-- oracle.oci-cloud-guard-mcp-server
-- joblet-mcp-server
-- oracle.oci-resource-analytics-mcp-server
-- oracle.oci-cache-mcp-server
-- bbcli
-- oracle.oci-data-labeling-mcp-server
-- fynx
-- gamedig
-- tree-sitter-analyzer
-- rand-engine
-- tinydsl
