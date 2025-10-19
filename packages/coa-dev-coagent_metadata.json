@@ -1,11 +1,11 @@
 {
   "name": "coa-dev-coagent",
-  "version": "0.6.1",
+  "version": "0.6.1.post1",
   "summary": "CoAgent can help you assess, test, and monitor AI models and agents",
   "author": "Coagent Developers",
   "license": null,
   "home_page": null,
-  "download_filename": "coa_dev_coagent-0.6.1.tar.gz",
-  "download_time": "2025-10-19T08:50:44.737759",
+  "download_filename": "coa_dev_coagent-0.6.1.post1.tar.gz",
+  "download_time": "2025-10-19T09:29:39.800326",
   "package_url": "https://pypi.org/project/coa-dev-coagent/"
 }
