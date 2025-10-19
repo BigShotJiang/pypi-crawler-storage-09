@@ -1,0 +1,11 @@
+{
+  "name": "jishaku",
+  "version": "2.6.2",
+  "summary": "A discord.py extension including useful tools for bot development and debugging.",
+  "author": "Devon (scarletcafe) R",
+  "license": "MIT",
+  "home_page": "https://github.com/scarletcafe/jishaku",
+  "download_filename": "jishaku-2.6.2.tar.gz",
+  "download_time": "2025-10-19T20:17:00.594325",
+  "package_url": "https://pypi.org/project/jishaku/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "horsetalk",
-  "version": "0.28.2",
+  "version": "0.29.0",
   "summary": "A library of enums and parsers for common horseracing terminology",
   "author": "peaky76",
   "license": "GPL-3.0-only",
   "home_page": null,
-  "download_filename": "horsetalk-0.28.2.tar.gz",
-  "download_time": "2025-10-19T19:50:45.906616",
+  "download_filename": "horsetalk-0.29.0-py3-none-any.whl",
+  "download_time": "2025-10-19T20:17:00.030169",
   "package_url": "https://pypi.org/project/horsetalk/"
 }

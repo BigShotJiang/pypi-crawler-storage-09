@@ -1,0 +1,11 @@
+{
+  "name": "nebulog",
+  "version": "0.1.0",
+  "summary": "Rich output spectacularly merged into Loguru to serve as the cradle of your stellar logs",
+  "author": "Manoel Pereira de Queiroz",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/galactipy/nebulog",
+  "download_filename": "nebulog-0.1.0.tar.gz",
+  "download_time": "2025-10-19T20:17:13.040496",
+  "package_url": "https://pypi.org/project/nebulog/"
+}

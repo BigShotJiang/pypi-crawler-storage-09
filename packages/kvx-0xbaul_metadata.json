@@ -1,11 +1,11 @@
 {
   "name": "kvx-0xbaul",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "summary": "0xBAUL - Interfaz de laboratorio",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kvx_0xbaul-0.1.0.tar.gz",
-  "download_time": "2025-10-19T19:37:29.295976",
+  "download_filename": "kvx_0xbaul-1.1.0.tar.gz",
+  "download_time": "2025-10-19T20:17:27.715936",
   "package_url": "https://pypi.org/project/kvx-0xbaul/"
 }

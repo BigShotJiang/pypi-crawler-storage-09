@@ -1,0 +1,11 @@
+{
+  "name": "vector-demension",
+  "version": "0.1.2",
+  "summary": "Constraint checking engine with vectorized NumPy + Numba (no-scale).",
+  "author": "Le Thuc",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "vector_demension-0.1.2.tar.gz",
+  "download_time": "2025-10-19T20:16:58.892827",
+  "package_url": "https://pypi.org/project/vector-demension/"
+}

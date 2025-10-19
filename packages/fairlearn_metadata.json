@@ -1,0 +1,11 @@
+{
+  "name": "fairlearn",
+  "version": "0.13.0",
+  "summary": "A Python package to assess and improve fairness of machine learning models.",
+  "author": "Miroslav Dudik, Richard Edgar, Adrin Jalali, Roman Lutz, Michael Madaio, Hilde Weerts, Allie Saizan, Tamara Atanasoska, Tahar Allouche",
+  "license": null,
+  "home_page": "https://github.com/fairlearn/fairlearn",
+  "download_filename": "fairlearn-0.13.0.tar.gz",
+  "download_time": "2025-10-19T20:17:41.839437",
+  "package_url": "https://pypi.org/project/fairlearn/"
+}

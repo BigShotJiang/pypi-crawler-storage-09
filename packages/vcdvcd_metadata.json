@@ -1,0 +1,11 @@
+{
+  "name": "vcdvcd",
+  "version": "2.6.0",
+  "summary": "Python Verilog value change dump (VCD) parser library + the nifty vcdcat VCD command line viewer",
+  "author": "Ciro Santilli",
+  "license": null,
+  "home_page": "https://github.com/cirosantilli/vcdvcd",
+  "download_filename": "vcdvcd-2.6.0.tar.gz",
+  "download_time": "2025-10-19T20:17:31.647218",
+  "package_url": "https://pypi.org/project/vcdvcd/"
+}
