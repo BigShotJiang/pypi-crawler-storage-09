@@ -1,11 +1,11 @@
 {
   "name": "nanots",
-  "version": "0.20.0",
+  "version": "0.21.0",
   "summary": "Python bindings for nanots embedded time series database",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nanots-0.20.0.tar.gz",
-  "download_time": "2025-10-19T21:38:11.382797",
+  "download_filename": "nanots-0.21.0.tar.gz",
+  "download_time": "2025-10-19T23:29:13.491380",
   "package_url": "https://pypi.org/project/nanots/"
 }

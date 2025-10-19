@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T23:19:22.553592
-- **Total Packages**: 77
-- **Total Size**: 13.34 MB
+- **Download Time**: 2025-10-19T23:29:56.078253
+- **Total Packages**: 78
+- **Total Size**: 4.06 MB
 
 ## Packages List
+- know.py
+- CliSelf
+- ritellm
+- biblemate
+- astreum
+- winipedia-django
+- nanots
+- inlayr
+- ProjectManagerSdk
+- connected-components-3d
+- cve-report-aggregator
+- deksoftware
+- multiagent-core
+- bhp-pro
+- winipedia-utils
+- multi-puzzle-solver
+- pyuniq-demo
+- dekartifacts
 - chronos-gpu
 - pyhead-demo
 - napari-tomodl
@@ -21,7 +39,6 @@
 - beaver-index-importer
 - reaper-mcp
 - eth-portfolio-temp
-- CliSelf
 - aiter-metric
 - sky-fall
 - streamlit-sigmajs-component
@@ -63,23 +80,7 @@
 - yog-sothoth
 - mujoco-ar-viewer
 - niti
-- dekartifacts
 - nrel-bird
 - voice-mode
 - semantic-lexicon
 - dataproc-utility-tools
-- svc-infra
-- maticlib
-- epiccli-lite
-- smartmemory
-- pyimagedl
-- holodeck-ai
-- caniscrape
-- guacapy
-- lancalc
-- MetaRpcMT4
-- kos-Htools
-- vectome
-- aemo-to-tariff
-- fastuuid
-- findfile
