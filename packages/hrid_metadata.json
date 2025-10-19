@@ -1,0 +1,11 @@
+{
+  "name": "hrid",
+  "version": "0.3.1",
+  "summary": "The human readable id generator library for python3",
+  "author": "Minh Minh",
+  "license": "MIT",
+  "home_page": "https://github.com/hnimminh/human-readable-id",
+  "download_filename": "hrid-0.3.1.tar.gz",
+  "download_time": "2025-10-19T15:14:26.320967",
+  "package_url": "https://pypi.org/project/hrid/"
+}

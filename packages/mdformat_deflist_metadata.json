@@ -1,0 +1,11 @@
+{
+  "name": "mdformat_deflist",
+  "version": "0.1.4",
+  "summary": "An mdformat plugin for markdown-it-deflist.",
+  "author": "Chris Sewell",
+  "license": null,
+  "home_page": "https://github.com/executablebooks/mdformat-deflist",
+  "download_filename": "mdformat_deflist-0.1.4.tar.gz",
+  "download_time": "2025-10-19T15:14:28.886054",
+  "package_url": "https://pypi.org/project/mdformat_deflist/"
+}

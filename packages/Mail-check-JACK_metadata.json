@@ -1,11 +1,11 @@
 {
   "name": "Mail-check-JACK",
-  "version": "0.1.0",
-  "summary": "أداة لفحص البريد الإلكتروني.",
+  "version": "0.1.2",
+  "summary": "أداة لفحص البريد الإلكتروني",
   "author": "JACK",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mail_check_jack-0.1.0.tar.gz",
-  "download_time": "2025-10-19T14:50:36.670199",
+  "download_filename": "mail_check_jack-0.1.2.tar.gz",
+  "download_time": "2025-10-19T15:14:29.397160",
   "package_url": "https://pypi.org/project/Mail-check-JACK/"
 }
