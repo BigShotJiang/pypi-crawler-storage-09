@@ -1,8 +1,19 @@
 {
-  "download_time": "2025-10-19T09:40:59.838485",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 0.36,
+  "download_time": "2025-10-19T09:51:16.992264",
+  "total_packages_downloaded": 83,
+  "total_size_mb": 9.96,
   "packages": [
+    "brtp",
+    "image-mcp-server",
+    "valve-parsers",
+    "nextfempy",
+    "broccoli-ml",
+    "xai-creditscorecard",
+    "authflow",
+    "reno-structured-output",
+    "xtwraps",
+    "chutes",
+    "vntickers",
     "haut-jwglxt-scanner",
     "sabg-analysis",
     "mdformat-footnote",
@@ -15,11 +26,9 @@
     "ticko",
     "torchskradon",
     "yak-server",
-    "image-mcp-server",
     "isaacus",
     "moviebox-api",
     "xpander-sdk",
-    "chutes",
     "SURE-tools",
     "welllog-ui",
     "gal-gateway",
@@ -76,9 +85,6 @@
     "opower",
     "pkglite",
     "pmccc",
-    "lzytools",
-    "regressiontesting",
-    "dvrd-pydate",
-    "tm-cli"
+    "lzytools"
   ]
 }

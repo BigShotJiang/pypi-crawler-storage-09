@@ -1,11 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T09:40:59.838485
-- **Total Packages**: 77
-- **Total Size**: 0.36 MB
+- **Download Time**: 2025-10-19T09:51:16.992264
+- **Total Packages**: 83
+- **Total Size**: 9.96 MB
 
 ## Packages List
+- brtp
+- image-mcp-server
+- valve-parsers
+- nextfempy
+- broccoli-ml
+- xai-creditscorecard
+- authflow
+- reno-structured-output
+- xtwraps
+- chutes
+- vntickers
 - haut-jwglxt-scanner
 - sabg-analysis
 - mdformat-footnote
@@ -18,11 +29,9 @@
 - ticko
 - torchskradon
 - yak-server
-- image-mcp-server
 - isaacus
 - moviebox-api
 - xpander-sdk
-- chutes
 - SURE-tools
 - welllog-ui
 - gal-gateway
@@ -80,6 +89,3 @@
 - pkglite
 - pmccc
 - lzytools
-- regressiontesting
-- dvrd-pydate
-- tm-cli
