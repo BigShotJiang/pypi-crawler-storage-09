@@ -1,0 +1,11 @@
+{
+  "name": "chunckerflow",
+  "version": "0.1.0",
+  "summary": "Production-grade async text chunking framework for RAG systems",
+  "author": "ChunkFlow Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chunckerflow-0.1.0.tar.gz",
+  "download_time": "2025-10-19T14:13:50.974521",
+  "package_url": "https://pypi.org/project/chunckerflow/"
+}

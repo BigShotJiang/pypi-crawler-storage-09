@@ -1,12 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T13:50:42.984472
-- **Total Packages**: 86
-- **Total Size**: 16.54 MB
+- **Download Time**: 2025-10-19T14:14:32.170621
+- **Total Packages**: 85
+- **Total Size**: 32.75 MB
 
 ## Packages List
+- libresvip
+- pyargu
+- durak-nlp
+- delta-trace-db
+- RestrictedPython
+- sseqs
+- django-spire
+- csoundengine
+- SpatialEx
+- chunckerflow
+- dsites
+- rushconsole
+- xpander-sdk
+- opshin
+- Geode-Numerics
+- rushdata
+- infraweave
+- welllog-ui
+- jmstate
+- dcisionai-mcp-server
+- dialectus-engine
+- deployx
+- neuronum
+- vector-logic
+- indipyserver
+- simplecube
+- test-pub
+- rds-proxy-password-rotation
+- rapyer
 - dice-score-3d
+- bluer-ugv
+- faim-sdk
+- id-translation
+- applecatalog
+- deksoftware
+- pylizlib
+- dekartifacts
+- brtp
+- math2remember
+- deltadefi
+- tensordict-nightly
+- mapillary-downloader
+- assign-uprn
+- pygearbox
+- pymeili
 - prospr
 - neuroglia-python
 - mackup
@@ -15,7 +59,6 @@
 - codetable
 - pypdf
 - odoo-addons-parser
-- welllog-ui
 - mcp2py
 - gohutool-dataflow
 - eldar-string-utils
@@ -35,7 +78,6 @@
 - PyThor
 - colorchangerPDF
 - accrete
-- math2remember
 - bitcart
 - seperno
 - modusa
@@ -49,46 +91,3 @@
 - ml-trainer-sdk
 - ga3farifo
 - CliSelf
-- fbgemm-gpu-nightly-cpu
-- cogworks
-- hello-agents
-- ga3fario
-- reposmith-tol
-- webscout
-- deksoftware
-- sounddevice
-- isekai-django
-- abhamzufu
-- eaterate
-- hyperway
-- facture-electronique
-- klsosdoids5
-- pylizlib
-- pingmapper
-- nbdev-apl
-- nbdev-django
-- nbdev-sphinx
-- nbdev-scipy
-- notionary
-- nbdev-pytorch
-- nbdev-pandas
-- nbdev-numpy
-- nbdev-stdlib
-- text-analysis-matrix
-- fastapi-voyager
-- gidgetlab
-- gamengine2d
-- python-project-template-AS
-- sciveo
-- gunicorn-prometheus-exporter
-- pygame-ce
-- rsmime
-- xmlriver-pro
-- shruti
-- pysorteddict
-- rdapy
-- docbt
-- pyeasyphd
-- pingverter
-- libfsntfs-python
-- suzaku

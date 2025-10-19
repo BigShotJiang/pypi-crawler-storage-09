@@ -1,0 +1,11 @@
+{
+  "name": "RestrictedPython",
+  "version": "8.1",
+  "summary": "RestrictedPython is a defined subset of the Python language which allows to provide a program input into a trusted environment.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "https://github.com/zopefoundation/RestrictedPython",
+  "download_filename": "restrictedpython-8.1.tar.gz",
+  "download_time": "2025-10-19T14:13:47.678977",
+  "package_url": "https://pypi.org/project/RestrictedPython/"
+}

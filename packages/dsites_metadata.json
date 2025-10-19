@@ -1,11 +1,11 @@
 {
   "name": "dsites",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "D-Sites: Hybrid TFBS predictor (PWM + DNA shape + RF)",
   "author": "Pankaj, Kanaka KK",
   "license": null,
-  "home_page": "https://github.com/yourusername/dsites",
-  "download_filename": "dsites-1.1.0.tar.gz",
-  "download_time": "2025-10-18T11:25:29.137351",
+  "home_page": "https://github.com/pankaj357/D-Sites",
+  "download_filename": "dsites-1.1.1.tar.gz",
+  "download_time": "2025-10-19T14:13:51.560395",
   "package_url": "https://pypi.org/project/dsites/"
 }

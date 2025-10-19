@@ -1,11 +1,11 @@
 {
   "name": "jmstate",
-  "version": "0.4.5",
+  "version": "0.5.0",
   "summary": "Joint modeling with automatic differentiation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jmstate-0.4.5.tar.gz",
-  "download_time": "2025-10-17T20:39:33.877225",
+  "download_filename": "jmstate-0.5.0.tar.gz",
+  "download_time": "2025-10-19T14:13:57.070255",
   "package_url": "https://pypi.org/project/jmstate/"
 }

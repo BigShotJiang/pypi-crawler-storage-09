@@ -1,11 +1,11 @@
 {
   "name": "pygearbox",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "PyGearBox is a powerful, lightweight, and user-friendly plugin manager designed for Python applications",
   "author": "Arjun Thekkumadathil",
   "license": "Apache-2.0",
   "home_page": "https://github.com/toybrid/pyGearBox",
-  "download_filename": "pygearbox-1.1.1.tar.gz",
-  "download_time": "2025-10-18T05:14:47.134086",
+  "download_filename": "pygearbox-1.1.2.tar.gz",
+  "download_time": "2025-10-19T14:14:10.863423",
   "package_url": "https://pypi.org/project/pygearbox/"
 }
