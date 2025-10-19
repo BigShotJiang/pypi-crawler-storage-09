@@ -1,32 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T19:13:01.903944
+- **Download Time**: 2025-10-19T19:25:24.283853
 - **Total Packages**: 87
-- **Total Size**: 3.94 MB
+- **Total Size**: 0.27 MB
 
 ## Packages List
-- eL-tfgen
-- github-release-counter
-- hallyd
-- aider-ce
-- tovextravaganza
-- investing-algorithm-framework
-- kivy-garden.ebs.core
-- Buscador-De-Cursos-hack4u
-- wildduckpipe
-- qis
-- pulumi-django-azure
-- enventory
-- mayini-framework
 - zz-tools
-- plexosdb
-- blinkpy
-- bullishpy
-- postech-pressao
-- pretix-xpay
 - spin-hmi
 - xcomponent
+- hallyd
 - flatr
 - py-pve-cloud
 - convert-stream
@@ -38,6 +21,7 @@
 - nexaai
 - py-pve-cloud-backup
 - conson-xp
+- mayini-framework
 - polyterm
 - cogworks
 - neuroglia-python
@@ -93,3 +77,19 @@
 - sseqs
 - memory-graph
 - django-import-export
+- lanparty
+- parquetframe
+- pyawsmock
+- code-puppy
+- abstra-json-sql
+- yet-another-retry
+- amigo_sdk
+- WuttaWeb
+- ili2c-python
+- kstd
+- magic-link
+- wowool-chunks
+- WuttJamaican
+- ps2mqtt
+- edx-enterprise-data
+- universal-mcp-applications
