@@ -1,12 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T20:39:38.033198
-- **Total Packages**: 83
-- **Total Size**: 30.94 MB
+- **Download Time**: 2025-10-19T20:51:13.837280
+- **Total Packages**: 79
+- **Total Size**: 16.23 MB
 
 ## Packages List
+- oasys2
+- gradio-propertysheet
+- svc-infra
+- claritycore
+- vcspull
+- siglip2-image-indexer
+- prism-ssl
+- francisco-diaz
+- pytechnicalindicators
 - polyterm
+- winipedia-pyside
+- pylmt
+- tencentcloud-sdk-python-intl-en
+- spiraltorch
+- mcDETECT
+- CliSelf
+- broccoli-ml
+- cronverter
+- GameSentenceMiner
+- python-roborock
+- agentpack
+- moneyflow
+- aenet-gpr
+- fastapi-factory-utilities
+- webtoolkit
+- cmem-plugin-number-conversion
+- winipedia-utils
+- atlib
+- stateset-python
+- etl-watcher-sdk
+- textual-jumper
 - ayeto
 - xterminal
 - pysmartcocoon
@@ -14,18 +44,13 @@
 - pathways-game
 - streamlit-supabase-auth-flow
 - obsidiana
-- francisco-diaz
-- prism-ssl
 - todoist-digest
-- vcspull
 - fenix-mcp
 - pianosdk
-- broccoli-ml
 - changedetection.io
 - pulumi-django-azure
 - tccli-intl-en
 - wry
-- webtoolkit
 - glow
 - rollouts
 - smartmemory
@@ -42,7 +67,6 @@
 - cmem-plugin-csvcombine
 - primitive
 - shinestacker
-- aenet-gpr
 - neuron-assistant-v0.4
 - machineconfig
 - texttoolz
@@ -61,31 +85,3 @@
 - jmstate
 - pyqrackising
 - pitwall
-- GeneralManager
-- cpp-hf
-- tts-webui-extension.chatterbox
-- radboy
-- nebulog
-- sombra
-- pysof
-- myldapsync
-- intelli
-- patent-mcp-server
-- universal-mcp-applications
-- stateset-agents
-- auto-workflow
-- pygslv
-- nu-waves
-- gs-batch-pdf
-- tree-sitter-autolang
-- svc-infra
-- soildb
-- arango-rdf
-- instrumentman
-- easy-bitrix
-- bayescalc2
-- vcdvcd
-- pyke-lol
-- kivy-garden.ebs.core
-- abstra
-- reminder-aggregator

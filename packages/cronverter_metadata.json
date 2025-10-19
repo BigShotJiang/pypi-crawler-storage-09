@@ -1,0 +1,11 @@
+{
+  "name": "cronverter",
+  "version": "0.2.0",
+  "summary": "A Python package for converting cron expressions between different formats.",
+  "author": "I-Am-hehu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cronverter-0.2.0.tar.gz",
+  "download_time": "2025-10-19T20:50:39.258624",
+  "package_url": "https://pypi.org/project/cronverter/"
+}

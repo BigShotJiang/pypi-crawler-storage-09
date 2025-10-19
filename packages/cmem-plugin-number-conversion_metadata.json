@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-number-conversion",
+  "version": "0.7.0",
+  "summary": "Convert numbers between binary, octal, decimal and hexadecimal representation.",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eccenca/cmem-plugin-number-conversion",
+  "download_filename": "cmem_plugin_number_conversion-0.7.0.tar.gz",
+  "download_time": "2025-10-19T20:50:43.862499",
+  "package_url": "https://pypi.org/project/cmem-plugin-number-conversion/"
+}

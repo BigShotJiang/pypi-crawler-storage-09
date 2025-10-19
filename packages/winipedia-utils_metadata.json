@@ -1,11 +1,11 @@
 {
   "name": "winipedia-utils",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "A package with many utility functions",
   "author": "Winipedia",
   "license": null,
   "home_page": null,
-  "download_filename": "winipedia_utils-0.2.9.tar.gz",
-  "download_time": "2025-10-19T19:37:23.082534",
+  "download_filename": "winipedia_utils-0.2.10.tar.gz",
+  "download_time": "2025-10-19T20:50:44.403909",
   "package_url": "https://pypi.org/project/winipedia-utils/"
 }
