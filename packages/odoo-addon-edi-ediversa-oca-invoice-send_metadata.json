@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-ediversa-oca-invoice-send",
+  "version": "17.0.1.0.1",
+  "summary": "Send customer invoices to Ediversa",
+  "author": "Sygel, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi-ediversa",
+  "download_filename": "odoo_addon_edi_ediversa_oca_invoice_send-17.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-10-19T16:51:44.315880",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-ediversa-oca-invoice-send/"
+}
