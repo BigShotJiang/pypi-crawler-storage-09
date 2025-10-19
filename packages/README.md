@@ -1,17 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T14:42:27.911054
+- **Download Time**: 2025-10-19T14:51:17.245576
 - **Total Packages**: 82
-- **Total Size**: 11.38 MB
+- **Total Size**: 2.02 MB
 
 ## Packages List
+- transmutation
+- pyargu
+- five-factor-e
+- rust-template
+- noqa-runner
+- mtlearn
+- solarmoonpy
+- Mail-check-JACK
+- python-proptest
+- zero-harm-ai-detectors
+- spax
+- image-mcp-server
+- rushevent
+- pydantic-ai-claude-code
+- mcp-weather-sse-cjshen
+- pywargame
+- treaz
 - llmeval-sdk
-- bilibili-subtitle-fetch
 - dj-all-auth
 - elevator-py
 - forklift-etl
-- mtlearn
 - mif
 - dlib-bin
 - swotzypy
@@ -20,7 +35,6 @@
 - vector-logic
 - applecatalog
 - setuptools-cmake-helper
-- rushevent
 - pandasdv
 - envresolve
 - xpander-sdk
@@ -28,10 +42,9 @@
 - pg-mcp
 - sigmaeval-framework
 - legit-api-client
-- image-mcp-server
 - mkdocs-note
-- zero-harm-ai-detectors
 - kq-lmpc-quadrotor
+- bilibili-subtitle-fetch
 - pyvaq
 - Geode-Implicit
 - pyasyncsql
@@ -57,7 +70,6 @@
 - aind-zarr-utils
 - jmstate
 - libresvip
-- pyargu
 - durak-nlp
 - delta-trace-db
 - RestrictedPython
@@ -76,15 +88,3 @@
 - dialectus-engine
 - deployx
 - neuronum
-- indipyserver
-- simplecube
-- test-pub
-- rds-proxy-password-rotation
-- rapyer
-- dice-score-3d
-- bluer-ugv
-- faim-sdk
-- id-translation
-- deksoftware
-- pylizlib
-- dekartifacts

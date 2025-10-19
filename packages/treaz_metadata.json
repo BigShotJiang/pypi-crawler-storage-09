@@ -1,0 +1,11 @@
+{
+  "name": "treaz",
+  "version": "2.0.0",
+  "summary": "Mysterious system & network reconnaissance tool",
+  "author": "ervuln",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "treaz-2.0.0.tar.gz",
+  "download_time": "2025-10-19T14:50:41.355214",
+  "package_url": "https://pypi.org/project/treaz/"
+}

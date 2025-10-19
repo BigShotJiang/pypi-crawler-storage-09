@@ -1,11 +1,11 @@
 {
   "name": "pyargu",
-  "version": "0.0.3",
-  "summary": "Parser argumen command-line dari nol: config, ENV, validator, dan completion",
+  "version": "0.0.4",
+  "summary": "Parser CLI Python buatan sendiri dengan fitur lengkap: UI, Logging, Telemetry, Config, Schema, dan Plugin.",
   "author": "Athallah Rajendra Putra Juniarto",
-  "license": "MIT",
-  "home_page": null,
-  "download_filename": "pyargu-0.0.3.tar.gz",
-  "download_time": "2025-10-19T14:31:11.580015",
+  "license": null,
+  "home_page": "https://github.com/athallah-rp/ArguMint",
+  "download_filename": "pyargu-0.0.4.tar.gz",
+  "download_time": "2025-10-19T14:50:33.441879",
   "package_url": "https://pypi.org/project/pyargu/"
 }
