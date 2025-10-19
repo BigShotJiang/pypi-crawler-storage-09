@@ -1,16 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T05:34:22.208313
-- **Total Packages**: 80
-- **Total Size**: 1.03 MB
+- **Download Time**: 2025-10-19T05:51:02.445438
+- **Total Packages**: 83
+- **Total Size**: 9.26 MB
 
 ## Packages List
+- zhmiscellany
+- dorgy
+- saini
+- e-qsl
+- kraken-sockets
+- django-siruta
+- the-telegraphist
+- byzh-ai
+- pythagoras
+- lattifai
+- aenet-gpr
+- agentsilex
+- bear-dereth
+- oracle.oci-postgresql-mcp-server
+- agenticle
+- orchai
+- oracle.mysql-database-mcp-server
+- d365fo-client
+- bintang
+- ocr-my-mess
+- dttxml
+- oracle.oci-application-performance-monitoring-mcp-server
+- mathai
 - parameterizable
 - oracle.oci-java-management-mcp-server
 - ultraspn
 - letta-client
-- zhmiscellany
 - oracle.oci-audit-mcp-server
 - oracle.oci-postgresql-database-mcp-server
 - bwq-mcp-demo
@@ -33,7 +55,6 @@
 - lattifai-core
 - oracle.oci-certificates-mcp-server
 - oracle.oci-file-storage-mcp-server
-- aenet-gpr
 - moai-adk
 - oracle.oci-marketplace-publisher-service-mcp-server
 - django-cfg
@@ -41,7 +62,6 @@
 - oracle.oci-generic-artifacts-content-mcp-server
 - oracle.oci-support-management-mcp-server
 - owocr
-- saini
 - pydmnrules-mcp-server
 - agently
 - oracle.oci-database-management-sql-performance-watch-mcp-server
@@ -57,7 +77,6 @@
 - worqhat
 - oracle.oci-digital-assistant-mcp-server
 - rtoml
-- dorgy
 - dinnovos-agent
 - deeprehab-movements
 - svc-infra
@@ -70,19 +89,3 @@
 - deeprehab-pose
 - zeus
 - make-it-sync
-- miniacd
-- gpt-pr
-- autogen-vertexai-memory
-- python-fasthtml
-- assertlang
-- bool-hybrid-array
-- SURE-tools
-- authflow
-- oracle.oci-devops-mcp-server
-- pmccc
-- oracle.oci-bastion-mcp-server
-- oracle.oci-database-tools-mcp-server
-- xcpcio
-- oracle.oci-oracle-cloud-migrations-mcp-server
-- gpe-tokenizer
-- oracle.oci-generative-ai-mcp-server

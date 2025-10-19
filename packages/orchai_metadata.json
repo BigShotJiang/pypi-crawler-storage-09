@@ -1,0 +1,11 @@
+{
+  "name": "orchai",
+  "version": "1.0.0",
+  "summary": "AI-powered CLI that analyzes repos, generates Docker configs, and can build & run them.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orchai-1.0.0.tar.gz",
+  "download_time": "2025-10-19T05:50:27.150699",
+  "package_url": "https://pypi.org/project/orchai/"
+}

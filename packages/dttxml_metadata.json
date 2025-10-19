@@ -1,0 +1,11 @@
+{
+  "name": "dttxml",
+  "version": "1.1.8",
+  "summary": "Extract data from LIGO Diagnostics test tools XML format. Formerly dtt2hdf.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dttxml-1.1.8-py3-none-any.whl",
+  "download_time": "2025-10-19T05:50:29.780571",
+  "package_url": "https://pypi.org/project/dttxml/"
+}

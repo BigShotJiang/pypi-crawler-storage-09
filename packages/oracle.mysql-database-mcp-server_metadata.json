@@ -1,0 +1,11 @@
+{
+  "name": "oracle.mysql-database-mcp-server",
+  "version": "0.0.0",
+  "summary": "MySQL MCP Database server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_mysql_database_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T05:50:27.661704",
+  "package_url": "https://pypi.org/project/oracle.mysql-database-mcp-server/"
+}

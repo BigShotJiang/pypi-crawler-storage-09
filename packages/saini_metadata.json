@@ -1,11 +1,11 @@
 {
   "name": "saini",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Developer productivity toolkit: time tracking, Pomodoro timer, project tree visualization, and automation tools",
   "author": "Rohit Saini",
   "license": null,
   "home_page": "https://github.com/rohitsainier/saini",
-  "download_filename": "saini-1.0.2.tar.gz",
-  "download_time": "2025-10-19T05:16:02.101189",
+  "download_filename": "saini-1.0.3-py3-none-any.whl",
+  "download_time": "2025-10-19T05:50:20.236155",
   "package_url": "https://pypi.org/project/saini/"
 }
