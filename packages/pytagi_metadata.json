@@ -1,0 +1,11 @@
+{
+  "name": "pytagi",
+  "version": "0.2.1",
+  "summary": "Tractable Approximate Gaussian Inference",
+  "author": "Luong-Ha Nguyen and James-A. Goulet",
+  "license": "MIT",
+  "home_page": "https://github.com/lhnguyen102/cuTAGI",
+  "download_filename": "pytagi-0.2.1.tar.gz",
+  "download_time": "2025-10-19T17:29:48.334557",
+  "package_url": "https://pypi.org/project/pytagi/"
+}

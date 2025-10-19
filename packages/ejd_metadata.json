@@ -1,11 +1,11 @@
 {
   "name": "ejd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A CLI tool for static code analysis and fixing using Gemini AI",
   "author": "Ahmed Samir",
   "license": null,
   "home_page": null,
-  "download_filename": "ejd-0.1.1.tar.gz",
-  "download_time": "2025-10-19T16:51:40.510708",
+  "download_filename": "ejd-0.1.2.tar.gz",
+  "download_time": "2025-10-19T17:29:41.855237",
   "package_url": "https://pypi.org/project/ejd/"
 }

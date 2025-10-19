@@ -1,0 +1,11 @@
+{
+  "name": "fasttlogparser",
+  "version": "1.1.1",
+  "summary": "Blazing-Fast MAVLink .tlog Parser",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fasttlogparser-1.1.1.tar.gz",
+  "download_time": "2025-10-19T17:29:51.494906",
+  "package_url": "https://pypi.org/project/fasttlogparser/"
+}
