@@ -1,0 +1,11 @@
+{
+  "name": "simple-sqlite3-orm",
+  "version": "0.13.0",
+  "summary": "A simple yet powerful SQLite3 ORM, powered by pydantic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_sqlite3_orm-0.13.0.tar.gz",
+  "download_time": "2025-10-19T08:41:49.935340",
+  "package_url": "https://pypi.org/project/simple-sqlite3-orm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rtcam",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Receiving frames from camera in subnet browsers via WebRTC",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rtcam-0.0.2.tar.gz",
-  "download_time": "2025-10-18T01:06:59.604401",
+  "download_filename": "rtcam-0.0.3.tar.gz",
+  "download_time": "2025-10-19T08:41:46.167583",
   "package_url": "https://pypi.org/project/rtcam/"
 }
