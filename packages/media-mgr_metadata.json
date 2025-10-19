@@ -1,0 +1,11 @@
+{
+  "name": "media-mgr",
+  "version": "0.1.15",
+  "summary": "Media file search and categorization utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "media_mgr-0.1.15.tar.gz",
+  "download_time": "2025-10-19T15:29:54.394467",
+  "package_url": "https://pypi.org/project/media-mgr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "polars-runtime-compat",
+  "version": "1.34.0",
+  "summary": "Blazingly fast DataFrame library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_runtime_compat-1.34.0.tar.gz",
+  "download_time": "2025-10-19T15:29:57.768780",
+  "package_url": "https://pypi.org/project/polars-runtime-compat/"
+}

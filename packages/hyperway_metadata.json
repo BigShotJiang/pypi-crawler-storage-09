@@ -1,11 +1,11 @@
 {
   "name": "hyperway",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A functional graph execution engine with left-associative edge execution and composable node connections",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperway-1.0.2.tar.gz",
-  "download_time": "2025-10-19T13:28:03.410940",
+  "download_filename": "hyperway-1.0.3.tar.gz",
+  "download_time": "2025-10-19T15:29:51.629910",
   "package_url": "https://pypi.org/project/hyperway/"
 }

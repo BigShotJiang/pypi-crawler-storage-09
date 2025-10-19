@@ -1,0 +1,11 @@
+{
+  "name": "puter-python-sdk",
+  "version": "0.5.0",
+  "summary": "Python SDK for accessing free AI models through Puter.js",
+  "author": "Slymi",
+  "license": "MIT",
+  "home_page": "https://github.com/CuzImSlymi/puter-python-sdk",
+  "download_filename": "puter_python_sdk-0.5.0.tar.gz",
+  "download_time": "2025-10-19T15:30:01.439273",
+  "package_url": "https://pypi.org/project/puter-python-sdk/"
+}

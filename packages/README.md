@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T15:15:04.121270
-- **Total Packages**: 82
-- **Total Size**: 10.7 MB
+- **Download Time**: 2025-10-19T15:30:29.147653
+- **Total Packages**: 87
+- **Total Size**: 35.07 MB
 
 ## Packages List
+- kivy-garden.ebs.forms
+- evonet
+- aiohomematic
+- calkit-python
+- easyrunner-cli
+- jmstate
+- abstractvoice
+- hamurico
+- pylizlib
+- mozyq
+- lihil
+- dreamer4
+- mobject-klixz
+- odoo-addon-website-malaletra
+- mdbq
+- artmeta
+- otpme
+- endec
+- hamubika
+- hyperway
+- tsclient
+- rust-template
+- bitwarden-exporter
+- termingpt
+- media-mgr
+- neuroglia-python
+- iot2mqtt
+- h5rdmtoolbox
+- manim-fa
+- geoseeq
+- polars-runtime-compat
+- crisp-t
+- polars-runtime-64
+- talkingdata
+- polars-runtime-32
+- polars
+- puter-python-sdk
+- backend-common-kato
+- checkdmarc
+- wecom-notifier
+- meuvm
 - computemate
 - numanalysis
 - biblemate
@@ -13,7 +54,6 @@
 - fmi-ai-judge
 - quaxed
 - mcp2py
-- pyargu
 - pyranges1
 - rtmdet
 - netfl
@@ -25,16 +65,13 @@
 - ome
 - mdformat_deflist
 - Mail-check-JACK
-- geoseeq
 - jupytext
 - t-prompts
 - odoo-addon-account-invoice-default-code-column
 - maticlib
 - xinference-client
 - mcp-weather-server
-- tsclient
 - evo2-mcp
-- mdbq
 - rag-kmk
 - pycompgen
 - ssrjson-benchmark
@@ -44,7 +81,6 @@
 - sbkube
 - transmutation
 - five-factor-e
-- rust-template
 - noqa-runner
 - mtlearn
 - solarmoonpy
@@ -57,34 +93,3 @@
 - mcp-weather-sse-cjshen
 - pywargame
 - treaz
-- llmeval-sdk
-- dj-all-auth
-- elevator-py
-- forklift-etl
-- mif
-- dlib-bin
-- swotzypy
-- radboy
-- endec
-- vector-logic
-- applecatalog
-- setuptools-cmake-helper
-- pandasdv
-- envresolve
-- xpander-sdk
-- elinor
-- pg-mcp
-- sigmaeval-framework
-- mkdocs-note
-- kq-lmpc-quadrotor
-- Geode-Implicit
-- pyasyncsql
-- pypomes-s3
-- yt-queue
-- dialectus-cli
-- reposmith-tol
-- rushrunning
-- atpbar
-- welllog-ui
-- aiorotation
-- rushclis
