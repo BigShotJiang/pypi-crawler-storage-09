@@ -1,0 +1,11 @@
+{
+  "name": "django-patango",
+  "version": "0.2.0",
+  "summary": "A Django library with frontend integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_patango-0.2.0.tar.gz",
+  "download_time": "2025-10-19T21:14:28.768413",
+  "package_url": "https://pypi.org/project/django-patango/"
+}
