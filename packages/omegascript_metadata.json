@@ -1,0 +1,11 @@
+{
+  "name": "omegascript",
+  "version": "1.0.0",
+  "summary": "A multifunctional Python module integrating OS, Web, GUI, SQL, Media, and Security capabilities.",
+  "author": "Ibrahim Shahid",
+  "license": null,
+  "home_page": "https://pypi.org/project/omegascript/",
+  "download_filename": "omegascript-1.0.0.tar.gz",
+  "download_time": "2025-10-19T07:14:36.541939",
+  "package_url": "https://pypi.org/project/omegascript/"
+}
