@@ -1,0 +1,11 @@
+{
+  "name": "hybrid-constraint-engine",
+  "version": "0.1.0",
+  "summary": "Constraint checking engine with vectorized NumPy + Numba (no-scale).",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "hybrid_constraint_engine-0.1.0.tar.gz",
+  "download_time": "2025-10-19T19:50:49.449196",
+  "package_url": "https://pypi.org/project/hybrid-constraint-engine/"
+}

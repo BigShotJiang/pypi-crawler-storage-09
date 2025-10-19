@@ -1,0 +1,11 @@
+{
+  "name": "intelli",
+  "version": "1.2.0",
+  "summary": "Build AI agents and MCPs with Intellinode.",
+  "author": "Intellinode",
+  "license": null,
+  "home_page": "https://www.intellinode.ai/",
+  "download_filename": "intelli-1.2.0.tar.gz",
+  "download_time": "2025-10-19T19:50:44.099870",
+  "package_url": "https://pypi.org/project/intelli/"
+}

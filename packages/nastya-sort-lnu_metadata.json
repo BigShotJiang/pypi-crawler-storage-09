@@ -1,11 +1,11 @@
 {
   "name": "nastya-sort-lnu",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Simple sort utility implemented in Python with Click",
   "author": "Nastya",
   "license": null,
-  "home_page": "https://github.com/nastya-username/nastya-sort",
-  "download_filename": "nastya_sort_lnu-0.1.0.tar.gz",
-  "download_time": "2025-10-19T19:37:24.111040",
+  "home_page": "https://github.com/Nastia2004/nastya-sort-lnu",
+  "download_filename": "nastya_sort_lnu-0.2.0.tar.gz",
+  "download_time": "2025-10-19T19:50:43.518622",
   "package_url": "https://pypi.org/project/nastya-sort-lnu/"
 }
