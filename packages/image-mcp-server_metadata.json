@@ -1,11 +1,11 @@
 {
   "name": "image-mcp-server",
-  "version": "0.1.5",
-  "summary": "MCP server for image understanding using Alibaba Cloud's Qwen3-VL-Plus model",
+  "version": "0.2.0",
+  "summary": "一个简洁的 MCP 服务器，用于图片内容分析，支持本地文件和剪贴板图片",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "image_mcp_server-0.1.5.tar.gz",
-  "download_time": "2025-10-19T10:15:44.178754",
+  "download_filename": "image_mcp_server-0.2.0.tar.gz",
+  "download_time": "2025-10-19T13:50:07.972987",
   "package_url": "https://pypi.org/project/image-mcp-server/"
 }
