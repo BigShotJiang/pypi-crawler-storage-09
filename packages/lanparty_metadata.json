@@ -1,11 +1,11 @@
 {
   "name": "lanparty",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Local chat via LAN",
   "author": "EnderLumi, Leon",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "lanparty-1.0.2.tar.gz",
-  "download_time": "2025-10-19T22:15:24.669907",
+  "download_filename": "lanparty-1.0.3.tar.gz",
+  "download_time": "2025-10-19T22:51:04.869124",
   "package_url": "https://pypi.org/project/lanparty/"
 }

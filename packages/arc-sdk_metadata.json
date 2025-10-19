@@ -1,0 +1,11 @@
+{
+  "name": "arc-sdk",
+  "version": "1.2.1",
+  "summary": "Python implementation of the Agent Remote Communication (ARC) Protocol",
+  "author": "Moein Roghani",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/arcprotocol/python-sdk",
+  "download_filename": "arc_sdk-1.2.1.tar.gz",
+  "download_time": "2025-10-19T22:51:08.041292",
+  "package_url": "https://pypi.org/project/arc-sdk/"
+}

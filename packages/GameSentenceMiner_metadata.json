@@ -1,11 +1,11 @@
 {
   "name": "GameSentenceMiner",
-  "version": "2.19.0",
+  "version": "2.19.1",
   "summary": "A tool for mining sentences from games. Update: Dependencies, replay buffer based line searching, and bug fixes.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "gamesentenceminer-2.19.0.tar.gz",
-  "download_time": "2025-10-19T20:50:39.952362",
+  "download_filename": "gamesentenceminer-2.19.1.tar.gz",
+  "download_time": "2025-10-19T22:51:01.138182",
   "package_url": "https://pypi.org/project/GameSentenceMiner/"
 }
