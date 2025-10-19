@@ -1,0 +1,11 @@
+{
+  "name": "klever",
+  "version": "0.1.0a1",
+  "summary": "Kit for Less-Effort Verification",
+  "author": "esynr3z",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "klever-0.1.0a1.tar.gz",
+  "download_time": "2025-10-19T09:14:47.548414",
+  "package_url": "https://pypi.org/project/klever/"
+}

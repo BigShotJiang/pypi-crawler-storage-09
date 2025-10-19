@@ -1,11 +1,11 @@
 {
   "name": "uncertainAPI",
-  "version": "0.1.0.dev0",
+  "version": "0.1.2.dev0",
   "summary": "A Python package for uncertainAPI",
   "author": "Iyanuoluwa Adebayo",
-  "license": "MIT",
-  "home_page": "https://uncertainapi.com/",
-  "download_filename": "uncertainapi-0.1.0.dev0.tar.gz",
-  "download_time": "2025-10-18T23:50:47.410926",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uncertainapi-0.1.2.dev0.tar.gz",
+  "download_time": "2025-10-19T09:14:41.165825",
   "package_url": "https://pypi.org/project/uncertainAPI/"
 }
