@@ -1,11 +1,11 @@
 {
   "name": "geoseeq",
-  "version": "0.7.10",
+  "version": "0.7.11",
   "summary": "GeoSeeq command line tools and python API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geoseeq-0.7.10-py3-none-any.whl",
-  "download_time": "2025-10-19T22:15:30.500561",
+  "download_filename": "geoseeq-0.7.11-py3-none-any.whl",
+  "download_time": "2025-10-19T23:39:28.673786",
   "package_url": "https://pypi.org/project/geoseeq/"
 }
