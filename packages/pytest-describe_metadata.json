@@ -1,0 +1,11 @@
+{
+  "name": "pytest-describe",
+  "version": "2.2.1",
+  "summary": "Describe-style plugin for pytest",
+  "author": "Robin Pedersen",
+  "license": "MIT",
+  "home_page": "https://github.com/pytest-dev/pytest-describe",
+  "download_filename": "pytest_describe-2.2.1.tar.gz",
+  "download_time": "2025-10-19T15:40:12.643365",
+  "package_url": "https://pypi.org/project/pytest-describe/"
+}
