@@ -1,28 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T15:40:57.398521
-- **Total Packages**: 86
-- **Total Size**: 6.91 MB
+- **Download Time**: 2025-10-19T15:51:18.929930
+- **Total Packages**: 81
+- **Total Size**: 10.53 MB
 
 ## Packages List
+- zz-tools
+- deep-quant-lib
+- sagar-varma
+- asyncsqlpy
+- okerrsensor
+- deepagents-cli
+- evonet
+- pyportion
+- nndesigner
+- exoanchor
+- kontra
+- fastflight
+- jitter00-jinfo
+- Treeed
+- infraweave
+- nuha
+- fastapi-teams-bot
+- cve-driller
+- dreamer4
+- psutil
+- bilibili-subtitle-fetch
+- llmakits
+- mdbq
+- jotsu-mcp
+- numanalysis
+- bitwarden-exporter
 - zero-harm-ai-detectors
 - sseqs
 - pytest-describe
-- sagar-varma
 - install-k2
 - kivy-garden.ebs.camera
 - basisvectorvisualizer
-- asyncsqlpy
 - wave-simulator
 - sbkube
 - wunderkafka
 - kivy-garden.ebs.forms
 - rizco09
 - chgksuite
-- dreamer4
 - geoseeq
-- evonet
 - aiohomematic
 - calkit-python
 - easyrunner-cli
@@ -34,7 +56,6 @@
 - lihil
 - mobject-klixz
 - odoo-addon-website-malaletra
-- mdbq
 - artmeta
 - otpme
 - endec
@@ -42,7 +63,6 @@
 - hyperway
 - tsclient
 - rust-template
-- bitwarden-exporter
 - termingpt
 - media-mgr
 - neuroglia-python
@@ -61,34 +81,9 @@
 - wecom-notifier
 - meuvm
 - computemate
-- numanalysis
 - biblemate
 - know.py
 - fmi-ai-judge
 - quaxed
 - mcp2py
 - pyranges1
-- rtmdet
-- netfl
-- lilya
-- hrid
-- odoo-addon-auto-backup
-- robotpy-questnav
-- bilibili-subtitle-fetch
-- ome
-- mdformat_deflist
-- Mail-check-JACK
-- jupytext
-- t-prompts
-- odoo-addon-account-invoice-default-code-column
-- maticlib
-- xinference-client
-- mcp-weather-server
-- evo2-mcp
-- rag-kmk
-- pycompgen
-- ssrjson-benchmark
-- series-intro-recognizer
-- legit-api-client
-- rents-mcp-weather2
-- transmutation

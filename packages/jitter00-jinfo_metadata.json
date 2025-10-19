@@ -1,11 +1,11 @@
 {
   "name": "jitter00-jinfo",
-  "version": "0.2.0",
+  "version": "0.2.8",
   "summary": "Juniper device information retrieval tool via NETCONF",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jitter00_jinfo-0.2.0.tar.gz",
-  "download_time": "2025-10-19T11:37:14.830020",
+  "download_filename": "jitter00_jinfo-0.2.8.tar.gz",
+  "download_time": "2025-10-19T15:50:43.214403",
   "package_url": "https://pypi.org/project/jitter00-jinfo/"
 }
