@@ -1,0 +1,11 @@
+{
+  "name": "blackprint-rc",
+  "version": "0.2.0",
+  "summary": "Blackprint Engine remote control feature for Python",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/Blackprint/remote-control",
+  "download_filename": "blackprint_rc-0.2.0-py3-none-any.whl",
+  "download_time": "2025-10-19T07:27:30.330012",
+  "package_url": "https://pypi.org/project/blackprint-rc/"
+}

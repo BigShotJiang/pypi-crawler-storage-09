@@ -1,11 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T07:15:19.870399
-- **Total Packages**: 75
-- **Total Size**: 14.09 MB
+- **Download Time**: 2025-10-19T07:28:06.765661
+- **Total Packages**: 79
+- **Total Size**: 2.75 MB
 
 ## Packages List
+- pyarchinit-mini
+- fnschool
+- heatmap_cli
+- reinforcenow
+- claude-multi-worker
+- pywargame
+- dbt-colibri
+- deezspot
+- biblemate
+- photo-metadata
+- blackprint-rc
+- onnxscript
+- tritonparse
+- dorgy
 - scylla-cqlsh
 - xsget
 - omegascript
@@ -27,7 +41,6 @@
 - pdfbaker
 - nonebot-plugin-exdi
 - aenet-gpr
-- pywargame
 - pathao-api
 - node-graph
 - nexus-tool
@@ -72,12 +85,3 @@
 - wiselib
 - cve-explorer-cli
 - oracle.oci-exadata-mcp-server
-- policyengine-us
-- the-telegraphist
-- oracle.oci-resource-scheduler-mcp-server
-- oracle.oci-security-attribute-mcp-server
-- pmccc
-- reykit
-- ai-edge-litert-nightly
-- saini
-- ugit-cli
