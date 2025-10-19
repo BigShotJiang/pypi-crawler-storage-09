@@ -1,0 +1,11 @@
+{
+  "name": "skillman",
+  "version": "0.3.3",
+  "summary": "CLI tool for managing Claude skills from GitHub repositories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skillman-0.3.3.tar.gz",
+  "download_time": "2025-10-19T06:55:09.944807",
+  "package_url": "https://pypi.org/project/skillman/"
+}

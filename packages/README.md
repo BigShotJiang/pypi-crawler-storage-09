@@ -1,15 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T06:48:17.829676
-- **Total Packages**: 77
-- **Total Size**: 4.08 MB
+- **Download Time**: 2025-10-19T06:55:46.483145
+- **Total Packages**: 76
+- **Total Size**: 13.47 MB
 
 ## Packages List
+- pywargame
+- pathao-api
+- node-graph
+- nexus-tool
+- tespy
+- mlrun
+- terminal-tutor
+- skillman
+- bytebub-discord-multitool
+- dcisionai-mcp-server
+- passive_server
+- nonebot-plugin-anan-say
+- aipscan
+- omnigen-usf
+- morphcloud
 - simple-repository-browser
 - topo_map_processor
 - langchain-sarvam
-- dcisionai-mcp-server
 - pulumi-command
 - zentropy-py
 - autogen-vertexai-memory
@@ -33,11 +47,9 @@
 - gh_release_tools
 - kvcached
 - kabukit
-- node-graph
 - aenet-gpr
 - domcontext
 - wiselib
-- nexus-tool
 - cve-explorer-cli
 - oracle.oci-exadata-mcp-server
 - policyengine-us
@@ -46,7 +58,6 @@
 - oracle.oci-security-attribute-mcp-server
 - pmccc
 - reykit
-- nonebot-plugin-anan-say
 - ai-edge-litert-nightly
 - saini
 - ocr-my-mess
@@ -71,15 +82,3 @@
 - pyrmute
 - gondola
 - zhmiscellany
-- e-qsl
-- kraken-sockets
-- django-siruta
-- byzh-ai
-- pythagoras
-- lattifai
-- agentsilex
-- bear-dereth
-- oracle.oci-postgresql-mcp-server
-- orchai
-- oracle.mysql-database-mcp-server
-- d365fo-client
