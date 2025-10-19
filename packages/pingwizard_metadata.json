@@ -1,0 +1,11 @@
+{
+  "name": "pingwizard",
+  "version": "1.0.10",
+  "summary": "Light-weight interface for running PING ecosystem (PINGMapper, etc.)",
+  "author": "Cameron Bodine",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pingwizard-1.0.10.tar.gz",
+  "download_time": "2025-10-19T13:00:46.283473",
+  "package_url": "https://pypi.org/project/pingwizard/"
+}

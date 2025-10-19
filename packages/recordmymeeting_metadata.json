@@ -1,0 +1,11 @@
+{
+  "name": "recordmymeeting",
+  "version": "0.2.0",
+  "summary": "Effortlessly capture audio and screen with intelligent device detection",
+  "author": "Sachin Singh",
+  "license": null,
+  "home_page": "https://github.com/sachincse/recordmymeeting",
+  "download_filename": "recordmymeeting-0.2.0.tar.gz",
+  "download_time": "2025-10-19T13:00:54.505088",
+  "package_url": "https://pypi.org/project/recordmymeeting/"
+}

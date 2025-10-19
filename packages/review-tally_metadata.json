@@ -1,0 +1,11 @@
+{
+  "name": "review-tally",
+  "version": "0.5.1",
+  "summary": "A tool to discover who is reviewing your organization's PRs",
+  "author": "ghinks",
+  "license": "Apache",
+  "home_page": "https://github.com/ghinks/review-tally",
+  "download_filename": "review_tally-0.5.1.tar.gz",
+  "download_time": "2025-10-19T13:01:08.965593",
+  "package_url": "https://pypi.org/project/review-tally/"
+}

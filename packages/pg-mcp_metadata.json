@@ -1,11 +1,11 @@
 {
   "name": "pg-mcp",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Postgres MCP Lite - A lightweight MCP server for PostgreSQL",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pg_mcp-0.1.6.tar.gz",
-  "download_time": "2025-10-19T11:25:23.838524",
+  "download_filename": "pg_mcp-0.1.8.tar.gz",
+  "download_time": "2025-10-19T13:01:01.763015",
   "package_url": "https://pypi.org/project/pg-mcp/"
 }

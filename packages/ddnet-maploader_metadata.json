@@ -1,0 +1,11 @@
+{
+  "name": "ddnet-maploader",
+  "version": "1.0.0",
+  "summary": "python bindings for ddnet map loader",
+  "author": "ChillerDragon",
+  "license": "BSD-2.0",
+  "home_page": "https://github.com/ChillerDragon/ddnet_maploader_py",
+  "download_filename": "ddnet_maploader-1.0.0.tar.gz",
+  "download_time": "2025-10-19T13:00:44.707189",
+  "package_url": "https://pypi.org/project/ddnet-maploader/"
+}

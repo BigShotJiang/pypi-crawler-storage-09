@@ -1,0 +1,11 @@
+{
+  "name": "mgtwriteusb",
+  "version": "0.9.3",
+  "summary": "Write SAM Coupé disk images to USB floppy drive",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mgtwriteusb-0.9.3.tar.gz",
+  "download_time": "2025-10-19T13:00:28.636264",
+  "package_url": "https://pypi.org/project/mgtwriteusb/"
+}
