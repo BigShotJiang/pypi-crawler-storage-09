@@ -1,0 +1,11 @@
+{
+  "name": "avwx-engine",
+  "version": "1.9.6",
+  "summary": "Aviation weather report parsing library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "avwx_engine-1.9.6.tar.gz",
+  "download_time": "2025-10-19T05:15:51.791477",
+  "package_url": "https://pypi.org/project/avwx-engine/"
+}

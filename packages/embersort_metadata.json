@@ -1,11 +1,11 @@
 {
   "name": "embersort",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A simple yet powerful Python module to automatically organize files into categorized folders.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "embersort-0.1.0.tar.gz",
-  "download_time": "2025-10-19T04:43:22.503656",
+  "download_filename": "embersort-0.2.0.tar.gz",
+  "download_time": "2025-10-19T05:16:08.740185",
   "package_url": "https://pypi.org/project/embersort/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "deeprehab-movements",
+  "version": "0.1.0",
+  "summary": "Movement scoring implementations for DeepRehab",
+  "author": "DeepRehab Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deeprehab_movements-0.1.0.tar.gz",
+  "download_time": "2025-10-19T05:16:14.473807",
+  "package_url": "https://pypi.org/project/deeprehab-movements/"
+}

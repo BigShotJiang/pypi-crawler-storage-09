@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-generic-artifacts-content-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Generic Artifacts Content MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_generic_artifacts_content_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T05:16:00.194791",
+  "package_url": "https://pypi.org/project/oracle.oci-generic-artifacts-content-mcp-server/"
+}

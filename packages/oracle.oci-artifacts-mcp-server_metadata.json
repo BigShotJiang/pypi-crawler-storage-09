@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-artifacts-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Artifacts MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_artifacts_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T05:16:06.965985",
+  "package_url": "https://pypi.org/project/oracle.oci-artifacts-mcp-server/"
+}

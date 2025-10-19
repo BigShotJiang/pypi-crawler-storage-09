@@ -1,25 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T04:53:46.200485
-- **Total Packages**: 85
-- **Total Size**: 1.57 MB
+- **Download Time**: 2025-10-19T05:16:38.384467
+- **Total Packages**: 82
+- **Total Size**: 8.38 MB
 
 ## Packages List
+- avwx-engine
+- bluer-ugv
+- lattifai-core
+- featrixsphere
+- oracle.oci-certificates-mcp-server
+- oracle.oci-file-storage-mcp-server
+- aenet-gpr
+- moai-adk
+- oracle.oci-marketplace-publisher-service-mcp-server
+- nexus-tool
+- django-cfg
+- oracle.oci-media-services-mcp-server
+- persidict
+- oracle.oci-generic-artifacts-content-mcp-server
+- oracle.oci-support-management-mcp-server
+- owocr
+- saini
+- pydmnrules-mcp-server
+- agently
+- oracle.oci-database-management-sql-performance-watch-mcp-server
+- claude-mpm
+- oracle.oci-big-data-mcp-server
+- kabukit
+- oracle.oci-budgets-mcp-server
+- oracle.oci-artifacts-mcp-server
+- fluxura
+- xmind-mcp
+- embersort
+- oracle.oci-organizations-mcp-server
+- kq-lmpc-quadrotor
+- worqhat
+- oracle.oci-digital-assistant-mcp-server
+- rtoml
+- dorgy
+- dinnovos-agent
+- deeprehab-movements
 - svc-infra
 - deeprehab-rules
 - freeflux
 - maimai-py
-- saini
 - prismor
 - deeprehab-angles
 - iamdata
 - deeprehab-pose
 - zeus
-- kq-lmpc-quadrotor
 - make-it-sync
-- aenet-gpr
-- kabukit
 - miniacd
 - gpt-pr
 - autogen-vertexai-memory
@@ -27,14 +59,12 @@
 - assertlang
 - bool-hybrid-array
 - SURE-tools
-- embersort
 - authflow
 - oracle.oci-devops-mcp-server
 - pmccc
 - oracle.oci-bastion-mcp-server
 - oracle.oci-database-tools-mcp-server
 - xcpcio
-- xmind-mcp
 - oracle.oci-oracle-cloud-migrations-mcp-server
 - gpe-tokenizer
 - oracle.oci-generative-ai-mcp-server
@@ -53,41 +83,8 @@
 - starlake-snowflake
 - starlake-dagster
 - starlake-airflow
-- claude-mpm
 - yta-programming
 - acet
 - starlake-orchestration
 - poolcli
 - byzh-ai
-- cdktf-cdktf-provider-gitlab
-- anytype-pyclient
-- mdformat-wikilink
-- zc.buildout.languageserver
-- angle-emb
-- chromedriver-binary
-- docx-mcp
-- pydeskpro
-- bayescurvefit
-- oracle.oci-work-requests-mcp-server
-- oracle.oci-service-catalog-mcp-server
-- oracle.oci-oracle-database-autonomous-recovery-mcp-server
-- agently
-- oracle.oci-data-integration-mcp-server
-- qcc
-- absfuyu
-- amati
-- oracle.oci-data-science-mcp-server
-- oracle.oci-marketplace-mcp-server
-- oracle.oci-network-firewall-mcp-server
-- odoo-addon-spreadsheet-dashboard-oca
-- odoo-addon-spreadsheet-oca
-- oracle.oci-kubernetes-engine-mcp-server
-- oracle.oci-application-dependency-management-mcp-server
-- mcts-gen
-- lovely-jax
-- nexusflowmeter
-- oracle.oci-autoscaling-mcp-server
-- oracle.oci-pre-built-function-document-generator-mcp-server
-- mikrotik-certbot
-- oracle.oci-ai-data-platform-mcp-server
-- ezdxf
