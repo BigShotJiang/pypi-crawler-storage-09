@@ -1,0 +1,11 @@
+{
+  "name": "translate-missing",
+  "version": "0.1.0",
+  "summary": "A simple tool to find and translate missing keys in i18next localization files.",
+  "author": "John Belew",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/jbelew/translate-missing",
+  "download_filename": "translate_missing-0.1.0.tar.gz",
+  "download_time": "2025-10-19T16:43:19.230832",
+  "package_url": "https://pypi.org/project/translate-missing/"
+}

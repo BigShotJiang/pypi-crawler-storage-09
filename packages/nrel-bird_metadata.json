@@ -1,11 +1,11 @@
 {
   "name": "nrel-bird",
-  "version": "0.0.46",
+  "version": "0.0.48",
   "summary": "Bio Reactor Design (BiRD): a toolbox to simulate and analyze different designs of bioreactors in OpenFOAM",
   "author": "Malik Hassanaly",
   "license": "BSD 3-Clause",
   "home_page": "https://github.com/NREL/BioReactorDesign",
-  "download_filename": "nrel_bird-0.0.46.tar.gz",
-  "download_time": "2025-10-19T16:17:35.122993",
+  "download_filename": "nrel_bird-0.0.48.tar.gz",
+  "download_time": "2025-10-19T16:43:07.626553",
   "package_url": "https://pypi.org/project/nrel-bird/"
 }

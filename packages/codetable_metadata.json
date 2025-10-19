@@ -1,11 +1,11 @@
 {
   "name": "codetable",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Codetable is a lightweight package for seamlessly setting up codes, such as those used in API responses.",
   "author": "Maksymilian Sawicz",
   "license": null,
   "home_page": "https://github.com/0x1618/codetable",
-  "download_filename": "codetable-1.0.8.tar.gz",
-  "download_time": "2025-10-19T13:49:59.905364",
+  "download_filename": "codetable-1.0.9.tar.gz",
+  "download_time": "2025-10-19T16:43:09.871156",
   "package_url": "https://pypi.org/project/codetable/"
 }

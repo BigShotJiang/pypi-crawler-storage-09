@@ -1,0 +1,11 @@
+{
+  "name": "genebe",
+  "version": "0.2.5",
+  "summary": "GeneBe Client: A user-friendly system for annotating genetic variants",
+  "author": "Piotr Stawinski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genebe-0.2.5.tar.gz",
+  "download_time": "2025-10-19T16:43:14.845684",
+  "package_url": "https://pypi.org/project/genebe/"
+}

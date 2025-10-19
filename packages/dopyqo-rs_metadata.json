@@ -1,0 +1,11 @@
+{
+  "name": "dopyqo-rs",
+  "version": "0.0.4",
+  "summary": "Dopyqo-rs: Many-body matrix elements calculation using Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dopyqo_rs-0.0.4.tar.gz",
+  "download_time": "2025-10-19T16:43:17.045606",
+  "package_url": "https://pypi.org/project/dopyqo-rs/"
+}

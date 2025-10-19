@@ -1,0 +1,11 @@
+{
+  "name": "fast-version",
+  "version": "1.4.4",
+  "summary": "Fastapi versioning package with accept header",
+  "author": "Artur Shiriev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fast_version-1.4.4.tar.gz",
+  "download_time": "2025-10-19T16:43:13.742682",
+  "package_url": "https://pypi.org/project/fast-version/"
+}
