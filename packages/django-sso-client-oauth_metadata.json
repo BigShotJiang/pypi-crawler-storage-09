@@ -1,0 +1,11 @@
+{
+  "name": "django-sso-client-oauth",
+  "version": "1.0.0",
+  "summary": "Reusable Django app for integrating Single Sign-On (SSO) functionality",
+  "author": "Ankit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_sso_client_oauth-1.0.0.tar.gz",
+  "download_time": "2025-10-19T21:28:19.010940",
+  "package_url": "https://pypi.org/project/django-sso-client-oauth/"
+}

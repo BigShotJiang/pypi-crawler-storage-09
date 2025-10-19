@@ -1,11 +1,11 @@
 {
   "name": "deployx",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Deploy web projects to multiple platforms with one command",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deployx-0.2.0.tar.gz",
-  "download_time": "2025-10-19T14:13:58.607572",
+  "download_filename": "deployx-0.3.0.tar.gz",
+  "download_time": "2025-10-19T21:28:16.239233",
   "package_url": "https://pypi.org/project/deployx/"
 }

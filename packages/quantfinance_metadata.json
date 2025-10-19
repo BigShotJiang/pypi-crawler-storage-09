@@ -1,11 +1,11 @@
 {
   "name": "quantfinance",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Package Python complet pour la finance quantitative",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quantfinance-0.1.0.tar.gz",
-  "download_time": "2025-10-19T19:37:29.812382",
+  "download_filename": "quantfinance-0.1.1.tar.gz",
+  "download_time": "2025-10-19T21:28:28.075194",
   "package_url": "https://pypi.org/project/quantfinance/"
 }
