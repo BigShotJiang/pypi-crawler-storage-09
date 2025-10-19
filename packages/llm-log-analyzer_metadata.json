@@ -1,11 +1,11 @@
 {
   "name": "llm-log-analyzer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "AI-powered log analyzer for CI environments using LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_log_analyzer-1.0.2.tar.gz",
-  "download_time": "2025-10-19T18:20:24.987402",
+  "download_filename": "llm_log_analyzer-1.0.3.tar.gz",
+  "download_time": "2025-10-19T19:12:30.436332",
   "package_url": "https://pypi.org/project/llm-log-analyzer/"
 }

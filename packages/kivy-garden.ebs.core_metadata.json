@@ -1,11 +1,11 @@
 {
   "name": "kivy-garden.ebs.core",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "summary": "A collection of pure python kivy widgets and widget infrastructure used internally by the EBS kivy GUI stack.",
   "author": "Chintalagiri Shashank",
   "license": null,
   "home_page": "https://github.com/ebs-universe/kivy_garden.ebs.core",
-  "download_filename": "kivy_garden_ebs_core-1.3.2.tar.gz",
-  "download_time": "2025-10-19T13:01:08.452633",
+  "download_filename": "kivy_garden_ebs_core-1.3.3.tar.gz",
+  "download_time": "2025-10-19T19:12:19.140902",
   "package_url": "https://pypi.org/project/kivy-garden.ebs.core/"
 }

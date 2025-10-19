@@ -1,11 +1,11 @@
 {
   "name": "rmcp",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Comprehensive Model Context Protocol server with 44 statistical analysis tools, flexible configuration, and HTTP transport",
   "author": "Gaurav Sood",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rmcp-0.4.1.tar.gz",
-  "download_time": "2025-10-19T05:33:46.846919",
+  "download_filename": "rmcp-0.4.2.tar.gz",
+  "download_time": "2025-10-19T19:12:30.966018",
   "package_url": "https://pypi.org/project/rmcp/"
 }

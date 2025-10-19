@@ -1,0 +1,11 @@
+{
+  "name": "flatr",
+  "version": "1.0.3",
+  "summary": "Flatten GitHub Repos into Markdown for LLM-Friendly Code Exploration",
+  "author": "Dima Statz",
+  "license": null,
+  "home_page": "https://github.com/dimastatz/flatr",
+  "download_filename": "flatr-1.0.3.tar.gz",
+  "download_time": "2025-10-19T19:12:27.242266",
+  "package_url": "https://pypi.org/project/flatr/"
+}

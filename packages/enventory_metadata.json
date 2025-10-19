@@ -1,0 +1,11 @@
+{
+  "name": "enventory",
+  "version": "0.0.1",
+  "summary": "Simple python dotenv utility wrapper",
+  "author": "Bec",
+  "license": null,
+  "home_page": null,
+  "download_filename": "enventory-0.0.1.tar.gz",
+  "download_time": "2025-10-19T19:12:21.824748",
+  "package_url": "https://pypi.org/project/enventory/"
+}

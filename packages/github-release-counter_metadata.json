@@ -1,0 +1,11 @@
+{
+  "name": "github-release-counter",
+  "version": "1.0.0",
+  "summary": "A Python tool to count GitHub release downloads.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "github_release_counter-1.0.0.tar.gz",
+  "download_time": "2025-10-19T19:12:16.323728",
+  "package_url": "https://pypi.org/project/github-release-counter/"
+}
