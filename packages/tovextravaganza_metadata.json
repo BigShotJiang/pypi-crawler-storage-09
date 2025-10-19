@@ -1,11 +1,11 @@
 {
   "name": "tovextravaganza",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "Python toolkit for solving TOV equations, calculating tidal deformability, and exploring neutron star properties for gravitational wave and nuclear astrophysics research",
   "author": "Hosein Gholami",
   "license": "MIT",
   "home_page": "https://github.com/PsiPhiDelta/TOVExtravaganza",
-  "download_filename": "tovextravaganza-1.5.1.tar.gz",
-  "download_time": "2025-10-19T22:32:53.632164",
+  "download_filename": "tovextravaganza-1.5.2.tar.gz",
+  "download_time": "2025-10-19T23:18:59.328091",
   "package_url": "https://pypi.org/project/tovextravaganza/"
 }

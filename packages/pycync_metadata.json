@@ -1,0 +1,11 @@
+{
+  "name": "pycync",
+  "version": "0.4.2",
+  "summary": "A Python library to communicate with Cync devices.",
+  "author": "@Kinachi249",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pycync-0.4.2.tar.gz",
+  "download_time": "2025-10-19T23:18:40.657403",
+  "package_url": "https://pypi.org/project/pycync/"
+}

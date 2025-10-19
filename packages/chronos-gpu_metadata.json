@@ -1,0 +1,11 @@
+{
+  "name": "chronos-gpu",
+  "version": "1.0.0",
+  "summary": "Fair GPU time-sharing with automatic expiration",
+  "author": "Ojima Abraham",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/oabraham1/chronos",
+  "download_filename": "chronos_gpu-1.0.0.tar.gz",
+  "download_time": "2025-10-19T23:18:36.626686",
+  "package_url": "https://pypi.org/project/chronos-gpu/"
+}

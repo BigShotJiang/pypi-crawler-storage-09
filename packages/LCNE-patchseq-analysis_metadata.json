@@ -1,0 +1,11 @@
+{
+  "name": "LCNE-patchseq-analysis",
+  "version": "0.28.0",
+  "summary": "Generated from aind-library-template",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lcne_patchseq_analysis-0.28.0.tar.gz",
+  "download_time": "2025-10-19T23:18:39.479107",
+  "package_url": "https://pypi.org/project/LCNE-patchseq-analysis/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "domnode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "DOM nodes with browser rendering data for web automation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "domnode-0.1.0.tar.gz",
-  "download_time": "2025-10-19T22:50:56.438524",
+  "download_filename": "domnode-0.1.1.tar.gz",
+  "download_time": "2025-10-19T23:18:54.179342",
   "package_url": "https://pypi.org/project/domnode/"
 }

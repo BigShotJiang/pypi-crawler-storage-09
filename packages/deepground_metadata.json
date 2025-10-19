@@ -1,0 +1,11 @@
+{
+  "name": "deepground",
+  "version": "0.8.2",
+  "summary": "Deepground - A Python library that empowers LLM agents with real-time data access from both the clear and dark net.",
+  "author": "Evilfeonix",
+  "license": "MIT",
+  "home_page": "https://github.com/evilfeonix/deepground",
+  "download_filename": "deepground-0.8.2.tar.gz",
+  "download_time": "2025-10-19T23:18:50.142077",
+  "package_url": "https://pypi.org/project/deepground/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "miso-plot",
+  "version": "0.1.2",
+  "summary": "Simple visualization tool for clustered high-density data.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "miso_plot-0.1.2.tar.gz",
+  "download_time": "2025-10-19T23:18:42.830979",
+  "package_url": "https://pypi.org/project/miso-plot/"
+}

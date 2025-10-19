@@ -1,0 +1,11 @@
+{
+  "name": "anime365",
+  "version": "1.0.0",
+  "summary": "Асинхронная Python библиотека для работы с API anime365 (smotret-anime)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anime365-1.0.0.tar.gz",
+  "download_time": "2025-10-19T23:18:41.194044",
+  "package_url": "https://pypi.org/project/anime365/"
+}

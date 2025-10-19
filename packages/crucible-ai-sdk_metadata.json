@@ -1,11 +1,11 @@
 {
   "name": "crucible-ai-sdk",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "summary": "A high-performance Python SDK for logging and monitoring OpenAI API calls to Crucible",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "crucible_ai_sdk-0.0.6.tar.gz",
-  "download_time": "2025-10-19T22:51:06.421812",
+  "download_filename": "crucible_ai_sdk-0.0.9.tar.gz",
+  "download_time": "2025-10-19T23:18:41.729968",
   "package_url": "https://pypi.org/project/crucible-ai-sdk/"
 }

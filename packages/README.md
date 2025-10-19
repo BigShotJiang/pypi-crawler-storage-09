@@ -1,34 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T22:51:40.285200
-- **Total Packages**: 82
-- **Total Size**: 19.86 MB
+- **Download Time**: 2025-10-19T23:19:22.553592
+- **Total Packages**: 77
+- **Total Size**: 13.34 MB
 
 ## Packages List
+- chronos-gpu
+- pyhead-demo
+- napari-tomodl
+- ceregrep-mcp
+- LCNE-patchseq-analysis
+- authflow
+- pycync
+- anime365
+- crucible-ai-sdk
+- petsard
+- miso-plot
+- labelgenius
+- beaver-index-importer
+- reaper-mcp
+- eth-portfolio-temp
+- CliSelf
+- aiter-metric
+- sky-fall
+- streamlit-sigmajs-component
+- pumaguard
+- deepground
+- splurge-sql-generator
+- faff-core
+- alethic-ism-core
+- stardewModPY
+- rustbin
+- qugradlab
+- domnode
+- anise
+- coffea
+- qugrad
 - FlowerPower
 - ozonapi-async
 - qkdpy
-- sky-fall
-- domnode
 - machineconfig
 - memalot
 - tovextravaganza
 - vulnerability-analyzer
 - py-ste
-- beaver-index-importer
 - uv4
 - GameSentenceMiner
 - abstractcore
 - progressorx
-- faff-core
 - osbot-utils
 - snap-ocr
 - csvthd
 - lanparty
 - francisco-diaz
 - elemental-tools
-- crucible-ai-sdk
 - rewe-ebon-parser
 - pyfreeproxy
 - arc-sdk
@@ -41,7 +67,6 @@
 - nrel-bird
 - voice-mode
 - semantic-lexicon
-- reaper-mcp
 - dataproc-utility-tools
 - svc-infra
 - maticlib
@@ -58,33 +83,3 @@
 - aemo-to-tariff
 - fastuuid
 - findfile
-- schemathesis
-- ocr-my-mess
-- regula-documentreader-webclient
-- ReverseBox
-- open-skills
-- setuptools-scm
-- quilt-mcp
-- kapipy
-- clippy-code
-- mm-ptx
-- pulumi-django-azure
-- ariadne-router
-- abstractassistant
-- holy_bible_api
-- psann
-- mqt-naviz
-- ejd
-- policyengine-api-simulation-client
-- policyengine-api-full-client
-- abstractvoice
-- acet
-- miniexact
-- matrices-evolved
-- rds-tunnel
-- stateset-agents
-- pytest-jux
-- spiraltorch
-- polyterm
-- stateset-python
-- geoseeq
