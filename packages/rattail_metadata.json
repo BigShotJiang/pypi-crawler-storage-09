@@ -1,11 +1,11 @@
 {
   "name": "rattail",
-  "version": "0.21.0",
+  "version": "0.21.1",
   "summary": "Retail Software Framework",
   "author": null,
   "license": "GNU GPL v3+",
   "home_page": null,
-  "download_filename": "rattail-0.21.0.tar.gz",
-  "download_time": "2025-10-19T18:44:18.185748",
+  "download_filename": "rattail-0.21.1.tar.gz",
+  "download_time": "2025-10-19T21:50:36.168750",
   "package_url": "https://pypi.org/project/rattail/"
 }
