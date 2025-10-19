@@ -1,0 +1,11 @@
+{
+  "name": "rsmime",
+  "version": "0.7.0",
+  "summary": "Python package for signing and verifying S/MIME messages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsmime-0.7.0.tar.gz",
+  "download_time": "2025-10-19T13:28:16.630743",
+  "package_url": "https://pypi.org/project/rsmime/"
+}

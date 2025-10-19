@@ -1,11 +1,11 @@
 {
   "name": "shruti",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Indic Conformer ASR Lib",
   "author": "dummyjenil",
   "license": null,
   "home_page": null,
-  "download_filename": "shruti-0.1.0.tar.gz",
-  "download_time": "2025-10-19T10:33:47.961695",
+  "download_filename": "shruti-0.1.1.tar.gz",
+  "download_time": "2025-10-19T13:28:17.741956",
   "package_url": "https://pypi.org/project/shruti/"
 }

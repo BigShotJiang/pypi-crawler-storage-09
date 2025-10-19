@@ -1,0 +1,11 @@
+{
+  "name": "gunicorn-prometheus-exporter",
+  "version": "0.2.4",
+  "summary": "A comprehensive Prometheus metrics exporter for Gunicorn WSGI servers with innovative Redis-based storage, YAML configuration support, advanced signal handling, and support for all worker types (sync, thread, eventlet, gevent)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gunicorn_prometheus_exporter-0.2.4.tar.gz",
+  "download_time": "2025-10-19T13:28:15.493184",
+  "package_url": "https://pypi.org/project/gunicorn-prometheus-exporter/"
+}

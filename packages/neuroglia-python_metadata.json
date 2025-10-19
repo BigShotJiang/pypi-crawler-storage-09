@@ -1,11 +1,11 @@
 {
   "name": "neuroglia-python",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Port from .NET to Python of the Neuroglia Framework",
   "author": "Charles d'Avernas",
   "license": "Apache",
   "home_page": null,
-  "download_filename": "neuroglia_python-0.4.3.tar.gz",
-  "download_time": "2025-10-19T12:29:03.856280",
+  "download_filename": "neuroglia_python-0.4.4.tar.gz",
+  "download_time": "2025-10-19T13:28:19.403781",
   "package_url": "https://pypi.org/project/neuroglia-python/"
 }

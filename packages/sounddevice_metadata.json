@@ -1,0 +1,11 @@
+{
+  "name": "sounddevice",
+  "version": "0.5.3",
+  "summary": "Play and Record Sound with Python",
+  "author": "Matthias Geier",
+  "license": "MIT",
+  "home_page": "http://python-sounddevice.readthedocs.io/",
+  "download_filename": "sounddevice-0.5.3.tar.gz",
+  "download_time": "2025-10-19T13:28:00.150344",
+  "package_url": "https://pypi.org/project/sounddevice/"
+}

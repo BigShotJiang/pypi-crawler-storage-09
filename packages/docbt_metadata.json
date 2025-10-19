@@ -1,11 +1,11 @@
 {
   "name": "docbt",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "docdbt (documentation build tool) is a Streamlit app for managing dbt project documentation.",
-  "author": "Alin Preda",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docbt-0.1.0.tar.gz",
-  "download_time": "2025-10-19T11:12:08.088679",
+  "download_filename": "docbt-0.1.2.tar.gz",
+  "download_time": "2025-10-19T13:28:19.956678",
   "package_url": "https://pypi.org/project/docbt/"
 }
