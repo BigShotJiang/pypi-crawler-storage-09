@@ -1,11 +1,11 @@
 {
   "name": "stateset-agents",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "A comprehensive framework for training multi-turn AI agents using Group Relative Policy Optimization (GRPO)",
   "author": "StateSet Team",
   "license": "Business Source License 1.1",
   "home_page": "https://github.com/stateset/stateset-agents",
-  "download_filename": "stateset_agents-0.4.0.tar.gz",
-  "download_time": "2025-10-19T20:17:19.726565",
+  "download_filename": "stateset_agents-0.5.0.tar.gz",
+  "download_time": "2025-10-19T22:15:27.274082",
   "package_url": "https://pypi.org/project/stateset-agents/"
 }

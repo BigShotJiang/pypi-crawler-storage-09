@@ -1,11 +1,11 @@
 {
   "name": "stateset-python",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "Python SDK for the Stateset API - Complete access to returns, warranties, orders, inventory, and work order management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stateset_python-1.1.0.tar.gz",
-  "download_time": "2025-10-19T20:50:45.512075",
+  "download_filename": "stateset_python-1.2.0.tar.gz",
+  "download_time": "2025-10-19T22:15:29.978494",
   "package_url": "https://pypi.org/project/stateset-python/"
 }
