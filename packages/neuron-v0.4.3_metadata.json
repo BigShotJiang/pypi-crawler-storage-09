@@ -1,0 +1,11 @@
+{
+  "name": "neuron-v0.4.3",
+  "version": "0.4.3",
+  "summary": "Neuron AI Assistant — auto GPU/CPU detection and local AI.",
+  "author": "Dev Patel",
+  "license": null,
+  "home_page": "https://github.com/yourusername/neuron-assistant",
+  "download_filename": "neuron_v0_4_3-0.4.3.tar.gz",
+  "download_time": "2025-10-19T21:37:56.968344",
+  "package_url": "https://pypi.org/project/neuron-v0.4.3/"
+}

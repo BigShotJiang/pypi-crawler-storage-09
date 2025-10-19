@@ -1,0 +1,11 @@
+{
+  "name": "selfcord.py",
+  "version": "1.0.3",
+  "summary": "A Discord API wrapper designed for selfbots!",
+  "author": "Shell",
+  "license": "MIT",
+  "home_page": "https://github.com/Shell1010/Selfcord",
+  "download_filename": "selfcord_py-1.0.3.tar.gz",
+  "download_time": "2025-10-19T21:38:10.768715",
+  "package_url": "https://pypi.org/project/selfcord.py/"
+}
