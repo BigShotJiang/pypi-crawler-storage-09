@@ -1,11 +1,11 @@
 {
   "name": "polyterm",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A terminal-based monitoring app for PolyMarket shifts",
   "author": "PolyTerm Contributors",
   "license": null,
   "home_page": "https://github.com/NYTEMODEONLY/polyterm",
-  "download_filename": "polyterm-0.2.2.tar.gz",
-  "download_time": "2025-10-19T19:24:45.101454",
+  "download_filename": "polyterm-0.2.3.tar.gz",
+  "download_time": "2025-10-19T19:37:21.519292",
   "package_url": "https://pypi.org/project/polyterm/"
 }

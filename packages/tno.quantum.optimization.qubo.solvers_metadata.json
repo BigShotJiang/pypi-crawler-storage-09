@@ -1,0 +1,11 @@
+{
+  "name": "tno.quantum.optimization.qubo.solvers",
+  "version": "1.5.0",
+  "summary": "QUBO solvers",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "tno_quantum_optimization_qubo_solvers-1.5.0.tar.gz",
+  "download_time": "2025-10-19T19:37:25.139793",
+  "package_url": "https://pypi.org/project/tno.quantum.optimization.qubo.solvers/"
+}

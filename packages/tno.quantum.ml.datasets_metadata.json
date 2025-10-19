@@ -1,0 +1,11 @@
+{
+  "name": "tno.quantum.ml.datasets",
+  "version": "2.1.1",
+  "summary": "Machine learning datasets package",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "tno_quantum_ml_datasets-2.1.1.tar.gz",
+  "download_time": "2025-10-19T19:37:30.843865",
+  "package_url": "https://pypi.org/project/tno.quantum.ml.datasets/"
+}
