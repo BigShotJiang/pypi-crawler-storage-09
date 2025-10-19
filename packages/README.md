@@ -1,21 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T11:12:51.137482
-- **Total Packages**: 85
-- **Total Size**: 8.54 MB
+- **Download Time**: 2025-10-19T11:25:50.471611
+- **Total Packages**: 86
+- **Total Size**: 0.25 MB
 
 ## Packages List
-- onvif-python
-- pg-mcp
-- docbt
-- clauxton
-- dockerhound
-- codestack
-- lmspace
-- llm7
-- inlayr
-- djangosecretkeyenv
 - py-env-studio
 - sql-xml-executor
 - my-investments
@@ -43,6 +33,7 @@
 - scrollbound
 - policyengine-us
 - konduktor-nightly
+- codestack
 - trainy-policy-nightly
 - kernel-abi-check
 - pyarchinit-mini
@@ -53,6 +44,7 @@
 - pylizlib
 - django-caps
 - pyerrors
+- pg-mcp
 - sharepoint-manager
 - subtitle-tool
 - databend-driver
@@ -91,3 +83,12 @@
 - gradboard
 - FPC
 - copul
+- plummy
+- joinem
+- node-graph
+- vectorvein
+- haut-scanner
+- ebs-linuxnode-camera
+- nvfuser-cu126
+- nvfuser-cu128
+- reno-structured-output
