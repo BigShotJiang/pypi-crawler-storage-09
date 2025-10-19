@@ -1,0 +1,11 @@
+{
+  "name": "dbbasic-rss",
+  "version": "1.0.0",
+  "summary": "Simple, composable RSS feed generation for Python. Framework-agnostic, works with TSV/CSV/JSON, follows Unix philosophy.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbbasic_rss-1.0.0.tar.gz",
+  "download_time": "2025-10-19T23:51:18.144337",
+  "package_url": "https://pypi.org/project/dbbasic-rss/"
+}
