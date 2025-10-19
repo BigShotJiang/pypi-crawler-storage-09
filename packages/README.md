@@ -1,11 +1,20 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T07:28:06.765661
-- **Total Packages**: 79
-- **Total Size**: 2.75 MB
+- **Download Time**: 2025-10-19T07:37:52.426994
+- **Total Packages**: 81
+- **Total Size**: 2.6 MB
 
 ## Packages List
+- dorgy
+- aisuite4cn
+- pyhabitat
+- akari-bot-webui
+- aiaccel
+- bytehub-discord-multitool
+- xtthread
+- abstractvoice
+- nfeloml
 - pyarchinit-mini
 - fnschool
 - heatmap_cli
@@ -19,7 +28,6 @@
 - blackprint-rc
 - onnxscript
 - tritonparse
-- dorgy
 - scylla-cqlsh
 - xsget
 - omegascript
@@ -36,7 +44,6 @@
 - envencrypt
 - conson-xp
 - tf-models-nightly
-- abstractvoice
 - benchmark-runner
 - pdfbaker
 - nonebot-plugin-exdi
@@ -48,7 +55,6 @@
 - mlrun
 - terminal-tutor
 - skillman
-- bytebub-discord-multitool
 - dcisionai-mcp-server
 - passive_server
 - nonebot-plugin-anan-say
@@ -81,7 +87,3 @@
 - gh_release_tools
 - kvcached
 - kabukit
-- domcontext
-- wiselib
-- cve-explorer-cli
-- oracle.oci-exadata-mcp-server

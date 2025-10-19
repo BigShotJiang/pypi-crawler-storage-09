@@ -1,0 +1,11 @@
+{
+  "name": "xtthread",
+  "version": "0.0.7",
+  "summary": "一个全面的Python并发编程增强库，为标准线程、进程和Qt线程提供了更高级的抽象和异常处理机制",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xtthread-0.0.7.tar.gz",
+  "download_time": "2025-10-19T07:37:12.053192",
+  "package_url": "https://pypi.org/project/xtthread/"
+}

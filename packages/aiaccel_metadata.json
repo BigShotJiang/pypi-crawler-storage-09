@@ -1,0 +1,11 @@
+{
+  "name": "aiaccel",
+  "version": "2025.10",
+  "summary": "AIST Toolkit for Accelerating Machine Learning Research",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiaccel-2025.10.tar.gz",
+  "download_time": "2025-10-19T07:37:10.937137",
+  "package_url": "https://pypi.org/project/aiaccel/"
+}
