@@ -1,11 +1,21 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T09:30:11.090260
-- **Total Packages**: 75
-- **Total Size**: 15.91 MB
+- **Download Time**: 2025-10-19T09:40:59.838485
+- **Total Packages**: 77
+- **Total Size**: 0.36 MB
 
 ## Packages List
+- haut-jwglxt-scanner
+- sabg-analysis
+- mdformat-footnote
+- twnet-parser
+- langchain-dev-utils
+- agentic-kit-common
+- intezer-sdk
+- TelegramTextApp
+- changedetection-tui
+- ticko
 - torchskradon
 - yak-server
 - image-mcp-server
@@ -73,11 +83,3 @@
 - regressiontesting
 - dvrd-pydate
 - tm-cli
-- ultragpt
-- chatterer
-- outcomeforge
-- topo_map_processor
-- assign-uprn
-- convai-innovations
-- rtcam
-- domain-admin

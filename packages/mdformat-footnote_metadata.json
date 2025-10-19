@@ -1,0 +1,11 @@
+{
+  "name": "mdformat-footnote",
+  "version": "0.1.2",
+  "summary": "An mdformat plugin for parsing/validating footnotes",
+  "author": "Gaige B. Paulsen",
+  "license": null,
+  "home_page": "https://github.com/gaige/mdformat-footnote",
+  "download_filename": "mdformat_footnote-0.1.2.tar.gz",
+  "download_time": "2025-10-19T09:40:16.182788",
+  "package_url": "https://pypi.org/project/mdformat-footnote/"
+}

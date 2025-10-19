@@ -1,0 +1,11 @@
+{
+  "name": "sabg-analysis",
+  "version": "0.1.6",
+  "summary": "Tool for quantitative digital in situ senescence-associated β-galactosidase assay analysis of fibroblasts",
+  "author": null,
+  "license": "For academic/non-commercial use only.",
+  "home_page": null,
+  "download_filename": "sabg_analysis-0.1.6.tar.gz",
+  "download_time": "2025-10-19T09:40:15.577297",
+  "package_url": "https://pypi.org/project/sabg-analysis/"
+}

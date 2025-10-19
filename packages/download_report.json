@@ -1,8 +1,18 @@
 {
-  "download_time": "2025-10-19T09:30:11.090260",
-  "total_packages_downloaded": 75,
-  "total_size_mb": 15.91,
+  "download_time": "2025-10-19T09:40:59.838485",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 0.36,
   "packages": [
+    "haut-jwglxt-scanner",
+    "sabg-analysis",
+    "mdformat-footnote",
+    "twnet-parser",
+    "langchain-dev-utils",
+    "agentic-kit-common",
+    "intezer-sdk",
+    "TelegramTextApp",
+    "changedetection-tui",
+    "ticko",
     "torchskradon",
     "yak-server",
     "image-mcp-server",
@@ -69,14 +79,6 @@
     "lzytools",
     "regressiontesting",
     "dvrd-pydate",
-    "tm-cli",
-    "ultragpt",
-    "chatterer",
-    "outcomeforge",
-    "topo_map_processor",
-    "assign-uprn",
-    "convai-innovations",
-    "rtcam",
-    "domain-admin"
+    "tm-cli"
   ]
 }
