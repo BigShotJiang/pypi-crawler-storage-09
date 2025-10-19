@@ -1,0 +1,11 @@
+{
+  "name": "shabda",
+  "version": "0.2.2.0",
+  "summary": "A semantic audio samples curator for livecoding software",
+  "author": "Alexandre G.-Raymond",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shabda-0.2.2.0.tar.gz",
+  "download_time": "2025-10-19T10:50:27.808242",
+  "package_url": "https://pypi.org/project/shabda/"
+}

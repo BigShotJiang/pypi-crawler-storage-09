@@ -1,0 +1,11 @@
+{
+  "name": "pelican-nginx-alias-map",
+  "version": "2.0.6",
+  "summary": "This Pelican plugin creates an nginx-compatible map between the final page locations and prior locations, defined in the `Alias` attribute for any article or page.",
+  "author": "Gaige B. Paulsen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pelican_nginx_alias_map-2.0.6.tar.gz",
+  "download_time": "2025-10-19T10:50:24.544441",
+  "package_url": "https://pypi.org/project/pelican-nginx-alias-map/"
+}

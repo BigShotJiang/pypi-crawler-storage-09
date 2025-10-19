@@ -1,11 +1,11 @@
 {
   "name": "pyarchinit-mini",
-  "version": "1.0.9",
-  "summary": "Lightweight archaeological data management system with REST API, Web UI, Desktop GUI, CLI, multi-user authentication, and real-time collaboration",
+  "version": "1.1.0",
+  "summary": "Lightweight archaeological data management system with REST API, Web UI, Desktop GUI, CLI, multi-user authentication, real-time collaboration, and analytics dashboard",
   "author": "PyArchInit Team",
   "license": "GPL-2.0",
   "home_page": "https://github.com/enzococca/pyarchinit-mini",
-  "download_filename": "pyarchinit_mini-1.0.9.tar.gz",
-  "download_time": "2025-10-19T10:33:43.799488",
+  "download_filename": "pyarchinit_mini-1.1.0.tar.gz",
+  "download_time": "2025-10-19T10:50:29.387284",
   "package_url": "https://pypi.org/project/pyarchinit-mini/"
 }
