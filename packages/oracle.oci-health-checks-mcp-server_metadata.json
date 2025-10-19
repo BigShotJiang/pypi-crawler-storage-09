@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-health-checks-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Health Checks MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_health_checks_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T04:20:25.215818",
+  "package_url": "https://pypi.org/project/oracle.oci-health-checks-mcp-server/"
+}

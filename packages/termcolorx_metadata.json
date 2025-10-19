@@ -1,0 +1,11 @@
+{
+  "name": "termcolorx",
+  "version": "0.0.1",
+  "summary": "Library pewarna teks terminal lengkap (ANSI, RGB, Gradien, Logger, Animasi) dari dasar.",
+  "author": "ATHALLAH RAJENDRA PUTRA JUNIARTO",
+  "license": null,
+  "home_page": "https://github.com/Athallah1234/termcolorx",
+  "download_filename": "termcolorx-0.0.1.tar.gz",
+  "download_time": "2025-10-19T04:20:21.429274",
+  "package_url": "https://pypi.org/project/termcolorx/"
+}

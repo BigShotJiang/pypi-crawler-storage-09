@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-data-integration-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Data Integration MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_data_integration_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T04:19:58.945120",
+  "package_url": "https://pypi.org/project/oracle.oci-data-integration-mcp-server/"
+}

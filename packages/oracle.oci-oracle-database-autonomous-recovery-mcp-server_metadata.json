@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-oracle-database-autonomous-recovery-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Oracle Database Autonomous Recovery MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_oracle_database_autonomous_recovery_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T04:19:57.863899",
+  "package_url": "https://pypi.org/project/oracle.oci-oracle-database-autonomous-recovery-mcp-server/"
+}
