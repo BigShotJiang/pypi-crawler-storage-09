@@ -1,0 +1,11 @@
+{
+  "name": "sql-xml-executor",
+  "version": "0.5.0",
+  "summary": "A dynamic SQL query executor using XML configuration for SQLAlchemy and FastAPI.",
+  "author": "Yao Hengfeng",
+  "license": null,
+  "home_page": "https://github.com/yhf98/sql_xml_executor",
+  "download_filename": "sql_xml_executor-0.5.0.tar.gz",
+  "download_time": "2025-10-19T11:12:12.874066",
+  "package_url": "https://pypi.org/project/sql-xml-executor/"
+}

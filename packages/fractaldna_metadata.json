@@ -1,0 +1,11 @@
+{
+  "name": "fractaldna",
+  "version": "0.7.0",
+  "summary": "FractalDNA is a Python package built to generate DNA geometries for simulations",
+  "author": "Nathanael Lampe",
+  "license": "MIT",
+  "home_page": "https://github.com/natl/fractaldna",
+  "download_filename": "fractaldna-0.7.0.tar.gz",
+  "download_time": "2025-10-19T11:12:22.320417",
+  "package_url": "https://pypi.org/project/fractaldna/"
+}

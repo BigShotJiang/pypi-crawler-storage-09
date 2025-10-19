@@ -1,0 +1,11 @@
+{
+  "name": "nographs",
+  "version": "3.4.3",
+  "summary": "Graph analysis – the lazy (evaluation) way: Analysis on the fly, for implicit graphs, that are computed and/or adapted on the fly.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nographs-3.4.3.tar.gz",
+  "download_time": "2025-10-19T11:12:14.955677",
+  "package_url": "https://pypi.org/project/nographs/"
+}
