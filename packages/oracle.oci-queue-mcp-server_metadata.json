@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-queue-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Queue MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_queue_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T01:18:43.534744",
+  "package_url": "https://pypi.org/project/oracle.oci-queue-mcp-server/"
+}

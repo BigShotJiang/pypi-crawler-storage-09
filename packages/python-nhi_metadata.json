@@ -1,0 +1,11 @@
+{
+  "name": "python-nhi",
+  "version": "1.2.2",
+  "summary": "A function to check strings against the New Zealand Ministry of Health NHI Validation Routine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_nhi-1.2.2.tar.gz",
+  "download_time": "2025-10-19T01:18:30.204004",
+  "package_url": "https://pypi.org/project/python-nhi/"
+}

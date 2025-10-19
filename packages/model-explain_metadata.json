@@ -1,0 +1,11 @@
+{
+  "name": "model-explain",
+  "version": "0.3.0",
+  "summary": "A model explainability toolkit with SHAP, LIME, scoring, summaries, and GUI sandbox",
+  "author": "Vaibhav Kulshrestha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_explain-0.3.0.tar.gz",
+  "download_time": "2025-10-19T01:18:28.015548",
+  "package_url": "https://pypi.org/project/model-explain/"
+}

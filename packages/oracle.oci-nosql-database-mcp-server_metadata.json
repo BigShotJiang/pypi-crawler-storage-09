@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-nosql-database-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI NoSQL Database MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_nosql_database_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T01:18:51.417337",
+  "package_url": "https://pypi.org/project/oracle.oci-nosql-database-mcp-server/"
+}

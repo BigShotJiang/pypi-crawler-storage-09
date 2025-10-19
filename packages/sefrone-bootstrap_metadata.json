@@ -1,0 +1,11 @@
+{
+  "name": "sefrone-bootstrap",
+  "version": "1.1.0",
+  "summary": "A Python package to provide build helpers for sefrone backend projects",
+  "author": "Sefrone",
+  "license": null,
+  "home_page": "https://bitbucket.org/sefrone/sefrone_pypi",
+  "download_filename": "sefrone_bootstrap-1.1.0.tar.gz",
+  "download_time": "2025-10-19T01:18:49.321127",
+  "package_url": "https://pypi.org/project/sefrone-bootstrap/"
+}

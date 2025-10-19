@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-managed-access-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Managed Access MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_managed_access_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T01:18:48.806896",
+  "package_url": "https://pypi.org/project/oracle.oci-managed-access-mcp-server/"
+}
