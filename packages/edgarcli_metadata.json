@@ -1,11 +1,11 @@
 {
   "name": "edgarcli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CLI wrapper for edgartools - SEC EDGAR data access from the command line",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "edgarcli-0.1.0.tar.gz",
-  "download_time": "2025-10-19T18:20:31.179045",
+  "download_filename": "edgarcli-0.1.1.tar.gz",
+  "download_time": "2025-10-19T18:44:34.749121",
   "package_url": "https://pypi.org/project/edgarcli/"
 }

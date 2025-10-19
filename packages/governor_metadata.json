@@ -1,0 +1,11 @@
+{
+  "name": "governor",
+  "version": "0.1.0",
+  "summary": "A clean, minimal governance library for agentic systems with state management, policies, and human-in-the-loop support",
+  "author": "governor contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "governor-0.1.0.tar.gz",
+  "download_time": "2025-10-19T18:44:19.945007",
+  "package_url": "https://pypi.org/project/governor/"
+}

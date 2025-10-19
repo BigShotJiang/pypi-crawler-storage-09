@@ -1,0 +1,11 @@
+{
+  "name": "ansible-doctor",
+  "version": "7.3.0",
+  "summary": "Generate documentation from annotated Ansible roles using templates.",
+  "author": "Robert Kaussow",
+  "license": "GPL-3.0-only",
+  "home_page": "https://ansible-doctor.geekdocs.de/",
+  "download_filename": "ansible_doctor-7.3.0.tar.gz",
+  "download_time": "2025-10-19T18:44:16.419992",
+  "package_url": "https://pypi.org/project/ansible-doctor/"
+}

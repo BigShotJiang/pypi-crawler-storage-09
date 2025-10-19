@@ -1,0 +1,11 @@
+{
+  "name": "pyawsmock",
+  "version": "0.1.0",
+  "summary": "Local AWS Mock for Python – Mock SSM Parameter Store and extendable AWS services",
+  "author": "coldsofttech",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyawsmock-0.1.0.tar.gz",
+  "download_time": "2025-10-19T18:44:38.540570",
+  "package_url": "https://pypi.org/project/pyawsmock/"
+}
