@@ -1,0 +1,11 @@
+{
+  "name": "bbcli",
+  "version": "1.0.0",
+  "summary": "DEPRECATED - Python version no longer maintained. Install the Rust version: cargo install bbc-news-cli",
+  "author": "Calvin Hill",
+  "license": "MIT",
+  "home_page": "https://github.com/hako/bbcli",
+  "download_filename": "bbcli-1.0.0.tar.gz",
+  "download_time": "2025-10-19T03:47:13.635722",
+  "package_url": "https://pypi.org/project/bbcli/"
+}

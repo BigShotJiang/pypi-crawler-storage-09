@@ -1,14 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T02:59:36.183428
-- **Total Packages**: 81
-- **Total Size**: 29.55 MB
+- **Download Time**: 2025-10-19T03:47:49.900785
+- **Total Packages**: 78
+- **Total Size**: 3.75 MB
 
 ## Packages List
-- oracle.oci-vision-mcp-server
-- rand-engine
+- oracle.oci-ops-insights-mcp-server
+- dagster-dify
+- MoleCool
+- pygenpdf
+- tencent-wedata-feature-engineering
+- odoo-addon-l10n-es-aeat-sii-oca
+- oracle.oci-vault-key-management-mcp-server
+- oracle.oci-cloud-guard-mcp-server
+- joblet-mcp-server
+- oracle.oci-resource-analytics-mcp-server
 - gpe-tokenizer
+- ryutils
+- oracle.oci-cache-mcp-server
+- fluxura
+- bbcli
+- oracle.oci-data-labeling-mcp-server
+- fynx
+- gamedig
+- tree-sitter-analyzer
+- rand-engine
+- tinydsl
+- lite-github-mcp
+- featrixsphere
+- whisper-ai-zxs
+- complexplorer
+- assertlang
+- fppull
+- oracle.oci-identity-domains-mcp-server
+- abstractassistant
+- oracle.oci-delegate-access-control-mcp-server
+- oracle.oci-vision-mcp-server
 - cve-report-aggregator
 - oracle.oci-functions-mcp-server
 - pyEllipse
@@ -48,42 +76,11 @@
 - je-editor-dev
 - monai-weekly
 - mtcli
-- ryutils
 - esperanto
 - anytype-pyclient
 - claude-commit
 - bountylab
-- assertlang
 - amp-benchkit
 - jeig
 - md-to-conf
 - install-k2
-- buildmcp
-- psistat
-- lithi
-- django-pint-field
-- tmdl
-- oracle.oci-dns-mcp-server
-- oracle.oci-resource-discovery-and-monitoring-mcp-server
-- oracle.oci-web-application-acceleration-mcp-server
-- django-phone-verify
-- mcp-weather-server
-- gradient-adk
-- pyExploitDb
-- unsloth-zoo
-- oracle.oci-control-center-mcp-server
-- oracle.oci-management-dashboard-mcp-server
-- oracle.oci-oracle-cloud-agent-mcp-server
-- oracle.oci-zero-trust-packet-routing-mcp-server
-- joblet-sdk-python
-- ppget
-- oracle.oci-oracle-cloud-vmware-solution-mcp-server
-- RetroScore
-- google-trendy
-- oracle.oci-fusion-applications-mcp-server
-- projen-modules
-- newertype
-- toastapi
-- oracle.oci-cloud-advisor-mcp-server
-- oracle.oci-resource-discovery-and-monitoring-control-mcp-server
-- secontrol

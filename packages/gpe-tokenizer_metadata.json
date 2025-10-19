@@ -1,11 +1,11 @@
 {
   "name": "gpe-tokenizer",
-  "version": "0.1.4",
+  "version": "0.1.6.3",
   "summary": "Grapheme Pair Encoding Tokenizer for Sinhala Language",
   "author": "Schizo00",
   "license": null,
   "home_page": null,
-  "download_filename": "gpe_tokenizer-0.1.4.tar.gz",
-  "download_time": "2025-10-19T02:58:54.573717",
+  "download_filename": "gpe_tokenizer-0.1.6.3.tar.gz",
+  "download_time": "2025-10-19T03:47:11.377712",
   "package_url": "https://pypi.org/project/gpe-tokenizer/"
 }

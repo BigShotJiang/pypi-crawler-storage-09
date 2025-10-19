@@ -1,11 +1,11 @@
 {
   "name": "fynx",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Python reactive state management library inspired by MobX",
   "author": "Cassidy Bridges",
   "license": "MIT",
   "home_page": "https://github.com/off-by-some/fynx",
-  "download_filename": "fynx-0.0.5.tar.gz",
-  "download_time": "2025-10-18T13:00:43.145258",
+  "download_filename": "fynx-0.0.6.tar.gz",
+  "download_time": "2025-10-19T03:47:14.760284",
   "package_url": "https://pypi.org/project/fynx/"
 }

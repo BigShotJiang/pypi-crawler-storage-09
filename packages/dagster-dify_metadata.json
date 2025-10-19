@@ -1,0 +1,11 @@
+{
+  "name": "dagster-dify",
+  "version": "0.27.15.1",
+  "summary": "A dagster plugin for the Dify",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_dify-0.27.15.1.tar.gz",
+  "download_time": "2025-10-19T03:47:06.031134",
+  "package_url": "https://pypi.org/project/dagster-dify/"
+}
