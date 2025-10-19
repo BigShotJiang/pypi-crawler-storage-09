@@ -1,11 +1,11 @@
 {
   "name": "llmeval-sdk",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Python SDK for the evaluate LLM evaluation framework",
   "author": "RGGH",
   "license": null,
-  "home_page": "https://github.com/RGGH/llmeval",
-  "download_filename": "llmeval-sdk-0.1.5.tar.gz",
-  "download_time": "2025-10-16T14:16:54.553130",
+  "home_page": "https://github.com/RGGH/llmeval-python-sdk",
+  "download_filename": "llmeval_sdk-0.1.7.tar.gz",
+  "download_time": "2025-10-19T14:41:42.502084",
   "package_url": "https://pypi.org/project/llmeval-sdk/"
 }
