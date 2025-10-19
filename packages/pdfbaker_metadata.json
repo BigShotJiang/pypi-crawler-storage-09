@@ -1,11 +1,11 @@
 {
   "name": "pdfbaker",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "SVG Jinja templates + YAML config = PDF documents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pdfbaker-0.11.1.tar.gz",
-  "download_time": "2025-10-16T07:37:47.947487",
+  "download_filename": "pdfbaker-0.11.2.tar.gz",
+  "download_time": "2025-10-19T06:22:55.498604",
   "package_url": "https://pypi.org/project/pdfbaker/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-exadata-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Exadata MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_exadata_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T06:22:39.311536",
+  "package_url": "https://pypi.org/project/oracle.oci-exadata-mcp-server/"
+}

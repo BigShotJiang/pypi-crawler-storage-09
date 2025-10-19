@@ -1,18 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T05:51:02.445438
-- **Total Packages**: 83
-- **Total Size**: 9.26 MB
+- **Download Time**: 2025-10-19T06:23:28.462406
+- **Total Packages**: 84
+- **Total Size**: 31.61 MB
 
 ## Packages List
-- zhmiscellany
-- dorgy
+- nexus-tool
+- cve-explorer-cli
+- oracle.oci-exadata-mcp-server
+- policyengine-us
+- the-telegraphist
+- oracle.oci-resource-scheduler-mcp-server
+- oracle.oci-security-attribute-mcp-server
+- autogen-vertexai-memory
+- pmccc
+- reykit
+- blendercolors
+- pulumi-command
+- nonebot-plugin-anan-say
+- NitroExpose
+- ai-edge-litert-nightly
 - saini
+- ocr-my-mess
+- ugit-cli
+- pyg-nightly
+- agenticle
+- IMDBTraktSyncer
+- agentsystems-sdk
+- aiecs
+- sql-blocks
+- EqUMP
+- pip-inspector
+- pdfbaker
+- pulumi-aws-native
+- tinydsl
+- xidauth
+- quilt-mcp
+- tessdb-server
+- wayspiritmcp-weather
+- precli
+- dorgy
+- django-blog-package
+- pyrmute
+- gondola
+- zhmiscellany
 - e-qsl
 - kraken-sockets
 - django-siruta
-- the-telegraphist
 - byzh-ai
 - pythagoras
 - lattifai
@@ -20,12 +55,10 @@
 - agentsilex
 - bear-dereth
 - oracle.oci-postgresql-mcp-server
-- agenticle
 - orchai
 - oracle.mysql-database-mcp-server
 - d365fo-client
 - bintang
-- ocr-my-mess
 - dttxml
 - oracle.oci-application-performance-monitoring-mcp-server
 - mathai
@@ -41,14 +74,12 @@
 - byzh-core
 - oracle.oci-database-management-mcp-server
 - opendp
-- nexus-tool
 - rmcp
 - benchmark-runner
 - kq-lmpc-quadrotor
 - ast-tool-py
 - microplate
 - persidict
-- blendercolors
 - coldstore
 - avwx-engine
 - bluer-ugv
@@ -59,33 +90,3 @@
 - oracle.oci-marketplace-publisher-service-mcp-server
 - django-cfg
 - oracle.oci-media-services-mcp-server
-- oracle.oci-generic-artifacts-content-mcp-server
-- oracle.oci-support-management-mcp-server
-- owocr
-- pydmnrules-mcp-server
-- agently
-- oracle.oci-database-management-sql-performance-watch-mcp-server
-- claude-mpm
-- oracle.oci-big-data-mcp-server
-- kabukit
-- oracle.oci-budgets-mcp-server
-- oracle.oci-artifacts-mcp-server
-- fluxura
-- xmind-mcp
-- embersort
-- oracle.oci-organizations-mcp-server
-- worqhat
-- oracle.oci-digital-assistant-mcp-server
-- rtoml
-- dinnovos-agent
-- deeprehab-movements
-- svc-infra
-- deeprehab-rules
-- freeflux
-- maimai-py
-- prismor
-- deeprehab-angles
-- iamdata
-- deeprehab-pose
-- zeus
-- make-it-sync

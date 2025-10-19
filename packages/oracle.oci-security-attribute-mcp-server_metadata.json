@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-security-attribute-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Security Attribute MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_security_attribute_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T06:22:42.605721",
+  "package_url": "https://pypi.org/project/oracle.oci-security-attribute-mcp-server/"
+}
