@@ -1,24 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-19T05:16:38.384467
-- **Total Packages**: 82
-- **Total Size**: 8.38 MB
+- **Download Time**: 2025-10-19T05:34:22.208313
+- **Total Packages**: 80
+- **Total Size**: 1.03 MB
 
 ## Packages List
+- parameterizable
+- oracle.oci-java-management-mcp-server
+- ultraspn
+- letta-client
+- zhmiscellany
+- oracle.oci-audit-mcp-server
+- oracle.oci-postgresql-database-mcp-server
+- bwq-mcp-demo
+- oracle.oci-database-mcp-server
+- featrixsphere
+- byzh-core
+- oracle.oci-database-management-mcp-server
+- opendp
+- nexus-tool
+- rmcp
+- benchmark-runner
+- kq-lmpc-quadrotor
+- ast-tool-py
+- microplate
+- persidict
+- blendercolors
+- coldstore
 - avwx-engine
 - bluer-ugv
 - lattifai-core
-- featrixsphere
 - oracle.oci-certificates-mcp-server
 - oracle.oci-file-storage-mcp-server
 - aenet-gpr
 - moai-adk
 - oracle.oci-marketplace-publisher-service-mcp-server
-- nexus-tool
 - django-cfg
 - oracle.oci-media-services-mcp-server
-- persidict
 - oracle.oci-generic-artifacts-content-mcp-server
 - oracle.oci-support-management-mcp-server
 - owocr
@@ -35,7 +54,6 @@
 - xmind-mcp
 - embersort
 - oracle.oci-organizations-mcp-server
-- kq-lmpc-quadrotor
 - worqhat
 - oracle.oci-digital-assistant-mcp-server
 - rtoml
@@ -68,23 +86,3 @@
 - oracle.oci-oracle-cloud-migrations-mcp-server
 - gpe-tokenizer
 - oracle.oci-generative-ai-mcp-server
-- concurry
-- mcp-vector-search
-- ElPeriodic
-- dinox-api
-- oracle.oci-oracle-content-management-mcp-server
-- keras-nlp-nightly
-- keras-hub-nightly
-- oracle.oci-notifications-mcp-server
-- mcli-framework
-- describealign
-- rosdomofon
-- oracle.oci-secure-desktops-mcp-server
-- starlake-snowflake
-- starlake-dagster
-- starlake-airflow
-- yta-programming
-- acet
-- starlake-orchestration
-- poolcli
-- byzh-ai

@@ -1,0 +1,11 @@
+{
+  "name": "coldstore",
+  "version": "1.0.0",
+  "summary": "Project archival with structured metadata (Git state, environment, notes) and multi-level integrity verification",
+  "author": "Jan Fasnacht",
+  "license": "MIT",
+  "home_page": "https://github.com/janfasnacht/coldstore",
+  "download_filename": "coldstore-1.0.0.tar.gz",
+  "download_time": "2025-10-19T05:33:50.625446",
+  "package_url": "https://pypi.org/project/coldstore/"
+}

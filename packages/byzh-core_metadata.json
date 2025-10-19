@@ -1,0 +1,11 @@
+{
+  "name": "byzh-core",
+  "version": "0.0.9.16",
+  "summary": "byzh-core是byzh系列的核心库，包含了一些常用的工具函数和类。",
+  "author": "byzh_rc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "byzh_core-0.0.9.16.tar.gz",
+  "download_time": "2025-10-19T05:33:44.744532",
+  "package_url": "https://pypi.org/project/byzh-core/"
+}

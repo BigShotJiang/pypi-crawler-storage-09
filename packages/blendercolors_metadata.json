@@ -1,0 +1,11 @@
+{
+  "name": "blendercolors",
+  "version": "0.1.0",
+  "summary": "The simplest module for coloring terminal output via ansi codes. Originally from blender 3d source code.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "blendercolors-0.1.0.tar.gz",
+  "download_time": "2025-10-19T05:33:50.089326",
+  "package_url": "https://pypi.org/project/blendercolors/"
+}

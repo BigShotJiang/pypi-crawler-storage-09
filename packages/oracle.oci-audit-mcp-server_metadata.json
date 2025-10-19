@@ -1,0 +1,11 @@
+{
+  "name": "oracle.oci-audit-mcp-server",
+  "version": "0.0.0",
+  "summary": "OCI Audit MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oracle_oci_audit_mcp_server-0.0.0.tar.gz",
+  "download_time": "2025-10-19T05:33:42.043393",
+  "package_url": "https://pypi.org/project/oracle.oci-audit-mcp-server/"
+}
