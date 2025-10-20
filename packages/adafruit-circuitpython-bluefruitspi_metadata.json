@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-bluefruitspi",
+  "version": "1.1.24",
+  "summary": "CircuitPython helper class to work with the Adafruit Bluefruit LE SPI Friend.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_bluefruitspi-1.1.24.tar.gz",
+  "download_time": "2025-10-20T16:48:29.407991",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-bluefruitspi/"
+}

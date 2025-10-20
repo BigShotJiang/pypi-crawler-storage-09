@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-displayio-sh1107",
+  "version": "2.0.4",
+  "summary": "Support for the SH1107 OLED display driver IC",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_displayio_sh1107-2.0.4.tar.gz",
+  "download_time": "2025-10-20T16:48:15.850089",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-displayio-sh1107/"
+}

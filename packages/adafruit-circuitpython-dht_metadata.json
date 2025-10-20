@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-dht",
+  "version": "4.0.10",
+  "summary": "CircuitPython support for DHT11 and DHT22 type temperature/humidity devices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_dht-4.0.10.tar.gz",
+  "download_time": "2025-10-20T16:48:16.994966",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-dht/"
+}

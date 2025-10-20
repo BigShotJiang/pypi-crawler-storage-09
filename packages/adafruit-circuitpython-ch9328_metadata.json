@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ch9328",
+  "version": "1.0.6",
+  "summary": "CircuitPython driver for the CH9328 UART to HID keyboard breakout",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ch9328-1.0.6.tar.gz",
+  "download_time": "2025-10-20T16:48:21.869745",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ch9328/"
+}

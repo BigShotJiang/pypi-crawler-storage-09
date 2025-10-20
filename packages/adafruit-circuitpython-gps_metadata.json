@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-gps",
+  "version": "3.11.5",
+  "summary": "CircuitPython library for GPS modules.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_gps-3.11.5.tar.gz",
+  "download_time": "2025-10-20T16:47:46.832405",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-gps/"
+}

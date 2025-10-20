@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-htu31d",
+  "version": "1.1.20",
+  "summary": "Python library for TE HTU31D temperature and humidity sensors",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_htu31d-1.1.20.tar.gz",
+  "download_time": "2025-10-20T16:47:43.003845",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-htu31d/"
+}

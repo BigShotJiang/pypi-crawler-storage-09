@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-clue",
+  "version": "3.2.5",
+  "summary": "A high-level library representing all the features of the Adafruit CLUE",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_clue-3.2.5-py3-none-any.whl",
+  "download_time": "2025-10-20T16:48:19.277888",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-clue/"
+}

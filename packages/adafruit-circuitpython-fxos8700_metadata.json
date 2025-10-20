@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-fxos8700",
+  "version": "3.0.7",
+  "summary": "CircuitPython library for NXP FXOS8700 accelerometer and magnetometer.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_fxos8700-3.0.7.tar.gz",
+  "download_time": "2025-10-20T16:47:58.127113",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-fxos8700/"
+}

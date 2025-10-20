@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ds2413",
+  "version": "1.2.22",
+  "summary": "CircuitPython library for DS2413 1-Wire Dual Channel Addressable Switch.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ds2413-1.2.22.tar.gz",
+  "download_time": "2025-10-20T16:48:09.038536",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ds2413/"
+}

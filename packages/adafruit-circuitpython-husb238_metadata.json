@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-husb238",
+  "version": "1.0.6",
+  "summary": "CircuitPython helper library for the HUSB238 Type C Power Delivery Dummy Breakout",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_husb238-1.0.6.tar.gz",
+  "download_time": "2025-10-20T16:47:43.640571",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-husb238/"
+}

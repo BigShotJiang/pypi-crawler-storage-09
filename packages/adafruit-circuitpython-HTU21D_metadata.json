@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-HTU21D",
+  "version": "0.11.20",
+  "summary": "CircuitPython library for HTU21D-F Temperature and     Humidity Sensor.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_htu21d-0.11.20.tar.gz",
+  "download_time": "2025-10-20T16:47:44.286397",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-HTU21D/"
+}

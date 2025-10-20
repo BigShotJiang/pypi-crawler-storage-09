@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-esp-atcontrol",
+  "version": "0.11.5",
+  "summary": "CircuitPython driver for communicating using ESP AT command set.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_esp_atcontrol-0.11.5.tar.gz",
+  "download_time": "2025-10-20T16:48:03.900699",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-esp-atcontrol/"
+}

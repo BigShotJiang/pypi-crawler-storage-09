@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-dotstar",
+  "version": "2.2.19",
+  "summary": "CircuitPython library for DotStar LEDs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_dotstar-2.2.19.tar.gz",
+  "download_time": "2025-10-20T16:48:13.018193",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-dotstar/"
+}

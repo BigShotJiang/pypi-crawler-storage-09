@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-bme680",
+  "version": "3.7.14",
+  "summary": "CircuitPython driver for BME680 sensor over I2C",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_bme680-3.7.14.tar.gz",
+  "download_time": "2025-10-20T16:48:27.723314",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-bme680/"
+}

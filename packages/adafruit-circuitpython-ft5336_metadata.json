@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ft5336",
+  "version": "1.1.6",
+  "summary": "Touchscreen driver for the FT5336 touch controller",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ft5336-1.1.6.tar.gz",
+  "download_time": "2025-10-20T16:47:59.786140",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ft5336/"
+}

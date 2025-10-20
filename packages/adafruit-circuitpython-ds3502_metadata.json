@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ds3502",
+  "version": "1.1.25",
+  "summary": "CircuitPython library for the Maxim DS3502 I2C Potentionmeter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ds3502-1.1.25.tar.gz",
+  "download_time": "2025-10-20T16:48:07.891038",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ds3502/"
+}

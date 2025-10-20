@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-floppy",
+  "version": "3.0.4",
+  "summary": "Access floppy drives from CircuitPython",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_floppy-3.0.4.tar.gz",
+  "download_time": "2025-10-20T16:48:03.327323",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-floppy/"
+}

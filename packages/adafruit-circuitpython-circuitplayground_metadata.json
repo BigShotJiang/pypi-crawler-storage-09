@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-circuitplayground",
+  "version": "5.3.10",
+  "summary": "CircuitPython library for Circuit Playground Express",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_circuitplayground-5.3.10-py3-none-any.whl",
+  "download_time": "2025-10-20T16:48:18.766928",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-circuitplayground/"
+}

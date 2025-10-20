@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-icm20x",
+  "version": "2.1.8",
+  "summary": "Library for the ST ICM-20X Wide-Range 6-DoF Accelerometer and Gyro Family",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_icm20x-2.1.8.tar.gz",
+  "download_time": "2025-10-20T16:47:40.404170",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-icm20x/"
+}

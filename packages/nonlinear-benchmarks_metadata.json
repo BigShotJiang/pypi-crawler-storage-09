@@ -1,0 +1,11 @@
+{
+  "name": "nonlinear-benchmarks",
+  "version": "1.0.1",
+  "summary": "The official dataload for http://www.nonlinearbenchmark.org/",
+  "author": "Gerben I. Beintema",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "nonlinear_benchmarks-1.0.1.tar.gz",
+  "download_time": "2025-10-20T16:47:53.424097",
+  "package_url": "https://pypi.org/project/nonlinear-benchmarks/"
+}

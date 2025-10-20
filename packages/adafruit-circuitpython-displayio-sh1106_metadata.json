@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-displayio-sh1106",
+  "version": "2.0.2",
+  "summary": "DisplayIO compatible library for SH1106 OLED displays",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_displayio_sh1106-2.0.2.tar.gz",
+  "download_time": "2025-10-20T16:48:16.423132",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-displayio-sh1106/"
+}
