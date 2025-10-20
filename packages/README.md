@@ -1,54 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T11:16:43.210288
-- **Total Packages**: 85
-- **Total Size**: 1.87 MB
+- **Download Time**: 2025-10-20T11:30:29.193603
+- **Total Packages**: 82
+- **Total Size**: 0.9 MB
 
 ## Packages List
-- mattplottslib
-- campfires
-- catalystwan
-- flixopt
-- amsdal_models
-- abses
-- game-state
-- stimela
-- apolo-kube-client
-- odoo-addon-fs-folder-webdav
-- private-assistant-commons
-- legit-api-client
-- hyjinx
-- algorand-python-testing
-- aiormq
-- mxcubeweb
-- nats-fasterapi
-- gOdoo-cli
-- keycardai-mcp-fastmcp
-- atlassian-page-client
-- konduktor-nightly
-- odoo-addon-fs-folder
-- dissect.btrfs
-- edupsyadmin
-- cache-dit
-- flagright
-- hocon2
-- trainy-policy-nightly
-- MetObs-toolkit
-- cocoindex-code-mcp-server
-- xdat
-- hexin-server
-- rock-solid-base
-- tablegis
-- dvsense-driver
-- sqliteai-vector
-- kivy-garden.ebs.core
-- mlflow-oidc-auth-groups-plugin-adfs
-- datapizza-ai-clients-mistral
-- integrify-core
-- PVNet
-- aas-standard-parser
-- letta-nightly
 - ormodel
 - CliSelf
 - square-database
@@ -79,6 +36,7 @@
 - odoo-addon-storage-image-product
 - telebot-router
 - dtpyfw
+- mlflow-oidc-auth-groups-plugin-adfs
 - streamlit-octostar-utils
 - fuzzytri
 - datapizza-ai-clients-google
@@ -91,3 +49,42 @@
 - dictforge
 - dlcm-api
 - commodplot
+- levelapp
+- google-ads-api-report-fetcher
+- amulet-level
+- itergood
+- cmsdism
+- ezdb-utpal-raina
+- zndraw
+- seven-cloudapp-frame
+- gibr
+- wmill-pg
+- wmill
+- datapizza-ai-clients-openai
+- windmill-api
+- exafs
+- mex-model
+- hamtaa-texttools
+- prseq
+- urdfeus
+- django-setup-configuration
+- scikit-robot
+- datamarket
+- codemie-sdk-python
+- driada
+- autogen-vertexai-memory
+- langchain-dev-utils
+- netiob
+- watchgha
+- scc-firewall-manager-sdk
+- iommi
+- aioamazondevices
+- mcp-tip
+- epiccli-lite
+- fastapi-mail
+- amsdal_data
+- PyPcre
+- aipyapp
+- chembfn-webui
+- investing-algorithm-framework
+- evolib

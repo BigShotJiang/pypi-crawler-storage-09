@@ -1,11 +1,11 @@
 {
   "name": "netiob",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "NET IOB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netiob-0.1.13.tar.gz",
-  "download_time": "2025-10-20T10:45:55.897569",
+  "download_filename": "netiob-0.1.14.tar.gz",
+  "download_time": "2025-10-20T11:30:20.331146",
   "package_url": "https://pypi.org/project/netiob/"
 }
