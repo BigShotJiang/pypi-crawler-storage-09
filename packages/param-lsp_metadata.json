@@ -1,11 +1,11 @@
 {
   "name": "param-lsp",
-  "version": "0.0.1b20",
+  "version": "0.0.1b21",
   "summary": "Param Language Server Protocol",
   "author": "Simon Hansen",
   "license": null,
   "home_page": null,
-  "download_filename": "param_lsp-0.0.1b20.tar.gz",
-  "download_time": "2025-10-20T08:23:39.300606",
+  "download_filename": "param_lsp-0.0.1b21.tar.gz",
+  "download_time": "2025-10-20T09:22:36.169121",
   "package_url": "https://pypi.org/project/param-lsp/"
 }

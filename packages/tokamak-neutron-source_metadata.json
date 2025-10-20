@@ -1,0 +1,11 @@
+{
+  "name": "tokamak-neutron-source",
+  "version": "0.1.2",
+  "summary": null,
+  "author": "The tokamak neutron source team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tokamak_neutron_source-0.1.2.tar.gz",
+  "download_time": "2025-10-20T09:22:20.339570",
+  "package_url": "https://pypi.org/project/tokamak-neutron-source/"
+}

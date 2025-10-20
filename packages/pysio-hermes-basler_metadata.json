@@ -1,0 +1,11 @@
+{
+  "name": "pysio-hermes-basler",
+  "version": "0.0.1",
+  "summary": "A Basler GigE camera support module for HERMES",
+  "author": "e-Media Research Lab @ KU Leuven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysio_hermes_basler-0.0.1.tar.gz",
+  "download_time": "2025-10-20T09:22:32.041940",
+  "package_url": "https://pypi.org/project/pysio-hermes-basler/"
+}

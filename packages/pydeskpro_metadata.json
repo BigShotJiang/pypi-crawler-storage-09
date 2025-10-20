@@ -1,11 +1,11 @@
 {
   "name": "pydeskpro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": null,
   "author": "SHAFIQUL ISLAM",
-  "license": null,
-  "home_page": null,
-  "download_filename": "pydeskpro-1.0.0.tar.gz",
-  "download_time": "2025-10-19T04:19:55.718980",
+  "license": "MIT",
+  "home_page": "https://github.com/shafiqul8/pydeskpro",
+  "download_filename": "pydeskpro-1.0.1.tar.gz",
+  "download_time": "2025-10-20T09:22:34.587397",
   "package_url": "https://pypi.org/project/pydeskpro/"
 }

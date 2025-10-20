@@ -1,0 +1,11 @@
+{
+  "name": "woosailibrary",
+  "version": "1.0.0",
+  "summary": "AI cost optimization library - Save up to 61% on OpenAI API costs",
+  "author": "WoosAI Team",
+  "license": null,
+  "home_page": "https://github.com/woosai/woosailibrary",
+  "download_filename": "woosailibrary-1.0.0.tar.gz",
+  "download_time": "2025-10-20T09:22:03.629093",
+  "package_url": "https://pypi.org/project/woosailibrary/"
+}
