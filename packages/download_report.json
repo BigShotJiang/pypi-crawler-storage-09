@@ -1,8 +1,12 @@
 {
-  "download_time": "2025-10-20T06:25:51.220605",
-  "total_packages_downloaded": 82,
-  "total_size_mb": 40.43,
+  "download_time": "2025-10-20T06:51:52.388312",
+  "total_packages_downloaded": 83,
+  "total_size_mb": 0.36,
   "packages": [
+    "bqat",
+    "pr-arena",
+    "autoxkit",
+    "akismet",
     "pypci-ng",
     "abstract-hugpy",
     "fasttenet",
@@ -81,9 +85,6 @@
     "openconnect-lite",
     "OpenGeode-GeosciencesIO",
     "gitfluff",
-    "antchain-dtaiagt",
-    "Geode-Numerics",
-    "grepxl",
-    "pybotchi"
+    "antchain-dtaiagt"
   ]
 }

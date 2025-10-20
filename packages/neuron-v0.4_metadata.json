@@ -1,11 +1,11 @@
 {
   "name": "neuron-v0.4",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "summary": "A local AI assistant with advanced identity protection and hardware optimization",
   "author": "Dev Patel",
   "license": "MIT",
   "home_page": "https://github.com/devpatel/neuron-ai-assistant",
-  "download_filename": "neuron_v0_4-0.4.5.tar.gz",
-  "download_time": "2025-10-20T05:50:31.335909",
+  "download_filename": "neuron_v0_4-0.4.6.tar.gz",
+  "download_time": "2025-10-20T06:51:47.698129",
   "package_url": "https://pypi.org/project/neuron-v0.4/"
 }

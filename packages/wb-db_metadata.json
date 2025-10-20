@@ -1,11 +1,11 @@
 {
   "name": "wb-db",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": null,
   "author": "mathewgeola",
   "license": null,
   "home_page": null,
-  "download_filename": "wb_db-0.0.4.tar.gz",
-  "download_time": "2025-10-20T06:25:39.412207",
+  "download_filename": "wb_db-0.0.5.tar.gz",
+  "download_time": "2025-10-20T06:51:42.929143",
   "package_url": "https://pypi.org/project/wb-db/"
 }
