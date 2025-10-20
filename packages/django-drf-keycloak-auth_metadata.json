@@ -1,11 +1,11 @@
 {
   "name": "django-drf-keycloak-auth",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "summary": "Django app for Keycloak OAuth2 authentication with DRF.",
   "author": "xiaobitipao",
   "license": "MIT",
   "home_page": "https://github.com/xiaobitipao/django-drf-keycloak-auth",
-  "download_filename": "django_drf_keycloak_auth-0.0.2.tar.gz",
-  "download_time": "2025-10-17T11:27:48.269480",
+  "download_filename": "django_drf_keycloak_auth-0.1.0.tar.gz",
+  "download_time": "2025-10-20T03:47:32.245091",
   "package_url": "https://pypi.org/project/django-drf-keycloak-auth/"
 }

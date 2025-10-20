@@ -1,0 +1,11 @@
+{
+  "name": "types-xlrd",
+  "version": "2.0.0.20251020",
+  "summary": "Typing stubs for xlrd",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_xlrd-2.0.0.20251020.tar.gz",
+  "download_time": "2025-10-20T03:47:38.154924",
+  "package_url": "https://pypi.org/project/types-xlrd/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "p2pd",
+  "version": "3.1.4",
+  "summary": "Asynchronous P2P networking library and service",
+  "author": "Matthew Roberts",
+  "license": "public domain",
+  "home_page": "http://github.com/robertsdotpm/p2pd",
+  "download_filename": "p2pd-3.1.4.tar.gz",
+  "download_time": "2025-10-20T03:47:38.701118",
+  "package_url": "https://pypi.org/project/p2pd/"
+}

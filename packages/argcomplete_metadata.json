@@ -1,0 +1,11 @@
+{
+  "name": "argcomplete",
+  "version": "3.6.3",
+  "summary": "Bash tab completion for argparse",
+  "author": "Andrey Kislyuk",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "argcomplete-3.6.3.tar.gz",
+  "download_time": "2025-10-20T03:47:14.968432",
+  "package_url": "https://pypi.org/project/argcomplete/"
+}

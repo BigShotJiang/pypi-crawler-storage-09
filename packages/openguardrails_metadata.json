@@ -1,0 +1,11 @@
+{
+  "name": "openguardrails",
+  "version": "3.0.0",
+  "summary": "OpenGuardrails Python SDK - An LLM-based context-aware AI guardrail that understands conversation context for security, safety and data leakage detection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openguardrails-3.0.0.tar.gz",
+  "download_time": "2025-10-20T03:47:16.023942",
+  "package_url": "https://pypi.org/project/openguardrails/"
+}

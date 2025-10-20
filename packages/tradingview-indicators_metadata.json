@@ -1,0 +1,11 @@
+{
+  "name": "tradingview-indicators",
+  "version": "1.0.0",
+  "summary": "An accurate calculation of technical analysis indicators with values aligning with those in TradingView.",
+  "author": "Archie Marques",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tradingview_indicators-1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-20T03:47:07.424830",
+  "package_url": "https://pypi.org/project/tradingview-indicators/"
+}

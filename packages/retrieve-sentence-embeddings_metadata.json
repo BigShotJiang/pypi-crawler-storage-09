@@ -1,0 +1,11 @@
+{
+  "name": "retrieve-sentence-embeddings",
+  "version": "0.1.0a0",
+  "summary": "A simple function to retrieve sentence embeddings from an OpenAI Embeddings-compatible API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "retrieve_sentence_embeddings-0.1.0a0.tar.gz",
+  "download_time": "2025-10-20T03:47:39.236891",
+  "package_url": "https://pypi.org/project/retrieve-sentence-embeddings/"
+}
