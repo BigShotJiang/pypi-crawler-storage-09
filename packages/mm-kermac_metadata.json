@@ -1,0 +1,11 @@
+{
+  "name": "mm-kermac",
+  "version": "0.1.2",
+  "summary": "Dynamically compiled hyper semirings for Pytorch using PTX Inject and Stack PTX",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mm_kermac-0.1.2.tar.gz",
+  "download_time": "2025-10-20T01:16:35.596737",
+  "package_url": "https://pypi.org/project/mm-kermac/"
+}

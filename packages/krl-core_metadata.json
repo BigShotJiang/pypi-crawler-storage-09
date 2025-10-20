@@ -1,0 +1,11 @@
+{
+  "name": "krl-core",
+  "version": "0.1.0",
+  "summary": "Shared foundation utilities for the KR-Labs analytics platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "krl_core-0.1.0.tar.gz",
+  "download_time": "2025-10-20T01:16:49.075964",
+  "package_url": "https://pypi.org/project/krl-core/"
+}

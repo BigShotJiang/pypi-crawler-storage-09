@@ -1,0 +1,11 @@
+{
+  "name": "cerbose",
+  "version": "1.0.1.post1",
+  "summary": "A simple Python library for making colourful, tagged terminal output, along with additional console features.",
+  "author": "jasperredis",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "cerbose-1.0.1.post1.tar.gz",
+  "download_time": "2025-10-20T01:16:24.149968",
+  "package_url": "https://pypi.org/project/cerbose/"
+}

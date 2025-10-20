@@ -1,11 +1,11 @@
 {
   "name": "mcp2py",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Turn any MCP server into a Python module",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp2py-0.3.0.tar.gz",
-  "download_time": "2025-10-19T17:50:27.090087",
+  "download_filename": "mcp2py-0.4.0.tar.gz",
+  "download_time": "2025-10-20T01:16:28.968900",
   "package_url": "https://pypi.org/project/mcp2py/"
 }

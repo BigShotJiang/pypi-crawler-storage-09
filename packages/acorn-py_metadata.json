@@ -1,0 +1,11 @@
+{
+  "name": "acorn-py",
+  "version": "0.1.31",
+  "summary": "Python bindings for acorn-lib crate",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acorn_py-0.1.31-cp310-abi3-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-10-20T01:16:20.572585",
+  "package_url": "https://pypi.org/project/acorn-py/"
+}

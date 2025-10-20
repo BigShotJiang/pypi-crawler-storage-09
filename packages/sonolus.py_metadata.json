@@ -1,11 +1,11 @@
 {
   "name": "sonolus.py",
-  "version": "0.10.7",
+  "version": "0.10.8",
   "summary": "Sonolus engine development in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sonolus_py-0.10.7.tar.gz",
-  "download_time": "2025-10-19T19:37:37.057146",
+  "download_filename": "sonolus_py-0.10.8.tar.gz",
+  "download_time": "2025-10-20T01:16:51.535430",
   "package_url": "https://pypi.org/project/sonolus.py/"
 }

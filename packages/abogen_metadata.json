@@ -1,0 +1,11 @@
+{
+  "name": "abogen",
+  "version": "1.2.0",
+  "summary": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abogen-1.2.0.tar.gz",
+  "download_time": "2025-10-20T01:16:28.326064",
+  "package_url": "https://pypi.org/project/abogen/"
+}
