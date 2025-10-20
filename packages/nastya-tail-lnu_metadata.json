@@ -1,0 +1,11 @@
+{
+  "name": "nastya-tail-lnu",
+  "version": "0.1.2",
+  "summary": "Lightweight and optimized implementation of Unix tail utility",
+  "author": "Nastya",
+  "license": null,
+  "home_page": "https://github.com/Nastia2004/nastya-tail-lnu",
+  "download_filename": "nastya_tail_lnu-0.1.2.tar.gz",
+  "download_time": "2025-10-20T07:39:26.882518",
+  "package_url": "https://pypi.org/project/nastya-tail-lnu/"
+}

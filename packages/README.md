@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T07:18:53.546767
-- **Total Packages**: 86
-- **Total Size**: 55.13 MB
+- **Download Time**: 2025-10-20T07:39:57.500597
+- **Total Packages**: 80
+- **Total Size**: 39.99 MB
 
 ## Packages List
+- funstall
+- mcpdoc-fastmcp
+- mcp-server-aliyun-observability
+- geetools
+- neuron-v0.4
+- futurehouse-client
+- ejd
+- idemptx-redis6
+- abstract-hugpy
+- s3dgraphy
+- textfun
+- oneforall-kjl
+- ansys-api-dbu
+- odoo-addon-hr-payroll-document
+- paicorelib
+- vallaipallam
+- scriptman
+- radboy
+- github-haystack
+- magma-converter
+- utilskit
+- archipy
+- nastya-tail-lnu
+- objectdb
+- ratio1
+- xl-docx
+- dbt-run-analyser
+- levdomain
+- sqloader
+- multi-puzzle-solver
+- xgae
+- xutility
+- domino-py-iisas
+- tno.quantum.ml.classifiers
+- dapla-toolbelt-whodat
+- jupyterhub-credit-service
+- worklet
+- json-repair
+- shamir-lbodlev
+- mlx-openai-server
+- xtn-tools-pro
+- smartsheet-python-sdk
+- scubalspy
+- hangman-terminal
+- fyers_helper
+- mkdocs-shadcn
+- insights-core
+- zfx
+- peacepie
 - libspot
 - hamtaa-texttools
 - tritonparse
@@ -13,8 +62,6 @@
 - daft-lts
 - slurm-util
 - daft
-- neuron-v0.4
-- xtn-tools-pro
 - streamlit-nightly
 - deepfabric
 - Blinter
@@ -22,12 +69,10 @@
 - fmc-report
 - piket
 - spaceblocks-permissions-server
-- oneforall-kjl
 - tf-models-nightly
 - pybinpack
 - odoo-addon-survey-skip-start
 - rosdomofon
-- xl-docx
 - BoschMiniRpa
 - zabbix-cli-uio
 - marqstree-mcp-demo
@@ -41,54 +86,3 @@
 - mediacrop
 - pulseflow
 - tno.quantum.ml.classifiers.svm
-- persidict
-- openubmc-bingo
-- scivianna
-- future_sales_inno_ds_project
-- cordatus-jtop-service
-- pythagoras
-- archil
-- odoo-addon-product-pricelist-direct-print
-- win-depends
-- Gen3SchemaDev
-- bentoml
-- datetoolz
-- googleads-housekeeper
-- dftracer
-- mcp-server-mikrotik
-- odoo-addon-l10n-es-atc-mod420
-- strx
-- futurehouse-client
-- smartsheet-python-sdk
-- semantic-copycat-src2id
-- parameterizable
-- xkits-file
-- pathao-api
-- mal-gui
-- aidev-agent
-- shared-call-py
-- deploy-time-build
-- lmspace
-- bg4h
-- datajunction
-- receipt-ocr
-- datajunction-reflection
-- datajunction-query
-- datajunction-server
-- sagemaker-shim
-- routir
-- wb-db
-- apppy-env
-- apppy-logger
-- apppy-clients
-- apppy-db
-- apppy-aws
-- apppy-fs
-- PureCloudPlatformClientV2
-- apppy-sb
-- apppy-queues
-- apppy-app
-- apppy-generic
-- apppy-auth
-- apppy-fastql
-- dify_plugin

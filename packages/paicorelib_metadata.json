@@ -1,0 +1,11 @@
+{
+  "name": "paicorelib",
+  "version": "1.5.0",
+  "summary": "Library of PAICORE",
+  "author": "Ziru Pan",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/PAICookers/PAIlib",
+  "download_filename": "paicorelib-1.5.0.tar.gz",
+  "download_time": "2025-10-20T07:39:22.643051",
+  "package_url": "https://pypi.org/project/paicorelib/"
+}

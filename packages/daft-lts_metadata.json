@@ -1,11 +1,11 @@
 {
   "name": "daft-lts",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "Distributed Dataframes for Multimodal Data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "daft_lts-0.6.6.tar.gz",
-  "download_time": "2025-10-20T07:18:03.619653",
+  "download_filename": "daft_lts-0.6.7.tar.gz",
+  "download_time": "2025-10-20T07:39:43.626510",
   "package_url": "https://pypi.org/project/daft-lts/"
 }

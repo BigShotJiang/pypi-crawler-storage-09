@@ -1,11 +1,11 @@
 {
   "name": "cofactor-vigil",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Vigil CLI: Observable, collaborative, reproducible science platform",
   "author": "Science Abundance",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cofactor_vigil-0.1.6.tar.gz",
-  "download_time": "2025-10-20T07:18:02.371108",
+  "download_filename": "cofactor_vigil-0.1.7.tar.gz",
+  "download_time": "2025-10-20T07:39:43.013056",
   "package_url": "https://pypi.org/project/cofactor-vigil/"
 }

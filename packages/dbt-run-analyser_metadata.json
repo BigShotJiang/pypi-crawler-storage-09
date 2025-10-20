@@ -1,0 +1,11 @@
+{
+  "name": "dbt-run-analyser",
+  "version": "0.3.1",
+  "summary": "Python library to analyse thread utilisation for dbt runs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbt_run_analyser-0.3.1.tar.gz",
+  "download_time": "2025-10-20T07:39:28.966898",
+  "package_url": "https://pypi.org/project/dbt-run-analyser/"
+}
