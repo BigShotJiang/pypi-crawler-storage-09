@@ -1,0 +1,11 @@
+{
+  "name": "anubis-cli",
+  "version": "0.0.16",
+  "summary": "Sbayt Anubis CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anubis_cli-0.0.16.tar.gz",
+  "download_time": "2025-10-20T07:51:03.509747",
+  "package_url": "https://pypi.org/project/anubis-cli/"
+}

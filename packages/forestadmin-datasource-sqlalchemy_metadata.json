@@ -1,0 +1,11 @@
+{
+  "name": "forestadmin-datasource-sqlalchemy",
+  "version": "1.23.9",
+  "summary": "sqlalchemy datasource for forestadmin python agent",
+  "author": "Valentin Monté",
+  "license": null,
+  "home_page": "https://www.forestadmin.com",
+  "download_filename": "forestadmin_datasource_sqlalchemy-1.23.9.tar.gz",
+  "download_time": "2025-10-20T07:51:04.085346",
+  "package_url": "https://pypi.org/project/forestadmin-datasource-sqlalchemy/"
+}

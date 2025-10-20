@@ -1,0 +1,11 @@
+{
+  "name": "forestadmin-agent-django",
+  "version": "1.23.9",
+  "summary": "django agent for forestadmin python agent",
+  "author": "Julien Barreau",
+  "license": null,
+  "home_page": "https://www.forestadmin.com",
+  "download_filename": "forestadmin_agent_django-1.23.9.tar.gz",
+  "download_time": "2025-10-20T07:51:01.775337",
+  "package_url": "https://pypi.org/project/forestadmin-agent-django/"
+}
