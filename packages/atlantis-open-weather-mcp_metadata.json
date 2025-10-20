@@ -1,0 +1,11 @@
+{
+  "name": "atlantis-open-weather-mcp",
+  "version": "0.1.2",
+  "summary": "An MCP server for OpenWeather data using uvx.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atlantis_open_weather_mcp-0.1.2.tar.gz",
+  "download_time": "2025-10-20T22:34:15.628508",
+  "package_url": "https://pypi.org/project/atlantis-open-weather-mcp/"
+}

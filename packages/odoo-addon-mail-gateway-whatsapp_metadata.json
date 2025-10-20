@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-gateway-whatsapp",
+  "version": "18.0.1.0.0.2",
+  "summary": "Set a gateway for whatsapp",
+  "author": "Creu Blanca, Dixmit, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/social",
+  "download_filename": "odoo_addon_mail_gateway_whatsapp-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-20T22:34:22.576541",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-gateway-whatsapp/"
+}

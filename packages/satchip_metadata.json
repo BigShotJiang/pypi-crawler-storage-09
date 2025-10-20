@@ -1,0 +1,11 @@
+{
+  "name": "satchip",
+  "version": "0.5.0",
+  "summary": "A package for satellite image AI data prep",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "satchip-0.5.0.tar.gz",
+  "download_time": "2025-10-20T22:34:14.599053",
+  "package_url": "https://pypi.org/project/satchip/"
+}

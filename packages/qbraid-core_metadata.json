@@ -1,11 +1,11 @@
 {
   "name": "qbraid-core",
-  "version": "0.1.44",
+  "version": "0.1.45",
   "summary": "Python library with core abstractions for software development in the qBraid ecosystem.",
   "author": "qBraid Development Team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "qbraid_core-0.1.44.tar.gz",
-  "download_time": "2025-10-20T20:42:58.141847",
+  "download_filename": "qbraid_core-0.1.45.tar.gz",
+  "download_time": "2025-10-20T22:33:50.096529",
   "package_url": "https://pypi.org/project/qbraid-core/"
 }

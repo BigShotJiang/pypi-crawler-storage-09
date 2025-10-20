@@ -1,0 +1,11 @@
+{
+  "name": "eda-toolkit",
+  "version": "0.0.19",
+  "summary": "A Python library for EDA, including visualizations, directory management, data preprocessing, reporting, and more.",
+  "author": "Leonid Shpaner, Oscar Gil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "eda_toolkit-0.0.19.tar.gz",
+  "download_time": "2025-10-20T22:33:44.129380",
+  "package_url": "https://pypi.org/project/eda-toolkit/"
+}
