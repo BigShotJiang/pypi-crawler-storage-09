@@ -1,15 +1,22 @@
 {
-  "download_time": "2025-10-20T04:45:20.671885",
-  "total_packages_downloaded": 72,
-  "total_size_mb": 18.39,
+  "download_time": "2025-10-20T04:54:19.051173",
+  "total_packages_downloaded": 73,
+  "total_size_mb": 11.7,
   "packages": [
+    "pycorelibs",
+    "fHEOM",
+    "aenet-gpr",
+    "Cb-FloodDy",
+    "maruadmin-agent",
+    "iamdata",
+    "django-codenerix-email",
+    "nexaai",
     "esc-mini-tools-lib",
     "openmemory-py",
     "levdomain",
     "physics-plot",
     "empix",
     "grater-jax",
-    "django-codenerix-email",
     "rents-mcp-weather",
     "hikugen",
     "pylibtemplate",
@@ -44,7 +51,6 @@
     "grain-nightly",
     "eo-tides",
     "scamper",
-    "aenet-gpr",
     "pyhql",
     "p2pd",
     "fastquadtree",
@@ -69,11 +75,6 @@
     "snap-ocr",
     "svc-infra",
     "streamlit-image-annotation",
-    "quant1x",
-    "python-amazon-ad-api",
-    "holodeck-ai",
-    "awx-zipline-ai",
-    "langchain-tool-server",
-    "tradingview-indicators"
+    "quant1x"
   ]
 }

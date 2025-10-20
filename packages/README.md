@@ -1,18 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T04:45:20.671885
-- **Total Packages**: 72
-- **Total Size**: 18.39 MB
+- **Download Time**: 2025-10-20T04:54:19.051173
+- **Total Packages**: 73
+- **Total Size**: 11.7 MB
 
 ## Packages List
+- pycorelibs
+- fHEOM
+- aenet-gpr
+- Cb-FloodDy
+- maruadmin-agent
+- iamdata
+- django-codenerix-email
+- nexaai
 - esc-mini-tools-lib
 - openmemory-py
 - levdomain
 - physics-plot
 - empix
 - grater-jax
-- django-codenerix-email
 - rents-mcp-weather
 - hikugen
 - pylibtemplate
@@ -47,7 +54,6 @@
 - grain-nightly
 - eo-tides
 - scamper
-- aenet-gpr
 - pyhql
 - p2pd
 - fastquadtree
@@ -73,8 +79,3 @@
 - svc-infra
 - streamlit-image-annotation
 - quant1x
-- python-amazon-ad-api
-- holodeck-ai
-- awx-zipline-ai
-- langchain-tool-server
-- tradingview-indicators
