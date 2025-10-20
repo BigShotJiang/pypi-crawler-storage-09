@@ -1,0 +1,11 @@
+{
+  "name": "mcpl",
+  "version": "2.2.4",
+  "summary": "Utilities and API for accessing MCPL (.mcpl) files",
+  "author": "MCPL developers (Thomas Kittelmann, et. al.)",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mcpl-2.2.4.tar.gz",
+  "download_time": "2025-10-20T21:16:06.830085",
+  "package_url": "https://pypi.org/project/mcpl/"
+}

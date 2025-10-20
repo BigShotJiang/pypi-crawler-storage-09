@@ -1,0 +1,11 @@
+{
+  "name": "slither-cli",
+  "version": "0.1.0",
+  "summary": "Display directory structure as a tree in your terminal",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slither_cli-0.1.0.tar.gz",
+  "download_time": "2025-10-20T21:15:45.639206",
+  "package_url": "https://pypi.org/project/slither-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "findingmodel",
+  "version": "0.4.0",
+  "summary": "Definition and tools for Open Imaging Finding Models",
+  "author": "Tarik Alkasab, Vijay Dawal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "findingmodel-0.4.0.tar.gz",
+  "download_time": "2025-10-20T21:16:01.664765",
+  "package_url": "https://pypi.org/project/findingmodel/"
+}

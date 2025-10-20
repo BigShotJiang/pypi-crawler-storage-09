@@ -1,11 +1,11 @@
 {
   "name": "Supervertaler",
-  "version": "3.7.0",
+  "version": "3.7.1",
   "summary": "AI-powered context-aware translation tool for professional translators",
   "author": "Michael Beijer",
   "license": "MIT",
   "home_page": "https://github.com/michaelbeijer/Supervertaler",
-  "download_filename": "supervertaler-3.7.0.tar.gz",
-  "download_time": "2025-10-19T21:28:14.560559",
+  "download_filename": "supervertaler-3.7.1.tar.gz",
+  "download_time": "2025-10-20T21:15:52.926298",
   "package_url": "https://pypi.org/project/Supervertaler/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-dbbrain",
+  "version": "3.0.1478",
+  "summary": "Tencent Cloud Dbbrain SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-dbbrain-3.0.1478.tar.gz",
+  "download_time": "2025-10-20T21:16:23.230325",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-dbbrain/"
+}
