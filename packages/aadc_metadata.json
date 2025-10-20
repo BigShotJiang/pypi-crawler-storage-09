@@ -1,0 +1,11 @@
+{
+  "name": "aadc",
+  "version": "1.8.0",
+  "summary": "Python interface to AADC",
+  "author": "Matlogica",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aadc-1.8.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-10-20T17:33:10.496799",
+  "package_url": "https://pypi.org/project/aadc/"
+}
