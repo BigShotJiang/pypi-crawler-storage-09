@@ -1,0 +1,11 @@
+{
+  "name": "tello-zune",
+  "version": "0.7.5",
+  "summary": "Biblioteca tello-zune, serve para controlar, e obter informacoes do drone DJI Tello.",
+  "author": "Zune Drones",
+  "license": null,
+  "home_page": "https://github.com/zunedrones/tello_zune",
+  "download_filename": "tello_zune-0.7.5.tar.gz",
+  "download_time": "2025-10-20T16:21:25.749130",
+  "package_url": "https://pypi.org/project/tello-zune/"
+}

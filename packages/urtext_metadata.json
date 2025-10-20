@@ -1,0 +1,11 @@
+{
+  "name": "urtext",
+  "version": "0.1.5",
+  "summary": "Urtext /ˈʊrtekst/ is a markup language and framework for programmable notebooks in text files on top of the Python language.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "urtext-0.1.5.tar.gz",
+  "download_time": "2025-10-20T16:21:16.828444",
+  "package_url": "https://pypi.org/project/urtext/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tng-python",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Automated PYTHON| Tests in Minutes. Static analysis engine with AST-based code intelligence – generates unit, integration, and matrix tests for Ruby, Python, and JavaScript.",
   "author": null,
   "license": "Commercial",
   "home_page": null,
-  "download_filename": "tng_python-0.1.5-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-20T12:34:14.304236",
+  "download_filename": "tng_python-0.1.7-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-20T16:21:04.827504",
   "package_url": "https://pypi.org/project/tng-python/"
 }

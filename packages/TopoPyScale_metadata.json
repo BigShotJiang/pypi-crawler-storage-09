@@ -1,0 +1,11 @@
+{
+  "name": "TopoPyScale",
+  "version": "0.3.3",
+  "summary": "TopoPyScale, a Python package to perform simplistic climate downscaling at the hillslope scale.",
+  "author": "Joel Fiddes, Kristoffer Aalstad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "topopyscale-0.3.3-py3-none-any.whl",
+  "download_time": "2025-10-20T16:21:37.898480",
+  "package_url": "https://pypi.org/project/TopoPyScale/"
+}

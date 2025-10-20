@@ -1,0 +1,11 @@
+{
+  "name": "pythonny-quest",
+  "version": "0.1.2",
+  "summary": "An iPython REPL that guides and motivates your quest to learn Python. Augments iPython with hints and CFL-style games to track your progress and avoid villains and pitfalls.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythonny_quest-0.1.2.tar.gz",
+  "download_time": "2025-10-20T16:21:31.057537",
+  "package_url": "https://pypi.org/project/pythonny-quest/"
+}
