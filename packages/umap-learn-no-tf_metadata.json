@@ -1,0 +1,11 @@
+{
+  "name": "umap-learn-no-tf",
+  "version": "0.5.7",
+  "summary": "Uniform Manifold Approximation and Projection",
+  "author": null,
+  "license": "BSD",
+  "home_page": "http://github.com/lmcinnes/umap",
+  "download_filename": "umap_learn_no_tf-0.5.7.tar.gz",
+  "download_time": "2025-10-20T13:19:24.457815",
+  "package_url": "https://pypi.org/project/umap-learn-no-tf/"
+}

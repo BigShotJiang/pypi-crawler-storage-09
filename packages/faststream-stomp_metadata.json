@@ -1,0 +1,11 @@
+{
+  "name": "faststream-stomp",
+  "version": "2.0.0",
+  "summary": "FastStream STOMP broker",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "faststream_stomp-2.0.0.tar.gz",
+  "download_time": "2025-10-20T13:19:27.544893",
+  "package_url": "https://pypi.org/project/faststream-stomp/"
+}

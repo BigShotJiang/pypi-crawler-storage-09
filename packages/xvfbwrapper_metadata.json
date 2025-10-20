@@ -1,0 +1,11 @@
+{
+  "name": "xvfbwrapper",
+  "version": "0.2.15",
+  "summary": "Manage headless displays with Xvfb (X virtual framebuffer)",
+  "author": "Corey Goldberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xvfbwrapper-0.2.15.tar.gz",
+  "download_time": "2025-10-20T13:19:58.006098",
+  "package_url": "https://pypi.org/project/xvfbwrapper/"
+}

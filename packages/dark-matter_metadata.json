@@ -1,0 +1,11 @@
+{
+  "name": "dark-matter",
+  "version": "6.0.0",
+  "summary": "Python library and utility scripts for working with genetic sequence data.",
+  "author": "Barbara Mühlemann, Tali Veith, Sophie Mathias, Udo Gieraths, Nikolai Zaki, David Pattinson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dark_matter-6.0.0.tar.gz",
+  "download_time": "2025-10-20T13:19:57.494767",
+  "package_url": "https://pypi.org/project/dark-matter/"
+}

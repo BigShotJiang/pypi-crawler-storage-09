@@ -1,11 +1,11 @@
 {
   "name": "pycc.id",
-  "version": "0.1.10",
+  "version": "0.1.14",
   "summary": "Library to system identification using CC",
   "author": "Federico J. Gonzalez",
   "license": null,
   "home_page": null,
-  "download_filename": "pycc_id-0.1.10-py3-none-any.whl",
-  "download_time": "2025-10-20T12:34:00.238737",
+  "download_filename": "pycc_id-0.1.14-py3-none-any.whl",
+  "download_time": "2025-10-20T13:19:30.134707",
   "package_url": "https://pypi.org/project/pycc.id/"
 }
