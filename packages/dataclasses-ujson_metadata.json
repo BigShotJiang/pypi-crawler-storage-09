@@ -1,11 +1,11 @@
 {
   "name": "dataclasses-ujson",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "summary": "fast converter your json to dataclass",
   "author": "Kislenko Artem",
   "license": "Apache",
   "home_page": "https://github.com/kislenko-artem/dataclasses-ujson",
-  "download_filename": "dataclasses_ujson-0.0.30.tar.gz",
-  "download_time": "2025-10-20T10:18:54.565432",
+  "download_filename": "dataclasses_ujson-0.0.31.tar.gz",
+  "download_time": "2025-10-20T11:50:47.834400",
   "package_url": "https://pypi.org/project/dataclasses-ujson/"
 }

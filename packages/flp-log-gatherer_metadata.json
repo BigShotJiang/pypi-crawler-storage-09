@@ -1,0 +1,11 @@
+{
+  "name": "flp-log-gatherer",
+  "version": "1.0.0",
+  "summary": "Collect logs from heterogeneous nodes using rsync and systemd journal",
+  "author": "Matteo Concas",
+  "license": null,
+  "home_page": "https://github.com/mconcas/flp-log-gatherer",
+  "download_filename": "flp_log_gatherer-1.0.0.tar.gz",
+  "download_time": "2025-10-20T11:50:34.920189",
+  "package_url": "https://pypi.org/project/flp-log-gatherer/"
+}

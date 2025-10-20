@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T11:40:34.249320
-- **Total Packages**: 90
-- **Total Size**: 56.2 MB
+- **Download Time**: 2025-10-20T11:51:13.171425
+- **Total Packages**: 88
+- **Total Size**: 17.49 MB
 
 ## Packages List
+- odoo-addon-fs-attachment-s3
+- odoo-addon-fs-storage
+- odoo-addon-fs-attachment
+- cb-gwi-gpp
+- OTCFinUtils
+- payments-py
+- eodc-faas-openeo
+- sqlalchemy_db_helper
+- BrainflowCyton
+- pylinearfold
+- dataiku-api-client
+- mech-client
+- agent-skills-mcp
+- iap-messenger
+- automagik-hive
+- ebs-linuxnode-gui-kivy-camera
+- MH-Math-funciones
+- pro-craft
+- flp-log-gatherer
+- ejercicios-ampliacion-christian-salguero
+- scvi-tools
+- sparrow-parse
+- revng
+- latticeflow-go-sdk
+- clear-skies-gitlab
+- agilab
+- agi-core
+- mysingle-quant
+- agi-cluster
+- dockgen
+- agi-node
+- cachebox
+- qqtools
+- memorymanagement
+- pytubefix
+- seto
+- ipykernel
+- django-cabinet
+- gphoto2
+- OpenGeode-Stochastic
+- dataclasses-ujson
+- winipedia-utils
+- ut-doa
+- kailash-dataflow
 - PlumedToHTML
 - web-queue2
 - ormantism
@@ -38,61 +82,15 @@
 - funAmpliacion-ngp
 - hopsworks
 - Orange3-Survival-Analysis
-- ejercicios-ampliacion-christian-salguero
-- cb-gwi-gpp
 - tradeapi
-- automagik-hive
-- agilab
 - open-aea-test-autonomy
 - nucliadb-utils
-- agi-core
 - nucliadb-telemetry
 - open-autonomy
 - nucliadb-sdk
-- agi-cluster
 - nucliadb-protos
 - nucliadb-models
-- agi-node
 - nucliadb-dataset
 - nucliadb
 - hexdoc-lapisworks
 - nidx-protos
-- azcore
-- hestia-earth-models
-- ostorlab
-- hdlproto
-- hydrolib-core
-- fastapi-slim
-- torchx-nightly
-- dataiku-scoring
-- fastapi
-- odoo-addon-project-task-hide-add-property
-- rwthomework
-- aubio_ledfx
-- mkdocs-ab6459
-- lx-anonymizer
-- autotwin_bselib
-- ut-dic
-- moto-ext
-- vibe-reader
-- ut-dfr
-- torchft-nightly
-- ut-ctl
-- WeComMsg
-- verctrl
-- icotronic
-- ut-com
-- SeleccionRepeticion-AFA
-- flowlens-mcp-server
-- ib1-provenance
-- telebot-router
-- rustybt
-- zzlovecccclovezz
-- raven-pyu
-- jetflow
-- orca-gym
-- txmd
-- open-sandboxes
-- pagerduty_advance_mcp
-- pyterrier-t5
-- python-agents

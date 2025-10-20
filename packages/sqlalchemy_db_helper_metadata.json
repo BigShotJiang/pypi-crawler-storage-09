@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy_db_helper",
+  "version": "0.1.7",
+  "summary": null,
+  "author": "Bakminstof",
+  "license": null,
+  "home_page": "https://github.com/Bakminstof/sqlalchemy_db_helper",
+  "download_filename": "sqlalchemy_db_helper-0.1.7.tar.gz",
+  "download_time": "2025-10-20T11:50:28.875318",
+  "package_url": "https://pypi.org/project/sqlalchemy_db_helper/"
+}
