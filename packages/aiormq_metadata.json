@@ -1,0 +1,11 @@
+{
+  "name": "aiormq",
+  "version": "6.9.1",
+  "summary": "Pure python AMQP asynchronous client library",
+  "author": "Dmitry Orlov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/mosquito/aiormq",
+  "download_filename": "aiormq-6.9.1.tar.gz",
+  "download_time": "2025-10-20T10:19:12.831975",
+  "package_url": "https://pypi.org/project/aiormq/"
+}

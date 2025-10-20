@@ -1,0 +1,11 @@
+{
+  "name": "termmenux",
+  "version": "0.0.2",
+  "summary": "A simple CLI Menu Builder for Python",
+  "author": "ATHALLAH RAJENDRA PUTRA JUNIARTO",
+  "license": null,
+  "home_page": "https://github.com/Athallah1234/termmenux",
+  "download_filename": "termmenux-0.0.2.tar.gz",
+  "download_time": "2025-10-20T10:18:47.714373",
+  "package_url": "https://pypi.org/project/termmenux/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-otp-auth",
+  "version": "1.0.0",
+  "summary": "Reusable Django app for OTP-based authentication using external API.",
+  "author": "Saurabh Maurya",
+  "license": "MIT License",
+  "home_page": "https://github.com/saurabhmaurya/django-otp-auth",
+  "download_filename": "django_otp_auth-1.0.0.tar.gz",
+  "download_time": "2025-10-20T10:19:22.706484",
+  "package_url": "https://pypi.org/project/django-otp-auth/"
+}

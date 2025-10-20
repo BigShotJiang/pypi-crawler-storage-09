@@ -1,0 +1,11 @@
+{
+  "name": "scitex",
+  "version": "2.1.0",
+  "summary": "A comprehensive scientific computing framework for Python",
+  "author": "Yusuke Watanabe",
+  "license": null,
+  "home_page": "https://github.com/ywatanabe1989/SciTeX-Code",
+  "download_filename": "scitex-2.1.0.tar.gz",
+  "download_time": "2025-10-20T10:18:53.506601",
+  "package_url": "https://pypi.org/project/scitex/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "netdriver",
-  "version": "0.0.0",
+  "version": "0.1.1",
   "summary": "The driver for network devices, which interact with network device using CLI.",
   "author": "vincent@byntra.se",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "netdriver-0.0.0.tar.gz",
-  "download_time": "2025-10-20T09:43:13.791183",
+  "download_filename": "netdriver-0.1.1.tar.gz",
+  "download_time": "2025-10-20T10:19:02.373223",
   "package_url": "https://pypi.org/project/netdriver/"
 }
