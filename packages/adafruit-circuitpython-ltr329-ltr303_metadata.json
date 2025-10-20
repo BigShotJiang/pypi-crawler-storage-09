@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ltr329-ltr303",
+  "version": "3.0.12",
+  "summary": "Python driver for LTR-329/303 light sensors",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ltr329_ltr303-3.0.12.tar.gz",
+  "download_time": "2025-10-20T17:50:33.468691",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ltr329-ltr303/"
+}

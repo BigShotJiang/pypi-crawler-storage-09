@@ -1,11 +1,11 @@
 {
   "name": "czkawka",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "summary": "Python bindings for the Czkawka Rust library, a fast image similarity engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "czkawka-0.0.9.tar.gz",
-  "download_time": "2025-10-20T17:15:44.567496",
+  "download_filename": "czkawka-0.1.0.tar.gz",
+  "download_time": "2025-10-20T17:51:06.748725",
   "package_url": "https://pypi.org/project/czkawka/"
 }

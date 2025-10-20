@@ -1,0 +1,11 @@
+{
+  "name": "th2analytics",
+  "version": "0.0.15",
+  "summary": "A Python package for interacting with the thaink2 analytics APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "th2analytics-0.0.15.tar.gz",
+  "download_time": "2025-10-20T17:51:03.435397",
+  "package_url": "https://pypi.org/project/th2analytics/"
+}

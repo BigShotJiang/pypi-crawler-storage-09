@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-max31855",
+  "version": "3.2.26",
+  "summary": "CircuitPython library for controlling a MAX31855 Thermocouple sensor chip.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_max31855-3.2.26.tar.gz",
+  "download_time": "2025-10-20T17:50:26.917112",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-max31855/"
+}

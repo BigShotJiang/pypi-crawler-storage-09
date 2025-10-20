@@ -1,0 +1,11 @@
+{
+  "name": "agentmap",
+  "version": "0.9.103",
+  "summary": "AgentMap: Build and deploy LangGraph agentic workflows from CSV files for fun and profit!",
+  "author": "John Welborn",
+  "license": "MIT",
+  "home_page": "https://jwwelbor.github.io/AgentMap",
+  "download_filename": "agentmap-0.9.103.tar.gz",
+  "download_time": "2025-10-20T17:50:56.533895",
+  "package_url": "https://pypi.org/project/agentmap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyro-mysql",
+  "version": "0.1.5",
+  "summary": "High-performance MySQL driver for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyro_mysql-0.1.5-cp310-abi3-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-10-20T17:50:17.254442",
+  "package_url": "https://pypi.org/project/pyro-mysql/"
+}

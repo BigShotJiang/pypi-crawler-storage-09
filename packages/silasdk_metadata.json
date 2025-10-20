@@ -1,0 +1,11 @@
+{
+  "name": "silasdk",
+  "version": "1.1.3",
+  "summary": "Sila Python library for message signing and api wrapper",
+  "author": "Sila",
+  "license": "Apache",
+  "home_page": "https://github.com/Sila-Money/Sila-Python",
+  "download_filename": "silasdk-1.1.3.tar.gz",
+  "download_time": "2025-10-20T17:51:00.771129",
+  "package_url": "https://pypi.org/project/silasdk/"
+}

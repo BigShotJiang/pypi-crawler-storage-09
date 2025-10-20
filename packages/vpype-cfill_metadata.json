@@ -1,11 +1,11 @@
 {
   "name": "vpype-cfill",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A vpype extension for generating concentric fill patterns",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/map-blasterson/vpype-cfill",
-  "download_filename": "vpype_cfill-0.1.0.tar.gz",
-  "download_time": "2025-10-19T21:14:40.036886",
+  "download_filename": "vpype_cfill-0.1.1.tar.gz",
+  "download_time": "2025-10-20T17:50:42.321403",
   "package_url": "https://pypi.org/project/vpype-cfill/"
 }

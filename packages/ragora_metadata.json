@@ -1,0 +1,11 @@
+{
+  "name": "ragora",
+  "version": "1.0.0",
+  "summary": "A RAG system for creating knowledge bases from different document formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ragora-1.0.0.tar.gz",
+  "download_time": "2025-10-20T17:50:57.079620",
+  "package_url": "https://pypi.org/project/ragora/"
+}

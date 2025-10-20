@@ -1,0 +1,11 @@
+{
+  "name": "ut-ptc",
+  "version": "2.0.0.20251020",
+  "summary": "Utilities for Process and Thread Control",
+  "author": "Bernd Stroehle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ut_ptc-2.0.0.20251020.tar.gz",
+  "download_time": "2025-10-20T17:50:18.313538",
+  "package_url": "https://pypi.org/project/ut-ptc/"
+}

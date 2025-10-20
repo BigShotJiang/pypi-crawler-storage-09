@@ -1,0 +1,11 @@
+{
+  "name": "AEPi",
+  "version": "0.8.4",
+  "summary": "Read and write Abyss Engine Image (AEI) files from python, for Galaxy on Fire 2",
+  "author": "Jasper Law",
+  "license": null,
+  "home_page": "https://github.com/Trimatix/AEPi",
+  "download_filename": "aepi-0.8.4.tar.gz",
+  "download_time": "2025-10-20T17:50:50.596289",
+  "package_url": "https://pypi.org/project/AEPi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FERS",
+  "version": "0.1.47",
+  "summary": "Finite Element Method library written in Rust with Python interface",
+  "author": "Jeroen Hermsen",
+  "license": null,
+  "home_page": "https://github.com/jeroen124/FERS_core",
+  "download_filename": "fers-0.1.47.tar.gz",
+  "download_time": "2025-10-20T17:51:05.650644",
+  "package_url": "https://pypi.org/project/FERS/"
+}

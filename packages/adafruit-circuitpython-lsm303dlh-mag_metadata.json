@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-lsm303dlh-mag",
+  "version": "1.1.26",
+  "summary": "CircuitPython library for LSM303DLH's 3-axis magnetometer.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_lsm303dlh_mag-1.1.26.tar.gz",
+  "download_time": "2025-10-20T17:50:35.641836",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-lsm303dlh-mag/"
+}
