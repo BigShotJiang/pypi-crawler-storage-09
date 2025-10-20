@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-extension-parquet",
+  "version": "1.3.2",
+  "summary": "Duckdb parquet extension",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "duckdb_extension_parquet-1.3.2-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-20T19:14:18.864704",
+  "package_url": "https://pypi.org/project/duckdb-extension-parquet/"
+}

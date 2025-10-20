@@ -1,0 +1,11 @@
+{
+  "name": "ray-elasticsearch",
+  "version": "1.1.2",
+  "summary": "Ray data source and sink for Elasticsearch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ray_elasticsearch-1.1.2.tar.gz",
+  "download_time": "2025-10-20T19:15:02.722135",
+  "package_url": "https://pypi.org/project/ray-elasticsearch/"
+}

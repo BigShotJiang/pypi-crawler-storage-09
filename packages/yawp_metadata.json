@@ -1,0 +1,11 @@
+{
+  "name": "yawp",
+  "version": "2.2.0",
+  "summary": "Yet Another Word Processor, a Windows/Linux word processor for plain text files, with PDF export",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yawp-2.2.0.tar.gz",
+  "download_time": "2025-10-20T19:14:55.887571",
+  "package_url": "https://pypi.org/project/yawp/"
+}
