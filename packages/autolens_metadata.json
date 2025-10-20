@@ -1,11 +1,11 @@
 {
   "name": "autolens",
-  "version": "2025.10.16.2",
+  "version": "2025.10.20.1",
   "summary": "Open-Source Strong Lensing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autolens-2025.10.16.2.tar.gz",
-  "download_time": "2025-10-16T17:32:27.199516",
+  "download_filename": "autolens-2025.10.20.1.tar.gz",
+  "download_time": "2025-10-20T13:47:26.516912",
   "package_url": "https://pypi.org/project/autolens/"
 }

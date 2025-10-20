@@ -1,0 +1,11 @@
+{
+  "name": "tectonic-cyberrange",
+  "version": "2.0.1",
+  "summary": "A Python package for the Tectonic Cyber Range project.",
+  "author": "GSI-Fing-Udelar",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.fing.edu.uy/inco/proyectos/tectonic",
+  "download_filename": "tectonic_cyberrange-2.0.1.tar.gz",
+  "download_time": "2025-10-20T13:47:31.919140",
+  "package_url": "https://pypi.org/project/tectonic-cyberrange/"
+}

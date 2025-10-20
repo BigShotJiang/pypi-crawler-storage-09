@@ -1,11 +1,11 @@
 {
   "name": "xmind-mcp",
-  "version": "1.1.8",
-  "summary": "XMind MCP Server - 智能思维导图操作和转换",
+  "version": "1.2.0",
+  "summary": "XMind MCP Server - 思维导图创建/分析/转换（别名兼容、递归列举）",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xmind_mcp-1.1.8.tar.gz",
-  "download_time": "2025-10-19T06:47:46.425705",
+  "download_filename": "xmind_mcp-1.2.0.tar.gz",
+  "download_time": "2025-10-20T13:47:17.786469",
   "package_url": "https://pypi.org/project/xmind-mcp/"
 }
