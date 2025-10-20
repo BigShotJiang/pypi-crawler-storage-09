@@ -1,11 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T22:34:29.816772
-- **Total Packages**: 89
-- **Total Size**: 20.27 MB
+- **Download Time**: 2025-10-20T22:51:19.095504
+- **Total Packages**: 86
+- **Total Size**: 8.84 MB
 
 ## Packages List
+- uv4
+- airbyte-cdk
+- market-data-core
+- pytorch-tokenizers
+- fastworkflow
+- mnemex
+- CrudPersonAddressLIB2test
+- beads-mcp
+- mcp-kb
+- nats-fasterapi
+- pyreactflow
+- simplification
+- libfcast
+- rs-graph
+- markdown-up
+- StreamDeckLayoutManager
+- parsl
+- cerebras-sdk
+- qbraid-cli
+- euroncalc
+- tiled
+- siena_mls
+- django-trench-reboot
+- torch-fps
+- flashquery
+- viewtif
+- Cb-FloodDy
+- pyhabitat
+- django-qs-lsp
+- eyepop
+- chisel
+- letta-evals
+- nano-wait
+- FAI-RL
 - jacobi-yaskawa-driver
 - multicsv
 - edk2-pytool-extensions
@@ -26,7 +60,6 @@
 - panoptes-data
 - CTViewer-Research
 - bare-script
-- StreamDeckLayoutManager
 - spiraltorch
 - openapi-spec-tools
 - nexpylib
@@ -41,8 +74,6 @@
 - anzar
 - py-builder-signing-sdk
 - das-bridge
-- pyhabitat
-- flashquery
 - unpage
 - e2b
 - ai-security-mcp
@@ -55,43 +86,9 @@
 - stringle
 - proto-schema-parser
 - CliSelf
-- viewtif
 - SQLplusPython
 - netint-agents-sdk
 - regula-documentreader-webclient
 - dallinger
 - infrahub-sdk
 - invrs-gym
-- mnemex
-- asynchedging
-- django-typer
-- teleporter
-- metrics_layer
-- satchip
-- atlantis-open-weather-mcp
-- honegumi-rag-assistant
-- beekeeper-observers-watsonx
-- faff-core
-- token-bowl-chat
-- prom
-- bygg
-- aind-dynamic-foraging-multisession-analysis
-- datatypes
-- streamstraight-server
-- dtpyfw
-- pipecat-ai-cli
-- stigg-api-client-v2
-- odoo-addon-mail-gateway-whatsapp
-- odoo-addon-mail-gateway
-- dive-deco-py
-- cfncli
-- stigg-api-client
-- rubin-scheduler
-- nexaai
-- plantos-mcp
-- django-googler
-- nexus-ai-fs
-- openfhe
-- ritellm
-- allianceauth-afat
-- e-models

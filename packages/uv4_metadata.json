@@ -1,11 +1,11 @@
 {
   "name": "uv4",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "python utilities for uniswap v4",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uv4-0.1.3.tar.gz",
-  "download_time": "2025-10-19T22:51:00.582825",
+  "download_filename": "uv4-0.1.4.tar.gz",
+  "download_time": "2025-10-20T22:50:31.288527",
   "package_url": "https://pypi.org/project/uv4/"
 }

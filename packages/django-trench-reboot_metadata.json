@@ -1,0 +1,11 @@
+{
+  "name": "django-trench-reboot",
+  "version": "0.3.8",
+  "summary": "REST Multi-factor authentication package for Django",
+  "author": "Karlo Krakan",
+  "license": "MIT License",
+  "home_page": "https://github.com/Panevo/django-trench-reboot",
+  "download_filename": "django_trench_reboot-0.3.8.tar.gz",
+  "download_time": "2025-10-20T22:50:44.169780",
+  "package_url": "https://pypi.org/project/django-trench-reboot/"
+}

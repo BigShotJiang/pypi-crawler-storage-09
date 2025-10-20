@@ -1,11 +1,11 @@
 {
   "name": "mnemex",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Mnemex: Temporal memory management for AI assistants with human-like dynamics",
   "author": "Mnemex",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mnemex-0.5.1.tar.gz",
-  "download_time": "2025-10-20T22:34:11.911494",
+  "download_filename": "mnemex-0.5.2.tar.gz",
+  "download_time": "2025-10-20T22:50:34.098849",
   "package_url": "https://pypi.org/project/mnemex/"
 }
