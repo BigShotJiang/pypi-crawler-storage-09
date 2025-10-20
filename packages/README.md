@@ -1,14 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T04:22:58.703460
-- **Total Packages**: 68
-- **Total Size**: 10.78 MB
+- **Download Time**: 2025-10-20T04:45:20.671885
+- **Total Packages**: 72
+- **Total Size**: 18.39 MB
 
 ## Packages List
-- dream-evaluator
+- esc-mini-tools-lib
+- openmemory-py
 - levdomain
+- physics-plot
+- empix
+- grater-jax
+- django-codenerix-email
+- rents-mcp-weather
+- hikugen
+- pylibtemplate
+- gw-ui-streamlit
+- mcp-shell-server-fastmcp
+- palmsite
+- boss-request
+- tcod
+- tce-lib
+- bengali-bpe
+- fin68
+- dataset-toolkit
+- dify_plugin
+- dyngle
+- jupyter-tigervnc-novnc-proxy
+- pydftracer
+- dream-evaluator
+- kt-ds-api
+- keras-nlp-nightly
+- keras-hub-nightly
+- tree-sitter-arkts-open
+- aorta-sirius-dev
+- pysera
 - xl-docx
+- puyapy
+- arthexis
 - pyhabitat
 - dokku-api
 - hypergen
@@ -19,7 +49,6 @@
 - scamper
 - aenet-gpr
 - pyhql
-- gw-ui-streamlit
 - p2pd
 - fastquadtree
 - openguardrails
@@ -28,7 +57,6 @@
 - chromedriver-binary
 - clickzetta-semantic-model-generator
 - square-common-bl
-- boss-request
 - unKR
 - hexdoc-mediatransport
 - abstract-hugpy
@@ -50,27 +78,3 @@
 - awx-zipline-ai
 - langchain-tool-server
 - tradingview-indicators
-- modaic
-- native-dumper
-- claude-mpm
-- cdktf-cdktf-provider-acme
-- envmix
-- commandchat
-- fin68
-- keras-rs-nightly
-- pyeasyphd
-- streamlit-launcher
-- pymaml
-- sphinx-proof
-- GANDLF
-- argcomplete
-- odoo-addon-product-pricelist-direct-print
-- healthdatalayer
-- drep-ai
-- xfao-core
-- wanyun-JitSdk
-- xp3-tool
-- xf-core
-- aind-behavior-vr-foraging
-- upplib
-- oneforall-kjl
