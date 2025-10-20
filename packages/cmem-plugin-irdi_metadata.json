@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-irdi",
+  "version": "0.8.0",
+  "summary": "Create unique International Registration Data Identifier (IRDI).",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eccenca/cmem-plugin-irdi",
+  "download_filename": "cmem_plugin_irdi-0.8.0.tar.gz",
+  "download_time": "2025-10-20T14:37:47.225380",
+  "package_url": "https://pypi.org/project/cmem-plugin-irdi/"
+}

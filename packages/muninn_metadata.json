@@ -1,0 +1,11 @@
+{
+  "name": "muninn",
+  "version": "7.1.0",
+  "summary": "Data product catalogue and archive system",
+  "author": "S[&]T",
+  "license": "BSD",
+  "home_page": "https://github.com/stcorp/muninn",
+  "download_filename": "muninn-7.1.0.tar.gz",
+  "download_time": "2025-10-20T14:37:27.950738",
+  "package_url": "https://pypi.org/project/muninn/"
+}

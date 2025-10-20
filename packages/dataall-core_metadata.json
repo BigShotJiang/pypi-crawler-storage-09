@@ -1,0 +1,11 @@
+{
+  "name": "dataall-core",
+  "version": "0.4.3",
+  "summary": "AWS data.all core",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dataall_core-0.4.3.tar.gz",
+  "download_time": "2025-10-20T14:37:38.830919",
+  "package_url": "https://pypi.org/project/dataall-core/"
+}

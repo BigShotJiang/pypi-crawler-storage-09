@@ -1,0 +1,11 @@
+{
+  "name": "ensemble-binclass",
+  "version": "1.0.12",
+  "summary": "Feature selection and ensemble classification",
+  "author": "Szymon Kolodziejski",
+  "license": null,
+  "home_page": "https://github.com/biocsuwb/ensemble-binclass",
+  "download_filename": "ensemble_binclass-1.0.12.tar.gz",
+  "download_time": "2025-10-20T14:37:36.514148",
+  "package_url": "https://pypi.org/project/ensemble-binclass/"
+}

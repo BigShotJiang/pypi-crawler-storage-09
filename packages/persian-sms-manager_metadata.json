@@ -1,0 +1,11 @@
+{
+  "name": "persian-sms-manager",
+  "version": "2.1.1",
+  "summary": "A package for managing Iranian SMS services",
+  "author": "Abbas Rahimzadeh",
+  "license": null,
+  "home_page": "https://github.com/AAbbasRR/persianSMSManager.git",
+  "download_filename": "persian_sms_manager-2.1.1.tar.gz",
+  "download_time": "2025-10-20T14:37:46.113422",
+  "package_url": "https://pypi.org/project/persian-sms-manager/"
+}
