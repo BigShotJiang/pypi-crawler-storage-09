@@ -1,11 +1,11 @@
 {
   "name": "wise-decision-engine",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "Uma abstração moderna e inteligente para zen-engine com otimizações avançadas para Spark/Databricks",
   "author": "Five Acts",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wise_decision_engine-0.2.10.tar.gz",
-  "download_time": "2025-10-20T19:29:32.146446",
+  "download_filename": "wise_decision_engine-0.2.11.tar.gz",
+  "download_time": "2025-10-20T19:40:05.131837",
   "package_url": "https://pypi.org/project/wise-decision-engine/"
 }

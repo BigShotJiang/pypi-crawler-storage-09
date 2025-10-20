@@ -1,0 +1,11 @@
+{
+  "name": "p2smi",
+  "version": "1.1.1",
+  "summary": "A toolkit enabling SMILES generation and property analysis for noncanonical and cyclized peptides.",
+  "author": "Aaron L. Feller",
+  "license": "MIT",
+  "home_page": "https://github.com/AaronFeller/p2smi",
+  "download_filename": "p2smi-1.1.1.tar.gz",
+  "download_time": "2025-10-20T19:39:55.380721",
+  "package_url": "https://pypi.org/project/p2smi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cmdstanpy",
+  "version": "1.3.0",
+  "summary": "Python interface to CmdStan",
+  "author": "Stan Dev Team",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "cmdstanpy-1.3.0.tar.gz",
+  "download_time": "2025-10-20T19:40:18.231368",
+  "package_url": "https://pypi.org/project/cmdstanpy/"
+}

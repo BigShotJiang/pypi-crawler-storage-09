@@ -1,11 +1,11 @@
 {
   "name": "giscemultitools",
-  "version": "1.9.2",
+  "version": "1.9.3",
   "summary": "Llibreria d'utilitats",
   "author": "GISCE",
   "license": "General Public Licence 2",
   "home_page": "http://www.gisce.net",
-  "download_filename": "giscemultitools-1.9.2.tar.gz",
-  "download_time": "2025-10-20T19:14:43.104123",
+  "download_filename": "giscemultitools-1.9.3.tar.gz",
+  "download_time": "2025-10-20T19:40:20.531980",
   "package_url": "https://pypi.org/project/giscemultitools/"
 }
