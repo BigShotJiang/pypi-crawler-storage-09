@@ -1,9 +1,19 @@
 {
-  "download_time": "2025-10-20T10:55:34.061819",
-  "total_packages_downloaded": 84,
-  "total_size_mb": 4.41,
+  "download_time": "2025-10-20T11:16:43.210288",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 1.87,
   "packages": [
     "mattplottslib",
+    "campfires",
+    "catalystwan",
+    "flixopt",
+    "amsdal_models",
+    "abses",
+    "game-state",
+    "stimela",
+    "apolo-kube-client",
+    "odoo-addon-fs-folder-webdav",
+    "private-assistant-commons",
     "legit-api-client",
     "hyjinx",
     "algorand-python-testing",
@@ -77,15 +87,6 @@
     "nikki-python",
     "dictforge",
     "dlcm-api",
-    "commodplot",
-    "levelapp",
-    "google-ads-api-report-fetcher",
-    "amulet-level",
-    "itergood",
-    "cmsdism",
-    "ezdb-utpal-raina",
-    "zndraw",
-    "seven-cloudapp-frame",
-    "gibr"
+    "commodplot"
   ]
 }
