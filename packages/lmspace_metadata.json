@@ -1,11 +1,11 @@
 {
   "name": "lmspace",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Runner that provisions subagents from configs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lmspace-0.1.1.tar.gz",
-  "download_time": "2025-10-19T11:12:10.173302",
+  "download_filename": "lmspace-0.1.2.tar.gz",
+  "download_time": "2025-10-20T06:25:41.165711",
   "package_url": "https://pypi.org/project/lmspace/"
 }

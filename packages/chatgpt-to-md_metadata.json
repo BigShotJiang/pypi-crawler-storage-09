@@ -1,0 +1,11 @@
+{
+  "name": "chatgpt-to-md",
+  "version": "0.1.0",
+  "summary": "将ChatGPT导出的对话转换为Markdown文件",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chatgpt_to_md-0.1.0.tar.gz",
+  "download_time": "2025-10-20T06:25:27.848155",
+  "package_url": "https://pypi.org/project/chatgpt-to-md/"
+}

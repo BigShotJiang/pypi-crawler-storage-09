@@ -1,0 +1,11 @@
+{
+  "name": "fasttenet",
+  "version": "0.1.18",
+  "summary": "FastTENET",
+  "author": "Complex Intelligent Systems Laboratory (CISLAB)",
+  "license": "BSD-3-Clause",
+  "home_page": "http://github.com/cxinsys/fasttenet",
+  "download_filename": "fasttenet-0.1.18.tar.gz",
+  "download_time": "2025-10-20T06:25:03.770725",
+  "package_url": "https://pypi.org/project/fasttenet/"
+}

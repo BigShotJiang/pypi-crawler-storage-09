@@ -1,11 +1,11 @@
 {
   "name": "DragonLog",
-  "version": "25.10.1",
+  "version": "25.10.2",
   "summary": "Log QSO for Ham radio",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dragonlog-25.10.1.tar.gz",
-  "download_time": "2025-10-17T06:23:18.812277",
+  "download_filename": "dragonlog-25.10.2.tar.gz",
+  "download_time": "2025-10-20T06:25:31.856616",
   "package_url": "https://pypi.org/project/DragonLog/"
 }

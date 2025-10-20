@@ -1,0 +1,11 @@
+{
+  "name": "devstudio-mcp",
+  "version": "1.0.0",
+  "summary": "Production-grade MCP server for screen recording, audio capture, and demo automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devstudio_mcp-1.0.0.tar.gz",
+  "download_time": "2025-10-20T06:25:36.528542",
+  "package_url": "https://pypi.org/project/devstudio-mcp/"
+}

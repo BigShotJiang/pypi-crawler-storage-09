@@ -1,0 +1,11 @@
+{
+  "name": "azure-odbc-client",
+  "version": "1.0.0",
+  "summary": "一个简单易用的Azure SQL Server ODBC客户端包",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/azure-odbc-client",
+  "download_filename": "azure_odbc_client-1.0.0.tar.gz",
+  "download_time": "2025-10-20T06:25:30.120432",
+  "package_url": "https://pypi.org/project/azure-odbc-client/"
+}
