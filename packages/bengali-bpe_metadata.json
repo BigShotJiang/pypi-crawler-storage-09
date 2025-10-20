@@ -1,11 +1,11 @@
 {
   "name": "bengali-bpe",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Byte Pair Encoding (BPE) library for the Bengali language.",
   "author": "Firoj Ahmmed Patwary",
   "license": null,
-  "home_page": "https://github.com/yourusername/bengali_bpe",
-  "download_filename": "bengali_bpe-0.1.2.tar.gz",
-  "download_time": "2025-10-20T05:17:19.917924",
+  "home_page": "https://github.com/firojap/bengali_bpe",
+  "download_filename": "bengali_bpe-0.1.3.tar.gz",
+  "download_time": "2025-10-20T23:51:29.900010",
   "package_url": "https://pypi.org/project/bengali-bpe/"
 }

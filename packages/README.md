@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T23:41:47.289722
-- **Total Packages**: 85
-- **Total Size**: 8.52 MB
+- **Download Time**: 2025-10-20T23:51:59.236998
+- **Total Packages**: 87
+- **Total Size**: 5.4 MB
 
 ## Packages List
+- authflow
+- duper-python
+- SURE-tools
+- tombi
+- acet
+- market-data-store
+- reversinglabs-sdk-py3
+- flexikit
+- fppull
+- psyke
+- python-pkcs11
+- kapso
+- hyper-python-utils
+- code-puppy
+- polymarket-apis
 - xatra
 - dbos
 - pypomes-core
@@ -24,6 +39,7 @@
 - omdev
 - omdev-cli
 - omdev-cext
+- theopendictionary
 - bengali-bpe
 - ipmaths
 - parallaxapis-sdk-py
@@ -33,9 +49,7 @@
 - ai-test-agent
 - nv-ingest-client
 - nv-ingest-api
-- code-puppy
 - cogent3
-- hyper-python-utils
 - sportsball
 - abraxos
 - simple_duck_ml
@@ -58,7 +72,6 @@
 - qbraid-cli
 - rocketdoo
 - igloo-mcp
-- acet
 - flashquery
 - stlearn
 - e-models
@@ -80,14 +93,3 @@
 - aind-data-transfer-lite
 - zenithweb
 - veri-agents-api
-- viaduc
-- minikai
-- rmcp
-- viewtif
-- django-trench-reboot
-- fovus
-- convertbng
-- rcsb.utils.insilico3d
-- caniscrape
-- jiggle-version
-- abtk
