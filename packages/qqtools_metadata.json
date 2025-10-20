@@ -1,0 +1,11 @@
+{
+  "name": "qqtools",
+  "version": "1.1.12",
+  "summary": "A small tool package for qq",
+  "author": "qq",
+  "license": "MIT",
+  "home_page": "https://github.com/kzhoa/qqtools",
+  "download_filename": "qqtools-1.1.12.tar.gz",
+  "download_time": "2025-10-20T05:17:10.590421",
+  "package_url": "https://pypi.org/project/qqtools/"
+}

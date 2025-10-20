@@ -1,0 +1,11 @@
+{
+  "name": "dfvfs",
+  "version": "20251019",
+  "summary": "Digital Forensics Virtual File System (dfVFS).",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/log2timeline/dfvfs",
+  "download_filename": "dfvfs-20251019.tar.gz",
+  "download_time": "2025-10-20T05:17:19.406050",
+  "package_url": "https://pypi.org/project/dfvfs/"
+}
