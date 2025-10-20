@@ -1,0 +1,11 @@
+{
+  "name": "plantos-mcp",
+  "version": "1.0.0",
+  "summary": "Agricultural intelligence MCP server for Claude Desktop - soil analysis, weather data, crop predictions, and AI-powered farming recommendations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plantos_mcp-1.0.0.tar.gz",
+  "download_time": "2025-10-20T22:15:34.838823",
+  "package_url": "https://pypi.org/project/plantos-mcp/"
+}

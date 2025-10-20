@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T21:52:23.231503
-- **Total Packages**: 85
-- **Total Size**: 18.17 MB
+- **Download Time**: 2025-10-20T22:16:26.202808
+- **Total Packages**: 83
+- **Total Size**: 8.1 MB
 
 ## Packages List
+- rubin-scheduler
+- nexaai
+- pipeline-eds
+- plantos-mcp
+- django-googler
+- dtpyfw
+- nexus-ai-fs
+- openfhe
+- ritellm
+- allianceauth-afat
+- e-models
+- ai-security-mcp
+- quantconnect-stubs
+- adafruit-circuitpython-minimqtt
+- NetKet
 - radboy
 - turbopdf
 - mtcli-volume
@@ -41,7 +56,6 @@
 - adafruit-circuitpython-as5600
 - deltafi
 - airefinery-sdk
-- ritellm
 - tobiko-cloud-api-client
 - tobiko-cloud-helpers
 - maniac
@@ -52,7 +66,6 @@
 - czkawka
 - pyhabitat
 - kirin
-- NetKet
 - python-katlas
 - cjm-fasthtml-workers
 - mrx-runway
@@ -76,18 +89,3 @@
 - aind-metadata-upgrader
 - lg2slack
 - fw-gear
-- simple-icons-pack
-- indico-toolkit
-- rocketdoo
-- synth-ai
-- Cb-FloodDy
-- qiskit-code-assistant-mcp-server
-- qiskit-ibm-runtime-mcp-server
-- aind-dynamic-foraging-multisession-analysis
-- fbgemm-gpu-cpu
-- siena_mls
-- aegis-vision
-- parsesafe
-- mnistvit
-- stegawave
-- openghg-defs

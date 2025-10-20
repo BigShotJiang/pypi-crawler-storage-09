@@ -1,0 +1,11 @@
+{
+  "name": "openfhe",
+  "version": "1.4.2.0.24.4",
+  "summary": "Python wrapper for OpenFHE C++ library.",
+  "author": "OpenFHE Team",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/openfheorg/openfhe-python",
+  "download_filename": "openfhe-1.4.2.0.24.4-py3-none-any.whl",
+  "download_time": "2025-10-20T22:15:37.619524",
+  "package_url": "https://pypi.org/project/openfhe/"
+}
