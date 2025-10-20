@@ -1,11 +1,11 @@
 {
   "name": "fastopp",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "FastAPI starter package for students prototyping AI web applications. Install for basic FastAPI app, clone repository for full features with management scripts and demos.",
   "author": "Oppkey",
   "license": null,
   "home_page": null,
-  "download_filename": "fastopp-0.2.4.tar.gz",
-  "download_time": "2025-10-20T23:31:05.936875",
+  "download_filename": "fastopp-0.2.5.tar.gz",
+  "download_time": "2025-10-20T23:40:57.849010",
   "package_url": "https://pypi.org/project/fastopp/"
 }
