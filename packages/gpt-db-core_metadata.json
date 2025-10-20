@@ -1,0 +1,11 @@
+{
+  "name": "gpt-db-core",
+  "version": "0.1.1",
+  "summary": "A Django + PyTorch neural database that learns, trains, and chats directly from your database.",
+  "author": null,
+  "license": "GPT-DB License  \n        Copyright (c) 2025 Gerson De La Cruz  \n        \n        This project is licensed under the **Creative Commons  \n        Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0)**.  \n        \n        You are free to:  \n        • Use, share, and modify this software for **personal, academic, or research** purposes.  \n        • Include it in **non-commercial** projects, provided that proper attribution is given to the author.  \n        \n        Attribution requirement:  \n        Any use of this software must clearly credit **Gerson De La Cruz** in accompanying documentation,  \n        readme files, or visible project descriptions. Example:  \n        “Powered by GPT-DB by Gerson De La Cruz.”  \n        \n        You must not:  \n        • Use, sell, or distribute this software or derivative works for **commercial or revenue-generating** purposes  \n          without **written permission** from the author.  \n        • Remove or alter author credits or license notices.  \n        \n        Commercial licenses are available upon request.  \n        Please contact <gdelacruz.developer@gmail.com> for commercial use inquiries.  \n        \n        Full license text: https://creativecommons.org/licenses/by-nc/4.0/\n        ",
+  "home_page": null,
+  "download_filename": "gpt_db_core-0.1.1-py3-none-any.whl",
+  "download_time": "2025-10-20T02:55:33.617723",
+  "package_url": "https://pypi.org/project/gpt-db-core/"
+}

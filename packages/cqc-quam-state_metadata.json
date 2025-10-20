@@ -1,11 +1,11 @@
 {
   "name": "cqc-quam-state",
-  "version": "2025.10.19",
+  "version": "2025.10.20",
   "summary": "Add your description here",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cqc_quam_state-2025.10.19.tar.gz",
-  "download_time": "2025-10-19T02:59:10.499442",
+  "download_filename": "cqc_quam_state-2025.10.20.tar.gz",
+  "download_time": "2025-10-20T02:54:52.751665",
   "package_url": "https://pypi.org/project/cqc-quam-state/"
 }

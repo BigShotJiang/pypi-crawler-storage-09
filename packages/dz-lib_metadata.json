@@ -1,11 +1,11 @@
 {
   "name": "dz-lib",
-  "version": "1.4.6",
+  "version": "1.4.9",
   "summary": null,
   "author": "Ryan Nielsen",
   "license": "MIT",
   "home_page": "https://github.com/nielrya4/dz_lib",
-  "download_filename": "dz_lib-1.4.6.tar.gz",
-  "download_time": "2025-10-19T19:37:34.464833",
+  "download_filename": "dz_lib-1.4.9.tar.gz",
+  "download_time": "2025-10-20T02:55:03.403428",
   "package_url": "https://pypi.org/project/dz-lib/"
 }

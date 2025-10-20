@@ -1,0 +1,11 @@
+{
+  "name": "robit",
+  "version": "0.4.9",
+  "summary": "Service Worker Framework",
+  "author": "Nathan Johnson",
+  "license": null,
+  "home_page": "https://github.com/stratusadv/robit",
+  "download_filename": "robit-0.4.9.tar.gz",
+  "download_time": "2025-10-20T02:55:39.065660",
+  "package_url": "https://pypi.org/project/robit/"
+}

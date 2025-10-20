@@ -1,0 +1,11 @@
+{
+  "name": "weather-x",
+  "version": "0.1.0",
+  "summary": "A weather information tool based on FastMCP framework with support for Chinese city weather alerts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "weather_x-0.1.0.tar.gz",
+  "download_time": "2025-10-20T02:55:18.098538",
+  "package_url": "https://pypi.org/project/weather-x/"
+}

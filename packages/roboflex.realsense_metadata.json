@@ -1,0 +1,11 @@
+{
+  "name": "roboflex.realsense",
+  "version": "0.1.9",
+  "summary": "Roboflex Realsense Library",
+  "author": "Colin Prepscius",
+  "license": "MIT",
+  "home_page": "https://github.com/flexrobotics/roboflex_realsense",
+  "download_filename": "roboflex_realsense-0.1.9.tar.gz",
+  "download_time": "2025-10-20T02:54:55.337656",
+  "package_url": "https://pypi.org/project/roboflex.realsense/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "strands-telegram",
+  "version": "1.0.0",
+  "summary": "Comprehensive Telegram Bot API integration for Strands Agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "strands_telegram-1.0.0.tar.gz",
+  "download_time": "2025-10-20T02:55:36.070438",
+  "package_url": "https://pypi.org/project/strands-telegram/"
+}

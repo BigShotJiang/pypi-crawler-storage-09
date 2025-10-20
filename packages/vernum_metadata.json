@@ -1,0 +1,11 @@
+{
+  "name": "vernum",
+  "version": "7.4.0",
+  "summary": "Generate and process semantic version numbers",
+  "author": "Steampunk Wizard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vernum-7.4.0.tar.gz",
+  "download_time": "2025-10-20T02:54:54.688996",
+  "package_url": "https://pypi.org/project/vernum/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "roboflex",
+  "version": "0.1.38",
+  "summary": "Roboflex Core Library: a C++20 and python library for distributed robotics and automation.",
+  "author": "Colin Prepscius",
+  "license": "MIT",
+  "home_page": "https://github.com/flexrobotics/roboflex",
+  "download_filename": "roboflex-0.1.38.tar.gz",
+  "download_time": "2025-10-20T02:55:12.752295",
+  "package_url": "https://pypi.org/project/roboflex/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyDMNrules-enhanced",
-  "version": "1.5.0",
-  "summary": "Enhanced pyDMNrules with full decision dependency support (<informationRequirement>)",
+  "version": "1.6.0",
+  "summary": "Enhanced pyDMNrules with full DRD support (informationRequirement/requiredInput auto-mapping)",
   "author": "Russell McDonell (Enhanced by uengine)",
   "license": null,
   "home_page": "https://github.com/uengine/pyDMNrules",
-  "download_filename": "pydmnrules_enhanced-1.5.0.tar.gz",
-  "download_time": "2025-10-19T23:39:32.973608",
+  "download_filename": "pydmnrules_enhanced-1.6.0.tar.gz",
+  "download_time": "2025-10-20T02:54:47.394769",
   "package_url": "https://pypi.org/project/pyDMNrules-enhanced/"
 }
