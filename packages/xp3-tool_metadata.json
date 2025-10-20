@@ -1,11 +1,11 @@
 {
   "name": "xp3-tool",
-  "version": "5.0",
+  "version": "5.1",
   "summary": "xp_t3_tool",
   "author": "XuPeng",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xp3_tool-5.0.tar.gz",
-  "download_time": "2025-10-20T09:22:14.046533",
+  "download_filename": "xp3_tool-5.1.tar.gz",
+  "download_time": "2025-10-20T09:43:20.966838",
   "package_url": "https://pypi.org/project/xp3-tool/"
 }

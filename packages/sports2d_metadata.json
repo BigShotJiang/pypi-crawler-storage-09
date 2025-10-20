@@ -1,0 +1,11 @@
+{
+  "name": "sports2d",
+  "version": "0.8.22",
+  "summary": "Compute 2D human pose and angles from a video or a webcam.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sports2d-0.8.22.tar.gz",
+  "download_time": "2025-10-20T09:43:04.886053",
+  "package_url": "https://pypi.org/project/sports2d/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "animageo",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Tools for using GeoGebra construction, processing with Manim animation and exporting to SVG and MP4",
   "author": "ivaleo",
   "license": null,
   "home_page": "http://animageo.ru/",
-  "download_filename": "animageo-0.1.2.tar.gz",
-  "download_time": "2025-10-18T16:17:51.748716",
+  "download_filename": "animageo-0.1.5.tar.gz",
+  "download_time": "2025-10-20T09:43:27.339355",
   "package_url": "https://pypi.org/project/animageo/"
 }

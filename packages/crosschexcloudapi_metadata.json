@@ -1,0 +1,11 @@
+{
+  "name": "crosschexcloudapi",
+  "version": "0.1.0",
+  "summary": "Anviz CrossChex Cloud API Python integration library",
+  "author": "Sreethul Krishna",
+  "license": "LGPL 3.0",
+  "home_page": "https://github.com/KSreethul/crosschexcloudapi",
+  "download_filename": "crosschexcloudapi-0.1.0.tar.gz",
+  "download_time": "2025-10-20T09:43:06.549149",
+  "package_url": "https://pypi.org/project/crosschexcloudapi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "chronomap",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Thread-safe, time-versioned key-value store with snapshots and diffs.",
   "author": "Devansh Singh",
   "license": "MIT",
   "home_page": "https://github.com/Devansh-567/chronomap",
-  "download_filename": "chronomap-2.0.1.tar.gz",
-  "download_time": "2025-10-20T08:47:17.668287",
+  "download_filename": "chronomap-2.0.2.tar.gz",
+  "download_time": "2025-10-20T09:43:35.830117",
   "package_url": "https://pypi.org/project/chronomap/"
 }
