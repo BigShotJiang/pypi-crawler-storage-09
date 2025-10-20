@@ -1,12 +1,22 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T05:41:54.895544
-- **Total Packages**: 75
-- **Total Size**: 15.13 MB
+- **Download Time**: 2025-10-20T05:51:09.450417
+- **Total Packages**: 77
+- **Total Size**: 1.39 MB
 
 ## Packages List
+- Xul
 - crewplus
+- aiecs
+- esp32-arduino-python
+- neuron-v0.4
+- decorative-secrets
+- mineru-vl-utils
+- worklet
+- evo2
+- openconnect-lite
+- OpenGeode-GeosciencesIO
 - gitfluff
 - antchain-dtaiagt
 - Geode-Numerics
@@ -73,11 +83,3 @@
 - empix
 - grater-jax
 - rents-mcp-weather
-- hikugen
-- pylibtemplate
-- gw-ui-streamlit
-- mcp-shell-server-fastmcp
-- boss-request
-- tcod
-- tce-lib
-- fin68

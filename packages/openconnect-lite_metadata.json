@@ -1,0 +1,11 @@
+{
+  "name": "openconnect-lite",
+  "version": "0.8.5",
+  "summary": "Wrapper script for OpenConnect supporting Azure AD (SAMLv2) authentication to Cisco SSL-VPNs (Fork)",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openconnect_lite-0.8.5.tar.gz",
+  "download_time": "2025-10-20T05:50:33.893003",
+  "package_url": "https://pypi.org/project/openconnect-lite/"
+}
