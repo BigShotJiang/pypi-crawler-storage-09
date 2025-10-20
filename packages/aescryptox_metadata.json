@@ -1,0 +1,11 @@
+{
+  "name": "aescryptox",
+  "version": "0.0.1",
+  "summary": "Pure Python AES encryption library supporting ECB, CBC, PCBC, CTR, GCM, CCM, XTS, SIV, EAX, OCB3, OFB, CFB, with file encryption and HMAC.",
+  "author": "ATHALLAH RAJENDRA PUTRA JUNIARTO",
+  "license": null,
+  "home_page": "https://github.com/Athallah1234/AESCryptoX",
+  "download_filename": "aescryptox-0.0.1.tar.gz",
+  "download_time": "2025-10-20T14:53:49.723221",
+  "package_url": "https://pypi.org/project/aescryptox/"
+}

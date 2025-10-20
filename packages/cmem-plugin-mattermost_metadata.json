@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-mattermost",
+  "version": "2.3.0",
+  "summary": "Send messages to Mattermost channels and users.",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eccenca/cmem-plugin-mattermost",
+  "download_filename": "cmem_plugin_mattermost-2.3.0.tar.gz",
+  "download_time": "2025-10-20T14:54:25.312119",
+  "package_url": "https://pypi.org/project/cmem-plugin-mattermost/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "delftsolutions-scan-your-trash",
+  "version": "1.0.0",
+  "summary": "A tool that extracts samples created using the Scan Your Trash app.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "delftsolutions_scan_your_trash-1.0.0.tar.gz",
+  "download_time": "2025-10-20T14:54:23.586879",
+  "package_url": "https://pypi.org/project/delftsolutions-scan-your-trash/"
+}

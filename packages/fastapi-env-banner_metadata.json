@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-env-banner",
+  "version": "0.1.0",
+  "summary": "A lightweight and simple library for adding visual environment banners to FastAPI applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_env_banner-0.1.0.tar.gz",
+  "download_time": "2025-10-20T14:54:32.263943",
+  "package_url": "https://pypi.org/project/fastapi-env-banner/"
+}

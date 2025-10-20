@@ -1,0 +1,11 @@
+{
+  "name": "meshtui",
+  "version": "0.1.0",
+  "summary": "Terminal User Interface for MeshCore companion radios",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meshtui-0.1.0.tar.gz",
+  "download_time": "2025-10-20T14:54:24.736311",
+  "package_url": "https://pypi.org/project/meshtui/"
+}
