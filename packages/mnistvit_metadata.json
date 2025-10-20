@@ -1,0 +1,11 @@
+{
+  "name": "mnistvit",
+  "version": "1.3.1",
+  "summary": "A vision transformer for training on MNIST",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnistvit-1.3.1.tar.gz",
+  "download_time": "2025-10-20T21:32:28.198857",
+  "package_url": "https://pypi.org/project/mnistvit/"
+}

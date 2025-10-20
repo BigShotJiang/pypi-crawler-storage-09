@@ -1,0 +1,11 @@
+{
+  "name": "nextcloud-mcp-server",
+  "version": "0.17.1",
+  "summary": "Model Context Protocol (MCP) server for Nextcloud integration - enables AI assistants to interact with Nextcloud data",
+  "author": "Chris Coutinho",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "nextcloud_mcp_server-0.17.1.tar.gz",
+  "download_time": "2025-10-20T21:32:37.462695",
+  "package_url": "https://pypi.org/project/nextcloud-mcp-server/"
+}

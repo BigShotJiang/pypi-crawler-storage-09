@@ -1,15 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T21:16:33.292902
-- **Total Packages**: 89
-- **Total Size**: 56.25 MB
+- **Download Time**: 2025-10-20T21:33:12.603653
+- **Total Packages**: 85
+- **Total Size**: 8.24 MB
 
 ## Packages List
+- Cb-FloodDy
+- qiskit-code-assistant-mcp-server
+- qiskit-ibm-runtime-mcp-server
+- aind-dynamic-foraging-multisession-analysis
+- fbgemm-gpu-cpu
+- siena_mls
+- aegis-vision
+- parsesafe
+- mnistvit
+- stegawave
+- openghg-defs
+- purple-bindings
+- django-generic-notifications
 - asciiquarium-redux
+- turbopdf
+- tap-socketdev
+- earthengine-api
+- deeprails
+- CliSelf
+- mieltocore
+- rust-python-pe-packer
+- kirin
+- merger-cli
+- nextcloud-mcp-server
+- tunecli
+- ultracart-rest-sdk
+- dilib
+- cellphase
+- hassl
+- flashquery
 - slither-cli
 - hyp3-sdk
-- Cb-FloodDy
 - yamlscript
 - HexBug-data
 - vcp-cli
@@ -27,20 +55,17 @@
 - quickscale-core
 - aind-metadata-upgrader
 - segmentation-skeleton-metrics
-- CliSelf
 - django-ragamuffin
 - rocketdoo
 - tap-bitso
 - synth-ai
 - my-test-ml
 - logik
-- purple-bindings
 - meltanolabs-target-snowflake
 - nabla-py
 - coremusic
 - findingmodel
 - mcpl-python
-- ultracart-rest-sdk
 - signalwire-agents
 - mcpl-extra
 - cryptodatapy
@@ -66,32 +91,3 @@
 - pgtree
 - fenix-mcp
 - vaiz-sdk
-- tencentcloud-sdk-python-wedata
-- tencentcloud-sdk-python-vpc
-- tencentcloud-sdk-python-tmt
-- tencentcloud-sdk-python-rum
-- tencentcloud-sdk-python-mps
-- tencentcloud-sdk-python-lighthouse
-- groundhog-hpc
-- tencentcloud-sdk-python-ioa
-- autosrp
-- tencentcloud-sdk-python-gaap
-- tencentcloud-sdk-python-essbasic
-- helion
-- tencentcloud-sdk-python-dbbrain
-- tencentcloud-sdk-python-common
-- tencentcloud-sdk-python-cdb
-- tencentcloud-sdk-python-ccc
-- jmstate
-- mtcli-volume
-- agentsystems-toolkit
-- rolfedh-doc-utils
-- reminder-aggregator
-- os-normalizer
-- agentsystems-sdk
-- pkdb-analysis
-- gradio-aicontext
-- tencentcloud-sdk-python-intl-en
-- neuro-san
-- svv
-- hpcp

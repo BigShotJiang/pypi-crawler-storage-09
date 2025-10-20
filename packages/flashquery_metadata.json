@@ -1,0 +1,11 @@
+{
+  "name": "flashquery",
+  "version": "0.8.0",
+  "summary": "A custom wrapper for the Langchain Python package with modified response handling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flashquery-0.8.0.tar.gz",
+  "download_time": "2025-10-20T21:32:41.516648",
+  "package_url": "https://pypi.org/project/flashquery/"
+}

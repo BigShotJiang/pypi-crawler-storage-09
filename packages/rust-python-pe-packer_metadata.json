@@ -1,0 +1,11 @@
+{
+  "name": "rust-python-pe-packer",
+  "version": "0.0.5",
+  "summary": "Educational Rust/Python PE (Portable Executable) learning stub. No packing functionality. See SECURITY.md.",
+  "author": null,
+  "license": "Apache-2.0; see LICENSE-APPENDIX.md for educational-use clarifications",
+  "home_page": null,
+  "download_filename": "rust_python_pe_packer-0.0.5.tar.gz",
+  "download_time": "2025-10-20T21:32:35.732162",
+  "package_url": "https://pypi.org/project/rust-python-pe-packer/"
+}

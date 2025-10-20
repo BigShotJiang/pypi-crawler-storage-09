@@ -1,0 +1,11 @@
+{
+  "name": "hassl",
+  "version": "0.3.0",
+  "summary": "HASSL: Home Assistant Simple Scripting Language",
+  "author": "adanowitz",
+  "license": null,
+  "home_page": "https://github.com/adanowitz/hassl",
+  "download_filename": "hassl-0.3.0.tar.gz",
+  "download_time": "2025-10-20T21:32:40.910911",
+  "package_url": "https://pypi.org/project/hassl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cellphase",
+  "version": "0.1.1",
+  "summary": "CellPhase: QPI-focused cell segmentation utilities",
+  "author": "Sourya Sengupta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cellphase-0.1.1.tar.gz",
+  "download_time": "2025-10-20T21:32:40.335618",
+  "package_url": "https://pypi.org/project/cellphase/"
+}

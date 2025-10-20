@@ -1,0 +1,11 @@
+{
+  "name": "tunecli",
+  "version": "0.1.0",
+  "summary": "CLI to play Spotify songs from terminal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tunecli-0.1.0.tar.gz",
+  "download_time": "2025-10-20T21:32:38.035854",
+  "package_url": "https://pypi.org/project/tunecli/"
+}
