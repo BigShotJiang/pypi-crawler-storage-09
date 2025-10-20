@@ -1,0 +1,11 @@
+{
+  "name": "pip-licenses-lib",
+  "version": "1.0.0",
+  "summary": "Retrieve the software license list of Python packages installed with pip.",
+  "author": "raimon49, stefan6419846 (library version)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pip_licenses_lib-1.0.0.tar.gz",
+  "download_time": "2025-10-20T08:23:44.228175",
+  "package_url": "https://pypi.org/project/pip-licenses-lib/"
+}

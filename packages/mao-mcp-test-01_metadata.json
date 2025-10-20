@@ -1,11 +1,11 @@
 {
   "name": "mao-mcp-test-01",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "mao test",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mao_mcp_test_01-0.1.0.tar.gz",
-  "download_time": "2025-10-20T02:55:37.904567",
+  "download_filename": "mao_mcp_test_01-0.2.0.tar.gz",
+  "download_time": "2025-10-20T08:23:56.492706",
   "package_url": "https://pypi.org/project/mao-mcp-test-01/"
 }

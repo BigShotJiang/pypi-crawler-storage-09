@@ -1,11 +1,11 @@
 {
   "name": "textfun",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Librería educativa para jugar con texto: invertir, contar vocales, alternar mayúsculas, etc.",
   "author": "Enrique Duque",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "textfun-0.1.0.tar.gz",
-  "download_time": "2025-10-20T07:39:20.499010",
+  "download_filename": "textfun-0.1.2.tar.gz",
+  "download_time": "2025-10-20T08:23:37.664789",
   "package_url": "https://pypi.org/project/textfun/"
 }

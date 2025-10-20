@@ -1,11 +1,11 @@
 {
   "name": "drf-restwind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "drf-restwind, a modern re-imagining of the Django REST Framework utilizes TailwindCSS and DaisyUI to provide flexible and customizable UI solutions with minimal coding effort.",
   "author": "Yousef Abu Shanab",
   "license": "MIT",
   "home_page": "https://github.com/youzarsiph/drf-restwind",
-  "download_filename": "drf_restwind-1.0.0.tar.gz",
-  "download_time": "2025-10-19T16:43:21.924552",
+  "download_filename": "drf_restwind-1.0.1.tar.gz",
+  "download_time": "2025-10-20T08:23:45.840866",
   "package_url": "https://pypi.org/project/drf-restwind/"
 }

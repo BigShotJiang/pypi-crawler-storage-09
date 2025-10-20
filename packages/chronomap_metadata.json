@@ -1,0 +1,11 @@
+{
+  "name": "chronomap",
+  "version": "2.0.0",
+  "summary": "Thread-safe, time-versioned key-value store with snapshots and diffs.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chronomap-2.0.0.tar.gz",
+  "download_time": "2025-10-20T08:23:40.374157",
+  "package_url": "https://pypi.org/project/chronomap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scipion-em-cryosparc2",
+  "version": "4.2.2",
+  "summary": "Plugin to use cryoSPARC2 programs within the Scipion framework",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "scipion_em_cryosparc2-4.2.2.tar.gz",
+  "download_time": "2025-10-20T08:23:32.003296",
+  "package_url": "https://pypi.org/project/scipion-em-cryosparc2/"
+}

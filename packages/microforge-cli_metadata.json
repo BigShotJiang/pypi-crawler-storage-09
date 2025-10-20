@@ -1,0 +1,11 @@
+{
+  "name": "microforge-cli",
+  "version": "0.1.1",
+  "summary": "A production-ready project generator for modern Python microservices",
+  "author": "Klejdi",
+  "license": "MIT",
+  "home_page": "https://github.com/klejdi94/microforge-cli",
+  "download_filename": "microforge_cli-0.1.1.tar.gz",
+  "download_time": "2025-10-20T08:23:48.515767",
+  "package_url": "https://pypi.org/project/microforge-cli/"
+}

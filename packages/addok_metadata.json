@@ -1,0 +1,11 @@
+{
+  "name": "addok",
+  "version": "1.2.1",
+  "summary": "Search engine for address. Only address.",
+  "author": "Yohan Boniface",
+  "license": "MIT",
+  "home_page": "https://github.com/addok/addok",
+  "download_filename": "addok-1.2.1.tar.gz",
+  "download_time": "2025-10-20T08:23:36.031293",
+  "package_url": "https://pypi.org/project/addok/"
+}
