@@ -1,11 +1,11 @@
 {
   "name": "autogalaxy",
-  "version": "2025.10.20.1",
+  "version": "2025.10.20.4",
   "summary": "Open-Source Multi Wavelength Galaxy Structure & Morphology",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autogalaxy-2025.10.20.1.tar.gz",
-  "download_time": "2025-10-20T13:47:28.928691",
+  "download_filename": "autogalaxy-2025.10.20.4.tar.gz",
+  "download_time": "2025-10-20T18:24:51.105433",
   "package_url": "https://pypi.org/project/autogalaxy/"
 }

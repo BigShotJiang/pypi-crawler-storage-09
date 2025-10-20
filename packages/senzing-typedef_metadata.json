@@ -1,0 +1,11 @@
+{
+  "name": "senzing-typedef",
+  "version": "0.2.18",
+  "summary": "Helper functions for working with Senzing JSON",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "senzing_typedef-0.2.18.tar.gz",
+  "download_time": "2025-10-20T18:25:04.494896",
+  "package_url": "https://pypi.org/project/senzing-typedef/"
+}

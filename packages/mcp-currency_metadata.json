@@ -1,11 +1,11 @@
 {
   "name": "mcp-currency",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "summary": "A Model Context Protocol server providing tools to fetch and chart currency data",
   "author": "Maxwell Weinzierl",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_currency-0.1.0.tar.gz",
-  "download_time": "2025-10-20T17:50:36.716524",
+  "download_filename": "mcp_currency-0.2.2.tar.gz",
+  "download_time": "2025-10-20T18:25:06.695954",
   "package_url": "https://pypi.org/project/mcp-currency/"
 }

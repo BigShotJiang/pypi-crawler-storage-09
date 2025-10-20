@@ -1,11 +1,11 @@
 {
   "name": "autofit",
-  "version": "2025.10.20.1",
+  "version": "2025.10.20.4",
   "summary": "Classy Probabilistic Programming",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autofit-2025.10.20.1.tar.gz",
-  "download_time": "2025-10-20T13:47:27.161780",
+  "download_filename": "autofit-2025.10.20.4.tar.gz",
+  "download_time": "2025-10-20T18:24:52.222274",
   "package_url": "https://pypi.org/project/autofit/"
 }

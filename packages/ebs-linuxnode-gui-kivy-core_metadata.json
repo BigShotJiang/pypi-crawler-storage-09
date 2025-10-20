@@ -1,11 +1,11 @@
 {
   "name": "ebs-linuxnode-gui-kivy-core",
-  "version": "3.3.5",
+  "version": "3.4.0",
   "summary": "Kivy GUI Core for EBS Linuxnode Applications",
   "author": "Chintalagiri Shashank",
   "license": null,
   "home_page": "https://github.com/ebs-universe/ebs-linuxnode-coregui-kivy",
-  "download_filename": "ebs_linuxnode_gui_kivy_core-3.3.5.tar.gz",
-  "download_time": "2025-10-18T16:17:43.773844",
+  "download_filename": "ebs_linuxnode_gui_kivy_core-3.4.0.tar.gz",
+  "download_time": "2025-10-20T18:25:14.511430",
   "package_url": "https://pypi.org/project/ebs-linuxnode-gui-kivy-core/"
 }
