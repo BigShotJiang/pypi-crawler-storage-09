@@ -1,0 +1,11 @@
+{
+  "name": "mxdev",
+  "version": "4.1.1",
+  "summary": "Enable to work with Python projects containing lots of packages, of which you only want to develop some.",
+  "author": null,
+  "license": "BSD 2-Clause License",
+  "home_page": null,
+  "download_filename": "mxdev-4.1.1.tar.gz",
+  "download_time": "2025-10-20T14:16:28.516602",
+  "package_url": "https://pypi.org/project/mxdev/"
+}

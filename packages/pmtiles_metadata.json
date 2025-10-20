@@ -1,0 +1,11 @@
+{
+  "name": "pmtiles",
+  "version": "3.5.0",
+  "summary": "Library and utilities to write and read PMTiles archives - cloud-optimized archives of map tiles.",
+  "author": "Brandon Liu",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/protomaps/pmtiles",
+  "download_filename": "pmtiles-3.5.0.tar.gz",
+  "download_time": "2025-10-20T14:16:57.948813",
+  "package_url": "https://pypi.org/project/pmtiles/"
+}

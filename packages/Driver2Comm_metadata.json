@@ -1,11 +1,11 @@
 {
   "name": "Driver2Comm",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A computational framework for associating cancer cell-intrinsic driver genes with -extrinsic cell-cell communication",
-  "author": "Runzhi Xie,Junping Li, Yuxuan Hu*, Gao Lin*",
+  "author": "Runzhi Xie, Junping Li, Yuxuan Hu*, Gao Lin*",
   "license": "MIT Licence",
   "home_page": "https://github.com/xierunzhi",
-  "download_filename": "Driver2Comm-0.2.0.tar.gz",
-  "download_time": "2025-10-20T13:47:20.718187",
+  "download_filename": "Driver2Comm-0.3.0.tar.gz",
+  "download_time": "2025-10-20T14:17:16.834470",
   "package_url": "https://pypi.org/project/Driver2Comm/"
 }
