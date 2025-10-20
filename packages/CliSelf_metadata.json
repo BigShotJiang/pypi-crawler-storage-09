@@ -1,11 +1,11 @@
 {
   "name": "CliSelf",
-  "version": "1.2.5",
+  "version": "1.2.7",
   "summary": "Self client framework for Telegram automation using Pyrogram",
   "author": "MrAhmadiRad",
   "license": "MIT",
   "home_page": "https://github.com/MohammadAhmadi-R/CliRemote",
-  "download_filename": "cliself-1.2.5.tar.gz",
-  "download_time": "2025-10-20T10:18:56.640978",
+  "download_filename": "cliself-1.2.7.tar.gz",
+  "download_time": "2025-10-20T10:45:20.598247",
   "package_url": "https://pypi.org/project/CliSelf/"
 }

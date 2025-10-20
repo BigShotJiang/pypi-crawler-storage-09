@@ -1,0 +1,11 @@
+{
+  "name": "mangor",
+  "version": "1.0.0",
+  "summary": "EzDB B-Class - Free & open source vector database for semantic search",
+  "author": "EzDB Team",
+  "license": "MIT",
+  "home_page": "https://github.com/utpalraina/ezdb",
+  "download_filename": "mangor-1.0.0.tar.gz",
+  "download_time": "2025-10-20T10:45:22.648559",
+  "package_url": "https://pypi.org/project/mangor/"
+}

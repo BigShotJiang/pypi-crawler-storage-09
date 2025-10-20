@@ -1,11 +1,11 @@
 {
   "name": "scikit-robot",
-  "version": "0.2.29",
+  "version": "0.2.30",
   "summary": "A Flexible Framework for Robot Control in Python",
   "author": "iory",
   "license": "MIT",
   "home_page": "https://github.com/iory/scikit-robot",
-  "download_filename": "scikit_robot-0.2.29.tar.gz",
-  "download_time": "2025-10-20T07:51:01.202386",
+  "download_filename": "scikit_robot-0.2.30.tar.gz",
+  "download_time": "2025-10-20T10:45:52.314657",
   "package_url": "https://pypi.org/project/scikit-robot/"
 }

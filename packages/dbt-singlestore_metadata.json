@@ -1,0 +1,11 @@
+{
+  "name": "dbt-singlestore",
+  "version": "1.9.0",
+  "summary": "The singlestore adapter plugin for dbt",
+  "author": "SingleStore Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/memsql/dbt-singlestore",
+  "download_filename": "dbt_singlestore-1.9.0.tar.gz",
+  "download_time": "2025-10-20T10:45:30.429328",
+  "package_url": "https://pypi.org/project/dbt-singlestore/"
+}

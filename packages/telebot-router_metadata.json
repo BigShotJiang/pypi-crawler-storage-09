@@ -1,0 +1,11 @@
+{
+  "name": "telebot-router",
+  "version": "2.0.0",
+  "summary": "Aiogram-style Router for pyTeleBot — simple, async-ready, and powerful routing system.",
+  "author": "o6.javohir.ergashev@gmail.com",
+  "license": "MIT",
+  "home_page": "https://github.com/Ergashev2006/telebot-router",
+  "download_filename": "telebot_router-2.0.0.tar.gz",
+  "download_time": "2025-10-20T10:45:35.136072",
+  "package_url": "https://pypi.org/project/telebot-router/"
+}

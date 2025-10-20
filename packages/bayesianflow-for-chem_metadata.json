@@ -1,11 +1,11 @@
 {
   "name": "bayesianflow-for-chem",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "summary": "Bayesian flow network framework for Chemistry",
   "author": "Nianze A. Tao",
   "license": "AGPL-3.0-or-later",
   "home_page": "https://augus1999.github.io/bayesian-flow-network-for-chemistry/",
-  "download_filename": "bayesianflow_for_chem-2.2.2.tar.gz",
-  "download_time": "2025-10-17T04:19:33.251358",
+  "download_filename": "bayesianflow_for_chem-2.2.3.tar.gz",
+  "download_time": "2025-10-20T10:45:33.602598",
   "package_url": "https://pypi.org/project/bayesianflow-for-chem/"
 }
