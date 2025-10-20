@@ -1,11 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T22:51:19.095504
-- **Total Packages**: 86
-- **Total Size**: 8.84 MB
+- **Download Time**: 2025-10-20T23:16:50.258663
+- **Total Packages**: 83
+- **Total Size**: 1.69 MB
 
 ## Packages List
+- t-sql
+- circuitpython-stubs
+- guardcoreapi
+- tzafon
+- reverse-argparse
 - uv4
 - airbyte-cdk
 - market-data-core
@@ -84,11 +89,3 @@
 - finetuning-scheduler
 - wattleflow
 - stringle
-- proto-schema-parser
-- CliSelf
-- SQLplusPython
-- netint-agents-sdk
-- regula-documentreader-webclient
-- dallinger
-- infrahub-sdk
-- invrs-gym

@@ -1,8 +1,13 @@
 {
-  "download_time": "2025-10-20T22:51:19.095504",
-  "total_packages_downloaded": 86,
-  "total_size_mb": 8.84,
+  "download_time": "2025-10-20T23:16:50.258663",
+  "total_packages_downloaded": 83,
+  "total_size_mb": 1.69,
   "packages": [
+    "t-sql",
+    "circuitpython-stubs",
+    "guardcoreapi",
+    "tzafon",
+    "reverse-argparse",
     "uv4",
     "airbyte-cdk",
     "market-data-core",
@@ -80,14 +85,6 @@
     "python-katlas",
     "finetuning-scheduler",
     "wattleflow",
-    "stringle",
-    "proto-schema-parser",
-    "CliSelf",
-    "SQLplusPython",
-    "netint-agents-sdk",
-    "regula-documentreader-webclient",
-    "dallinger",
-    "infrahub-sdk",
-    "invrs-gym"
+    "stringle"
   ]
 }
