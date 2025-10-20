@@ -1,0 +1,11 @@
+{
+  "name": "OrderFusion",
+  "version": "0.1.3",
+  "summary": "Tutorial for the paper: OrderFusion Encoding Orderbook for End-to-End Probabilistic Intraday Electricity Price Forecasting",
+  "author": "Runyao Yu",
+  "license": "MIT",
+  "home_page": "https://huggingface.co/RunyaoYu",
+  "download_filename": "orderfusion-0.1.3.tar.gz",
+  "download_time": "2025-10-20T17:15:26.488464",
+  "package_url": "https://pypi.org/project/OrderFusion/"
+}

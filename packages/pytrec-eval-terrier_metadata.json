@@ -1,0 +1,11 @@
+{
+  "name": "pytrec-eval-terrier",
+  "version": "0.5.10",
+  "summary": "Provides Python bindings for popular Information Retrieval measures implemented within trec_eval.",
+  "author": "Christophe Van Gysel -> forked by Terrier team",
+  "license": null,
+  "home_page": "https://github.com/terrierteam/pytrec_eval",
+  "download_filename": "pytrec_eval_terrier-0.5.10.tar.gz",
+  "download_time": "2025-10-20T17:15:51.437962",
+  "package_url": "https://pypi.org/project/pytrec-eval-terrier/"
+}

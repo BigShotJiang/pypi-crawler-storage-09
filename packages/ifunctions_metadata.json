@@ -1,11 +1,11 @@
 {
   "name": "ifunctions",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "100% Python native — tanpa ketergantungan pada library pihak ketiga.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ifunctions-0.2.4.tar.gz",
-  "download_time": "2025-10-20T03:47:30.618069",
+  "download_filename": "ifunctions-0.2.6.tar.gz",
+  "download_time": "2025-10-20T17:15:15.888133",
   "package_url": "https://pypi.org/project/ifunctions/"
 }

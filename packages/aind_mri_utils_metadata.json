@@ -1,0 +1,11 @@
+{
+  "name": "aind_mri_utils",
+  "version": "0.11.2",
+  "summary": "MRI utilities library for aind teams.",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aind_mri_utils-0.11.2.tar.gz",
+  "download_time": "2025-10-20T17:15:19.131840",
+  "package_url": "https://pypi.org/project/aind_mri_utils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qltool",
-  "version": "0.1.16",
+  "version": "0.2.3",
   "summary": "PRINT simple labels on ql700",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qltool-0.1.16.tar.gz",
-  "download_time": "2025-10-20T16:47:41.113574",
+  "download_filename": "qltool-0.2.3.tar.gz",
+  "download_time": "2025-10-20T17:15:23.342347",
   "package_url": "https://pypi.org/project/qltool/"
 }

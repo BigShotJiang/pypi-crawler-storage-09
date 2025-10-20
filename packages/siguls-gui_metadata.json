@@ -1,0 +1,11 @@
+{
+  "name": "siguls-gui",
+  "version": "0.9.0",
+  "summary": "GUI for the Signal Generator for User-Specified Laboratory Signals (SIGULS)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "siguls_gui-0.9.0.tar.gz",
+  "download_time": "2025-10-20T17:15:48.764602",
+  "package_url": "https://pypi.org/project/siguls-gui/"
+}

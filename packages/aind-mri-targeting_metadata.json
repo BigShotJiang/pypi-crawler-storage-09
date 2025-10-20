@@ -1,0 +1,11 @@
+{
+  "name": "aind-mri-targeting",
+  "version": "0.1.6",
+  "summary": "Tools to plan and execute MRI-guided targeting experiments",
+  "author": "Allen Institute for Neural Dynamics",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aind_mri_targeting-0.1.6.tar.gz",
+  "download_time": "2025-10-20T17:15:12.168782",
+  "package_url": "https://pypi.org/project/aind-mri-targeting/"
+}

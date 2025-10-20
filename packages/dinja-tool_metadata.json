@@ -1,0 +1,11 @@
+{
+  "name": "dinja-tool",
+  "version": "0.2.0",
+  "summary": "Tool to create text files from DBML using Jinja2 templates.",
+  "author": "Thomas Wesenigk",
+  "license": "EUPL-1.2",
+  "home_page": "https://codeberg.org/Aardjon/dinja",
+  "download_filename": "dinja_tool-0.2.0.tar.gz",
+  "download_time": "2025-10-20T17:15:09.479929",
+  "package_url": "https://pypi.org/project/dinja-tool/"
+}

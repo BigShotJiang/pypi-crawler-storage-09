@@ -1,11 +1,11 @@
 {
   "name": "vallaipallam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A Regional-based programming language and interpreter",
   "author": "J. Nishanth Raj",
   "license": null,
   "home_page": "https://github.com/NishanthRaj707",
-  "download_filename": "vallaipallam-1.0.1.tar.gz",
-  "download_time": "2025-10-20T08:24:00.281949",
+  "download_filename": "vallaipallam-1.0.2.tar.gz",
+  "download_time": "2025-10-20T17:15:49.819368",
   "package_url": "https://pypi.org/project/vallaipallam/"
 }

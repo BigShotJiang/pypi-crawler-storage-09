@@ -1,0 +1,11 @@
+{
+  "name": "ae-transfer-service",
+  "version": "0.3.12",
+  "summary": "ae namespace module portion transfer_service: transfer client and server services",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_transfer_service",
+  "download_filename": "ae_transfer_service-0.3.12.tar.gz",
+  "download_time": "2025-10-20T17:15:44.032485",
+  "package_url": "https://pypi.org/project/ae-transfer-service/"
+}

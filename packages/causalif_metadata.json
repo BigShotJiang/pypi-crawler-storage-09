@@ -1,11 +1,11 @@
 {
   "name": "causalif",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "LLM assisted causal reasoning with JAX and RAG",
   "author": "Subhro Bose",
   "license": null,
   "home_page": "https://github.com/bossubhr/Causalif-private",
-  "download_filename": "causalif-0.1.4.tar.gz",
-  "download_time": "2025-10-20T14:54:31.685639",
+  "download_filename": "causalif-0.1.5.tar.gz",
+  "download_time": "2025-10-20T17:15:11.627834",
   "package_url": "https://pypi.org/project/causalif/"
 }
