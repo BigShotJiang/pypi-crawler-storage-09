@@ -1,0 +1,11 @@
+{
+  "name": "flake8-pytest-style",
+  "version": "2.2.0",
+  "summary": "A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.",
+  "author": "Mikhail Burshteyn",
+  "license": null,
+  "home_page": "https://pypi.org/project/flake8-pytest-style",
+  "download_filename": "flake8_pytest_style-2.2.0.tar.gz",
+  "download_time": "2025-10-20T08:47:55.315538",
+  "package_url": "https://pypi.org/project/flake8-pytest-style/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nmsl-dummy-package",
+  "version": "0.0.1",
+  "summary": "This is nmsl dummy package.",
+  "author": "sohyun yang",
+  "license": "MIT",
+  "home_page": "https://example.com",
+  "download_filename": "nmsl_dummy_package-0.0.1-py3-none-any.whl",
+  "download_time": "2025-10-20T08:47:54.784292",
+  "package_url": "https://pypi.org/project/nmsl-dummy-package/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "seperno",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Python wrapper for Go-based Seperno text normalization",
   "author": "Sepehr Sohrabpour",
   "license": null,
   "home_page": null,
-  "download_filename": "seperno-1.4.2-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-19T13:39:35.381815",
+  "download_filename": "seperno-1.4.3-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-20T08:47:52.528571",
   "package_url": "https://pypi.org/project/seperno/"
 }
