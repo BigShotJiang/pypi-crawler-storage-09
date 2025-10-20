@@ -1,0 +1,11 @@
+{
+  "name": "brynq-sdk-sodeco",
+  "version": "3.1.1",
+  "summary": "Sodeco wrapper from BrynQ",
+  "author": "BrynQ",
+  "license": "BrynQ License",
+  "home_page": null,
+  "download_filename": "brynq_sdk_sodeco-3.1.1.tar.gz",
+  "download_time": "2025-10-20T15:39:06.828363",
+  "package_url": "https://pypi.org/project/brynq-sdk-sodeco/"
+}

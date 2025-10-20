@@ -1,0 +1,11 @@
+{
+  "name": "cc-py-commons",
+  "version": "0.5.59",
+  "summary": "Common code for microservices",
+  "author": "CargoChief",
+  "license": null,
+  "home_page": "https://github.com/Cargo-Chief/py-commons",
+  "download_filename": "cc_py_commons-0.5.59.tar.gz",
+  "download_time": "2025-10-20T15:39:26.200429",
+  "package_url": "https://pypi.org/project/cc-py-commons/"
+}

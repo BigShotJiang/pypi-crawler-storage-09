@@ -1,0 +1,11 @@
+{
+  "name": "datarisk-mlops-codex",
+  "version": "4.0.2",
+  "summary": "A Python SDK for interacting with the DataRisk MLOps API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datarisk_mlops_codex-4.0.2.tar.gz",
+  "download_time": "2025-10-20T15:39:03.685593",
+  "package_url": "https://pypi.org/project/datarisk-mlops-codex/"
+}

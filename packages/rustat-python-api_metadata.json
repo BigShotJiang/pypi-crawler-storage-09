@@ -1,11 +1,11 @@
 {
   "name": "rustat-python-api",
-  "version": "0.7.9",
+  "version": "0.7.10",
   "summary": "A Python wrapper for RuStat API",
   "author": "Daniel Zholkovsky",
   "license": "MIT",
   "home_page": "https://github.com/dailydaniel/rustat-python-api",
-  "download_filename": "rustat-python-api-0.7.9.tar.gz",
-  "download_time": "2025-10-20T13:19:23.943127",
+  "download_filename": "rustat-python-api-0.7.10.tar.gz",
+  "download_time": "2025-10-20T15:39:10.949432",
   "package_url": "https://pypi.org/project/rustat-python-api/"
 }

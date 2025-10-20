@@ -1,0 +1,11 @@
+{
+  "name": "cdshealpix",
+  "version": "0.7.2",
+  "summary": "A healpix manipulation library.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cds-astro/cds-healpix-python",
+  "download_filename": "cdshealpix-0.7.2.tar.gz",
+  "download_time": "2025-10-20T15:39:15.805106",
+  "package_url": "https://pypi.org/project/cdshealpix/"
+}

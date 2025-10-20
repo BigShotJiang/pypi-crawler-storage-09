@@ -1,0 +1,11 @@
+{
+  "name": "gemlite",
+  "version": "0.5.1.post1",
+  "summary": null,
+  "author": "Dr. Hicham Badri",
+  "license": "Apache 2",
+  "home_page": "https://github.com/mobiusml/gemlite/",
+  "download_filename": "gemlite-0.5.1.post1.tar.gz",
+  "download_time": "2025-10-20T15:38:47.911826",
+  "package_url": "https://pypi.org/project/gemlite/"
+}

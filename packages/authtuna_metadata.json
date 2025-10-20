@@ -1,0 +1,11 @@
+{
+  "name": "authtuna",
+  "version": "0.1.9",
+  "summary": "A high-performance, framework-agnostic authorization and session management library for Python",
+  "author": "shashstormer",
+  "license": null,
+  "home_page": "https://github.com/shashstormer/authtuna",
+  "download_filename": "authtuna-0.1.9.tar.gz",
+  "download_time": "2025-10-20T15:38:56.863144",
+  "package_url": "https://pypi.org/project/authtuna/"
+}

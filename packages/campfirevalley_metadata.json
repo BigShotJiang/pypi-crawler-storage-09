@@ -1,0 +1,11 @@
+{
+  "name": "campfirevalley",
+  "version": "1.0.0",
+  "summary": "A sophisticated multi-agent AI system for collaborative problem-solving through specialized AI campfires",
+  "author": "Mike Hibbert",
+  "license": null,
+  "home_page": "https://github.com/MikeHibbert/pyCamperValley",
+  "download_filename": "campfirevalley-1.0.0.tar.gz",
+  "download_time": "2025-10-20T15:39:17.341028",
+  "package_url": "https://pypi.org/project/campfirevalley/"
+}

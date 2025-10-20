@@ -1,0 +1,11 @@
+{
+  "name": "ansys-tools-visualization-interface",
+  "version": "0.12.1",
+  "summary": "A Python visualization interface for PyAnsys libraries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_tools_visualization_interface-0.12.1.tar.gz",
+  "download_time": "2025-10-20T15:38:57.955548",
+  "package_url": "https://pypi.org/project/ansys-tools-visualization-interface/"
+}

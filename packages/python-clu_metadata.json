@@ -1,0 +1,11 @@
+{
+  "name": "python-clu",
+  "version": "0.12.20",
+  "summary": "Python-CLU: Common Lightweight Utilities",
+  "author": "Alexander Böhn",
+  "license": null,
+  "home_page": "https://github.com/fish2000/clu",
+  "download_filename": "python_clu-0.12.20-py3-none-any.whl",
+  "download_time": "2025-10-20T15:39:04.199784",
+  "package_url": "https://pypi.org/project/python-clu/"
+}
