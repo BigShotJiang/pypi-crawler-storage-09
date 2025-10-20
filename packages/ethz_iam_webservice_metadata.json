@@ -1,0 +1,11 @@
+{
+  "name": "ethz_iam_webservice",
+  "version": "0.16.9",
+  "summary": "Manage users, groups and services of the ETH Identity and Access Management system (IAM)",
+  "author": null,
+  "license": "Apache Software License Version 2.0",
+  "home_page": null,
+  "download_filename": "ethz_iam_webservice-0.16.9.tar.gz",
+  "download_time": "2025-10-20T11:39:48.525676",
+  "package_url": "https://pypi.org/project/ethz_iam_webservice/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "verctrl",
+  "version": "1.0.0",
+  "summary": "Lightweight version control CLI tool with smart file detection and PyQt6 GUI",
+  "author": "REN",
+  "license": "MIT",
+  "home_page": "https://github.com/ren/verctrl",
+  "download_filename": "verctrl-1.0.0.tar.gz",
+  "download_time": "2025-10-20T11:40:25.415529",
+  "package_url": "https://pypi.org/project/verctrl/"
+}

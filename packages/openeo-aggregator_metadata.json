@@ -1,0 +1,11 @@
+{
+  "name": "openeo-aggregator",
+  "version": "0.47.0a1",
+  "summary": "openEO Aggregator Backend Implementation.",
+  "author": "Stefaan Lippens",
+  "license": null,
+  "home_page": "https://github.com/Open-EO/openeo-aggregator",
+  "download_filename": "openeo_aggregator-0.47.0a1.tar.gz",
+  "download_time": "2025-10-20T11:39:51.750696",
+  "package_url": "https://pypi.org/project/openeo-aggregator/"
+}

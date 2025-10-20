@@ -1,0 +1,11 @@
+{
+  "name": "pyterrier-t5",
+  "version": "0.2.1",
+  "summary": "PyTerrier components for T5 ranking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyterrier_t5-0.2.1.tar.gz",
+  "download_time": "2025-10-20T11:40:33.229598",
+  "package_url": "https://pypi.org/project/pyterrier-t5/"
+}

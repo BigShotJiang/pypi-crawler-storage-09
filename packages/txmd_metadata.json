@@ -1,0 +1,11 @@
+{
+  "name": "txmd",
+  "version": "0.2.0",
+  "summary": "A textual markdown viewer CLI",
+  "author": "Guglielmo Celata",
+  "license": "MIT",
+  "home_page": "https://github.com/guglielmo/txmd",
+  "download_filename": "txmd-0.2.0.tar.gz",
+  "download_time": "2025-10-20T11:40:31.671554",
+  "package_url": "https://pypi.org/project/txmd/"
+}

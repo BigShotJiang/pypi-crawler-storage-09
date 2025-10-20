@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-ab6459",
+  "version": "0.8.5",
+  "summary": "A custom theme for Coventry University modules.",
+  "author": "Ian Cornelius",
+  "license": "MIT",
+  "home_page": "https://github.coventry.ac.uk/ab6459/mkdocs_ab6459",
+  "download_filename": "mkdocs_ab6459-0.8.5.tar.gz",
+  "download_time": "2025-10-20T11:40:20.152472",
+  "package_url": "https://pypi.org/project/mkdocs-ab6459/"
+}

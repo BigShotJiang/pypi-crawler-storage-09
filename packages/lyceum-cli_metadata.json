@@ -1,11 +1,11 @@
 {
   "name": "lyceum-cli",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "Command-line interface for Lyceum Cloud Execution API",
   "author": "Lyceum Team",
   "license": null,
   "home_page": "https://lyceum.technology",
-  "download_filename": "lyceum_cli-1.0.9.tar.gz",
-  "download_time": "2025-10-20T10:18:59.765200",
+  "download_filename": "lyceum_cli-1.0.10.tar.gz",
+  "download_time": "2025-10-20T11:40:00.625317",
   "package_url": "https://pypi.org/project/lyceum-cli/"
 }
