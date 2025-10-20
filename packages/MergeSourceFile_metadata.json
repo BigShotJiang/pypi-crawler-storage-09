@@ -1,11 +1,11 @@
 {
   "name": "MergeSourceFile",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "A Python tool to process SQL*Plus scripts with Jinja2 template support, resolving file inclusions (@, @@) and variable substitutions (DEFINE/UNDEFINE)",
   "author": "Alejandro G.",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "mergesourcefile-1.1.1.tar.gz",
-  "download_time": "2025-10-17T19:37:58.215340",
+  "download_filename": "mergesourcefile-1.2.0.tar.gz",
+  "download_time": "2025-10-20T21:52:05.388358",
   "package_url": "https://pypi.org/project/MergeSourceFile/"
 }

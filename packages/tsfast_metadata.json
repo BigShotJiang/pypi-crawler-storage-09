@@ -1,0 +1,11 @@
+{
+  "name": "tsfast",
+  "version": "0.1.8",
+  "summary": "A description of your project",
+  "author": "Daniel Oliver Martin Weber",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/daniel-om-weber/tsfast",
+  "download_filename": "tsfast-0.1.8-py3-none-any.whl",
+  "download_time": "2025-10-20T21:51:43.909830",
+  "package_url": "https://pypi.org/project/tsfast/"
+}

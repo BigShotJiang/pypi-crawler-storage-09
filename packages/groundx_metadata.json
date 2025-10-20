@@ -1,11 +1,11 @@
 {
   "name": "groundx",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "groundx-2.4.1.tar.gz",
-  "download_time": "2025-10-17T16:46:02.653534",
+  "download_filename": "groundx-2.4.2.tar.gz",
+  "download_time": "2025-10-20T21:51:48.204052",
   "package_url": "https://pypi.org/project/groundx/"
 }

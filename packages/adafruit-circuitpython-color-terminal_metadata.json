@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-color-terminal",
+  "version": "0.2.1",
+  "summary": "Extension of terminalio.Terminal that supports ANSI color escapes for subsets of the text",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_color_terminal-0.2.1.tar.gz",
+  "download_time": "2025-10-20T21:51:36.432340",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-color-terminal/"
+}

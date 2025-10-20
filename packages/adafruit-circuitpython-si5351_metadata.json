@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-si5351",
+  "version": "1.4.9",
+  "summary": "CircuitPython library for SI5351 clock generator module.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_si5351-1.4.9.tar.gz",
+  "download_time": "2025-10-20T21:51:41.214528",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-si5351/"
+}
