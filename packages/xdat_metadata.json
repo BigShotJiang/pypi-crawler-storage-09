@@ -1,0 +1,11 @@
+{
+  "name": "xdat",
+  "version": "0.1.282",
+  "summary": "eXtended Data Analysis Toolkit",
+  "author": "Ido Carmi",
+  "license": "MIT",
+  "home_page": "https://bitbucket.org/hermetric/xdat/",
+  "download_filename": "xdat-0.1.282.tar.gz",
+  "download_time": "2025-10-20T10:55:00.522154",
+  "package_url": "https://pypi.org/project/xdat/"
+}

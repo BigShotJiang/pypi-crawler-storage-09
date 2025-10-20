@@ -1,0 +1,11 @@
+{
+  "name": "MetObs-toolkit",
+  "version": "0.4.7",
+  "summary": "A Meteorological observations toolkit for scientists",
+  "author": "Thomas Vergauwen",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "metobs_toolkit-0.4.7.tar.gz",
+  "download_time": "2025-10-20T10:54:59.496850",
+  "package_url": "https://pypi.org/project/MetObs-toolkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "atlassian-page-client",
+  "version": "0.1.0",
+  "summary": "A Python client library for interacting with Atlassian Confluence pages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atlassian_page_client-0.1.0.tar.gz",
+  "download_time": "2025-10-20T10:54:54.798045",
+  "package_url": "https://pypi.org/project/atlassian-page-client/"
+}

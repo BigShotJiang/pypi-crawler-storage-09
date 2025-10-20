@@ -1,11 +1,11 @@
 {
   "name": "trainy-policy-nightly",
-  "version": "0.1.0.dev20251019104141",
+  "version": "0.1.0.dev20251020104642",
   "summary": "Trainy Skypilot Policy",
   "author": "Andrew Aikawa",
   "license": null,
   "home_page": null,
-  "download_filename": "trainy_policy_nightly-0.1.0.dev20251019104141.tar.gz",
-  "download_time": "2025-10-19T10:50:28.348763",
+  "download_filename": "trainy_policy_nightly-0.1.0.dev20251020104642.tar.gz",
+  "download_time": "2025-10-20T10:54:58.970491",
   "package_url": "https://pypi.org/project/trainy-policy-nightly/"
 }

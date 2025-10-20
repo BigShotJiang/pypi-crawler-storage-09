@@ -1,0 +1,11 @@
+{
+  "name": "gOdoo-cli",
+  "version": "0.15.1",
+  "summary": "Wrapper around Odoo-Bin with some convinience RPC functions.",
+  "author": null,
+  "license": "LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "godoo_cli-0.15.1.tar.gz",
+  "download_time": "2025-10-20T10:54:53.275084",
+  "package_url": "https://pypi.org/project/gOdoo-cli/"
+}
