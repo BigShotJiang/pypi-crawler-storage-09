@@ -1,11 +1,11 @@
 {
   "name": "forgejs",
-  "version": "1.0.0",
+  "version": "1.0.1a1",
   "summary": "ForgeJS CLI para scaffolding de proyectos JavaScript/TypeScript",
   "author": "DonHuea",
   "license": "MIT",
   "home_page": "https://github.com/BenjaMorenoo/ForgeJS-Templates",
-  "download_filename": "forgejs-1.0.0.tar.gz",
-  "download_time": "2025-10-20T05:17:14.732164",
+  "download_filename": "forgejs-1.0.1a1.tar.gz",
+  "download_time": "2025-10-20T05:41:27.803990",
   "package_url": "https://pypi.org/project/forgejs/"
 }

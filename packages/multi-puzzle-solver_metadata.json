@@ -1,11 +1,11 @@
 {
   "name": "multi-puzzle-solver",
-  "version": "0.9.3",
+  "version": "0.9.5",
   "summary": "Efficient solvers for numerous popular and esoteric logic puzzles using CP-SAT",
   "author": "Ar-Kareem",
   "license": null,
   "home_page": null,
-  "download_filename": "multi_puzzle_solver-0.9.3.tar.gz",
-  "download_time": "2025-10-19T23:29:18.960162",
+  "download_filename": "multi_puzzle_solver-0.9.5.tar.gz",
+  "download_time": "2025-10-20T05:41:26.198250",
   "package_url": "https://pypi.org/project/multi-puzzle-solver/"
 }

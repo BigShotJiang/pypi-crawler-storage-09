@@ -1,0 +1,11 @@
+{
+  "name": "quantum-docker-engine",
+  "version": "1.0.3",
+  "summary": "Revolutionary container orchestration engine powered by quantum computing",
+  "author": "Quantum Docker Team",
+  "license": null,
+  "home_page": "https://github.com/quantum-docker/engine",
+  "download_filename": "quantum_docker_engine-1.0.3.tar.gz",
+  "download_time": "2025-10-20T05:41:23.982094",
+  "package_url": "https://pypi.org/project/quantum-docker-engine/"
+}

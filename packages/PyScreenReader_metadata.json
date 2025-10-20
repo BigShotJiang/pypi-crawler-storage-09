@@ -1,0 +1,11 @@
+{
+  "name": "PyScreenReader",
+  "version": "1.0.0a1",
+  "summary": "PyScreenReader is a cross-platform Python library that wraps native accessibility APIs to collect widget tree information on the screen.",
+  "author": "The PyScreenReader Team",
+  "license": "MIT",
+  "home_page": "https://github.com/PyScreenReader/PyScreenReader",
+  "download_filename": "pyscreenreader-1.0.0a1-cp311-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-20T05:41:20.306267",
+  "package_url": "https://pypi.org/project/PyScreenReader/"
+}
