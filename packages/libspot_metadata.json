@@ -1,0 +1,11 @@
+{
+  "name": "libspot",
+  "version": "2.0b5",
+  "summary": "Born to flag outliers (from python)",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "libspot-2.0b5-cp36-abi3-manylinux1_x86_64.manylinux_2_5_x86_64.whl",
+  "download_time": "2025-10-20T07:18:00.633112",
+  "package_url": "https://pypi.org/project/libspot/"
+}

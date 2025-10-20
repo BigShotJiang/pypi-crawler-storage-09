@@ -1,0 +1,11 @@
+{
+  "name": "trim-hwc-ndarray",
+  "version": "0.1.0a0",
+  "summary": "A simple utility for trimming borders from images represented as HWC ndarrays, based on the color value of a specified corner.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trim_hwc_ndarray-0.1.0a0.tar.gz",
+  "download_time": "2025-10-20T07:18:17.791160",
+  "package_url": "https://pypi.org/project/trim-hwc-ndarray/"
+}

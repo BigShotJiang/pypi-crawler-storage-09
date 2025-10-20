@@ -1,0 +1,11 @@
+{
+  "name": "algopython",
+  "version": "0.0.15",
+  "summary": "Python package for controlling robot via serial commands",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "algopython-0.0.15-py3-none-any.whl",
+  "download_time": "2025-10-20T07:18:21.304948",
+  "package_url": "https://pypi.org/project/algopython/"
+}

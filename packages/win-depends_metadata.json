@@ -1,0 +1,11 @@
+{
+  "name": "win-depends",
+  "version": "0.1.5.1",
+  "summary": "Windows DLL/EXE dependency tree and graph tool",
+  "author": "Vorga",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "win_depends-0.1.5.1.tar.gz",
+  "download_time": "2025-10-20T07:18:28.882893",
+  "package_url": "https://pypi.org/project/win-depends/"
+}

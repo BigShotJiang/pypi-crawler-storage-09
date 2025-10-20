@@ -1,0 +1,11 @@
+{
+  "name": "xkits-file",
+  "version": "0.6.1",
+  "summary": "File module",
+  "author": "Mingzhe Zou",
+  "license": "GPLv2",
+  "home_page": "https://github.com/bondbox/xfiles/",
+  "download_filename": "xkits_file-0.6.1.tar.gz",
+  "download_time": "2025-10-20T07:18:36.911497",
+  "package_url": "https://pypi.org/project/xkits-file/"
+}

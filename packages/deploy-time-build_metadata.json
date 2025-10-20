@@ -1,11 +1,11 @@
 {
   "name": "deploy-time-build",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Build during CDK deployment.",
   "author": "tmokmss<tomookam@live.jp>",
   "license": "MIT",
   "home_page": "https://github.com/tmokmss/deploy-time-build.git",
-  "download_filename": "deploy_time_build-0.4.2.tar.gz",
-  "download_time": "2025-10-20T06:25:14.899916",
+  "download_filename": "deploy_time_build-0.4.3.tar.gz",
+  "download_time": "2025-10-20T07:18:39.803272",
   "package_url": "https://pypi.org/project/deploy-time-build/"
 }

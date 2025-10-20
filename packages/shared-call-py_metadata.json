@@ -1,0 +1,11 @@
+{
+  "name": "shared-call-py",
+  "version": "0.1.0",
+  "summary": "Request coalescing for Python - eliminate redundant work and protect your systems from thundering herds",
+  "author": "SohamRatnaparkhi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shared_call_py-0.1.0.tar.gz",
+  "download_time": "2025-10-20T07:18:39.225688",
+  "package_url": "https://pypi.org/project/shared-call-py/"
+}

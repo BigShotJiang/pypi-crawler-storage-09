@@ -1,0 +1,11 @@
+{
+  "name": "tno.quantum.ml.classifiers.svm",
+  "version": "2.0.2",
+  "summary": "Support Vector Machine Classifier",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "tno_quantum_ml_classifiers_svm-2.0.2.tar.gz",
+  "download_time": "2025-10-20T07:18:23.058929",
+  "package_url": "https://pypi.org/project/tno.quantum.ml.classifiers.svm/"
+}
