@@ -1,11 +1,11 @@
 {
   "name": "sch-lib",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sch_lib-1.0.8.tar.gz",
-  "download_time": "2025-10-16T10:43:05.390365",
+  "download_filename": "sch_lib-1.0.10.tar.gz",
+  "download_time": "2025-10-20T12:34:18.404460",
   "package_url": "https://pypi.org/project/sch-lib/"
 }

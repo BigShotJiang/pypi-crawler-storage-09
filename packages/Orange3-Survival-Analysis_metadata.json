@@ -1,11 +1,11 @@
 {
   "name": "Orange3-Survival-Analysis",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "Survival Analysis add-on for Orange data mining software package.",
   "author": "Bioinformatics Laboratory, FRI UL",
   "license": "GPL3+",
   "home_page": "https://github.com/biolab/orange3-survival-analysis",
-  "download_filename": "orange3_survival_analysis-0.6.2.tar.gz",
-  "download_time": "2025-10-20T11:40:02.225657",
+  "download_filename": "orange3_survival_analysis-0.6.3.tar.gz",
+  "download_time": "2025-10-20T12:34:07.009012",
   "package_url": "https://pypi.org/project/Orange3-Survival-Analysis/"
 }

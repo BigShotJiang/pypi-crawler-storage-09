@@ -1,0 +1,11 @@
+{
+  "name": "autobahn",
+  "version": "25.10.1",
+  "summary": "WebSocket client & server library, WAMP real-time framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autobahn-25.10.1.tar.gz",
+  "download_time": "2025-10-20T12:34:12.722670",
+  "package_url": "https://pypi.org/project/autobahn/"
+}

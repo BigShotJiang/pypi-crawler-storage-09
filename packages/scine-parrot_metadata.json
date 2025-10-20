@@ -1,0 +1,11 @@
+{
+  "name": "scine-parrot",
+  "version": "1.0.0",
+  "summary": "Machine Learning Potentials for SCINE",
+  "author": "ETH Zurich, Department of Chemistry and Applied Biosciences, Reiher Group",
+  "license": "BSD (3-clause)",
+  "home_page": "https://www.scine.ethz.ch",
+  "download_filename": "scine_parrot-1.0.0.tar.gz",
+  "download_time": "2025-10-20T12:34:00.799143",
+  "package_url": "https://pypi.org/project/scine-parrot/"
+}
