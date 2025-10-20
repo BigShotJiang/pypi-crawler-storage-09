@@ -1,0 +1,11 @@
+{
+  "name": "cvprac",
+  "version": "1.4.2",
+  "summary": "Arista Cloudvision(R) Portal Rest API Client written in python",
+  "author": "Arista Networks, Inc.",
+  "license": "BSD-3",
+  "home_page": "https://github.com/aristanetworks/cvprac",
+  "download_filename": "cvprac-1.4.2.tar.gz",
+  "download_time": "2025-10-20T18:51:54.391467",
+  "package_url": "https://pypi.org/project/cvprac/"
+}

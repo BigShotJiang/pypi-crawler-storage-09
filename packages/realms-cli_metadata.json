@@ -1,0 +1,11 @@
+{
+  "name": "realms-cli",
+  "version": "0.1.0",
+  "summary": "CLI tool for managing Realms project lifecycle",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "realms_cli-0.1.0.tar.gz",
+  "download_time": "2025-10-20T18:51:52.905057",
+  "package_url": "https://pypi.org/project/realms-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sumry",
+  "version": "0.2.0",
+  "summary": "A data summarization tool for analyzing various file formats",
+  "author": "Sparkgeo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sumry-0.2.0.tar.gz",
+  "download_time": "2025-10-20T18:51:50.524108",
+  "package_url": "https://pypi.org/project/sumry/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "openai",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "summary": "The official Python library for the openai API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "openai-2.5.0.tar.gz",
-  "download_time": "2025-10-17T18:20:16.162098",
+  "download_filename": "openai-2.6.0.tar.gz",
+  "download_time": "2025-10-20T18:51:54.989138",
   "package_url": "https://pypi.org/project/openai/"
 }
