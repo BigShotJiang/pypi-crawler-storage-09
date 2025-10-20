@@ -1,11 +1,11 @@
 {
   "name": "dtpyfw",
-  "version": "0.5.9",
+  "version": "0.5.10",
   "summary": "DealerTower Python Framework: reusable building‑blocks for DealerTower services",
   "author": "Reza Shirazi",
   "license": "DealerTower Proprietary License",
   "home_page": null,
-  "download_filename": "dtpyfw-0.5.9.tar.gz",
-  "download_time": "2025-10-19T21:14:37.309076",
+  "download_filename": "dtpyfw-0.5.10.tar.gz",
+  "download_time": "2025-10-20T09:52:46.361843",
   "package_url": "https://pypi.org/project/dtpyfw/"
 }

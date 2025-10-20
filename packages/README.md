@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T09:43:47.660873
-- **Total Packages**: 80
-- **Total Size**: 37.25 MB
+- **Download Time**: 2025-10-20T09:53:30.597567
+- **Total Packages**: 92
+- **Total Size**: 7.08 MB
 
 ## Packages List
+- boat-torch
+- Flask-Compress
+- melody-features
+- legnext
+- buvar
+- dsf-mobility
+- pycrdt
+- IDU-config
+- mysingle-quant
+- pytest-polymeric-report
+- dtpyfw
+- loeg
+- bluer-sandbox
+- livekit-plugins-zhipu
+- livekit-plugins-xunfei
+- livekit-plugins-volcengine
+- livekit-plugins-tencent
+- livekit-plugins-stepfun
+- livekit-plugins-minimax
+- livekit-plugins-flashtts
+- cb-pyutils
+- livekit-plugins-difyai
+- livekit-plugins-baidu
+- livekit-plugins-aliyun
+- smu-ontwins-demo
+- xbstrap
+- wattleflow-workflow
+- xgrammar
+- skill-jangler
+- ppio-sandbox
+- bioflow-insight
+- osbot-fast-api-serverless
+- eodash_catalog
+- chains-py
+- arthub-api
+- mannrs
+- stonefish-runtime
+- evonet
+- mcp-tip
+- investing-algorithm-framework
+- vsc-install
+- sqlalchemy-hana
+- libservice
+- nl.export
+- lightly-mundig
+- impectPy
+- autogen-vertexai-memory
 - lyceum-cli
 - sports2d
 - spcm
@@ -35,7 +82,6 @@
 - m3-data-import
 - veco-ai
 - wanna-ml
-- Flask-Compress
 - xp3-tool
 - cmem-plugin-pyshacl
 - mldft
@@ -49,40 +95,6 @@
 - agentsphere-mcp-server
 - cocat
 - animageo
-- ppio-sandbox
 - ragflow-mcp-server-aider
 - compiletools
 - seqme
-- koava
-- dara-components
-- create-dara-app
-- dara-core
-- xtlog
-- mrt-downloader
-- genebe
-- weather-mcp-x
-- neopipe
-- poolcli
-- pyDWS
-- chronomap
-- woosailibrary
-- sot-loss
-- archaea-core
-- social-interaction-cloud
-- openedx-forum
-- apikeyrotator
-- autogen-vertexai-memory
-- offspot-config
-- pyfohhn
-- thesisquality
-- privacyflow
-- CliSelf
-- tree-sitter-arkts-open
-- orpheus-npcf
-- tbp-nightly
-- odk-tools
-- aligndg
-- odoo-plugin-manager
-- agentmake
-- antchain-sds
-- tokamak-neutron-source

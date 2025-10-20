@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-tencent",
+  "version": "1.2.9.post0",
+  "summary": "LiveKit Agent Plugins for Tencent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_tencent-1.2.9.post0.tar.gz",
+  "download_time": "2025-10-20T09:52:49.801156",
+  "package_url": "https://pypi.org/project/livekit-plugins-tencent/"
+}

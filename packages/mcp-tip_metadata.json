@@ -1,11 +1,11 @@
 {
   "name": "mcp-tip",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "ThreatBook IP 查询 MCP 工具",
   "author": "FBX",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_tip-0.1.0.tar.gz",
-  "download_time": "2025-10-20T09:22:33.058108",
+  "download_filename": "mcp-tip-0.1.1.tar.gz",
+  "download_time": "2025-10-20T09:53:01.882184",
   "package_url": "https://pypi.org/project/mcp-tip/"
 }

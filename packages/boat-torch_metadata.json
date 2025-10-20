@@ -1,0 +1,11 @@
+{
+  "name": "boat-torch",
+  "version": "1.0.1",
+  "summary": "Problem-Agnostic Bilevel Optimization Toolkit in Python for Learning and Vision Tasks",
+  "author": "Yaohua Liu, Xianghao Jiao, Risheng Liu",
+  "license": "MIT",
+  "home_page": "https://github.com/callous-youth/BOAT",
+  "download_filename": "boat_torch-1.0.1.tar.gz",
+  "download_time": "2025-10-20T09:52:40.609047",
+  "package_url": "https://pypi.org/project/boat-torch/"
+}

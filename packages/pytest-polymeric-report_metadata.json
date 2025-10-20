@@ -1,11 +1,11 @@
 {
   "name": "pytest-polymeric-report",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A polymeric test report plugin for pytest",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_polymeric_report-0.1.0.tar.gz",
-  "download_time": "2025-10-20T05:17:11.102141",
+  "download_filename": "pytest_polymeric_report-0.1.1.tar.gz",
+  "download_time": "2025-10-20T09:52:45.788129",
   "package_url": "https://pypi.org/project/pytest-polymeric-report/"
 }

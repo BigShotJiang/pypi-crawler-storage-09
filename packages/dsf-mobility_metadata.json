@@ -1,11 +1,11 @@
 {
   "name": "dsf-mobility",
-  "version": "3.12.1",
+  "version": "3.13.0",
   "summary": "DSF C++ core with Python bindings via pybind11",
   "author": "Grufoony",
   "license": "CC-BY-NC-SA-4.0",
   "home_page": "https://github.com/physycom/DynamicalSystemFramework",
-  "download_filename": "dsf_mobility-3.12.1.tar.gz",
-  "download_time": "2025-10-17T08:46:14.521135",
+  "download_filename": "dsf_mobility-3.13.0.tar.gz",
+  "download_time": "2025-10-20T09:52:43.492937",
   "package_url": "https://pypi.org/project/dsf-mobility/"
 }

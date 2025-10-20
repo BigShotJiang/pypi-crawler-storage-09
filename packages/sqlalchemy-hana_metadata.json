@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-hana",
+  "version": "4.0.0",
+  "summary": "SQLAlchemy dialect for SAP HANA",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_hana-4.0.0.tar.gz",
+  "download_time": "2025-10-20T09:53:03.543783",
+  "package_url": "https://pypi.org/project/sqlalchemy-hana/"
+}

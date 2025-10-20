@@ -1,0 +1,11 @@
+{
+  "name": "nl.export",
+  "version": "1.3.0",
+  "summary": "Einfaches Tool für den Zugriff auf ein NL-CMS",
+  "author": null,
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "nl_export-1.3.0.tar.gz",
+  "download_time": "2025-10-20T09:53:04.568867",
+  "package_url": "https://pypi.org/project/nl.export/"
+}

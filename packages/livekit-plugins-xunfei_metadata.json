@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-xunfei",
+  "version": "1.2.9.post0",
+  "summary": "LiveKit Agent Plugins for Xunfei",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_xunfei-1.2.9.post0.tar.gz",
+  "download_time": "2025-10-20T09:52:48.658816",
+  "package_url": "https://pypi.org/project/livekit-plugins-xunfei/"
+}
