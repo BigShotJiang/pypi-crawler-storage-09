@@ -1,11 +1,20 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T21:33:12.603653
-- **Total Packages**: 85
-- **Total Size**: 8.24 MB
+- **Download Time**: 2025-10-20T21:44:17.787546
+- **Total Packages**: 81
+- **Total Size**: 7.97 MB
 
 ## Packages List
+- edq-lms-toolkit
+- aind-metadata-upgrader
+- lg2slack
+- fw-gear
+- simple-icons-pack
+- indico-toolkit
+- rocketdoo
+- synth-ai
+- radboy
 - Cb-FloodDy
 - qiskit-code-assistant-mcp-server
 - qiskit-ibm-runtime-mcp-server
@@ -53,12 +62,9 @@
 - quickscale
 - quickscale-cli
 - quickscale-core
-- aind-metadata-upgrader
 - segmentation-skeleton-metrics
 - django-ragamuffin
-- rocketdoo
 - tap-bitso
-- synth-ai
 - my-test-ml
 - logik
 - meltanolabs-target-snowflake
@@ -81,13 +87,3 @@
 - ai-security-mcp
 - daplis
 - bitwarden-workflow-linter
-- sasktran2
-- terminaltexteffects
-- galileo
-- md2pdf-mermaid
-- tng-python
-- multiSSH3
-- fastopp
-- pgtree
-- fenix-mcp
-- vaiz-sdk
