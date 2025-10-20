@@ -1,11 +1,11 @@
 {
   "name": "tasks-tui-app",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A command-line TUI for managing Google Tasks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tasks_tui_app-0.1.5.tar.gz",
-  "download_time": "2025-10-20T19:40:01.927007",
+  "download_filename": "tasks_tui_app-0.1.6.tar.gz",
+  "download_time": "2025-10-20T19:50:52.220313",
   "package_url": "https://pypi.org/project/tasks-tui-app/"
 }

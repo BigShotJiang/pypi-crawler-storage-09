@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T19:40:38.374787
-- **Total Packages**: 83
-- **Total Size**: 106.12 MB
+- **Download Time**: 2025-10-20T19:51:19.600604
+- **Total Packages**: 77
+- **Total Size**: 33.47 MB
 
 ## Packages List
+- sql-blocks
+- sqlmesh
+- duckdb-extension-ducklake
+- duckdb-extension-avro
+- duckdb-extension-icu
+- cs2pattern
+- dist-s1
+- bittensor
+- ebs-linuxnode-exim
+- pandas-ti
+- multidecoder
+- valuesets
+- django-denorm-iplweb
+- fxutil
+- shopee-afflib
+- dvlogger
+- caniscrape
+- airflow-pydantic
+- lime-stable
+- todoist-to-todotxt
+- mteb
+- pyforma
+- featrixsphere
+- kframework
+- refractiveindex2
+- oxmpl-py
+- tasks-tui-app
+- ai-pipeline-core
+- bundestag-api
+- dreamer4
+- aioautomower
+- cb-key-stroke
+- lazyslide
+- logiklib
+- diff2latex
+- ultracart-rest-sdk
+- telemars
 - deephaven-plugin-theme-pack
 - ONTraC
 - pyconarr
@@ -13,13 +50,10 @@
 - statsig-python-core
 - vector-quantize-pytorch
 - deltafi
-- dreamer4
-- cb-key-stroke
 - chaoschain-sdk
 - chembl-miner
 - pulumi-policy
 - p2smi
-- django-denorm-iplweb
 - pyhabitat
 - tdp-TauCeti
 - bivario
@@ -29,18 +63,15 @@
 - csvpath
 - moneyball
 - gammarers.aws-waf-ip-rate-limit-rule
-- tasks-tui-app
 - pwndck
 - nnterp
 - chora-compose
-- ebs-linuxnode-exim
 - wise-decision-engine
 - l2m2
 - vellum-workflow-server
 - cl-sii
 - basic-open-agent-tools
 - gammarers.aws-waf-geo-restrict-rule
-- dvlogger
 - rubti-beancount-import
 - pyodide-py
 - dlthub
@@ -52,40 +83,3 @@
 - bdscore
 - jacobi-universal-driver
 - jacobi-simulated-driver
-- jacobi-fanuc-driver
-- jacobi-doosan-driver
-- marzpay-python
-- jacobi-abb-driver
-- pylitterbot
-- darshan
-- cmdstanpy
-- flowtask
-- miniverse
-- jl95terceira-pytools-maven
-- giscemultitools
-- jeig
-- ozonapi-async
-- demisto-sdk
-- oasys2
-- eodag-cube
-- turbopdf
-- xnldorker
-- google-metrax
-- terminusgps-payments
-- segmentation-skeleton-metrics
-- Cb-FloodDy
-- vellum-ai
-- fxutil
-- ollm
-- ascender-framework
-- duckdb-extension-ui
-- duckdb-extension-tpcds
-- opendss-mcp-server
-- duckdb-extension-httpfs
-- duckdb-extension-vss
-- duckdb-extension-sqlite-scanner
-- duckdb-extension-sqlite3
-- duckdb-extension-tpch
-- duckdb-extension-autocomplete
-- duckdb-extension-sqlite
-- duckdb-extension-iceberg

@@ -1,0 +1,11 @@
+{
+  "name": "dist-s1",
+  "version": "2.0.6",
+  "summary": "The workflow to generate the DIST-S1 product",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dist_s1-2.0.6-py3-none-any.whl",
+  "download_time": "2025-10-20T19:50:41.256428",
+  "package_url": "https://pypi.org/project/dist-s1/"
+}

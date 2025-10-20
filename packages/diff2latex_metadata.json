@@ -1,0 +1,11 @@
+{
+  "name": "diff2latex",
+  "version": "0.1.0",
+  "summary": "Simple utility that produces diffs in a LaTeX format",
+  "author": "divadiahim",
+  "license": "MIT",
+  "home_page": "https://github.com/divadiahim/diff2latex",
+  "download_filename": "diff2latex-0.1.0.tar.gz",
+  "download_time": "2025-10-20T19:50:56.485473",
+  "package_url": "https://pypi.org/project/diff2latex/"
+}

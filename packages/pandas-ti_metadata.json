@@ -1,11 +1,11 @@
 {
   "name": "pandas-ti",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A lightweight technical indicators library for pandas DataFrames",
   "author": "Javier Calzada Espuny",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pandas_ti-0.1.1.tar.gz",
-  "download_time": "2025-10-20T16:21:44.853061",
+  "download_filename": "pandas_ti-0.1.2.tar.gz",
+  "download_time": "2025-10-20T19:50:42.827895",
   "package_url": "https://pypi.org/project/pandas-ti/"
 }
