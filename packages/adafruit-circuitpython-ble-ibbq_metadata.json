@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ble-ibbq",
+  "version": "1.2.21",
+  "summary": "BLE support for iBBQ thermometers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ble_ibbq-1.2.21.tar.gz",
+  "download_time": "2025-10-20T20:54:21.920915",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ble-ibbq/"
+}

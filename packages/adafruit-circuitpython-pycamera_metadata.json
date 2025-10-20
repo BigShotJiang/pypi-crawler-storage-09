@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-pycamera",
+  "version": "1.5.3",
+  "summary": "Library for the Adafruit PyCamera",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_pycamera-1.5.3.tar.gz",
+  "download_time": "2025-10-20T20:53:52.798728",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-pycamera/"
+}

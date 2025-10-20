@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-miniesptool",
+  "version": "0.2.25",
+  "summary": "CircuitPython ROM loader for ESP chips, works with ESP8266 or ESP32.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_miniesptool-0.2.25.tar.gz",
+  "download_time": "2025-10-20T20:54:04.459917",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-miniesptool/"
+}

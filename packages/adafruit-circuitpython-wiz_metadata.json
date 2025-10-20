@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-wiz",
+  "version": "1.1.2",
+  "summary": "CircuitPython helper library for Wiz connected lights",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_wiz-1.1.2.tar.gz",
+  "download_time": "2025-10-20T20:54:10.277982",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-wiz/"
+}

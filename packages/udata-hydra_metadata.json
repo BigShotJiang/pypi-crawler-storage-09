@@ -1,11 +1,11 @@
 {
   "name": "udata-hydra",
-  "version": "10124",
+  "version": "2.4.2",
   "summary": "Async crawler and parsing service for data.gouv.fr",
   "author": "Opendata Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "udata_hydra-10124.tar.gz",
-  "download_time": "2025-10-20T10:45:39.319258",
+  "download_filename": "udata_hydra-2.4.2.tar.gz",
+  "download_time": "2025-10-20T20:53:51.049896",
   "package_url": "https://pypi.org/project/udata-hydra/"
 }

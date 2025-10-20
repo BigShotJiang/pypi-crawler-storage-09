@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-lifx",
+  "version": "3.0.4",
+  "summary": "LIFX Smart Lighting API Helper",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_lifx-3.0.4.tar.gz",
+  "download_time": "2025-10-20T20:54:07.922788",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-lifx/"
+}

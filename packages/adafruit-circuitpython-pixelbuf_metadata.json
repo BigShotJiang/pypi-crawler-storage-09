@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-pixelbuf",
+  "version": "2.0.10",
+  "summary": "A pure Python implementation of adafruit_pixelbuf for smaller boards.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_pixelbuf-2.0.10.tar.gz",
+  "download_time": "2025-10-20T20:53:55.127217",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-pixelbuf/"
+}

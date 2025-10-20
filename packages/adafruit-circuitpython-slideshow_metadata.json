@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-slideshow",
+  "version": "1.8.7",
+  "summary": "CircuitPython helper library for displaying a slideshow of images on a display.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_slideshow-1.8.7.tar.gz",
+  "download_time": "2025-10-20T20:54:31.241625",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-slideshow/"
+}

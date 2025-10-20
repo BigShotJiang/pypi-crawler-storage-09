@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-register",
+  "version": "1.11.1",
+  "summary": "CircuitPython data descriptor classes to represent hardware registers on I2C and SPI devices.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_register-1.11.1.tar.gz",
+  "download_time": "2025-10-20T20:54:00.967372",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-register/"
+}

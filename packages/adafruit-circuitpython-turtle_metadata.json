@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-turtle",
+  "version": "3.1.9",
+  "summary": "Turtle graphics library for CircuitPython and displayio",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_turtle-3.1.9.tar.gz",
+  "download_time": "2025-10-20T20:54:27.718350",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-turtle/"
+}

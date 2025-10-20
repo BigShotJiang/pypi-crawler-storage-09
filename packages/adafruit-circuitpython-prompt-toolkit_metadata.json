@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-prompt-toolkit",
+  "version": "1.0.6",
+  "summary": "Slimmed down implementation of prompt_toolkit for CircuitPython",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_prompt_toolkit-1.0.6.tar.gz",
+  "download_time": "2025-10-20T20:54:29.510401",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-prompt-toolkit/"
+}

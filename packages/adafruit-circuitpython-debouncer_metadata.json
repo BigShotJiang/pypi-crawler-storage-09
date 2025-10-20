@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-debouncer",
+  "version": "2.0.13",
+  "summary": "CircuitPython pin or arbitrary predicate debouncer.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_debouncer-2.0.13.tar.gz",
+  "download_time": "2025-10-20T20:54:22.501316",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-debouncer/"
+}

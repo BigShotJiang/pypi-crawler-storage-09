@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-usb-host-mass-storage",
+  "version": "0.8.4",
+  "summary": "CircuitPython BlockDevice for USB mass storage devices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_usb_host_mass_storage-0.8.4.tar.gz",
+  "download_time": "2025-10-20T20:54:20.766887",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-usb-host-mass-storage/"
+}

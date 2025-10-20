@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-magtag",
+  "version": "2.2.16",
+  "summary": "Helper library for the Adafruit MagTag",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_magtag-2.2.16.tar.gz",
+  "download_time": "2025-10-20T20:53:56.861165",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-magtag/"
+}
