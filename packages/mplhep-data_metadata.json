@@ -1,0 +1,11 @@
+{
+  "name": "mplhep-data",
+  "version": "0.0.5",
+  "summary": "Font (Data) sub-package for mplhep",
+  "author": "Andrzej Novak",
+  "license": "MIT",
+  "home_page": "https://github.com/Scikit-HEP/mplhep_data",
+  "download_filename": "mplhep_data-0.0.5.tar.gz",
+  "download_time": "2025-10-20T15:51:07.860954",
+  "package_url": "https://pypi.org/project/mplhep-data/"
+}

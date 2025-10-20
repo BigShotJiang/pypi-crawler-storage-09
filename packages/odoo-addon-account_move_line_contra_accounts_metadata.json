@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account_move_line_contra_accounts",
+  "version": "18.0.1.0.0",
+  "summary": "Show contra account of journal item.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_account_move_line_contra_accounts-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-20T15:51:10.480586",
+  "package_url": "https://pypi.org/project/odoo-addon-account_move_line_contra_accounts/"
+}

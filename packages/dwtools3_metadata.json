@@ -1,0 +1,11 @@
+{
+  "name": "dwtools3",
+  "version": "3.1.1",
+  "summary": "Useful tools & utilities for Python & Django web development.",
+  "author": "Barak Shohat",
+  "license": "MIT",
+  "home_page": "https://github.com/bazzisoft/dwtools3",
+  "download_filename": "dwtools3-3.1.1.tar.gz",
+  "download_time": "2025-10-20T15:51:12.615330",
+  "package_url": "https://pypi.org/project/dwtools3/"
+}

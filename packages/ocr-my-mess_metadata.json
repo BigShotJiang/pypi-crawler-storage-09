@@ -1,11 +1,11 @@
 {
   "name": "ocr-my-mess",
-  "version": "0.3.15",
+  "version": "0.3.16",
   "summary": "A PDF pipeline to convert, OCR, and merge documents.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ocr_my_mess-0.3.15.tar.gz",
-  "download_time": "2025-10-19T22:15:10.325967",
+  "download_filename": "ocr_my_mess-0.3.16.tar.gz",
+  "download_time": "2025-10-20T15:51:12.090388",
   "package_url": "https://pypi.org/project/ocr-my-mess/"
 }

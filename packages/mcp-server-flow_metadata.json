@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-flow",
-  "version": "1.2.12",
+  "version": "1.2.14",
   "summary": "MCP server for Flow Framework - Spec-driven iterative development methodology",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_flow-1.2.12.tar.gz",
-  "download_time": "2025-10-20T14:37:30.226361",
+  "download_filename": "mcp_server_flow-1.2.14.tar.gz",
+  "download_time": "2025-10-20T15:51:19.228411",
   "package_url": "https://pypi.org/project/mcp-server-flow/"
 }
