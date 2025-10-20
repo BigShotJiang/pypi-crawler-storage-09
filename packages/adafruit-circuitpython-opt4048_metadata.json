@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-opt4048",
+  "version": "1.0.4",
+  "summary": "CircuitPython driver library for the Adafruit OPT4048 breakout board, a high-speed, high-precision tristimulus XYZ color sensor.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_opt4048-1.0.4.tar.gz",
+  "download_time": "2025-10-20T20:20:55.772782",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-opt4048/"
+}

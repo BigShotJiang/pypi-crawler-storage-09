@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-ms8607",
+  "version": "1.1.6",
+  "summary": "CircuitPython driver for the MS8607 PTH sensor",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_ms8607-1.1.6.tar.gz",
+  "download_time": "2025-10-20T20:21:20.122356",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-ms8607/"
+}

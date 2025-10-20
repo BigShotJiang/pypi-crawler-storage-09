@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-mmc56x3",
+  "version": "1.0.14",
+  "summary": "Magnetometer sensor library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_mmc56x3-1.0.14.tar.gz",
+  "download_time": "2025-10-20T20:21:06.858795",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-mmc56x3/"
+}

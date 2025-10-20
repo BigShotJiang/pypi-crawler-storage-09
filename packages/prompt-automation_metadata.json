@@ -1,0 +1,11 @@
+{
+  "name": "prompt-automation",
+  "version": "1.0.0",
+  "summary": "Keyboard-only smart prompt launcher",
+  "author": "prompt-automation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prompt_automation-1.0.0.tar.gz",
+  "download_time": "2025-10-20T20:21:28.847343",
+  "package_url": "https://pypi.org/project/prompt-automation/"
+}

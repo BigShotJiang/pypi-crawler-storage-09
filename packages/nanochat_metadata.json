@@ -1,11 +1,11 @@
 {
   "name": "nanochat",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "the minimal full-stack ChatGPT clone",
-  "author": null,
+  "author": "Andrej Karpathy",
   "license": null,
   "home_page": null,
-  "download_filename": "nanochat-0.1.0-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-20T19:14:22.139967",
+  "download_filename": "nanochat-0.1.2.tar.gz",
+  "download_time": "2025-10-20T20:20:52.281934",
   "package_url": "https://pypi.org/project/nanochat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-mlx90632",
+  "version": "1.0.1",
+  "summary": "CircuitPython driver for the MLX90632",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_mlx90632-1.0.1.tar.gz",
+  "download_time": "2025-10-20T20:21:16.632114",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-mlx90632/"
+}

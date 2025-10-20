@@ -1,0 +1,11 @@
+{
+  "name": "cedargrove-nau7802",
+  "version": "2.1.3",
+  "summary": "A CircuitPython driver class for the NAU7802 24-bit ADC",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cedargrove_nau7802-2.1.3-py3-none-any.whl",
+  "download_time": "2025-10-20T20:21:29.454853",
+  "package_url": "https://pypi.org/project/cedargrove-nau7802/"
+}

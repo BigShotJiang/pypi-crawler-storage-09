@@ -1,0 +1,11 @@
+{
+  "name": "invenio-files-rest",
+  "version": "3.4.1",
+  "summary": "\"Files download/upload REST API similar to S3 for Invenio.\"",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-files-rest",
+  "download_filename": "invenio_files_rest-3.4.1.tar.gz",
+  "download_time": "2025-10-20T20:21:23.013002",
+  "package_url": "https://pypi.org/project/invenio-files-rest/"
+}

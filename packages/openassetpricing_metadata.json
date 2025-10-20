@@ -1,0 +1,11 @@
+{
+  "name": "openassetpricing",
+  "version": "0.0.2",
+  "summary": "Open asset pricing package with example dependencies",
+  "author": "Peng Li, Andrew Chen, Tom Zimmermann",
+  "license": "GPLv2",
+  "home_page": null,
+  "download_filename": "openassetpricing-0.0.2.tar.gz",
+  "download_time": "2025-10-20T20:20:45.907360",
+  "package_url": "https://pypi.org/project/openassetpricing/"
+}

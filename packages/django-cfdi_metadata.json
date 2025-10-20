@@ -1,0 +1,11 @@
+{
+  "name": "django-cfdi",
+  "version": "2.235",
+  "summary": "django-cfdi is a tool for friendly work with CFDI's .",
+  "author": "admintotal-dev",
+  "license": null,
+  "home_page": "https://gitlab.com/admintotal/django-cfdi",
+  "download_filename": "django_cfdi-2.235-py3-none-any.whl",
+  "download_time": "2025-10-20T20:21:23.672690",
+  "package_url": "https://pypi.org/project/django-cfdi/"
+}
