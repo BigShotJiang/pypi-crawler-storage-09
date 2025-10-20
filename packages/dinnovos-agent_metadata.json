@@ -1,11 +1,11 @@
 {
   "name": "dinnovos-agent",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Dinnovos Agent - Agile AI Agents with multi-LLM support",
   "author": "Dinnovos",
   "license": "MIT",
   "home_page": "https://github.com/dinnovos/dinnovos-agent",
-  "download_filename": "dinnovos_agent-0.4.0.tar.gz",
-  "download_time": "2025-10-20T17:33:26.345790",
+  "download_filename": "dinnovos_agent-0.4.1.tar.gz",
+  "download_time": "2025-10-20T20:42:56.570211",
   "package_url": "https://pypi.org/project/dinnovos-agent/"
 }
