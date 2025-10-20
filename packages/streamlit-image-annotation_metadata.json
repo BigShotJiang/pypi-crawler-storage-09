@@ -1,11 +1,11 @@
 {
   "name": "streamlit-image-annotation",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "streamlit components for image annotation",
   "author": "hirune924",
   "license": null,
   "home_page": "https://github.com/hirune924/Streamlit-Image-Annotation",
-  "download_filename": "streamlit_image_annotation-0.7.1.tar.gz",
-  "download_time": "2025-10-20T03:47:14.432984",
+  "download_filename": "streamlit_image_annotation-0.7.2.tar.gz",
+  "download_time": "2025-10-20T04:22:41.916310",
   "package_url": "https://pypi.org/project/streamlit-image-annotation/"
 }

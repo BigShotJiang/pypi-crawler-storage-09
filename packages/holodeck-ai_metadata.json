@@ -1,11 +1,11 @@
 {
   "name": "holodeck-ai",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "summary": "HoloDeck - Experimentation-driven agent experimentation and deployment",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "holodeck_ai-0.0.1.tar.gz",
-  "download_time": "2025-10-19T22:32:50.954952",
+  "download_filename": "holodeck_ai-0.0.5.tar.gz",
+  "download_time": "2025-10-20T04:22:43.464004",
   "package_url": "https://pypi.org/project/holodeck-ai/"
 }

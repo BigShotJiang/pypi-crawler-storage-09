@@ -1,11 +1,11 @@
 {
   "name": "abstract-hugpy",
-  "version": "0.0.0.187",
+  "version": "0.0.0.195",
   "summary": "The `abstract_hugpy` module is designed to facilitate hugging face modules",
   "author": "putkoff",
   "license": null,
   "home_page": "https://github.com/AbstractEndeavors/abstract_hugpy",
-  "download_filename": "abstract_hugpy-0.0.0.187.tar.gz",
-  "download_time": "2025-10-20T03:47:05.805024",
+  "download_filename": "abstract_hugpy-0.0.0.195.tar.gz",
+  "download_time": "2025-10-20T04:22:35.701286",
   "package_url": "https://pypi.org/project/abstract-hugpy/"
 }

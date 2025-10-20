@@ -1,11 +1,11 @@
 {
   "name": "NodeCraft",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "A modular framework for building composable AI workflows",
   "author": "NodeCraft Team",
   "license": null,
   "home_page": "https://github.com/bethneyQQ/NodeCraft",
-  "download_filename": "nodecraft-0.1.6.tar.gz",
-  "download_time": "2025-10-20T03:47:06.341698",
+  "download_filename": "nodecraft-0.1.8.tar.gz",
+  "download_time": "2025-10-20T04:22:40.340075",
   "package_url": "https://pypi.org/project/NodeCraft/"
 }

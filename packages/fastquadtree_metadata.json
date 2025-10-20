@@ -1,11 +1,11 @@
 {
   "name": "fastquadtree",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "summary": "Rust-accelerated quadtree for Python with fast inserts, range queries, and k-NN search.",
   "author": "Ethan Anderson",
   "license": null,
   "home_page": null,
-  "download_filename": "fastquadtree-1.1.2.tar.gz",
-  "download_time": "2025-10-17T16:19:30.056637",
+  "download_filename": "fastquadtree-1.2.0.tar.gz",
+  "download_time": "2025-10-20T04:22:30.114844",
   "package_url": "https://pypi.org/project/fastquadtree/"
 }

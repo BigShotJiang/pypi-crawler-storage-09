@@ -1,22 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-20T03:47:43.977193
-- **Total Packages**: 72
-- **Total Size**: 18.14 MB
+- **Download Time**: 2025-10-20T04:22:58.703460
+- **Total Packages**: 68
+- **Total Size**: 10.78 MB
 
 ## Packages List
+- dream-evaluator
+- levdomain
+- xl-docx
+- pyhabitat
+- dokku-api
+- hypergen
+- cofactor-vigil
+- vietlott-data
+- grain-nightly
+- eo-tides
+- scamper
+- aenet-gpr
+- pyhql
+- gw-ui-streamlit
+- p2pd
+- fastquadtree
+- openguardrails
+- pyqrackising
+- square-administration
+- chromedriver-binary
+- clickzetta-semantic-model-generator
+- square-common-bl
+- boss-request
+- unKR
+- hexdoc-mediatransport
+- abstract-hugpy
+- square-authentication
+- zoomcutter
+- resgen-python
+- flowmachine
+- flowkit-jwt-generator
+- flowclient
+- flowetl
+- poly-mcp-server
+- NodeCraft
+- snap-ocr
+- svc-infra
+- streamlit-image-annotation
+- quant1x
+- python-amazon-ad-api
+- holodeck-ai
+- awx-zipline-ai
+- langchain-tool-server
+- tradingview-indicators
 - modaic
-- pysera
 - native-dumper
 - claude-mpm
-- abstract-hugpy
-- NodeCraft
 - cdktf-cdktf-provider-acme
-- tradingview-indicators
 - envmix
 - commandchat
-- boss-request
 - fin68
 - keras-rs-nightly
 - pyeasyphd
@@ -24,13 +63,9 @@
 - pymaml
 - sphinx-proof
 - GANDLF
-- streamlit-image-annotation
 - argcomplete
 - odoo-addon-product-pricelist-direct-print
-- openguardrails
 - healthdatalayer
-- poly-mcp-server
-- cofactor-vigil
 - drep-ai
 - xfao-core
 - wanyun-JitSdk
@@ -39,42 +74,3 @@
 - aind-behavior-vr-foraging
 - upplib
 - oneforall-kjl
-- connectonion
-- alibabacloud-appstream-center20210901
-- airheads
-- clippy-code
-- trainingsample
-- datapanel-dev
-- clickzetta-semantic-model-generator
-- cve-report-aggregator
-- pydmnrules-mcp-server
-- gptdb-corex
-- gurddy-mcp
-- pex
-- pypipr
-- voiceType2
-- tdxlite
-- ifunctions
-- svc-infra
-- libloader
-- django-drf-keycloak-auth
-- photo-metadata
-- finter
-- battlenet-client
-- dataset-toolkit
-- gw-ui-streamlit
-- jupyterlab-block-copy
-- levdomain
-- aind-clabe
-- empix
-- ix-notifiers
-- types-xlrd
-- p2pd
-- retrieve-sentence-embeddings
-- algorand-python
-- puyapy
-- kenallclient
-- pylibtemplate
-- timber-common
-- HybridJSONTestRunner
-- pgpack-dumper
