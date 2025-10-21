@@ -1,0 +1,11 @@
+{
+  "name": "brynq-sdk-workday",
+  "version": "2.1.0",
+  "summary": "Workday wrapper from BrynQ",
+  "author": "BrynQ",
+  "license": "BrynQ License",
+  "home_page": null,
+  "download_filename": "brynq_sdk_workday-2.1.0.tar.gz",
+  "download_time": "2025-10-21T07:40:19.064605",
+  "package_url": "https://pypi.org/project/brynq-sdk-workday/"
+}

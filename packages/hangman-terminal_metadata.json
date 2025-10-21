@@ -1,11 +1,11 @@
 {
   "name": "hangman-terminal",
-  "version": "0.0.2",
-  "summary": null,
+  "version": "1.0.1",
+  "summary": "Hangman in terminal",
   "author": "Krishna Menon",
   "license": "MIT",
   "home_page": "https://github.com/menonkrishna57/Hangman-Game-in-Python",
-  "download_filename": "hangman_terminal-0.0.2-py3-none-any.whl",
-  "download_time": "2025-10-20T09:43:17.897615",
+  "download_filename": "hangman_terminal-1.0.1-py3-none-any.whl",
+  "download_time": "2025-10-21T07:40:13.870525",
   "package_url": "https://pypi.org/project/hangman-terminal/"
 }

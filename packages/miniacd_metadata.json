@@ -1,11 +1,11 @@
 {
   "name": "miniacd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Approximate convex decomposition of 3D meshes",
   "author": "Kyle Cesare",
   "license": null,
   "home_page": null,
-  "download_filename": "miniacd-0.1.1.tar.gz",
-  "download_time": "2025-10-19T04:43:18.378106",
+  "download_filename": "miniacd-0.1.2.tar.gz",
+  "download_time": "2025-10-21T07:40:17.346937",
   "package_url": "https://pypi.org/project/miniacd/"
 }

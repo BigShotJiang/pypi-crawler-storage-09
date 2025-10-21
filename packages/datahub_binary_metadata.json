@@ -1,0 +1,11 @@
+{
+  "name": "datahub_binary",
+  "version": "1.7.11",
+  "summary": "A comprehensive Python library for data processing, integration, and management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datahub_binary-1.7.11-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-10-21T07:39:55.617355",
+  "package_url": "https://pypi.org/project/datahub_binary/"
+}
