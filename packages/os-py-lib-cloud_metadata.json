@@ -1,0 +1,11 @@
+{
+  "name": "os-py-lib-cloud",
+  "version": "1.0.0",
+  "summary": "Unified AWS S3 and Azure Blob Storage client for cloud file uploads",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "os_py_lib_cloud-1.0.0.tar.gz",
+  "download_time": "2025-10-21T12:34:51.345538",
+  "package_url": "https://pypi.org/project/os-py-lib-cloud/"
+}

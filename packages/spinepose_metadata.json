@@ -1,0 +1,11 @@
+{
+  "name": "spinepose",
+  "version": "2.0.0",
+  "summary": "A Python package for 2D human spine keypoint estimation in the wild.",
+  "author": "Muhammad Saif Ullah Khan",
+  "license": "CC-BY-NC-4.0",
+  "home_page": "https://github.com/dfki-av/spinepose",
+  "download_filename": "spinepose-2.0.0.tar.gz",
+  "download_time": "2025-10-21T12:34:57.090061",
+  "package_url": "https://pypi.org/project/spinepose/"
+}

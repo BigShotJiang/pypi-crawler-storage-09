@@ -1,11 +1,11 @@
 {
   "name": "teleporter",
-  "version": "2.2.0",
+  "version": "3.0.0",
   "summary": "Serializer and deserializer for Telegram Android and Desktop sessions.",
   "author": "sozercanye",
   "license": "MIT",
   "home_page": "https://github.com/sozercanye/teleporter",
-  "download_filename": "teleporter-2.2.0.tar.gz",
-  "download_time": "2025-10-21T11:29:41.837359",
+  "download_filename": "teleporter-3.0.0.tar.gz",
+  "download_time": "2025-10-21T12:34:27.985586",
   "package_url": "https://pypi.org/project/teleporter/"
 }

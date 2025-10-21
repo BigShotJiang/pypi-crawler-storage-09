@@ -1,0 +1,11 @@
+{
+  "name": "fds.protobuf.stach.v2",
+  "version": "1.0.4",
+  "summary": "Stach library in python",
+  "author": "analytics-reporting",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "fds.protobuf.stach.v2-1.0.4.tar.gz",
+  "download_time": "2025-10-21T12:34:33.196935",
+  "package_url": "https://pypi.org/project/fds.protobuf.stach.v2/"
+}

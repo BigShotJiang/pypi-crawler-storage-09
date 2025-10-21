@@ -1,0 +1,11 @@
+{
+  "name": "dci-downloader",
+  "version": "3.2.0.post202510211212",
+  "summary": "DCI downloader module",
+  "author": "Distributed CI team",
+  "license": "Apache v2.0",
+  "home_page": "https://github.com/redhat-cip/dci-downloader",
+  "download_filename": "dci-downloader-3.2.0.post202510211212.tar.gz",
+  "download_time": "2025-10-21T12:34:14.877344",
+  "package_url": "https://pypi.org/project/dci-downloader/"
+}

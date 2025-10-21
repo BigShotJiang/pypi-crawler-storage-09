@@ -1,11 +1,11 @@
 {
   "name": "ultralytics-actions",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Ultralytics Actions for GitHub automation and PR management.",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "ultralytics_actions-0.1.5.tar.gz",
-  "download_time": "2025-10-21T10:44:32.942540",
+  "download_filename": "ultralytics_actions-0.1.6.tar.gz",
+  "download_time": "2025-10-21T12:34:34.241426",
   "package_url": "https://pypi.org/project/ultralytics-actions/"
 }

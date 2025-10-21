@@ -1,0 +1,11 @@
+{
+  "name": "fluke-thermal-reader",
+  "version": "0.1.1",
+  "summary": "Libreria Python per leggere file termografici Fluke (.is2 e .is3)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluke_thermal_reader-0.1.1.tar.gz",
+  "download_time": "2025-10-21T12:34:54.993626",
+  "package_url": "https://pypi.org/project/fluke-thermal-reader/"
+}

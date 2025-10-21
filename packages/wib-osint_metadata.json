@@ -1,11 +1,11 @@
 {
   "name": "wib-osint",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Passive OSINT lookups for IPs and domains with a clean terminal UI",
   "author": "tspry",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wib_osint-0.1.1.tar.gz",
-  "download_time": "2025-10-21T10:54:04.703775",
+  "download_filename": "wib_osint-0.1.4.tar.gz",
+  "download_time": "2025-10-21T12:34:20.101324",
   "package_url": "https://pypi.org/project/wib-osint/"
 }
