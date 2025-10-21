@@ -1,11 +1,11 @@
 {
   "name": "ebs-linuxnode-gui-kivy-camera",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "Camera infrastructure for linuxnode applications",
   "author": "Chintalagiri Shashank",
   "license": null,
   "home_page": "https://github.com/ebs-universe/ebs-linuxnode-kivy-camera",
-  "download_filename": "ebs_linuxnode_gui_kivy_camera-1.1.3.tar.gz",
-  "download_time": "2025-10-21T16:47:31.009171",
+  "download_filename": "ebs_linuxnode_gui_kivy_camera-1.1.4.tar.gz",
+  "download_time": "2025-10-21T17:16:59.842026",
   "package_url": "https://pypi.org/project/ebs-linuxnode-gui-kivy-camera/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sap-bdc-connect-sdk",
+  "version": "1.1.4",
+  "summary": "Python SDK for SAP Business Data Cloud",
+  "author": "SAP SE",
+  "license": "SAP DEVELOPER LICENSE AGREEMENT",
+  "home_page": "https://www.sap.com",
+  "download_filename": "sap_bdc_connect_sdk-1.1.4-py3-none-any.whl",
+  "download_time": "2025-10-21T17:17:24.476136",
+  "package_url": "https://pypi.org/project/sap-bdc-connect-sdk/"
+}

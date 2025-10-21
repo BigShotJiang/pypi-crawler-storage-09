@@ -1,0 +1,11 @@
+{
+  "name": "omam-authkit",
+  "version": "0.1.0",
+  "summary": "Python SDK for Omam AuthKit - OAuth 2.0 authentication provider",
+  "author": "Osman",
+  "license": "MIT",
+  "home_page": "https://github.com/hamashoool/omam-authkit-python-sdk",
+  "download_filename": "omam_authkit-0.1.0.tar.gz",
+  "download_time": "2025-10-21T17:17:30.984626",
+  "package_url": "https://pypi.org/project/omam-authkit/"
+}

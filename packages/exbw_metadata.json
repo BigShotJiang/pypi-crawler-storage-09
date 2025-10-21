@@ -1,0 +1,11 @@
+{
+  "name": "exbw",
+  "version": "0.1.1",
+  "summary": "Wrapper for bitwarden cli client.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exbw-0.1.1.tar.gz",
+  "download_time": "2025-10-21T17:16:50.147850",
+  "package_url": "https://pypi.org/project/exbw/"
+}

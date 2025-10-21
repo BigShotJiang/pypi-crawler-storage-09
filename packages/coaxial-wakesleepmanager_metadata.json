@@ -1,0 +1,11 @@
+{
+  "name": "coaxial-wakesleepmanager",
+  "version": "0.1.0",
+  "summary": "A cross-platform tool to manage wake and sleep states of network devices",
+  "author": "Petter",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coaxial_wakesleepmanager-0.1.0.tar.gz",
+  "download_time": "2025-10-21T17:17:14.042587",
+  "package_url": "https://pypi.org/project/coaxial-wakesleepmanager/"
+}

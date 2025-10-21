@@ -1,0 +1,11 @@
+{
+  "name": "wizard-template",
+  "version": "0.4.0",
+  "summary": "A template for a python project containing a package, tests, docs, and CI/CD.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wizard_template-0.4.0.tar.gz",
+  "download_time": "2025-10-21T17:16:54.884668",
+  "package_url": "https://pypi.org/project/wizard-template/"
+}
