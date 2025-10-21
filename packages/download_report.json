@@ -1,19 +1,10 @@
 {
-  "download_time": "2025-10-21T18:51:33.922004",
+  "download_time": "2025-10-21T19:17:10.911998",
   "total_packages_downloaded": 89,
-  "total_size_mb": 40.68,
+  "total_size_mb": 2.32,
   "packages": [
-    "notdiamond",
-    "fer",
-    "lightning-pose-app",
-    "databricks-ai-bridge",
-    "sap-gui-engine",
-    "simplesingletable",
-    "engrate-kit",
-    "django-bulk-hooks",
-    "kaggle-environments",
-    "numcore",
     "equitas",
+    "fer",
     "ntcumulusci",
     "og-log",
     "ddtrace",
@@ -32,6 +23,7 @@
     "opticedge-cloud-utils",
     "easySCFpy",
     "sx126x",
+    "lightning-pose-app",
     "sleipnirgroup-jormungandr",
     "capypdf",
     "ejkernel",
@@ -91,6 +83,14 @@
     "VKPyKit",
     "agnt5",
     "chuk-mcp-runtime",
-    "extra-platforms"
+    "extra-platforms",
+    "aiter-metric",
+    "s2a-sdk",
+    "plategaio",
+    "signalpilot-ai",
+    "foursight-smaht",
+    "abstract-pdfs",
+    "stllrent-bootstrap",
+    "oidcauthlib"
   ]
 }

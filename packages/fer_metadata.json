@@ -1,11 +1,11 @@
 {
   "name": "fer",
-  "version": "25.10.1",
+  "version": "25.10.2",
   "summary": "Facial expression recognition from images",
   "author": "Justin Shenk",
   "license": "MIT",
   "home_page": "https://github.com/justinshenk/fer",
-  "download_filename": "fer-25.10.1.tar.gz",
-  "download_time": "2025-10-21T18:50:46.610578",
+  "download_filename": "fer-25.10.2.tar.gz",
+  "download_time": "2025-10-21T19:16:19.623995",
   "package_url": "https://pypi.org/project/fer/"
 }
