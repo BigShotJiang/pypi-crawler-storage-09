@@ -1,0 +1,11 @@
+{
+  "name": "team-digest",
+  "version": "1.1.11",
+  "summary": "Generate daily/weekly/monthly team email digests and deliver to Slack.",
+  "author": "Anuraj Deol",
+  "license": null,
+  "home_page": null,
+  "download_filename": "team_digest-1.1.11.tar.gz",
+  "download_time": "2025-10-21T16:26:19.492098",
+  "package_url": "https://pypi.org/project/team-digest/"
+}

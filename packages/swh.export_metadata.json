@@ -1,11 +1,11 @@
 {
   "name": "swh.export",
-  "version": "1.11.0",
+  "version": "1.11.1",
   "summary": "Software Heritage dataset tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "swh_export-1.11.0.tar.gz",
-  "download_time": "2025-10-21T13:24:04.185196",
+  "download_filename": "swh_export-1.11.1.tar.gz",
+  "download_time": "2025-10-21T16:26:31.648251",
   "package_url": "https://pypi.org/project/swh.export/"
 }

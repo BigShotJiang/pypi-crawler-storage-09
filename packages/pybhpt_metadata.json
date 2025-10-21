@@ -1,0 +1,11 @@
+{
+  "name": "pybhpt",
+  "version": "0.9.8",
+  "summary": "Black Hole Perturbation Theory and Self-Force Algorithms in Python",
+  "author": null,
+  "license": "GPL",
+  "home_page": null,
+  "download_filename": "pybhpt-0.9.8.tar.gz",
+  "download_time": "2025-10-21T16:26:08.592955",
+  "package_url": "https://pypi.org/project/pybhpt/"
+}

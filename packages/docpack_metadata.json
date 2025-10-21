@@ -1,0 +1,11 @@
+{
+  "name": "docpack",
+  "version": "0.1.5",
+  "summary": "DocPack efficiently consolidates documentation from GitHub, Confluence, and files into a structured knowledge base for AI access.",
+  "author": "Sanhe Hu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docpack-0.1.5.tar.gz",
+  "download_time": "2025-10-21T16:26:11.170199",
+  "package_url": "https://pypi.org/project/docpack/"
+}

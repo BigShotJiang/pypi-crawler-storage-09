@@ -1,0 +1,11 @@
+{
+  "name": "mbonig.state-machine",
+  "version": "0.0.37",
+  "summary": "A Step Function state machine construct focused on working well with the Workflow Studio",
+  "author": "Matthew Bonig<matthew.bonig@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/mbonig/state-machine.git",
+  "download_filename": "mbonig_state_machine-0.0.37.tar.gz",
+  "download_time": "2025-10-21T16:26:23.187507",
+  "package_url": "https://pypi.org/project/mbonig.state-machine/"
+}

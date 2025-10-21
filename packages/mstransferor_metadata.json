@@ -1,11 +1,11 @@
 {
   "name": "mstransferor",
-  "version": "2.4.4",
+  "version": "2.4.5",
   "summary": null,
   "author": null,
   "license": "Apache License, Version 2.0",
   "home_page": "https://github.com/dmwm/WMCore",
-  "download_filename": "mstransferor-2.4.4.tar.gz",
-  "download_time": "2025-10-16T14:57:24.640811",
+  "download_filename": "mstransferor-2.4.5.tar.gz",
+  "download_time": "2025-10-21T16:25:50.254599",
   "package_url": "https://pypi.org/project/mstransferor/"
 }
