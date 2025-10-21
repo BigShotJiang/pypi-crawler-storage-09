@@ -1,11 +1,11 @@
 {
   "name": "tsuno",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "High-performance WSGI/ASGI server for Python, powered by Rust",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tsuno-0.1.1.tar.gz",
-  "download_time": "2025-10-21T04:20:40.753347",
+  "download_filename": "tsuno-0.1.2.tar.gz",
+  "download_time": "2025-10-21T11:52:23.407293",
   "package_url": "https://pypi.org/project/tsuno/"
 }

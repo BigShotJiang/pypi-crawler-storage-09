@@ -1,0 +1,11 @@
+{
+  "name": "invenio-oauth2server",
+  "version": "3.3.1",
+  "summary": "\"Invenio module that implements OAuth 2 server.\"",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-oauth2server",
+  "download_filename": "invenio_oauth2server-3.3.1.tar.gz",
+  "download_time": "2025-10-21T11:52:22.828033",
+  "package_url": "https://pypi.org/project/invenio-oauth2server/"
+}

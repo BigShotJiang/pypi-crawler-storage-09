@@ -1,0 +1,11 @@
+{
+  "name": "cn2vn",
+  "version": "0.2.1",
+  "summary": "A library to convert Chinese text to Vietnamese using Sino-Vietnamese readings",
+  "author": "jetaudio.media",
+  "license": null,
+  "home_page": "https://github.com/jetaudio.media/cn2vn",
+  "download_filename": "cn2vn-0.2.1.tar.gz",
+  "download_time": "2025-10-21T11:51:57.073625",
+  "package_url": "https://pypi.org/project/cn2vn/"
+}

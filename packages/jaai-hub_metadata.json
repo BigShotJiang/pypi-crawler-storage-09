@@ -1,0 +1,11 @@
+{
+  "name": "jaai-hub",
+  "version": "1.2.0",
+  "summary": "Main hub package for JAAI Hub utilities and components",
+  "author": "JAAI Team",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "jaai_hub-1.2.0.tar.gz",
+  "download_time": "2025-10-21T11:51:54.798325",
+  "package_url": "https://pypi.org/project/jaai-hub/"
+}

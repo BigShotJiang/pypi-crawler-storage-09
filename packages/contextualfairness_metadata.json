@@ -1,0 +1,11 @@
+{
+  "name": "contextualfairness",
+  "version": "0.0.1",
+  "summary": "A python package for assessing machine learning fairness with multiple contextual norms.",
+  "author": "Pim Kerkhoven",
+  "license": null,
+  "home_page": "https://github.com/pimkerkhoven/ContextualFairness",
+  "download_filename": "contextualfairness-0.0.1.tar.gz",
+  "download_time": "2025-10-21T11:51:53.128202",
+  "package_url": "https://pypi.org/project/contextualfairness/"
+}

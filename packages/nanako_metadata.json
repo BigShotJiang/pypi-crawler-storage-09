@@ -1,11 +1,11 @@
 {
   "name": "nanako",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "An educational programming language for the generative AI era",
   "author": "Nanako Project",
   "license": "MIT",
   "home_page": "https://github.com/kkuramitsu/nanako",
-  "download_filename": "nanako-0.2.1.tar.gz",
-  "download_time": "2025-10-21T09:43:05.910703",
+  "download_filename": "nanako-0.2.2.tar.gz",
+  "download_time": "2025-10-21T11:52:00.722842",
   "package_url": "https://pypi.org/project/nanako/"
 }

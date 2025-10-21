@@ -1,0 +1,11 @@
+{
+  "name": "hdn-research-environment",
+  "version": "3.2.17",
+  "summary": "A Django app for supporting cloud-native research environments",
+  "author": "Your Name",
+  "license": "BSD-3-Clause  # Example license",
+  "home_page": "https://www.healthdatanexus.ai/",
+  "download_filename": "hdn_research_environment-3.2.17.tar.gz",
+  "download_time": "2025-10-21T11:51:51.217442",
+  "package_url": "https://pypi.org/project/hdn-research-environment/"
+}

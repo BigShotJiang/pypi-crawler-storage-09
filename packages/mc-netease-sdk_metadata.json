@@ -1,0 +1,11 @@
+{
+  "name": "mc-netease-sdk",
+  "version": "3.6.0.64423",
+  "summary": "Minecraft Netease Edition modAPI",
+  "author": "mc_netease_sdk",
+  "license": "MIT Licence",
+  "home_page": "http://mc.163.com/dev/mcmanual/mc-dev/mcdocs",
+  "download_filename": "mc_netease_sdk-3.6.0.64423-py2-none-any.whl",
+  "download_time": "2025-10-21T11:52:01.312659",
+  "package_url": "https://pypi.org/project/mc-netease-sdk/"
+}
