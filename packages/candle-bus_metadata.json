@@ -1,0 +1,11 @@
+{
+  "name": "candle-bus",
+  "version": "1.2",
+  "summary": "Python Can plugin with windows candle driver.",
+  "author": "song",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "candle_bus-1.2.tar.gz",
+  "download_time": "2025-10-21T09:19:01.862012",
+  "package_url": "https://pypi.org/project/candle-bus/"
+}

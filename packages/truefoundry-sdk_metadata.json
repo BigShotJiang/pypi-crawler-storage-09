@@ -1,11 +1,11 @@
 {
   "name": "truefoundry-sdk",
-  "version": "0.1.11",
+  "version": "0.1.13",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "truefoundry_sdk-0.1.11.tar.gz",
-  "download_time": "2025-10-16T20:49:51.124366",
+  "download_filename": "truefoundry_sdk-0.1.13.tar.gz",
+  "download_time": "2025-10-21T09:19:23.269354",
   "package_url": "https://pypi.org/project/truefoundry-sdk/"
 }

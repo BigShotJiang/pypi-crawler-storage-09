@@ -1,0 +1,11 @@
+{
+  "name": "haystack-pydoc-tools",
+  "version": "0.6.1",
+  "summary": "Pydoc custom tools for Haystack docs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "haystack_pydoc_tools-0.6.1.tar.gz",
+  "download_time": "2025-10-21T09:19:06.708269",
+  "package_url": "https://pypi.org/project/haystack-pydoc-tools/"
+}

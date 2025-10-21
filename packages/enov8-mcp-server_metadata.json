@@ -1,0 +1,11 @@
+{
+  "name": "enov8-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for Enov8 ecosystem management platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "enov8_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-10-21T09:18:58.666820",
+  "package_url": "https://pypi.org/project/enov8-mcp-server/"
+}

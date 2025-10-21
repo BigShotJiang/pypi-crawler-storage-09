@@ -1,0 +1,11 @@
+{
+  "name": "vblf",
+  "version": "0.2.1",
+  "summary": "A library to read and write Vector BLF files (binary log format)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vblf-0.2.1.tar.gz",
+  "download_time": "2025-10-21T09:19:00.797988",
+  "package_url": "https://pypi.org/project/vblf/"
+}

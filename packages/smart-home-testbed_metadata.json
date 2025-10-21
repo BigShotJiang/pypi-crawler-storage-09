@@ -1,0 +1,11 @@
+{
+  "name": "smart-home-testbed",
+  "version": "0.10.0",
+  "summary": "Various smart home devices' APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smart_home_testbed-0.10.0.tar.gz",
+  "download_time": "2025-10-21T09:19:25.472898",
+  "package_url": "https://pypi.org/project/smart-home-testbed/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "musicrecon",
+  "version": "1.0.2",
+  "summary": "CLI toolkit for searching, recognizing and downloading music.",
+  "author": "wambua",
+  "license": "GNU v3",
+  "home_page": "https://pypi.org/project/MusicRecon/",
+  "download_filename": "musicrecon-1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-21T09:18:39.640280",
+  "package_url": "https://pypi.org/project/musicrecon/"
+}

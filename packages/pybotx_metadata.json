@@ -1,0 +1,11 @@
+{
+  "name": "pybotx",
+  "version": "0.75.5",
+  "summary": "A python library for interacting with eXpress BotX API",
+  "author": "Sidnev Nikolay",
+  "license": null,
+  "home_page": "https://github.com/ExpressApp/pybotx",
+  "download_filename": "pybotx-0.75.5.tar.gz",
+  "download_time": "2025-10-21T09:18:57.622999",
+  "package_url": "https://pypi.org/project/pybotx/"
+}

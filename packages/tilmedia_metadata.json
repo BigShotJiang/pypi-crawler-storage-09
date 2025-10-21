@@ -1,0 +1,11 @@
+{
+  "name": "tilmedia",
+  "version": "2025.2",
+  "summary": "Substance properties for incompressible liquids, ideal gases, real fluids and mixtures",
+  "author": "TLK-Thermo GmbH",
+  "license": "BSD",
+  "home_page": "https://www.tlk-thermo.com/en/software/tilmedia-suite",
+  "download_filename": "tilmedia-2025.2-cp310-cp310-win32.whl",
+  "download_time": "2025-10-21T09:19:24.926753",
+  "package_url": "https://pypi.org/project/tilmedia/"
+}
