@@ -1,11 +1,11 @@
 {
   "name": "push-button-light-control",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "API for PIC24FV-based Push button Light Control System",
   "author": "Basit Akram",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "push_button_light_control-1.1.3.tar.gz",
-  "download_time": "2025-10-21T14:54:31.133014",
+  "download_filename": "push_button_light_control-1.1.4.tar.gz",
+  "download_time": "2025-10-21T15:43:07.301754",
   "package_url": "https://pypi.org/project/push-button-light-control/"
 }
