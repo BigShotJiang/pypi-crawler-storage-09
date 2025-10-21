@@ -1,0 +1,11 @@
+{
+  "name": "fredcollect",
+  "version": "0.1.2",
+  "summary": "A Python wrapper for the Federal Reserve Economic Database (FRED) API",
+  "author": "Oliver Grenon",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/versaucc/fredcollect",
+  "download_filename": "fredcollect-0.1.2.tar.gz",
+  "download_time": "2025-10-21T08:53:01.481639",
+  "package_url": "https://pypi.org/project/fredcollect/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "npbackup",
+  "version": "3.0.4",
+  "summary": "One fits all solution for deduplicated and compressed backups on servers and laptops",
+  "author": "NetInvent - Orsiris de Jong",
+  "license": "GPLv3",
+  "home_page": "https://github.com/netinvent/npbackup",
+  "download_filename": "npbackup-3.0.4.tar.gz",
+  "download_time": "2025-10-21T08:52:31.717501",
+  "package_url": "https://pypi.org/project/npbackup/"
+}

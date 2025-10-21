@@ -1,11 +1,11 @@
 {
   "name": "ebs-linuxnode-camera",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "Camera Interface for EBS IOT Applications",
   "author": "Chintalagiri Shashank",
   "license": null,
   "home_page": "https://github.com/ebs-universe/ebs-linuxnode-camera",
-  "download_filename": "ebs_linuxnode_camera-1.1.0.tar.gz",
-  "download_time": "2025-10-19T10:15:37.372807",
+  "download_filename": "ebs_linuxnode_camera-1.1.2.tar.gz",
+  "download_time": "2025-10-21T08:52:12.559649",
   "package_url": "https://pypi.org/project/ebs-linuxnode-camera/"
 }

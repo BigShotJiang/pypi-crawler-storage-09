@@ -1,0 +1,11 @@
+{
+  "name": "pymagento",
+  "version": "2.8.0",
+  "summary": "Python client for the Magento 2 API",
+  "author": "Bixoto",
+  "license": "MIT",
+  "home_page": "https://github.com/Bixoto/PyMagento",
+  "download_filename": "pymagento-2.8.0.tar.gz",
+  "download_time": "2025-10-21T08:52:19.318786",
+  "package_url": "https://pypi.org/project/pymagento/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ami-lib-next",
+  "version": "0.1.1",
+  "summary": "国家电网内网系统《电力采集系统2.0》的一些API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ami_lib_next-0.1.1.tar.gz",
+  "download_time": "2025-10-21T08:52:44.031621",
+  "package_url": "https://pypi.org/project/ami-lib-next/"
+}

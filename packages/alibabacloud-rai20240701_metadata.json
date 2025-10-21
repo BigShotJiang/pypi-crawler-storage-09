@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-rai20240701",
+  "version": "2.0.0",
+  "summary": "Alibaba Cloud RAI (20240701) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_rai20240701-2.0.0.tar.gz",
+  "download_time": "2025-10-21T08:52:59.943620",
+  "package_url": "https://pypi.org/project/alibabacloud-rai20240701/"
+}

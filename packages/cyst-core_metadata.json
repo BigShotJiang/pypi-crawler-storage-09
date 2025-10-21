@@ -1,0 +1,11 @@
+{
+  "name": "cyst-core",
+  "version": "0.6.6",
+  "summary": "API and runtime of the CYST framework",
+  "author": "Martin Drasar",
+  "license": null,
+  "home_page": "https://muni.cz/go/cyst/",
+  "download_filename": "cyst_core-0.6.6.tar.gz",
+  "download_time": "2025-10-21T08:52:18.268804",
+  "package_url": "https://pypi.org/project/cyst-core/"
+}

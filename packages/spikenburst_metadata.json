@@ -1,0 +1,11 @@
+{
+  "name": "spikenburst",
+  "version": "0.0.1a1",
+  "summary": "Analysis of high-density multi-electrode array (HD-MEA) recordings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spikenburst-0.0.1a1.tar.gz",
+  "download_time": "2025-10-21T08:52:37.347017",
+  "package_url": "https://pypi.org/project/spikenburst/"
+}
