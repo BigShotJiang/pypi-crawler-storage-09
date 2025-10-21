@@ -1,0 +1,11 @@
+{
+  "name": "CVNN-Jamie",
+  "version": "0.3.0",
+  "summary": "A neural network framework supporting complex and real-valued neural networks",
+  "author": "Jamie Keegan-Treloar",
+  "license": null,
+  "home_page": "https://github.com/Gunter-The-Third/Jamies_CVNN",
+  "download_filename": "CVNN_Jamie-0.3.0.tar.gz",
+  "download_time": "2025-10-21T04:20:17.944315",
+  "package_url": "https://pypi.org/project/CVNN-Jamie/"
+}

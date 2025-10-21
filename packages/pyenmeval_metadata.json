@@ -1,0 +1,11 @@
+{
+  "name": "pyenmeval",
+  "version": "0.1.3",
+  "summary": "A Python implementation of ENMeval for ecological niche model evaluation",
+  "author": "Diego Gómez",
+  "license": null,
+  "home_page": "https://github.com/ddk1902/PyENMeval_V1.0",
+  "download_filename": "pyenmeval-0.1.3.tar.gz",
+  "download_time": "2025-10-21T04:20:26.738333",
+  "package_url": "https://pypi.org/project/pyenmeval/"
+}
