@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-delivery-sendcloud-oca",
+  "version": "17.0.1.0.0.3",
+  "summary": "Compute shipping costs and ship with Sendcloud",
+  "author": "Onestein,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/delivery-carrier",
+  "download_filename": "odoo_addon_delivery_sendcloud_oca-17.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-10-21T03:32:09.639435",
+  "package_url": "https://pypi.org/project/odoo-addon-delivery-sendcloud-oca/"
+}

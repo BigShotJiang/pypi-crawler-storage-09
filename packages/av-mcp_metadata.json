@@ -1,0 +1,11 @@
+{
+  "name": "av-mcp",
+  "version": "0.2.1",
+  "summary": "Alpha Vantage MCP Server - Financial data APIs via Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "av_mcp-0.2.1.tar.gz",
+  "download_time": "2025-10-21T03:32:00.705330",
+  "package_url": "https://pypi.org/project/av-mcp/"
+}

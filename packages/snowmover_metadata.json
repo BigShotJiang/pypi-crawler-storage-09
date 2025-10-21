@@ -1,0 +1,11 @@
+{
+  "name": "snowmover",
+  "version": "0.0.1a0",
+  "summary": "A lightweight Python toolkit for Snowflake data moves: upload local text files with PUT/COPY INTO, row-by-row inserts, extract tables to local files (TXT/CSV/Excel), Snowflake-to-Snowflake transfers, and simple, secure connection helpers.",
+  "author": "Harjinder Sidhu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snowmover-0.0.1a0.tar.gz",
+  "download_time": "2025-10-21T03:31:36.783191",
+  "package_url": "https://pypi.org/project/snowmover/"
+}

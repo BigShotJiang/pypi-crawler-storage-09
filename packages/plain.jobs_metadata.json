@@ -1,11 +1,11 @@
 {
   "name": "plain.jobs",
-  "version": "0.36.2",
+  "version": "0.36.3",
   "summary": "Process background jobs with a database-driven job queue.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_jobs-0.36.2.tar.gz",
-  "download_time": "2025-10-20T16:48:34.983802",
+  "download_filename": "plain_jobs-0.36.3.tar.gz",
+  "download_time": "2025-10-21T03:31:45.134313",
   "package_url": "https://pypi.org/project/plain.jobs/"
 }

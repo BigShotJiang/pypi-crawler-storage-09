@@ -1,0 +1,11 @@
+{
+  "name": "fisica",
+  "version": "1.0.1",
+  "summary": "Care&Co Foot pressure analysis and visualization SDK",
+  "author": "Care&Co",
+  "license": "MIT",
+  "home_page": "https://github.com/Care-Co/",
+  "download_filename": "fisica-1.0.1.tar.gz",
+  "download_time": "2025-10-21T03:31:32.125517",
+  "package_url": "https://pypi.org/project/fisica/"
+}

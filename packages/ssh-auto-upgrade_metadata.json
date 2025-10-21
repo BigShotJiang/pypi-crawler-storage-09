@@ -1,11 +1,11 @@
 {
   "name": "ssh-auto-upgrade",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "自动检测和升级OpenSSH的工具",
   "author": "SSH Auto Upgrade Team",
   "license": "MIT",
   "home_page": "https://gitee.com/your-repo/ssh-auto-upgrade",
-  "download_filename": "ssh_auto_upgrade-1.0.1.tar.gz",
-  "download_time": "2025-10-21T02:46:23.651975",
+  "download_filename": "ssh_auto_upgrade-1.0.2.tar.gz",
+  "download_time": "2025-10-21T03:31:57.089396",
   "package_url": "https://pypi.org/project/ssh-auto-upgrade/"
 }

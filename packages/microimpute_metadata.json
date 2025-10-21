@@ -1,11 +1,11 @@
 {
   "name": "microimpute",
-  "version": "1.5.2",
+  "version": "1.6.1",
   "summary": "Benchmarking imputation methods for microdata",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "microimpute-1.5.2.tar.gz",
-  "download_time": "2025-10-19T10:15:21.524987",
+  "download_filename": "microimpute-1.6.1.tar.gz",
+  "download_time": "2025-10-21T03:31:38.319328",
   "package_url": "https://pypi.org/project/microimpute/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ExploTest",
+  "version": "0.9.0",
+  "summary": "Automatically generate arguments of Python functions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "explotest-0.9.0.tar.gz",
+  "download_time": "2025-10-21T03:31:38.856149",
+  "package_url": "https://pypi.org/project/ExploTest/"
+}

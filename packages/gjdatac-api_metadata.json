@@ -1,11 +1,11 @@
 {
   "name": "gjdatac-api",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "数据接口打包",
   "author": "fml",
   "license": null,
   "home_page": null,
-  "download_filename": "gjdatac_api-0.3.2.tar.gz",
-  "download_time": "2025-10-21T02:45:45.279249",
+  "download_filename": "gjdatac_api-0.3.3.tar.gz",
+  "download_time": "2025-10-21T03:31:50.277381",
   "package_url": "https://pypi.org/project/gjdatac-api/"
 }

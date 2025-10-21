@@ -1,11 +1,11 @@
 {
   "name": "copul",
-  "version": "0.3.7",
-  "summary": "Risk analysis with copulas.",
+  "version": "0.3.8",
+  "summary": "A Python package for copula analysis and computation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "copul-0.3.7.tar.gz",
-  "download_time": "2025-10-20T12:34:03.914970",
+  "download_filename": "copul-0.3.8.tar.gz",
+  "download_time": "2025-10-21T03:31:43.571697",
   "package_url": "https://pypi.org/project/copul/"
 }

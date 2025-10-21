@@ -1,11 +1,11 @@
 {
   "name": "seven-cloudapp-ppmt",
-  "version": "1.0.92",
+  "version": "1.0.93",
   "summary": "seven cloudapp ppmt",
   "author": "seven",
   "license": "MIT",
   "home_page": "http://gitlab.tdtech.gao7.com/TaoBaoCloud/seven_cloudapp_ppmt.git",
-  "download_filename": "seven_cloudapp_ppmt-1.0.92.tar.gz",
-  "download_time": "2025-10-21T02:46:03.584034",
+  "download_filename": "seven_cloudapp_ppmt-1.0.93.tar.gz",
+  "download_time": "2025-10-21T03:31:59.673217",
   "package_url": "https://pypi.org/project/seven-cloudapp-ppmt/"
 }

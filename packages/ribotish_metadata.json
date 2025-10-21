@@ -1,0 +1,11 @@
+{
+  "name": "ribotish",
+  "version": "0.2.8",
+  "summary": "Python Modules for Riboseq data analysis.",
+  "author": "Peng Zhang",
+  "license": "GNU General Public License (GPL)",
+  "home_page": "https://github.com/zhpn1024/ribotish",
+  "download_filename": "ribotish-0.2.8.tar.gz",
+  "download_time": "2025-10-21T03:31:31.105243",
+  "package_url": "https://pypi.org/project/ribotish/"
+}

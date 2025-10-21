@@ -1,11 +1,11 @@
 {
   "name": "proto-explorer",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "A tool to visualize .proto file hierarchies",
   "author": "Lei Yuan",
   "license": null,
   "home_page": null,
-  "download_filename": "proto_explorer-0.3.1.tar.gz",
-  "download_time": "2025-10-21T01:13:50.917592",
+  "download_filename": "proto_explorer-0.3.3.tar.gz",
+  "download_time": "2025-10-21T03:31:56.577936",
   "package_url": "https://pypi.org/project/proto-explorer/"
 }

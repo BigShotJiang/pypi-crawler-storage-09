@@ -1,11 +1,11 @@
 {
   "name": "python-lolhtml",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "summary": "Python bindings for the lol-html Rust crate",
   "author": null,
-  "license": "MIT + BSD-3-Clause (for bundled lol-html)",
+  "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "python_lolhtml-0.0.2.tar.gz",
-  "download_time": "2025-10-16T23:50:01.268584",
+  "download_filename": "python_lolhtml-0.1.0.tar.gz",
+  "download_time": "2025-10-21T03:32:06.510104",
   "package_url": "https://pypi.org/project/python-lolhtml/"
 }
