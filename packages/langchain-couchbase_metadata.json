@@ -1,0 +1,11 @@
+{
+  "name": "langchain-couchbase",
+  "version": "0.5.0",
+  "summary": "An integration package connecting Couchbase and LangChain",
+  "author": "Couchbase Developer Experience Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Couchbase-Ecosystem/langchain-couchbase/",
+  "download_filename": "langchain_couchbase-0.5.0.tar.gz",
+  "download_time": "2025-10-21T19:29:16.804979",
+  "package_url": "https://pypi.org/project/langchain-couchbase/"
+}

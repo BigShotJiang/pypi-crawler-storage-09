@@ -1,0 +1,11 @@
+{
+  "name": "agentbill",
+  "version": "1.0.0",
+  "summary": "OpenTelemetry-based SDK for tracking AI agent usage and billing",
+  "author": "AgentBill",
+  "license": null,
+  "home_page": "https://github.com/Agent-Bill/python",
+  "download_filename": "agentbill-1.0.0.tar.gz",
+  "download_time": "2025-10-21T19:29:56.706166",
+  "package_url": "https://pypi.org/project/agentbill/"
+}

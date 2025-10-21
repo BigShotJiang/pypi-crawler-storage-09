@@ -1,0 +1,11 @@
+{
+  "name": "pogpn",
+  "version": "0.0.3",
+  "summary": "Partially Observable Gaussian Process Network for multi-stage BO.",
+  "author": "Saksham Kiroriwal",
+  "license": "MIT",
+  "home_page": "https://github.com/Sam4896/pogpn-botorch",
+  "download_filename": "pogpn-0.0.3.tar.gz",
+  "download_time": "2025-10-21T19:29:31.307715",
+  "package_url": "https://pypi.org/project/pogpn/"
+}

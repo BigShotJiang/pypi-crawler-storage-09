@@ -1,11 +1,11 @@
 {
   "name": "piperf3",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "A Python wrapper for iperf3 with configuration management, plotting, and CLI interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "piperf3-0.0.10.tar.gz",
-  "download_time": "2025-10-21T18:23:36.244506",
+  "download_filename": "piperf3-0.0.11.tar.gz",
+  "download_time": "2025-10-21T19:29:11.637758",
   "package_url": "https://pypi.org/project/piperf3/"
 }

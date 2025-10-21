@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-eclib",
+  "version": "10.6.30",
+  "summary": "passagemath: Elliptic curves over the rationals with eclib/mwrank",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_eclib-10.6.30.tar.gz",
+  "download_time": "2025-10-21T19:29:40.631764",
+  "package_url": "https://pypi.org/project/passagemath-eclib/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "modusa",
-  "version": "0.4.21",
+  "version": "0.4.23",
   "summary": "A modular signal analysis python library.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "modusa-0.4.21.tar.gz",
-  "download_time": "2025-10-21T04:20:34.990501",
+  "download_filename": "modusa-0.4.23-py3-none-any.whl",
+  "download_time": "2025-10-21T19:29:23.027590",
   "package_url": "https://pypi.org/project/modusa/"
 }
