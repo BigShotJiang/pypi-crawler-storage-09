@@ -1,11 +1,11 @@
 {
   "name": "marine-qc",
-  "version": "0.1.1.dev1",
+  "version": "0.2.0",
   "summary": "Marine Quality Control package.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "marine_qc-0.1.1.dev1.tar.gz",
-  "download_time": "2025-10-21T07:40:16.195587",
+  "download_filename": "marine_qc-0.2.0.tar.gz",
+  "download_time": "2025-10-21T07:50:43.771284",
   "package_url": "https://pypi.org/project/marine-qc/"
 }

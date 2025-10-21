@@ -1,28 +1,78 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-21T07:40:32.155591
-- **Total Packages**: 86
-- **Total Size**: 13.74 MB
+- **Download Time**: 2025-10-21T07:51:31.955066
+- **Total Packages**: 91
+- **Total Size**: 18.43 MB
 
 ## Packages List
+- marine-qc
+- aa-taxsystem
+- wasdk-Microsoft.Windows.ApplicationModel.DynamicDependency.Bootstrap
+- wasdk-Microsoft.Windows.AI.MachineLearning
+- wbwriter
+- wbwiki
+- wbtasks
+- wbreport
+- wbportfolio
+- wbnews
+- pyobjc-core
+- wbmailing
+- wbintegrator_office365
+- wbhuman_resources
+- wbfdm
+- wbcrm
+- wbcore
+- wbcompliance
+- ibm-udi
+- wbaccounting
+- yaclog
+- viewtext
+- pyobjc
+- future_sales_inno_ds_project
+- taranis-base-bot
+- mcp-tip
+- usf-p1-chatbot-sdk
+- image-format-converter-mcp
+- junshan-kit
+- langchain-qaip
+- xutility
+- odoo-addon-product-abc-classification
+- amitysolutions.dolphin-mcp
+- udata-hydra
+- nanovdb-editor
+- cg
+- clang-tidier
+- ipyrf
+- invenio-collections
+- feldera
+- camel-ai
+- seto
+- machineconfig
+- centraldogma-python
+- sqnm
+- logguard
+- geodiff
+- ogbench
+- browser-automation-launcher
+- akeyless
+- circle-of-confusion
+- cartographer3d-plugin
+- bg4h
 - docpipe-ai
 - shallot
-- ipyrf
 - VaKeaRyl
 - mxcubeweb
 - rediacc
 - funcnodes-worker
 - vnpy_postgresql
 - dcmtags-lyx
-- bg4h
 - ffmpeg-normalize
 - unicat
 - alibabacloud-agentrun20250910
 - reachy2-sdk-api
 - llama-index-spanner
 - moodley
-- invenio-collections
 - clickzetta-semantic-model-generator
 - physbo-core-cython
 - pulumiverse-scaleway
@@ -35,7 +85,6 @@
 - pulumiverse-acme
 - claude-skills-mcp
 - datahub_binary
-- future_sales_inno_ds_project
 - pulumiverse-grafana
 - apipeline
 - codeocean
@@ -48,47 +97,3 @@
 - nanako
 - agi-cluster
 - Cb-FloodDy
-- agi-node
-- pulumi-xyz
-- gllm-inference-binary
-- nucliadb-admin-assets
-- invenio-rdm-records
-- latticeflow-go-sdk
-- simunet-netdriver
-- polar-sdk
-- QGISLibrary
-- amitysolutions.dolphin-mcp
-- sfeos-helpers
-- stac-fastapi-opensearch
-- odoo-addon-base-multicompany-reporting-currency
-- stac-fastapi-elasticsearch
-- hangman-terminal
-- hr-selection-function
-- why-tools
-- seven-cloudapp-frame
-- marine-qc
-- python-cdp-old
-- miniacd
-- stac-fastapi-core
-- facadedevice
-- brynq-sdk-workday
-- fusesell
-- semantikon
-- sortlab
-- spiraltorch
-- nexaai
-- tmodbus
-- qore-client
-- tritonparse
-- crawlee
-- django-moses
-- streamlit-nightly
-- omnigrad
-- grand-challenge-dicom-de-id-procedure
-- SigProfilerExtractor
-- mysingle-quant
-- jupyter-hurl-kernel
-- qtrade-lib
-- result-parser-agent
-- machineconfig
-- whitebox-plugin-flight-management
