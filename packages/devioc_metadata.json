@@ -1,0 +1,11 @@
+{
+  "name": "devioc",
+  "version": "2025.6.2",
+  "summary": "Simple Python Device IOC Support for EPICS",
+  "author": "Michel Fodje",
+  "license": "MIT",
+  "home_page": "https://github.com/michel4j/devioc",
+  "download_filename": "devioc-2025.6.2.tar.gz",
+  "download_time": "2025-10-21T21:16:36.236798",
+  "package_url": "https://pypi.org/project/devioc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "warp-tm-vis",
+  "version": "0.0.2",
+  "summary": "Visualize template matching results from WarpTools",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "warp_tm_vis-0.0.2.tar.gz",
+  "download_time": "2025-10-21T21:16:24.682230",
+  "package_url": "https://pypi.org/project/warp-tm-vis/"
+}

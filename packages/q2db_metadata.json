@@ -1,11 +1,11 @@
 {
   "name": "q2db",
-  "version": "0.1.53",
+  "version": "0.1.54",
   "summary": "python DB API wrapper (MySQL, PostgreSQL, SQLite)",
   "author": "Andrei Puchko",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "q2db-0.1.53.tar.gz",
-  "download_time": "2025-10-21T13:51:36.735192",
+  "download_filename": "q2db-0.1.54.tar.gz",
+  "download_time": "2025-10-21T21:17:01.562991",
   "package_url": "https://pypi.org/project/q2db/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "datasette-load",
+  "version": "0.1a4",
+  "summary": "API and UI for bulk loading data into Datasette from a URL",
+  "author": "Datasette",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datasette_load-0.1a4.tar.gz",
+  "download_time": "2025-10-21T21:16:47.876863",
+  "package_url": "https://pypi.org/project/datasette-load/"
+}

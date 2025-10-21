@@ -1,0 +1,11 @@
+{
+  "name": "tencentcloud-sdk-python-cfg",
+  "version": "3.0.1479",
+  "summary": "Tencent Cloud Cfg SDK for Python",
+  "author": "Tencent Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
+  "download_filename": "tencentcloud-sdk-python-cfg-3.0.1479.tar.gz",
+  "download_time": "2025-10-21T21:17:05.382523",
+  "package_url": "https://pypi.org/project/tencentcloud-sdk-python-cfg/"
+}

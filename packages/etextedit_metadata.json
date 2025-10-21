@@ -1,11 +1,11 @@
 {
   "name": "etextedit",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "eTextEdit, a lightweight text editor built on prompt-toolkit",
   "author": "Eliran Wong",
   "license": "GNU General Public License (GPL)",
   "home_page": "https://letmedoit.ai",
-  "download_filename": "etextedit-1.0.5.tar.gz",
-  "download_time": "2025-10-17T15:34:24.427614",
+  "download_filename": "etextedit-1.0.6.tar.gz",
+  "download_time": "2025-10-21T21:16:46.286019",
   "package_url": "https://pypi.org/project/etextedit/"
 }
