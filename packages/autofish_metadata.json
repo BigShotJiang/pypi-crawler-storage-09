@@ -1,0 +1,11 @@
+{
+  "name": "autofish",
+  "version": "0.0.8",
+  "summary": "Control of automated fluidics system",
+  "author": "Florian Mueller",
+  "license": null,
+  "home_page": "https://github.com/fish-quant/autofish",
+  "download_filename": "autofish-0.0.8.tar.gz",
+  "download_time": "2025-10-21T11:29:06.674537",
+  "package_url": "https://pypi.org/project/autofish/"
+}

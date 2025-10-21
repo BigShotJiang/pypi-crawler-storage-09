@@ -1,11 +1,11 @@
 {
   "name": "extended-fastapi-redis-cache",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "Fork of fastapi-redis-cache which adds support for Pydantic models, fixes bugs and adds new features such as manually expire and option to not set cache headers.",
   "author": "Petar Varga",
   "license": "MIT",
   "home_page": "https://github.com/petar-varga/Extended-FastAPI-Redis-Cache",
-  "download_filename": "extended_fastapi_redis_cache-0.1.13.tar.gz",
-  "download_time": "2025-10-21T10:44:44.207323",
+  "download_filename": "extended_fastapi_redis_cache-0.1.14.tar.gz",
+  "download_time": "2025-10-21T11:29:35.526453",
   "package_url": "https://pypi.org/project/extended-fastapi-redis-cache/"
 }

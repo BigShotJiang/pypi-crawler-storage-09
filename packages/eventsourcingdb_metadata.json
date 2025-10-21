@@ -1,0 +1,11 @@
+{
+  "name": "eventsourcingdb",
+  "version": "1.8.0",
+  "summary": "The official Python client SDK for EventSourcingDB.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eventsourcingdb-1.8.0.tar.gz",
+  "download_time": "2025-10-21T11:29:32.894648",
+  "package_url": "https://pypi.org/project/eventsourcingdb/"
+}

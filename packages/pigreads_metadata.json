@@ -1,0 +1,11 @@
+{
+  "name": "pigreads",
+  "version": "0.4.8",
+  "summary": "Python-integrated GPU-enabled reaction-diffusion solver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pigreads-0.4.8-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-21T11:29:09.811004",
+  "package_url": "https://pypi.org/project/pigreads/"
+}

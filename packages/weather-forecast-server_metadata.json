@@ -1,0 +1,11 @@
+{
+  "name": "weather-forecast-server",
+  "version": "0.0.6",
+  "summary": "weather-forecast-server: MCP server for weather forecast",
+  "author": "XuMing",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/shibing624/weather-forecast-server",
+  "download_filename": "weather_forecast_server-0.0.6.tar.gz",
+  "download_time": "2025-10-21T11:29:17.677647",
+  "package_url": "https://pypi.org/project/weather-forecast-server/"
+}

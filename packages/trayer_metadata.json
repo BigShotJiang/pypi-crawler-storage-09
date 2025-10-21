@@ -1,0 +1,11 @@
+{
+  "name": "trayer",
+  "version": "0.1.0",
+  "summary": "System tray icons for GTK4 applications - betray GNOME 3's philosophy with style!",
+  "author": "enne2",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trayer-0.1.0.tar.gz",
+  "download_time": "2025-10-21T11:29:15.603081",
+  "package_url": "https://pypi.org/project/trayer/"
+}

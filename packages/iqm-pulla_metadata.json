@@ -1,0 +1,11 @@
+{
+  "name": "iqm-pulla",
+  "version": "11.14.1",
+  "summary": "Client library for pulse-level access to an IQM quantum computer",
+  "author": null,
+  "license": "Apache License\n                                   Version 2.0, January 2004\n                                http://www.apache.org/licenses/",
+  "home_page": null,
+  "download_filename": "iqm_pulla-11.14.1-py3-none-any.whl",
+  "download_time": "2025-10-21T11:29:31.335027",
+  "package_url": "https://pypi.org/project/iqm-pulla/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "runestone-petljadoc",
+  "version": "3.1.2.8",
+  "summary": "Sphinx extensions for writing interactive documents.",
+  "author": "Brad Miller",
+  "license": "GPL",
+  "home_page": "https://github.com/RunestoneInteractive/RunestoneComponents",
+  "download_filename": "runestone_petljadoc-3.1.2.8.tar.gz",
+  "download_time": "2025-10-21T11:29:40.274743",
+  "package_url": "https://pypi.org/project/runestone-petljadoc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "py4vasp",
+  "version": "0.10.4",
+  "summary": "Tool for assisting with the analysis and setup of VASP calculations.",
+  "author": "VASP Software GmbH",
+  "license": "Apache-2.0",
+  "home_page": "https://vasp.at/py4vasp/latest",
+  "download_filename": "py4vasp-0.10.4.tar.gz",
+  "download_time": "2025-10-21T11:29:54.866268",
+  "package_url": "https://pypi.org/project/py4vasp/"
+}
