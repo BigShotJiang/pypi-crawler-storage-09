@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-lcalc",
+  "version": "10.6.30",
+  "summary": "passagemath: L-function calculations with lcalc",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_lcalc-10.6.30.tar.gz",
+  "download_time": "2025-10-21T19:41:19.309274",
+  "package_url": "https://pypi.org/project/passagemath-lcalc/"
+}

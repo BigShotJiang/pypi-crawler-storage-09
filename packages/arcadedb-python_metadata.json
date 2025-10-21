@@ -1,0 +1,11 @@
+{
+  "name": "arcadedb-python",
+  "version": "0.3.1",
+  "summary": "Python driver for ArcadeDB - Multi-Model Database with Graph, Document, Key-Value, Vector, and Time-Series support",
+  "author": "Adams Rosales, ExtReMLapin, Steve Reiner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcadedb_python-0.3.1.tar.gz",
+  "download_time": "2025-10-21T19:41:10.602680",
+  "package_url": "https://pypi.org/project/arcadedb-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-tdlib",
+  "version": "10.6.30",
+  "summary": "passagemath: Tree decompositions with tdlib",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_tdlib-10.6.30.tar.gz",
+  "download_time": "2025-10-21T19:40:45.111137",
+  "package_url": "https://pypi.org/project/passagemath-tdlib/"
+}
