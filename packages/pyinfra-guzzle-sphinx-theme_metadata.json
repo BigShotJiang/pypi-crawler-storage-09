@@ -1,0 +1,11 @@
+{
+  "name": "pyinfra-guzzle-sphinx-theme",
+  "version": "0.19",
+  "summary": "Sphinx theme used by Guzzle, with customisations for pyinfra.",
+  "author": "Michael Dowling (modified by Nick Barrett)",
+  "license": "MIT",
+  "home_page": "https://github.com/Fizzadar/guzzle_sphinx_theme",
+  "download_filename": "pyinfra_guzzle_sphinx_theme-0.19.tar.gz",
+  "download_time": "2025-10-21T18:50:56.666222",
+  "package_url": "https://pypi.org/project/pyinfra-guzzle-sphinx-theme/"
+}

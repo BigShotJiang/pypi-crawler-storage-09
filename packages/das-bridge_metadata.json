@@ -1,11 +1,11 @@
 {
   "name": "das-bridge",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Python client for DAS Trader Pro CMD API",
   "author": "DAS Bridge Contributors",
   "license": "MIT",
   "home_page": "https://github.com/jefrnc/das-bridge",
-  "download_filename": "das_bridge-1.0.0.tar.gz",
-  "download_time": "2025-10-20T22:34:00.279303",
+  "download_filename": "das_bridge-1.2.0.tar.gz",
+  "download_time": "2025-10-21T18:51:09.334968",
   "package_url": "https://pypi.org/project/das-bridge/"
 }

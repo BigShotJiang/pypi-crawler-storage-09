@@ -5,7 +5,7 @@
   "author": null,
   "license": "LICENSE.BSD3",
   "home_page": null,
-  "download_filename": "ddtrace-3.16.1-cp310-cp310-macosx_12_0_arm64.whl",
-  "download_time": "2025-10-20T11:39:51.198585",
+  "download_filename": "ddtrace-3.16.1.tar.gz",
+  "download_time": "2025-10-21T18:50:53.522985",
   "package_url": "https://pypi.org/project/ddtrace/"
 }

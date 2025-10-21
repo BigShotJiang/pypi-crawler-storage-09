@@ -1,0 +1,11 @@
+{
+  "name": "Chaf",
+  "version": "2.0.0",
+  "summary": "Chaf is a Python library designed to automatically detect and decode encrypted text using the Chaf web interface. You simply provide an encoded string, and the library processes it to identify the encryption type and return the decoded result in structured JSON format.",
+  "author": "deep",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chaf-2.0.0.tar.gz",
+  "download_time": "2025-10-21T18:50:54.076090",
+  "package_url": "https://pypi.org/project/Chaf/"
+}
