@@ -1,8 +1,10 @@
 {
-  "download_time": "2025-10-21T17:17:34.581590",
-  "total_packages_downloaded": 91,
-  "total_size_mb": 32.7,
+  "download_time": "2025-10-21T17:51:49.190094",
+  "total_packages_downloaded": 90,
+  "total_size_mb": 5.49,
   "packages": [
+    "tsp",
+    "paasta-tools",
     "bluepyll",
     "VKPyKit",
     "localcartesian",
@@ -90,9 +92,6 @@
     "omam-authkit",
     "gammarers.aws-codeconnections-host-custom-resource",
     "algosystem",
-    "ASCII-Menus",
-    "ms-fabric-cli",
-    "OpenGeode-IO",
-    "chembl-miner"
+    "ASCII-Menus"
   ]
 }
