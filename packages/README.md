@@ -1,24 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-21T05:17:31.581882
-- **Total Packages**: 82
-- **Total Size**: 15.16 MB
+- **Download Time**: 2025-10-21T05:36:30.272474
+- **Total Packages**: 83
+- **Total Size**: 1.39 MB
 
 ## Packages List
-- serpex
-- pulumiverse-gandi
-- commit-bot
-- hanzo-live
-- jknife
-- judge-llm
-- dptoie
-- bbeval
-- mkdocs-minify-html-plugin
-- cat-llm
-- pro-craft
-- pypomes-http
-- EqUMP
 - clickzetta-semantic-model-generator
 - moleditpy-linux
 - moleditpy
@@ -26,6 +13,7 @@
 - gandol2-ocr
 - nemo-library-etl
 - gh-actions-tool-kit
+- judge-llm
 - odoo-plugin-manager
 - reflexive
 - connectonion
@@ -33,6 +21,7 @@
 - mysingle-quant
 - mcp-agent
 - fusesell
+- jknife
 - pyauxlib
 - mcp-agentcore-proxy
 - cc-balancer
@@ -88,3 +77,15 @@
 - model-mp-core
 - model-mp-io
 - semverish
+- por-que
+- django-filtering
+- keras-nlp-nightly
+- keras-hub-nightly
+- apache-tvm-ffi
+- qctrl-fire-opal-riken-commons
+- qctrl-fire-opal-riken-client
+- ttkbootstrap
+- DLMS-SPODES
+- pypomes-http
+- servicenow-api
+- codeviewx
