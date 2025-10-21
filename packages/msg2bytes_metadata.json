@@ -1,0 +1,11 @@
+{
+  "name": "msg2bytes",
+  "version": "0.1.6",
+  "summary": "MessageToBytes(msg2bytes) is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "msg2bytes-0.1.6.tar.gz",
+  "download_time": "2025-10-21T13:51:08.787982",
+  "package_url": "https://pypi.org/project/msg2bytes/"
+}

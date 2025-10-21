@@ -1,0 +1,11 @@
+{
+  "name": "tdp-touchutilcollection",
+  "version": "0.4.0",
+  "summary": "A collection of practical utilities for TouchDesigner.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tdp_touchutilcollection-0.4.0.tar.gz",
+  "download_time": "2025-10-21T13:51:30.383922",
+  "package_url": "https://pypi.org/project/tdp-touchutilcollection/"
+}

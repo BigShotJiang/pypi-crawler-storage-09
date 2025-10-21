@@ -1,0 +1,11 @@
+{
+  "name": "django-static-swagger-ui",
+  "version": "5.17.14.1",
+  "summary": "Django application contain swagger-ui static files",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_static_swagger_ui-5.17.14.1.tar.gz",
+  "download_time": "2025-10-21T13:51:33.550705",
+  "package_url": "https://pypi.org/project/django-static-swagger-ui/"
+}

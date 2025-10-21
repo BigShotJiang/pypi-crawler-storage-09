@@ -1,11 +1,11 @@
 {
   "name": "todolist-angrypig555",
-  "version": "0.2.10",
+  "version": "1.0.1",
   "summary": "A todolist made with the textual library with the ability to open and save your todo-list",
   "author": "angrypig555",
   "license": null,
   "home_page": null,
-  "download_filename": "todolist_angrypig555-0.2.10.tar.gz",
-  "download_time": "2025-10-20T17:15:34.936542",
+  "download_filename": "todolist_angrypig555-1.0.1.tar.gz",
+  "download_time": "2025-10-21T13:51:24.632327",
   "package_url": "https://pypi.org/project/todolist-angrypig555/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "linearmodels",
+  "version": "7.0",
+  "summary": "Linear Panel, Instrumental Variable, Asset Pricing, and System Regression models for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linearmodels-7.0.tar.gz",
+  "download_time": "2025-10-21T13:51:39.976440",
+  "package_url": "https://pypi.org/project/linearmodels/"
+}

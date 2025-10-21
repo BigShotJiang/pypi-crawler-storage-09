@@ -1,0 +1,11 @@
+{
+  "name": "pylife",
+  "version": "2.1.4",
+  "summary": "General Fatigue library",
+  "author": "pyLife developer team @ Bosch Research",
+  "license": "Apache-2",
+  "home_page": "https://github.com/boschresearch/pylife/",
+  "download_filename": "pylife-2.1.4.tar.gz",
+  "download_time": "2025-10-21T13:51:39.438984",
+  "package_url": "https://pypi.org/project/pylife/"
+}

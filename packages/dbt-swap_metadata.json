@@ -1,11 +1,11 @@
 {
   "name": "dbt-swap",
-  "version": "1.1",
+  "version": "1.2",
   "summary": "A cli tool that adds a number of custom dbt commands.",
   "author": "Tobias Cadee",
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_swap-1.1.tar.gz",
-  "download_time": "2025-10-16T19:12:41.925107",
+  "download_filename": "dbt_swap-1.2.tar.gz",
+  "download_time": "2025-10-21T13:51:06.117383",
   "package_url": "https://pypi.org/project/dbt-swap/"
 }
