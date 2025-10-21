@@ -1,0 +1,11 @@
+{
+  "name": "datasette-debug-actors-from-ids",
+  "version": "0.1a2",
+  "summary": "Datasette plugin for trying out the actors_from_ids hook",
+  "author": "Simon Willison",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datasette_debug_actors_from_ids-0.1a2.tar.gz",
+  "download_time": "2025-10-21T22:17:09.239618",
+  "package_url": "https://pypi.org/project/datasette-debug-actors-from-ids/"
+}

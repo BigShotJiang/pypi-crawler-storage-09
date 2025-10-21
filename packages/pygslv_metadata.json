@@ -1,11 +1,11 @@
 {
   "name": "pygslv",
-  "version": "0.4.13",
+  "version": "0.4.14",
   "summary": "gslv",
   "author": "eRoots",
   "license": null,
   "home_page": "https://www.eRoots.tech",
-  "download_filename": "pygslv-0.4.13-cp310-cp310-manylinux_2_28_x86_64.whl",
-  "download_time": "2025-10-21T13:24:24.526493",
+  "download_filename": "pygslv-0.4.14-cp310-cp310-manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-21T22:17:08.155695",
   "package_url": "https://pypi.org/project/pygslv/"
 }

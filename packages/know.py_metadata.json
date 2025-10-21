@@ -1,11 +1,11 @@
 {
   "name": "know.py",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "The KNOW Framework for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "know_py-0.0.18.tar.gz",
-  "download_time": "2025-10-20T05:41:32.176883",
+  "download_filename": "know_py-0.0.19.tar.gz",
+  "download_time": "2025-10-21T22:16:53.060134",
   "package_url": "https://pypi.org/project/know.py/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "producteca",
-  "version": "2.0.40",
+  "version": "2.0.41",
   "summary": null,
   "author": "Chroma Agency, Matias Rivera",
   "license": null,
   "home_page": null,
-  "download_filename": "producteca-2.0.40.tar.gz",
-  "download_time": "2025-10-21T21:41:15.935592",
+  "download_filename": "producteca-2.0.41.tar.gz",
+  "download_time": "2025-10-21T22:16:41.163271",
   "package_url": "https://pypi.org/project/producteca/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-chelseru",
+  "version": "2.0.3",
+  "summary": "Authentication system, online and real-time chat, SMS & BANK system for Iranian SMS services.",
+  "author": "Sobhan Bahman Rashnu",
+  "license": null,
+  "home_page": "https://pipdjango.chelseru.com",
+  "download_filename": "django_chelseru-2.0.3.tar.gz",
+  "download_time": "2025-10-21T22:16:50.095286",
+  "package_url": "https://pypi.org/project/django-chelseru/"
+}

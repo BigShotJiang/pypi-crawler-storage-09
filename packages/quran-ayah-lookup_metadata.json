@@ -1,11 +1,11 @@
 {
   "name": "quran-ayah-lookup",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python package for looking up Quranic ayahs by their number or Arabic text. Uses Quran corpus from Tanzil.net. Arabic only, no translations supported.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "quran_ayah_lookup-0.1.1.tar.gz",
-  "download_time": "2025-10-17T14:51:29.659186",
+  "download_filename": "quran_ayah_lookup-0.1.2.tar.gz",
+  "download_time": "2025-10-21T22:16:51.899862",
   "package_url": "https://pypi.org/project/quran-ayah-lookup/"
 }
