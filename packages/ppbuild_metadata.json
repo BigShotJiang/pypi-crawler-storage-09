@@ -1,0 +1,11 @@
+{
+  "name": "ppbuild",
+  "version": "2.0.0",
+  "summary": "A declarative, language-agnostic build system and utility manager",
+  "author": "Josh Caponigro",
+  "license": null,
+  "home_page": "https://github.com/JoshCap20/pp",
+  "download_filename": "ppbuild-2.0.0.tar.gz",
+  "download_time": "2025-10-21T06:50:23.568116",
+  "package_url": "https://pypi.org/project/ppbuild/"
+}

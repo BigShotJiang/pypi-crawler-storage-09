@@ -1,0 +1,11 @@
+{
+  "name": "videosdk-agents",
+  "version": "0.0.39",
+  "summary": "Video SDK Agents",
+  "author": "videosdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "videosdk_agents-0.0.39.tar.gz",
+  "download_time": "2025-10-21T06:51:07.219792",
+  "package_url": "https://pypi.org/project/videosdk-agents/"
+}

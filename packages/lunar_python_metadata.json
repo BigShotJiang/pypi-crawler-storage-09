@@ -1,0 +1,11 @@
+{
+  "name": "lunar_python",
+  "version": "1.4.7",
+  "summary": "lunar is a calendar library for Solar and Chinese Lunar.",
+  "author": "6tail",
+  "license": "MIT",
+  "home_page": "https://github.com/6tail/lunar-python",
+  "download_filename": "lunar_python-1.4.7.tar.gz",
+  "download_time": "2025-10-21T06:50:34.755428",
+  "package_url": "https://pypi.org/project/lunar_python/"
+}

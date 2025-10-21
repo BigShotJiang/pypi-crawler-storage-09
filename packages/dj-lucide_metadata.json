@@ -1,0 +1,11 @@
+{
+  "name": "dj-lucide",
+  "version": "1.1.11",
+  "summary": "Use lucide in your Django and Jinja templates.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dj_lucide-1.1.11.tar.gz",
+  "download_time": "2025-10-21T06:50:27.683492",
+  "package_url": "https://pypi.org/project/dj-lucide/"
+}

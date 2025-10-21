@@ -1,0 +1,11 @@
+{
+  "name": "pylsp-bec",
+  "version": "1.1.0",
+  "summary": "A Python Language Server plugin for BEC, the Beamline and Experiment Control system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylsp_bec-1.1.0.tar.gz",
+  "download_time": "2025-10-21T06:50:34.118576",
+  "package_url": "https://pypi.org/project/pylsp-bec/"
+}

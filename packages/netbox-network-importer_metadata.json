@@ -1,0 +1,11 @@
+{
+  "name": "netbox-network-importer",
+  "version": "1.1.7",
+  "summary": "Poll data from devices and store them into Netbox",
+  "author": "Jan Krupa",
+  "license": null,
+  "home_page": "https://gitlab.cesnet.cz/701/done/netbox_network_importer",
+  "download_filename": "netbox_network_importer-1.1.7.tar.gz",
+  "download_time": "2025-10-21T06:50:43.387136",
+  "package_url": "https://pypi.org/project/netbox-network-importer/"
+}

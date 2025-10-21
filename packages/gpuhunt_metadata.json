@@ -1,0 +1,11 @@
+{
+  "name": "gpuhunt",
+  "version": "0.1.11",
+  "summary": "A catalog of GPU pricing for different cloud providers",
+  "author": "dstack GmbH",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpuhunt-0.1.11.tar.gz",
+  "download_time": "2025-10-21T06:50:28.326987",
+  "package_url": "https://pypi.org/project/gpuhunt/"
+}
