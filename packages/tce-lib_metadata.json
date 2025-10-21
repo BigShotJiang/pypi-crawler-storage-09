@@ -1,11 +1,11 @@
 {
   "name": "tce-lib",
-  "version": "0.8.2",
+  "version": "0.8.4",
   "summary": "tensor cluster expansion library for solid solution modeling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tce_lib-0.8.2.tar.gz",
-  "download_time": "2025-10-20T04:44:50.958509",
+  "download_filename": "tce_lib-0.8.4.tar.gz",
+  "download_time": "2025-10-21T22:52:27.762036",
   "package_url": "https://pypi.org/project/tce-lib/"
 }

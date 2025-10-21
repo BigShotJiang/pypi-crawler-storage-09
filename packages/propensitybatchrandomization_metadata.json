@@ -1,0 +1,11 @@
+{
+  "name": "propensitybatchrandomization",
+  "version": "0.1.0",
+  "summary": "A tool for randomizing biological samples across batches while maintaining covariate balance through propensity score–based evaluation.",
+  "author": "Mathew Wingerson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "propensitybatchrandomization-0.1.0.tar.gz",
+  "download_time": "2025-10-21T22:51:58.064135",
+  "package_url": "https://pypi.org/project/propensitybatchrandomization/"
+}

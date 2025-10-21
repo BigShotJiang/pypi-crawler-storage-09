@@ -1,11 +1,11 @@
 {
   "name": "bare-script",
-  "version": "3.7.3",
+  "version": "3.7.4",
   "summary": "bare-script",
   "author": "Craig A. Hobbs",
   "license": "MIT",
   "home_page": "https://github.com/craigahobbs/bare-script",
-  "download_filename": "bare_script-3.7.3.tar.gz",
-  "download_time": "2025-10-21T22:16:49.522728",
+  "download_filename": "bare_script-3.7.4.tar.gz",
+  "download_time": "2025-10-21T22:51:56.312702",
   "package_url": "https://pypi.org/project/bare-script/"
 }

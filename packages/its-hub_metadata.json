@@ -1,11 +1,11 @@
 {
   "name": "its-hub",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A Python library for inference-time scaling LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "its_hub-0.3.1.tar.gz",
-  "download_time": "2025-10-17T18:55:26.341494",
+  "download_filename": "its_hub-0.3.2.tar.gz",
+  "download_time": "2025-10-21T22:52:10.935861",
   "package_url": "https://pypi.org/project/its-hub/"
 }

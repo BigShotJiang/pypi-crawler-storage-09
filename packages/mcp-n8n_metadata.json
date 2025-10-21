@@ -1,11 +1,11 @@
 {
   "name": "mcp-n8n",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "MCP Gateway & Aggregator - Routes artifact creation to Chora Composer and integrates multiple MCP servers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_n8n-0.5.0.tar.gz",
-  "download_time": "2025-10-21T09:52:20.345309",
+  "download_filename": "mcp_n8n-0.6.0.tar.gz",
+  "download_time": "2025-10-21T22:52:14.129783",
   "package_url": "https://pypi.org/project/mcp-n8n/"
 }
