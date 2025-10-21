@@ -1,0 +1,11 @@
+{
+  "name": "sf-music-calendar",
+  "version": "0.1.16",
+  "summary": "Multi-venue music event scraper for San Francisco",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sf_music_calendar-0.1.16.tar.gz",
+  "download_time": "2025-10-21T01:13:19.583844",
+  "package_url": "https://pypi.org/project/sf-music-calendar/"
+}

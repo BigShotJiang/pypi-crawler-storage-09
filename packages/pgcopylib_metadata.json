@@ -1,0 +1,11 @@
+{
+  "name": "pgcopylib",
+  "version": "0.2.2.0",
+  "summary": "PGCopy bynary dump parser.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgcopylib-0.2.2.0-cp310-cp310-macosx_10_14_x86_64.whl",
+  "download_time": "2025-10-21T01:13:41.099927",
+  "package_url": "https://pypi.org/project/pgcopylib/"
+}

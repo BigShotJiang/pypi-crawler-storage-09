@@ -1,11 +1,11 @@
 {
   "name": "flexikit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A collection of utility classes for Python projects.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flexikit-0.1.0.tar.gz",
-  "download_time": "2025-10-20T23:51:15.200367",
+  "download_filename": "flexikit-0.1.1.tar.gz",
+  "download_time": "2025-10-21T01:14:10.175545",
   "package_url": "https://pypi.org/project/flexikit/"
 }

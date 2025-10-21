@@ -1,11 +1,11 @@
 {
   "name": "physics-plot",
-  "version": "0.2.1",
-  "summary": "matplotlib styles and utils",
+  "version": "0.2.3",
+  "summary": "Publication-quality Matplotlib styling and helper utilities for scientific plots",
   "author": "Cory Chu",
   "license": null,
   "home_page": null,
-  "download_filename": "physics_plot-0.2.1.tar.gz",
-  "download_time": "2025-10-20T04:44:44.722467",
+  "download_filename": "physics_plot-0.2.3.tar.gz",
+  "download_time": "2025-10-21T01:14:10.938076",
   "package_url": "https://pypi.org/project/physics-plot/"
 }

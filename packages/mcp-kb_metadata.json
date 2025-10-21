@@ -1,11 +1,11 @@
 {
   "name": "mcp-kb",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "MCP server exposing a local markdown knowledge base",
   "author": "LLM Maintainer",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_kb-0.4.0.tar.gz",
-  "download_time": "2025-10-20T22:50:35.703538",
+  "download_filename": "mcp_kb-0.4.1.tar.gz",
+  "download_time": "2025-10-21T01:13:50.275467",
   "package_url": "https://pypi.org/project/mcp-kb/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "simple_duck_ml",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "🦆 A minimal Ml library for Python",
   "author": "Phe Pato",
   "license": null,
   "home_page": "https://pypi.org/project/simple_duck_ml",
-  "download_filename": "simple_duck_ml-0.1.4.tar.gz",
-  "download_time": "2025-10-20T23:30:38.171221",
+  "download_filename": "simple_duck_ml-0.1.7.tar.gz",
+  "download_time": "2025-10-21T01:13:42.958107",
   "package_url": "https://pypi.org/project/simple_duck_ml/"
 }

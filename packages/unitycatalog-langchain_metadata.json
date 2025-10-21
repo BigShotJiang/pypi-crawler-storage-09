@@ -1,0 +1,11 @@
+{
+  "name": "unitycatalog-langchain",
+  "version": "0.3.0",
+  "summary": "Support for Unity Catalog functions as LangChain tools",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "unitycatalog_langchain-0.3.0.tar.gz",
+  "download_time": "2025-10-21T01:13:21.708398",
+  "package_url": "https://pypi.org/project/unitycatalog-langchain/"
+}

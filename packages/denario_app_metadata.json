@@ -1,0 +1,11 @@
+{
+  "name": "denario_app",
+  "version": "0.1.13",
+  "summary": "GUI for the multiagent research assistant Denario",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "denario_app-0.1.13.tar.gz",
+  "download_time": "2025-10-21T01:14:11.576884",
+  "package_url": "https://pypi.org/project/denario_app/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netutils",
+  "version": "1.15.1",
+  "summary": "Common helper functions useful in network automation.",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netutils-1.15.1.tar.gz",
+  "download_time": "2025-10-21T01:13:18.942744",
+  "package_url": "https://pypi.org/project/netutils/"
+}

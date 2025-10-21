@@ -1,0 +1,11 @@
+{
+  "name": "pdf-to-md-llm",
+  "version": "2.7.1",
+  "summary": "Library and CLI to convert PDF documents to clean, well-structured Markdown using LLM-assisted processing, leveraging Antrhopic and OpenAI models for intelligent extraction of text, tables, and complex layouts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdf_to_md_llm-2.7.1-py3-none-any.whl",
+  "download_time": "2025-10-21T01:13:48.358158",
+  "package_url": "https://pypi.org/project/pdf-to-md-llm/"
+}

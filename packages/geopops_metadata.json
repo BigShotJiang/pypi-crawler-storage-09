@@ -1,11 +1,11 @@
 {
   "name": "geopops",
-  "version": "0.1.1",
+  "version": "0.1.1.post1",
   "summary": "GeoPops",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geopops-0.1.1.tar.gz",
-  "download_time": "2025-10-20T20:21:06.281318",
+  "download_filename": "geopops-0.1.1.post1.tar.gz",
+  "download_time": "2025-10-21T01:13:26.312464",
   "package_url": "https://pypi.org/project/geopops/"
 }

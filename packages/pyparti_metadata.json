@@ -1,0 +1,11 @@
+{
+  "name": "pyparti",
+  "version": "0.0.1a0",
+  "summary": "Pareto Task Inference Analysis (ParTI) in Python",
+  "author": "ggit12",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyparti-0.0.1a0.tar.gz",
+  "download_time": "2025-10-21T01:13:29.559538",
+  "package_url": "https://pypi.org/project/pyparti/"
+}
