@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-10-21T22:17:29.901219",
-  "total_packages_downloaded": 80,
-  "total_size_mb": 15.11,
+  "download_time": "2025-10-21T22:34:39.706376",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 2.6,
   "packages": [
+    "bier",
+    "spyder-okvim",
+    "framekit",
+    "phonic",
+    "deltafi",
+    "eval-protocol",
     "producteca",
     "meshtui",
     "mnns",
@@ -54,7 +60,6 @@
     "python-katlas",
     "hedron",
     "azure-mgmt-dashboard",
-    "framekit",
     "tinyshift",
     "scc-firewall-manager-sdk",
     "vn-numberwords",
@@ -67,7 +72,6 @@
     "tts-webui-extension.openai-tts-api",
     "empowered",
     "reward-hub",
-    "eval-protocol",
     "NEMO-publications",
     "omnigen-usf",
     "authflow",
@@ -79,9 +83,6 @@
     "tstrends",
     "energy-toolkit",
     "dayhoff-tools",
-    "model-runner-client",
-    "music-assistant-frontend",
-    "abstractvoice",
-    "epiccli-lite"
+    "model-runner-client"
   ]
 }
