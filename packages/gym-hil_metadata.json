@@ -1,0 +1,11 @@
+{
+  "name": "gym-hil",
+  "version": "0.1.13",
+  "summary": "A gymnasium environment for Human-in-the-Loop Reinforcement Learning",
+  "author": "Khalil Meftah",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gym_hil-0.1.13.tar.gz",
+  "download_time": "2025-10-21T10:19:02.413634",
+  "package_url": "https://pypi.org/project/gym-hil/"
+}

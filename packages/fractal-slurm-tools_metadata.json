@@ -1,0 +1,11 @@
+{
+  "name": "fractal-slurm-tools",
+  "version": "0.1.1",
+  "summary": "Shared tools for parsing&processing SLURM data",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "fractal_slurm_tools-0.1.1.tar.gz",
+  "download_time": "2025-10-21T10:18:48.048230",
+  "package_url": "https://pypi.org/project/fractal-slurm-tools/"
+}

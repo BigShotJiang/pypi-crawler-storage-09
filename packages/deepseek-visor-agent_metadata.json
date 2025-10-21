@@ -1,11 +1,11 @@
 {
   "name": "deepseek-visor-agent",
-  "version": "0.1.0",
-  "summary": "Standard vision tool for AI agents - Convert documents to structured data",
+  "version": "0.2.0",
+  "summary": "Production-ready wrapper for DeepSeek-OCR - Convert documents to structured data for AI agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "deepseek_visor_agent-0.1.0.tar.gz",
-  "download_time": "2025-10-21T05:51:25.432760",
+  "download_filename": "deepseek_visor_agent-0.2.0.tar.gz",
+  "download_time": "2025-10-21T10:18:53.697859",
   "package_url": "https://pypi.org/project/deepseek-visor-agent/"
 }

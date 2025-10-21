@@ -1,0 +1,11 @@
+{
+  "name": "regobslib",
+  "version": "1.0.11",
+  "summary": "Client library for Regobs",
+  "author": "Aron Widforss",
+  "license": null,
+  "home_page": "https://github.com/NVE/regobslib",
+  "download_filename": "regobslib-1.0.11.tar.gz",
+  "download_time": "2025-10-21T10:18:27.860345",
+  "package_url": "https://pypi.org/project/regobslib/"
+}

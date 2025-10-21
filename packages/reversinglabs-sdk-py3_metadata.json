@@ -1,11 +1,11 @@
 {
   "name": "reversinglabs-sdk-py3",
-  "version": "2.11.3",
+  "version": "2.11.4",
   "summary": "Python SDK for using ReversingLabs services.",
   "author": "ReversingLabs",
   "license": "MIT",
   "home_page": "https://github.com/reversinglabs/reversinglabs-sdk-py3",
-  "download_filename": "reversinglabs_sdk_py3-2.11.3.tar.gz",
-  "download_time": "2025-10-21T01:13:34.762078",
+  "download_filename": "reversinglabs_sdk_py3-2.11.4.tar.gz",
+  "download_time": "2025-10-21T10:18:47.535404",
   "package_url": "https://pypi.org/project/reversinglabs-sdk-py3/"
 }

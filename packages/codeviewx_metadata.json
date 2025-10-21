@@ -1,11 +1,11 @@
 {
   "name": "codeviewx",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "AI-powered code documentation generator based on DeepAgents and LangChain",
   "author": "CodeViewX Team",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "codeviewx-0.2.3.tar.gz",
-  "download_time": "2025-10-21T09:19:18.919962",
+  "download_filename": "codeviewx-0.2.4.tar.gz",
+  "download_time": "2025-10-21T10:18:41.839286",
   "package_url": "https://pypi.org/project/codeviewx/"
 }
