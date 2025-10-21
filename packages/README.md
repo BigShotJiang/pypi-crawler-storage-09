@@ -1,24 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-21T04:54:11.426176
-- **Total Packages**: 88
-- **Total Size**: 4.11 MB
+- **Download Time**: 2025-10-21T05:17:31.581882
+- **Total Packages**: 82
+- **Total Size**: 15.16 MB
 
 ## Packages List
-- resgen-python
+- serpex
+- pulumiverse-gandi
+- commit-bot
+- hanzo-live
+- jknife
+- judge-llm
+- dptoie
+- bbeval
+- mkdocs-minify-html-plugin
+- cat-llm
+- pro-craft
+- pypomes-http
+- EqUMP
+- clickzetta-semantic-model-generator
+- moleditpy-linux
+- moleditpy
+- langchain-trigger-server
 - gandol2-ocr
+- nemo-library-etl
+- gh-actions-tool-kit
+- odoo-plugin-manager
+- reflexive
+- connectonion
+- py-dmmjp
+- mysingle-quant
+- mcp-agent
+- fusesell
+- pyauxlib
+- mcp-agentcore-proxy
+- cc-balancer
+- formas-spacy-stanza
+- gitlab-api
+- internet-archive-extractor
+- isa-model
+- django-cfg
+- audio-transcriber
+- md2pdf-mermaid
+- datacube
+- splunk-add-on-ucc-modinput-test
+- uv-ship
+- SURE-tools
+- resgen-python
 - preliz
 - django-qs-lsp
 - syncweb
 - VKPyKit
 - terrakio-admin-api
 - terrakio-api
-- judge-llm
 - terrakio-core
 - cumulusci
 - oc-client-provider
-- md2pdf-mermaid
 - collinear
 - tap-fedidb
 - Publ
@@ -50,47 +88,3 @@
 - model-mp-core
 - model-mp-io
 - semverish
-- mysingle-quant
-- por-que
-- django-filtering
-- keras-nlp-nightly
-- keras-hub-nightly
-- apache-tvm-ffi
-- SURE-tools
-- qctrl-fire-opal-riken-commons
-- qctrl-fire-opal-riken-client
-- ttkbootstrap
-- DLMS-SPODES
-- pypomes-http
-- servicenow-api
-- codeviewx
-- gitlab-api
-- fastapi-mcp-openapi
-- lmspace
-- svc-infra
-- employment-hero-sdk
-- clippy-code
-- adv-optm
-- hjxdl
-- snowflake-connector-python-nightly
-- openportal
-- fred-oss
-- parallel-web
-- CVNN-Jamie
-- tirex-mirror
-- dialectus-cli
-- ssh-auto-upgrade
-- aisentinel-sdk
-- sarzaminget
-- robhan-cdk-lib.aws-aps
-- chromedriver-binary
-- robhan-cdk-lib.aws-grafana
-- pywal16
-- aorta-sirius-dev
-- damo
-- aidev-bkplugin
-- robhan-cdk-lib.utils
-- odoo-addon-fs-folder
-- pyenmeval
-- databricks-switch-plugin
-- dtreenetwork

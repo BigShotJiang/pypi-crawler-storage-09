@@ -1,0 +1,11 @@
+{
+  "name": "formas-spacy-stanza",
+  "version": "1.0.5",
+  "summary": "Use the latest Stanza (StanfordNLP) research models directly in spaCy",
+  "author": "Explosion",
+  "license": "MIT",
+  "home_page": "https://explosion.ai",
+  "download_filename": "formas_spacy_stanza-1.0.5.tar.gz",
+  "download_time": "2025-10-21T05:17:03.294871",
+  "package_url": "https://pypi.org/project/formas-spacy-stanza/"
+}

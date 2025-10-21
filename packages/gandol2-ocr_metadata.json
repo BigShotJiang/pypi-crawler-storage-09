@@ -1,11 +1,11 @@
 {
   "name": "gandol2-ocr",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "이미지를 시각적 경계 기준으로 안전하게 섹션 분리 & OCR (Korean, Chinese)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gandol2_ocr-0.0.2.tar.gz",
-  "download_time": "2025-10-21T04:53:24.819897",
+  "download_filename": "gandol2_ocr-0.0.3.tar.gz",
+  "download_time": "2025-10-21T05:16:56.227323",
   "package_url": "https://pypi.org/project/gandol2-ocr/"
 }

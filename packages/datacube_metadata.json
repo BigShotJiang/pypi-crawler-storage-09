@@ -1,0 +1,11 @@
+{
+  "name": "datacube",
+  "version": "1.9.10",
+  "summary": "An analysis environment for satellite and other earth observation data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datacube-1.9.10.tar.gz",
+  "download_time": "2025-10-21T05:17:07.106535",
+  "package_url": "https://pypi.org/project/datacube/"
+}
