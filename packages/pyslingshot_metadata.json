@@ -1,0 +1,11 @@
+{
+  "name": "pyslingshot",
+  "version": "0.2.0",
+  "summary": "Python implementation of the Slingshot pseudotime algorithm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyslingshot-0.2.0.tar.gz",
+  "download_time": "2025-10-21T20:19:56.927266",
+  "package_url": "https://pypi.org/project/pyslingshot/"
+}

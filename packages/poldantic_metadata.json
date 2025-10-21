@@ -1,0 +1,11 @@
+{
+  "name": "poldantic",
+  "version": "0.3.0",
+  "summary": "Convert Pydantic models to Polars schemas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "poldantic-0.3.0.tar.gz",
+  "download_time": "2025-10-21T20:20:07.505409",
+  "package_url": "https://pypi.org/project/poldantic/"
+}

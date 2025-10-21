@@ -1,11 +1,11 @@
 {
   "name": "pyrudof",
-  "version": "0.1.121",
+  "version": "0.1.125",
   "summary": "Python bindings for Rudof",
   "author": "Jose Emilio Labra Gayo <labra@uniovi.es>, Ángel Iglesias Préstamo <angel.iglesias.prestamo@gmail.com>, Marc-Antoine Arnaud <marc-antoine.arnaud@luminvent.com>",
   "license": "MIT OR Apache-2.0",
   "home_page": "https://rudof-project.github.io/rudof",
-  "download_filename": "pyrudof-0.1.121-cp37-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-10-20T14:16:50.471161",
+  "download_filename": "pyrudof-0.1.125-cp37-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-10-21T20:20:41.752618",
   "package_url": "https://pypi.org/project/pyrudof/"
 }

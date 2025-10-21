@@ -1,0 +1,11 @@
+{
+  "name": "p4tools",
+  "version": "0.11.2",
+  "summary": "Tools for working with data from the Planet Four Zooniverse project.",
+  "author": "Michael Aye",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/michaelaye/p4tools",
+  "download_filename": "p4tools-0.11.2.tar.gz",
+  "download_time": "2025-10-21T20:20:19.575888",
+  "package_url": "https://pypi.org/project/p4tools/"
+}

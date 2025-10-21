@@ -1,0 +1,11 @@
+{
+  "name": "fmorg",
+  "version": "1.0.0",
+  "summary": "A smart file organization tool that automatically sorts files into folders based on intelligent filename analysis",
+  "author": "FMORG Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fmorg-1.0.0.tar.gz",
+  "download_time": "2025-10-21T20:20:42.273952",
+  "package_url": "https://pypi.org/project/fmorg/"
+}

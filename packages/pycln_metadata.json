@@ -1,0 +1,11 @@
+{
+  "name": "pycln",
+  "version": "2.6.0",
+  "summary": "A formatter for finding and removing unused import statements.",
+  "author": "Hadi Alqattan",
+  "license": "MIT",
+  "home_page": "https://hadialqattan.github.io/pycln",
+  "download_filename": "pycln-2.6.0.tar.gz",
+  "download_time": "2025-10-21T20:20:29.562396",
+  "package_url": "https://pypi.org/project/pycln/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nyckel",
+  "version": "0.4.23",
+  "summary": "Python package for the Nyckel API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nyckel-0.4.23.tar.gz",
+  "download_time": "2025-10-21T20:20:09.078342",
+  "package_url": "https://pypi.org/project/nyckel/"
+}

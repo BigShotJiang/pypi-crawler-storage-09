@@ -1,0 +1,11 @@
+{
+  "name": "color-extract",
+  "version": "0.0.1",
+  "summary": "Extract dominant colors from images using various K-Means clustering approaches",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "color_extract-0.0.1.tar.gz",
+  "download_time": "2025-10-21T20:20:24.277026",
+  "package_url": "https://pypi.org/project/color-extract/"
+}

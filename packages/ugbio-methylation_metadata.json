@@ -1,11 +1,11 @@
 {
   "name": "ugbio-methylation",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "summary": "Ultima Genomics methylation bioinfo utils",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ugbio_methylation-1.16.0.tar.gz",
-  "download_time": "2025-10-21T19:53:54.924071",
+  "download_filename": "ugbio_methylation-1.16.1.tar.gz",
+  "download_time": "2025-10-21T20:20:18.519011",
   "package_url": "https://pypi.org/project/ugbio-methylation/"
 }

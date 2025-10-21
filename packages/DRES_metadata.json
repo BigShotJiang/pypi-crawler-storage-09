@@ -1,11 +1,11 @@
 {
   "name": "DRES",
-  "version": "0.1.1",
-  "summary": "A pure-Python hybrid encryption system ",
+  "version": "0.2.0",
+  "summary": "A pure-Python hybrid encryption system with EKC",
   "author": "Danish",
   "license": null,
   "home_page": "https://github.com/1Danish-00",
-  "download_filename": "dres-0.1.1.tar.gz",
-  "download_time": "2025-10-21T11:29:27.115887",
+  "download_filename": "dres-0.2.0.tar.gz",
+  "download_time": "2025-10-21T20:20:39.629554",
   "package_url": "https://pypi.org/project/DRES/"
 }
