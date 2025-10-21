@@ -1,11 +1,11 @@
 {
   "name": "ofwat-dataprepkit",
-  "version": "0.8",
+  "version": "0.9",
   "summary": "ETL Tools for Fabric",
   "author": "Ofwat",
   "license": null,
   "home_page": "https://github.com/Ofwat/dataprepkit",
-  "download_filename": "ofwat_dataprepkit-0.8.tar.gz",
-  "download_time": "2025-10-17T14:51:22.570903",
+  "download_filename": "ofwat_dataprepkit-0.9.tar.gz",
+  "download_time": "2025-10-21T15:52:49.441826",
   "package_url": "https://pypi.org/project/ofwat-dataprepkit/"
 }

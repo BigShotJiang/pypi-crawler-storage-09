@@ -1,0 +1,11 @@
+{
+  "name": "privacy-similarity",
+  "version": "0.1.2",
+  "summary": "Privacy-preserving similarity search for massive DataFrames with PII",
+  "author": "Alexander Nicholson",
+  "license": null,
+  "home_page": "https://github.com/alexandernicholson/python-similarity",
+  "download_filename": "privacy_similarity-0.1.2.tar.gz",
+  "download_time": "2025-10-21T15:53:06.254654",
+  "package_url": "https://pypi.org/project/privacy-similarity/"
+}

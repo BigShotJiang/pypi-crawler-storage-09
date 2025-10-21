@@ -1,0 +1,11 @@
+{
+  "name": "pysio-hermes-tmsi",
+  "version": "0.0.1",
+  "summary": "A TMSi SAGA support module for HERMES",
+  "author": "e-Media Research Lab @ KU Leuven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysio_hermes_tmsi-0.0.1.tar.gz",
+  "download_time": "2025-10-21T15:52:33.226478",
+  "package_url": "https://pypi.org/project/pysio-hermes-tmsi/"
+}

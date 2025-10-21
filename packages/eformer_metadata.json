@@ -1,11 +1,11 @@
 {
   "name": "eformer",
-  "version": "0.0.78",
+  "version": "0.0.81",
   "summary": "(EasyDel Former) is a utility library designed to simplify and enhance the development in JAX",
   "author": "Erfan Zare Chavoshi",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "eformer-0.0.78.tar.gz",
-  "download_time": "2025-10-16T17:32:37.032149",
+  "download_filename": "eformer-0.0.81.tar.gz",
+  "download_time": "2025-10-21T15:52:31.668544",
   "package_url": "https://pypi.org/project/eformer/"
 }

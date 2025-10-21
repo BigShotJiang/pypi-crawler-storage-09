@@ -1,0 +1,11 @@
+{
+  "name": "django-view-manager",
+  "version": "2.0.0",
+  "summary": "A management command for django that provides diffs of sql views.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_view_manager-2.0.0-py3-none-any.whl",
+  "download_time": "2025-10-21T15:52:47.354923",
+  "package_url": "https://pypi.org/project/django-view-manager/"
+}

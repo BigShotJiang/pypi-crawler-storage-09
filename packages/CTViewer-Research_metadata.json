@@ -1,11 +1,11 @@
 {
   "name": "CTViewer-Research",
-  "version": "0.3.3.2.0",
+  "version": "0.3.3.2.1",
   "summary": "A medical imaging viewer for CT scans with advanced analysis features.",
   "author": "Peter Boyle",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "ctviewer_research-0.3.3.2.0.tar.gz",
-  "download_time": "2025-10-20T22:33:51.143341",
+  "download_filename": "ctviewer_research-0.3.3.2.1.tar.gz",
+  "download_time": "2025-10-21T15:53:05.733908",
   "package_url": "https://pypi.org/project/CTViewer-Research/"
 }

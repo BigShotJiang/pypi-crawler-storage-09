@@ -1,0 +1,11 @@
+{
+  "name": "girder-virtual-resources",
+  "version": "2.1.1",
+  "summary": "Girder Plugin exposing physical folders and files as Girder objects.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "girder_virtual_resources-2.1.1.tar.gz",
+  "download_time": "2025-10-21T15:53:01.009700",
+  "package_url": "https://pypi.org/project/girder-virtual-resources/"
+}

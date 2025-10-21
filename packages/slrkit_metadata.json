@@ -1,0 +1,11 @@
+{
+  "name": "slrkit",
+  "version": "1.4.0",
+  "summary": "Tools to automatize systematic literature reviews",
+  "author": "Tullio Facchinetti",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/robolab-pavia/slrkit",
+  "download_filename": "slrkit-1.4.0.tar.gz",
+  "download_time": "2025-10-21T15:52:56.811624",
+  "package_url": "https://pypi.org/project/slrkit/"
+}

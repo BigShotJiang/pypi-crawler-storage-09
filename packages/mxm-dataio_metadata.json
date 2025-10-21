@@ -1,11 +1,11 @@
 {
   "name": "mxm-dataio",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "**Unified ingestion, caching, and audit layer for the Money Ex Machina ecosystem.**",
   "author": "mxm",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mxm_dataio-0.1.4.tar.gz",
-  "download_time": "2025-10-19T13:01:00.736786",
+  "download_filename": "mxm_dataio-0.2.0.tar.gz",
+  "download_time": "2025-10-21T15:53:02.608152",
   "package_url": "https://pypi.org/project/mxm-dataio/"
 }
