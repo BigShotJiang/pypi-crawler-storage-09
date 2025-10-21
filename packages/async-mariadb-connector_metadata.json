@@ -1,0 +1,11 @@
+{
+  "name": "async-mariadb-connector",
+  "version": "0.1.1",
+  "summary": "A lightweight, production-grade, and asynchronous Python connector for MariaDB.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "async_mariadb_connector-0.1.1.tar.gz",
+  "download_time": "2025-10-21T16:57:46.942820",
+  "package_url": "https://pypi.org/project/async-mariadb-connector/"
+}

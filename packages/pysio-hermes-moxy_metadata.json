@@ -1,0 +1,11 @@
+{
+  "name": "pysio-hermes-moxy",
+  "version": "0.0.1",
+  "summary": "A Moxy oxygenation support module for HERMES",
+  "author": "e-Media Research Lab @ KU Leuven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysio_hermes_moxy-0.0.1.tar.gz",
+  "download_time": "2025-10-21T16:58:02.080165",
+  "package_url": "https://pypi.org/project/pysio-hermes-moxy/"
+}

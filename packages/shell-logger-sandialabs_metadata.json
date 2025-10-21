@@ -1,0 +1,11 @@
+{
+  "name": "shell-logger-sandialabs",
+  "version": "3.0.4",
+  "summary": "A tool for keeping track of Python's interactions with the shell.",
+  "author": "Josh Braun",
+  "license": "LICENSE.md",
+  "home_page": null,
+  "download_filename": "shell_logger_sandialabs-3.0.4.tar.gz",
+  "download_time": "2025-10-21T16:57:22.883992",
+  "package_url": "https://pypi.org/project/shell-logger-sandialabs/"
+}

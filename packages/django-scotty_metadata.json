@@ -1,11 +1,11 @@
 {
   "name": "django-scotty",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Advanced tables for django cruds",
   "author": "Juan Manuel Schillaci",
   "license": null,
   "home_page": null,
-  "download_filename": "django_scotty-0.1.1.tar.gz",
-  "download_time": "2025-10-20T13:47:38.449152",
+  "download_filename": "django_scotty-0.1.3.tar.gz",
+  "download_time": "2025-10-21T16:57:20.083132",
   "package_url": "https://pypi.org/project/django-scotty/"
 }

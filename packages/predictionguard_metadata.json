@@ -1,0 +1,11 @@
+{
+  "name": "predictionguard",
+  "version": "2.9.2",
+  "summary": "Create controlled and compliant AI systems with PredictionGuard.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "predictionguard-2.9.2.tar.gz",
+  "download_time": "2025-10-21T16:57:41.395560",
+  "package_url": "https://pypi.org/project/predictionguard/"
+}

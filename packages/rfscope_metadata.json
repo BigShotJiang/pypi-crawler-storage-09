@@ -1,0 +1,11 @@
+{
+  "name": "rfscope",
+  "version": "0.1.1",
+  "summary": "RF Scope Utilities",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "rfscope-0.1.1.tar.gz",
+  "download_time": "2025-10-21T16:57:34.602460",
+  "package_url": "https://pypi.org/project/rfscope/"
+}
