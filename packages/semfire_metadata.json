@@ -1,11 +1,11 @@
 {
   "name": "semfire",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "SemFire (Semantic Firewall): detect advanced AI deception, including in-context scheming and multi-turn manipulative attacks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "semfire-0.2.5.tar.gz",
-  "download_time": "2025-10-17T19:38:18.665234",
+  "download_filename": "semfire-0.2.6.tar.gz",
+  "download_time": "2025-10-21T10:54:10.457724",
   "package_url": "https://pypi.org/project/semfire/"
 }

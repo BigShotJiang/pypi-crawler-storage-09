@@ -1,0 +1,11 @@
+{
+  "name": "mlmc",
+  "version": "1.0.3",
+  "summary": "Multilevel Monte Carlo method.",
+  "author": "Jan Brezina, Martin Spetlik",
+  "license": "GPL 3.0",
+  "home_page": "https://github.com/GeoMop/MLMC",
+  "download_filename": "mlmc-1.0.3.tar.gz",
+  "download_time": "2025-10-21T10:54:13.572764",
+  "package_url": "https://pypi.org/project/mlmc/"
+}

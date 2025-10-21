@@ -1,0 +1,11 @@
+{
+  "name": "laser-mind-client",
+  "version": "0.52.0",
+  "summary": "A client python API for accessing LightSolver's capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "laser_mind_client-0.52.0.tar.gz",
+  "download_time": "2025-10-21T10:54:05.742710",
+  "package_url": "https://pypi.org/project/laser-mind-client/"
+}

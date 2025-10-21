@@ -1,16 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-21T10:45:21.975716
+- **Download Time**: 2025-10-21T10:54:44.127112
 - **Total Packages**: 84
-- **Total Size**: 43.56 MB
+- **Total Size**: 19.74 MB
 
 ## Packages List
+- Whispey
+- eozilla
+- oee-lib-calculator
+- structflow
+- legnext
+- dcs-core
+- codeviewx
+- wib-osint
+- apify
+- laser-mind-client
+- minimalANN
+- pdfdancer-client-python
+- konduktor-nightly
+- nonebot-plugin-bili-helper
+- django-cfg
+- nats-fasterapi
+- jndataset-up
+- pvradar-sdk
+- semfire
+- anemone-daisy-maker
+- tablegis
+- trainy-policy-nightly
+- gguf-connector
+- concurry
+- mlmc
+- scc-firewall-manager-sdk
 - autogen-vertexai-memory
 - bella-companion
-- nats-fasterapi
 - xp-tool
-- oee-lib-calculator
 - spark-fuse
 - ultralytics-actions
 - letta-nightly
@@ -19,7 +43,6 @@
 - clear-skies-aws
 - kagura-ai
 - visdet
-- nonebot-plugin-bili-helper
 - pyrat-game
 - pixelarraylib
 - mcpsh
@@ -27,9 +50,6 @@
 - quarto-batch-convert
 - conson-xp
 - flask-imp
-- py-oee-calc-sergio-oliveira
-- oee-lib-sergio-oliveira-calculator
-- oee-lib-calculator-sergio-oliveira
 - hocon2
 - extended-fastapi-redis-cache
 - pytket-qiskit
@@ -70,23 +90,3 @@
 - dogesec-commons
 - binaryrain-helper-data-processing
 - nvidia-nat-llama-index
-- nvidia-nat-s3
-- pymc-bart
-- nvidia-nat
-- comfy-nodekit
-- nvidia-nat-all
-- dh-facebook-client
-- nvidia-nat-weave
-- nvidia-nat-adk
-- pymc-marketing
-- nvidia-nat-mem0ai
-- pdfdancer-client-python
-- nvidia-nat-zep-cloud
-- fxutil
-- nvidia-nat-mcp
-- qt-ingot
-- opensr-srgan
-- prediction-market-agent-tooling
-- nvidia-nat-phoenix
-- ACID-code-v2
-- noqa-runner
