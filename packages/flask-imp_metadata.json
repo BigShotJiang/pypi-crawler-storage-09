@@ -1,11 +1,11 @@
 {
   "name": "flask-imp",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "summary": "A Flask auto importer that allows your Flask apps to grow big.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flask_imp-6.0.0.tar.gz",
-  "download_time": "2025-10-16T22:29:20.782724",
+  "download_filename": "flask_imp-6.0.1.tar.gz",
+  "download_time": "2025-10-21T10:44:41.201051",
   "package_url": "https://pypi.org/project/flask-imp/"
 }

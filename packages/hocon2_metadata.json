@@ -1,11 +1,11 @@
 {
   "name": "hocon2",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "HOCON parser for python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hocon2-0.2.0.tar.gz",
-  "download_time": "2025-10-20T10:54:58.448678",
+  "download_filename": "hocon2-0.3.0.tar.gz",
+  "download_time": "2025-10-21T10:44:43.629830",
   "package_url": "https://pypi.org/project/hocon2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pymc-bart",
+  "version": "0.11.0",
+  "summary": "Bayesian Additive Regression Trees for Probabilistic programming with PyMC",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://github.com/pymc-devs/pymc-bart",
+  "download_filename": "pymc_bart-0.11.0.tar.gz",
+  "download_time": "2025-10-21T10:45:09.346117",
+  "package_url": "https://pypi.org/project/pymc-bart/"
+}

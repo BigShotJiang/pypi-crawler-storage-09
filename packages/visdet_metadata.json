@@ -1,0 +1,11 @@
+{
+  "name": "visdet",
+  "version": "2.28.4",
+  "summary": "Visia's fork of MMDetection - Object Detection Toolbox and Benchmark",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "visdet-2.28.4-py3-none-any.whl",
+  "download_time": "2025-10-21T10:44:36.514312",
+  "package_url": "https://pypi.org/project/visdet/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lisflood-utilities",
+  "version": "0.12.24",
+  "summary": "A set of utilities for lisflood users. pcr2nc: Convert PCRaster files to netCDF CF 1.6; nc2pcr: Convert netCDF files ot PCRaster format; cutmaps: cut netCDF files; compare: compare two set of netCDF files; thresholds: compute discharge return period thresholds; gridding: interpolate meteo variables observations; ncextract: extract values from netCDF files; catchstats: calculates catchment statistics; ",
+  "author": "Valerio Lorini, Stefania Grimaldi, Carlo Russo, Domenico Nappo, Lorenzo Alfieri",
+  "license": "EUPL 1.2",
+  "home_page": "https://github.com/ec-jrc/lisflood-utilities",
+  "download_filename": "lisflood_utilities-0.12.24.tar.gz",
+  "download_time": "2025-10-21T10:44:51.337658",
+  "package_url": "https://pypi.org/project/lisflood-utilities/"
+}

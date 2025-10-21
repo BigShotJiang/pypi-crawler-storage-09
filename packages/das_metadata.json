@@ -1,11 +1,11 @@
 {
   "name": "das",
-  "version": "0.32.9",
+  "version": "0.32.11",
   "summary": "DAS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "das-0.32.9.tar.gz",
-  "download_time": "2025-10-18T17:50:18.286639",
+  "download_filename": "das-0.32.11.tar.gz",
+  "download_time": "2025-10-21T10:44:59.084632",
   "package_url": "https://pypi.org/project/das/"
 }

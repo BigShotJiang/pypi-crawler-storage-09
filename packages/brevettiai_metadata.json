@@ -1,0 +1,11 @@
+{
+  "name": "brevettiai",
+  "version": "0.9.7",
+  "summary": "Brevetti AI library",
+  "author": "Emil Tyge",
+  "license": "Apache-2.0",
+  "home_page": "https://platform.brevetti.ai",
+  "download_filename": "brevettiai-0.9.7.tar.gz",
+  "download_time": "2025-10-21T10:44:52.639450",
+  "package_url": "https://pypi.org/project/brevettiai/"
+}

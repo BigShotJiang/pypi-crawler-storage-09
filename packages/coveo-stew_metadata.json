@@ -1,0 +1,11 @@
+{
+  "name": "coveo-stew",
+  "version": "4.1.2",
+  "summary": "Opinionated python packaging and development utilities",
+  "author": "Jonathan Piché",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/coveo/stew",
+  "download_filename": "coveo_stew-4.1.2.tar.gz",
+  "download_time": "2025-10-21T10:45:04.663449",
+  "package_url": "https://pypi.org/project/coveo-stew/"
+}

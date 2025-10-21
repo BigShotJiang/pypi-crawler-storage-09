@@ -1,0 +1,11 @@
+{
+  "name": "clear-skies-aws",
+  "version": "1.10.2",
+  "summary": "clearskies bindings for working in AWS",
+  "author": "Conor Mancone",
+  "license": "MIT",
+  "home_page": "https://github.com/cmancone/clearskies-aws",
+  "download_filename": "clear_skies_aws-1.10.2.tar.gz",
+  "download_time": "2025-10-21T10:44:35.300873",
+  "package_url": "https://pypi.org/project/clear-skies-aws/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "matplotlib-stubs",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Unofficial stubs for the matplotlib package.",
   "author": "Bagard Hoel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "matplotlib_stubs-0.3.6.tar.gz",
-  "download_time": "2025-10-19T13:00:41.613353",
+  "download_filename": "matplotlib_stubs-0.3.7.tar.gz",
+  "download_time": "2025-10-21T10:44:51.925013",
   "package_url": "https://pypi.org/project/matplotlib-stubs/"
 }

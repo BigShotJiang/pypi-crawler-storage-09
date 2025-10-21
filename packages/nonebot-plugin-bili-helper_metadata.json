@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-bili-helper",
-  "version": "0.8.2",
+  "version": "0.8.6",
   "summary": "Nonebot2 plugin for bilibili sharing detail",
   "author": "krimeshu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nonebot_plugin_bili_helper-0.8.2.tar.gz",
-  "download_time": "2025-10-21T09:43:14.419948",
+  "download_filename": "nonebot_plugin_bili_helper-0.8.6.tar.gz",
+  "download_time": "2025-10-21T10:44:37.132835",
   "package_url": "https://pypi.org/project/nonebot-plugin-bili-helper/"
 }
