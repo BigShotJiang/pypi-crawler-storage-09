@@ -1,11 +1,11 @@
 {
   "name": "claude-skills-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for searching and retrieving Claude Agent Skills using vector search",
   "author": null,
-  "license": "PolyForm Noncommercial License 1.0.0",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "claude_skills_mcp-0.1.1.tar.gz",
-  "download_time": "2025-10-21T08:52:34.788671",
+  "download_filename": "claude_skills_mcp-0.1.2.tar.gz",
+  "download_time": "2025-10-21T23:33:08.819154",
   "package_url": "https://pypi.org/project/claude-skills-mcp/"
 }

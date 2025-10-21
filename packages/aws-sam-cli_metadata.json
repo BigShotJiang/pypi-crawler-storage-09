@@ -1,0 +1,11 @@
+{
+  "name": "aws-sam-cli",
+  "version": "1.145.2",
+  "summary": "AWS SAM CLI is a CLI tool for local development and testing of Serverless applications",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aws/aws-sam-cli",
+  "download_filename": "aws_sam_cli-1.145.2.tar.gz",
+  "download_time": "2025-10-21T23:33:14.555786",
+  "package_url": "https://pypi.org/project/aws-sam-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "onboot",
+  "version": "1.0.2",
+  "summary": "Cross-platform autostart installer library for Python",
+  "author": "nbdy",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "onboot-1.0.2.tar.gz",
+  "download_time": "2025-10-21T23:32:43.572394",
+  "package_url": "https://pypi.org/project/onboot/"
+}

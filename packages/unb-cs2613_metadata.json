@@ -1,0 +1,11 @@
+{
+  "name": "unb-cs2613",
+  "version": "25.9.0",
+  "summary": "Metapackage for CS2613 at UNB Fredericton",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "unb_cs2613-25.9.0.tar.gz",
+  "download_time": "2025-10-21T23:33:06.255635",
+  "package_url": "https://pypi.org/project/unb-cs2613/"
+}

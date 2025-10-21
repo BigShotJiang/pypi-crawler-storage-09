@@ -1,0 +1,11 @@
+{
+  "name": "bdms-sim",
+  "version": "0.6.2",
+  "summary": "Tree simulator for birth-death-mutation-sampling (BDMS) processes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bdms_sim-0.6.2.tar.gz",
+  "download_time": "2025-10-21T23:32:45.119039",
+  "package_url": "https://pypi.org/project/bdms-sim/"
+}

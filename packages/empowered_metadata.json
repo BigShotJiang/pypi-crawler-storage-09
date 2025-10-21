@@ -1,11 +1,11 @@
 {
   "name": "empowered",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "EmpowerEd project utilities and API",
   "author": "Na'Sir Miller",
   "license": null,
   "home_page": null,
-  "download_filename": "empowered-0.1.2.tar.gz",
-  "download_time": "2025-10-21T21:52:01.116247",
+  "download_filename": "empowered-0.1.3.tar.gz",
+  "download_time": "2025-10-21T23:32:59.506556",
   "package_url": "https://pypi.org/project/empowered/"
 }

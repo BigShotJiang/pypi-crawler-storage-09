@@ -1,11 +1,11 @@
 {
   "name": "agentci-client-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Client configuration for AgentCI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentci_client_config-0.1.1.tar.gz",
-  "download_time": "2025-10-16T21:15:52.843824",
+  "download_filename": "agentci_client_config-0.1.2.tar.gz",
+  "download_time": "2025-10-21T23:32:56.952206",
   "package_url": "https://pypi.org/project/agentci-client-config/"
 }

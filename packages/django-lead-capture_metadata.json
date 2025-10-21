@@ -1,0 +1,11 @@
+{
+  "name": "django-lead-capture",
+  "version": "0.1.0",
+  "summary": "AI-powered lead capture and coming soon pages for Django with LiteLLM integration",
+  "author": "Directory Platform Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_lead_capture-0.1.0.tar.gz",
+  "download_time": "2025-10-21T23:33:15.067241",
+  "package_url": "https://pypi.org/project/django-lead-capture/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "trulens-providers-openai",
+  "version": "2.4.2",
+  "summary": "Library to systematically track and evaluate LLM based applications.",
+  "author": "Snowflake Inc.",
+  "license": "MIT",
+  "home_page": "https://trulens.org/",
+  "download_filename": "trulens_providers_openai-2.4.2.tar.gz",
+  "download_time": "2025-10-21T23:32:46.664155",
+  "package_url": "https://pypi.org/project/trulens-providers-openai/"
+}

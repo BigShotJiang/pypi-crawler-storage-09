@@ -1,0 +1,11 @@
+{
+  "name": "gtfs-kit",
+  "version": "12.0.0",
+  "summary": "A Python library for analyzing GTFS feeds.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gtfs_kit-12.0.0.tar.gz",
+  "download_time": "2025-10-21T23:32:38.870175",
+  "package_url": "https://pypi.org/project/gtfs-kit/"
+}

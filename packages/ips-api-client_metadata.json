@@ -1,0 +1,11 @@
+{
+  "name": "ips-api-client",
+  "version": "0.1.0",
+  "summary": "Async Python client for IPS Controllers pool monitoring system",
+  "author": "Steve Garrity",
+  "license": "MIT",
+  "home_page": "https://github.com/stgarrity/ips-api-client",
+  "download_filename": "ips_api_client-0.1.0.tar.gz",
+  "download_time": "2025-10-21T23:32:39.918566",
+  "package_url": "https://pypi.org/project/ips-api-client/"
+}

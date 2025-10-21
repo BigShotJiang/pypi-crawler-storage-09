@@ -1,0 +1,11 @@
+{
+  "name": "pyax",
+  "version": "0.2.0",
+  "summary": "Client library for macOS accessibility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyax-0.2.0.tar.gz",
+  "download_time": "2025-10-21T23:33:16.601186",
+  "package_url": "https://pypi.org/project/pyax/"
+}

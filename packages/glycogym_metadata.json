@@ -1,11 +1,11 @@
 {
   "name": "glycogym",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A benchmark collection for glycan property prediction with tasks from variuos, glycobiologically relevant tasks.",
   "author": "Roman Joeres",
   "license": null,
   "home_page": null,
-  "download_filename": "glycogym-1.0.0.tar.gz",
-  "download_time": "2025-10-18T19:36:32.441682",
+  "download_filename": "glycogym-1.0.1.tar.gz",
+  "download_time": "2025-10-21T23:32:43.061377",
   "package_url": "https://pypi.org/project/glycogym/"
 }
