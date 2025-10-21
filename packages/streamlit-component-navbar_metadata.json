@@ -1,11 +1,11 @@
 {
   "name": "streamlit-component-navbar",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "summary": "Components and Frameworks to give new features to streamlit",
   "author": "Victor Quilon Ranera",
   "license": "MIT",
   "home_page": "https://github.com/quiradev/streamlit-plugins",
-  "download_filename": "streamlit_component_navbar-0.7.4.tar.gz",
-  "download_time": "2025-10-21T16:26:26.327966",
+  "download_filename": "streamlit_component_navbar-0.7.5.tar.gz",
+  "download_time": "2025-10-21T21:41:23.805266",
   "package_url": "https://pypi.org/project/streamlit-component-navbar/"
 }

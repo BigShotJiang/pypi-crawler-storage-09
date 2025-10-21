@@ -1,11 +1,11 @@
 {
   "name": "etf-steuernotizbuch",
-  "version": "0.0.3",
-  "summary": "Notizbuch für Ausland-ETF-Depots für Steuertracking",
+  "version": "0.1.0",
+  "summary": "Kleine Software mit GUI zum Verwalten und Simulieren der Steuerzahlungen auf Gewinne und Vorabpauschalen von Fonds und ETFs unter deutschem Steuerrecht. Besonders geeignet für Auslandsdepots und zur Simulation der anfallenden Steuern bei einem beabsichtigten Verkauf von Anteilen.",
   "author": "just1436",
-  "license": "BSD",
-  "home_page": null,
-  "download_filename": "etf_steuernotizbuch-0.0.3.tar.gz",
-  "download_time": "2025-10-21T21:17:08.002443",
+  "license": "MIT",
+  "home_page": "https://github.com/just1436/etf-steuernotizbuch",
+  "download_filename": "etf_steuernotizbuch-0.1.0.tar.gz",
+  "download_time": "2025-10-21T21:41:28.453072",
   "package_url": "https://pypi.org/project/etf-steuernotizbuch/"
 }

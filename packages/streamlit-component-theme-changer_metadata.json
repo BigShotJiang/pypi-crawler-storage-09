@@ -1,11 +1,11 @@
 {
   "name": "streamlit-component-theme-changer",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "summary": "Components and Frameworks to give new features to streamlit",
   "author": "Victor Quilon Ranera",
   "license": "MIT",
   "home_page": "https://github.com/quiradev/streamlit-plugins",
-  "download_filename": "streamlit_component_theme_changer-0.7.4.tar.gz",
-  "download_time": "2025-10-21T16:26:26.841472",
+  "download_filename": "streamlit_component_theme_changer-0.7.5.tar.gz",
+  "download_time": "2025-10-21T21:41:22.735264",
   "package_url": "https://pypi.org/project/streamlit-component-theme-changer/"
 }

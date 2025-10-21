@@ -1,0 +1,11 @@
+{
+  "name": "yandex-mlproxy-sync",
+  "version": "66.0.3",
+  "summary": "A package to prevent Dependency Confusion attacks against Yandex.",
+  "author": "Yandex",
+  "license": null,
+  "home_page": "https://ya.ru",
+  "download_filename": "yandex-mlproxy-sync-66.0.3.tar.gz",
+  "download_time": "2025-10-21T21:41:21.708112",
+  "package_url": "https://pypi.org/project/yandex-mlproxy-sync/"
+}
