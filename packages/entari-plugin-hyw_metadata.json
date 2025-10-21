@@ -1,11 +1,11 @@
 {
   "name": "entari-plugin-hyw",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Use large language models to interpret chat messages",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "entari_plugin_hyw-0.2.3.tar.gz",
-  "download_time": "2025-10-21T19:54:01.330972",
+  "download_filename": "entari_plugin_hyw-0.2.4.tar.gz",
+  "download_time": "2025-10-21T20:53:09.140462",
   "package_url": "https://pypi.org/project/entari-plugin-hyw/"
 }

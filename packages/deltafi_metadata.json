@@ -1,11 +1,11 @@
 {
   "name": "deltafi",
-  "version": "2.33.6.7",
+  "version": "2.33.8",
   "summary": "SDK for DeltaFi plugins and actions",
   "author": null,
   "license": "Apache License, Version 2.0",
   "home_page": null,
-  "download_filename": "deltafi-2.33.6.7.tar.gz",
-  "download_time": "2025-10-20T21:51:53.012288",
+  "download_filename": "deltafi-2.33.8.tar.gz",
+  "download_time": "2025-10-21T20:53:24.935945",
   "package_url": "https://pypi.org/project/deltafi/"
 }

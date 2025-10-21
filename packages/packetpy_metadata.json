@@ -1,0 +1,11 @@
+{
+  "name": "packetpy",
+  "version": "0.1.0",
+  "summary": "Windows raw packet sniffer (TCP/UDP) module",
+  "author": "Arun Sundar K",
+  "license": null,
+  "home_page": "https://github.com/arunsundark01",
+  "download_filename": "packetpy-0.1.0.tar.gz",
+  "download_time": "2025-10-21T20:53:22.738732",
+  "package_url": "https://pypi.org/project/packetpy/"
+}

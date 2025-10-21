@@ -1,0 +1,11 @@
+{
+  "name": "ruff-cgx",
+  "version": "0.1.2",
+  "summary": "Ruff linter and formatter for collagraph single-file components",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ruff_cgx-0.1.2.tar.gz",
+  "download_time": "2025-10-21T20:53:02.548360",
+  "package_url": "https://pypi.org/project/ruff-cgx/"
+}

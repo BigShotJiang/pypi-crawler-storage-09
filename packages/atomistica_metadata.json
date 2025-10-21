@@ -1,11 +1,11 @@
 {
   "name": "atomistica",
-  "version": "1.2.3",
+  "version": "1.2.7",
   "summary": "Atomistica is a library of interatomic potentials that is compatible with ASE and LAMMPS",
   "author": null,
   "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "atomistica-1.2.3.tar.gz",
-  "download_time": "2025-10-21T20:20:01.655980",
+  "download_filename": "atomistica-1.2.7.tar.gz",
+  "download_time": "2025-10-21T20:52:53.425825",
   "package_url": "https://pypi.org/project/atomistica/"
 }

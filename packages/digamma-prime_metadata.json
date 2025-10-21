@@ -1,11 +1,11 @@
 {
   "name": "digamma-prime",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "Symbolic audit engine for divergence detection and structural analysis",
   "author": "Cerene Salt",
   "license": "MIT",
   "home_page": "https://github.com/Cerene-Salt/Digamma-Prime-Framework",
-  "download_filename": "digamma_prime-0.1.9.tar.gz",
-  "download_time": "2025-10-21T20:20:03.736669",
+  "download_filename": "digamma_prime-0.2.0.tar.gz",
+  "download_time": "2025-10-21T20:53:27.789503",
   "package_url": "https://pypi.org/project/digamma-prime/"
 }

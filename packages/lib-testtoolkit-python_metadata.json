@@ -1,0 +1,11 @@
+{
+  "name": "lib-testtoolkit-python",
+  "version": "1.0.0",
+  "summary": "Reusable utilities for Python test automation projects",
+  "author": "QA Team",
+  "license": "Commercial",
+  "home_page": "https://bitbucket.org/entinco/bt-templates-harnesses/lib-testtoolkit-python/",
+  "download_filename": "lib_testtoolkit_python-1.0.0.tar.gz",
+  "download_time": "2025-10-21T20:53:30.531697",
+  "package_url": "https://pypi.org/project/lib-testtoolkit-python/"
+}

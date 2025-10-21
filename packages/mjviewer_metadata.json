@@ -1,0 +1,11 @@
+{
+  "name": "mjviewer",
+  "version": "0.3.23",
+  "summary": "The mjviewer project, based on kscale-mujoco-viewer",
+  "author": "Wesley Maa",
+  "license": null,
+  "home_page": "https://github.com/CCBR-Humanoid/mujoco-viewer",
+  "download_filename": "mjviewer-0.3.23.tar.gz",
+  "download_time": "2025-10-21T20:53:41.364010",
+  "package_url": "https://pypi.org/project/mjviewer/"
+}
