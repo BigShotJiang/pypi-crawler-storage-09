@@ -1,11 +1,11 @@
 {
   "name": "fyers_helper",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": null,
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "fyers_helper-0.1.11.tar.gz",
-  "download_time": "2025-10-20T07:39:38.821661",
+  "download_filename": "fyers_helper-0.1.12.tar.gz",
+  "download_time": "2025-10-21T06:29:33.931687",
   "package_url": "https://pypi.org/project/fyers_helper/"
 }

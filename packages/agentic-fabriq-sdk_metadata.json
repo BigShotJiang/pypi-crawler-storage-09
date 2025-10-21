@@ -1,11 +1,11 @@
 {
   "name": "agentic-fabriq-sdk",
-  "version": "0.1.7",
+  "version": "0.1.10",
   "summary": "Agentic Fabriq SDK: high-level client, CLI tool, DX helpers, and auth for AI agents",
   "author": "Agentic Fabriq Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agentic_fabriq_sdk-0.1.7.tar.gz",
-  "download_time": "2025-10-20T23:30:41.511604",
+  "download_filename": "agentic_fabriq_sdk-0.1.10.tar.gz",
+  "download_time": "2025-10-21T06:29:11.162897",
   "package_url": "https://pypi.org/project/agentic-fabriq-sdk/"
 }

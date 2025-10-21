@@ -1,0 +1,11 @@
+{
+  "name": "nyz-dynamic-design-builder",
+  "version": "3.0.1",
+  "summary": "Dynamic Excel export builder for Django ORM querysets",
+  "author": "Niyazi Özaydın",
+  "license": "MIT License\r\n        \r\n        Copyright (c) 2025 Niyazi Özaydın\r\n        \r\n        Permission is hereby granted, free of charge, to any person ...",
+  "home_page": "https://github.com/niyaziozydn/nyz-dynamic-design-builder",
+  "download_filename": "nyz_dynamic_design_builder-3.0.1.tar.gz",
+  "download_time": "2025-10-21T06:30:01.733290",
+  "package_url": "https://pypi.org/project/nyz-dynamic-design-builder/"
+}

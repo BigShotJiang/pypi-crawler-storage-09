@@ -1,11 +1,11 @@
 {
   "name": "neofoodclub",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "summary": "A Python implementation of functionality used in https://neofood.club",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neofoodclub-1.0.17-cp311-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
-  "download_time": "2025-10-21T03:53:32.308946",
+  "download_filename": "neofoodclub-1.0.18-cp311-abi3-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2025-10-21T06:29:58.283702",
   "package_url": "https://pypi.org/project/neofoodclub/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "envencrypt-core",
+  "version": "0.1.2",
+  "summary": "Core encryption utilities for python envencrypt",
+  "author": "Dyve, Igor Petrovic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "envencrypt_core-0.1.2.tar.gz",
+  "download_time": "2025-10-21T06:29:39.853878",
+  "package_url": "https://pypi.org/project/envencrypt-core/"
+}

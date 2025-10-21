@@ -1,11 +1,11 @@
 {
   "name": "cc-balancer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Intelligent proxy for Claude Code with automatic failover and load balancing",
   "author": "CC-Balancer Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cc_balancer-0.1.0.tar.gz",
-  "download_time": "2025-10-21T05:17:02.722975",
+  "download_filename": "cc_balancer-0.1.1.tar.gz",
+  "download_time": "2025-10-21T06:30:00.006876",
   "package_url": "https://pypi.org/project/cc-balancer/"
 }
