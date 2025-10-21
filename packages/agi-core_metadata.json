@@ -1,11 +1,11 @@
 {
   "name": "agi-core",
-  "version": "2025.10.21.post6",
+  "version": "2025.10.21.post7",
   "summary": "AGI meta-package that installs agi-env, agi-node, and agi-cluster",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agi_core-2025.10.21.post6.tar.gz",
-  "download_time": "2025-10-21T09:19:07.835724",
+  "download_filename": "agi_core-2025.10.21.post7.tar.gz",
+  "download_time": "2025-10-21T09:52:22.996249",
   "package_url": "https://pypi.org/project/agi-core/"
 }

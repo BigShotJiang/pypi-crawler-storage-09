@@ -1,0 +1,11 @@
+{
+  "name": "mrack",
+  "version": "1.25.0",
+  "summary": "Multicloud use-case based multihost async provisioner for CIs and testing during development",
+  "author": "Petr Vobornik",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/neoave/mrack",
+  "download_filename": "mrack-1.25.0.tar.gz",
+  "download_time": "2025-10-21T09:52:30.575108",
+  "package_url": "https://pypi.org/project/mrack/"
+}

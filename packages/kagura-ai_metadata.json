@@ -1,11 +1,11 @@
 {
   "name": "kagura-ai",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "summary": "Python-First AI Agent SDK - Build production AI with one decorator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kagura-ai-3.0.4.tar.gz",
-  "download_time": "2025-10-21T09:42:50.039523",
+  "download_filename": "kagura-ai-3.0.5.tar.gz",
+  "download_time": "2025-10-21T09:52:16.507908",
   "package_url": "https://pypi.org/project/kagura-ai/"
 }

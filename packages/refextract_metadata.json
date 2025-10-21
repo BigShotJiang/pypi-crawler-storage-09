@@ -1,0 +1,11 @@
+{
+  "name": "refextract",
+  "version": "1.1.6",
+  "summary": "Small library for extracting references used in scholarly communication.",
+  "author": "CERN",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "refextract-1.1.6.tar.gz",
+  "download_time": "2025-10-21T09:52:24.084455",
+  "package_url": "https://pypi.org/project/refextract/"
+}
