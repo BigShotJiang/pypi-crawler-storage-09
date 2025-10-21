@@ -1,11 +1,11 @@
 {
   "name": "backend-common-kato",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Shared common utilities for Python backend services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "backend_common_kato-0.0.5.tar.gz",
-  "download_time": "2025-10-21T03:31:30.594243",
+  "download_filename": "backend_common_kato-0.0.6.tar.gz",
+  "download_time": "2025-10-21T03:53:29.547002",
   "package_url": "https://pypi.org/project/backend-common-kato/"
 }

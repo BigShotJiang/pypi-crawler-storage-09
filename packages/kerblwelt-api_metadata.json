@@ -1,0 +1,11 @@
+{
+  "name": "kerblwelt-api",
+  "version": "0.1.0",
+  "summary": "Python API client for Kerbl Welt IoT platform (AKO Smart Satellite electric fence monitors)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kerblwelt_api-0.1.0.tar.gz",
+  "download_time": "2025-10-21T03:53:30.089467",
+  "package_url": "https://pypi.org/project/kerblwelt-api/"
+}

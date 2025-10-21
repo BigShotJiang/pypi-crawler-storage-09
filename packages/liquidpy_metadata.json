@@ -1,11 +1,11 @@
 {
   "name": "liquidpy",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "summary": "A port of liquid template engine for python",
   "author": "pwwang",
   "license": "MIT",
   "home_page": "https://github.com/pwwang/liquidpy",
-  "download_filename": "liquidpy-0.8.5.tar.gz",
-  "download_time": "2025-10-21T03:31:35.744262",
+  "download_filename": "liquidpy-0.8.6.tar.gz",
+  "download_time": "2025-10-21T03:53:33.909950",
   "package_url": "https://pypi.org/project/liquidpy/"
 }
