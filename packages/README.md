@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-21T14:54:36.372693
-- **Total Packages**: 94
-- **Total Size**: 34.64 MB
+- **Download Time**: 2025-10-21T15:19:16.351128
+- **Total Packages**: 92
+- **Total Size**: 11.82 MB
 
 ## Packages List
+- parsec-cloud
+- DedupeCopy
+- e2b
+- assemblyline-core
+- sottek-hearing-model
+- assemblyline
+- assemblyline-v4-service
+- pmultiqc
+- assemblyline-ui
+- assemblyline-service-server
+- assemblyline-service-client
+- timbal
+- sweetbean
+- reasoning-core
+- snowglobe-telemetry-mlflow
+- pxsol
+- scgeno
+- swh.datasets
+- rhizonet
+- apaai
+- terra-scientific-pipelines-service-api-client
+- apkit
+- Secro69
+- cuda-python
+- bssl-integrations
+- salutator
+- superset-toolkit
+- sqlmesh
+- quibbler
+- computemate
+- melody-features
+- pysio-hermes-moticon
 - redis-benchmarks-specification
 - py-robot-template
 - certbot-dns-netcup
@@ -14,7 +46,6 @@
 - agno
 - slack-blocksmith
 - scrapxd
-- quibbler
 - dbt-timeplus
 - forgebase
 - emu-mps
@@ -27,14 +58,12 @@
 - threadful
 - scc-firewall-manager-sdk
 - emu-sv
-- computemate
 - lib-memvid
 - otree
 - emu-base
 - coiled
 - legit-api-client
 - agentmake
-- sweetbean
 - aton
 - syft-hub
 - dagster-uc
@@ -51,7 +80,6 @@
 - linkmerce
 - dynasim
 - syncweb
-- qina-security-editor
 - praetorian-cli
 - reyserver
 - pulse-mantine
@@ -70,33 +98,3 @@
 - vuln-checker
 - apiout
 - sdf-xarray
-- signalpilot-ai
-- mongojet
-- ome-zarr-converters-tools
-- pycarlo
-- cert-framework
-- moai-adk
-- orionis
-- openreview-py
-- gstlearn
-- s-MProcs
-- sqlglot
-- newsworthycharts
-- vt-commons
-- sphinx-autodoc2-fern
-- coregtor
-- transformerlab
-- nexaai
-- viggocore
-- clk
-- spin-hmi
-- push-button-light-control
-- brainles-preprocessing
-- TypeTreeGeneratorAPI
-- json-view-anywidget
-- splineops
-- digitalkin
-- secontrol
-- sqlalchemy-spanner
-- llamactl
-- llama-deploy-core

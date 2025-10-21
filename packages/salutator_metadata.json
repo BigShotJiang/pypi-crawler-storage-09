@@ -1,0 +1,11 @@
+{
+  "name": "salutator",
+  "version": "0.1.1",
+  "summary": "A simple package for greetings and goodbyes",
+  "author": "John Doe",
+  "license": null,
+  "home_page": "https://github.com/juanmcloaiza/salutator",
+  "download_filename": "salutator-0.1.1.tar.gz",
+  "download_time": "2025-10-21T15:18:39.351826",
+  "package_url": "https://pypi.org/project/salutator/"
+}

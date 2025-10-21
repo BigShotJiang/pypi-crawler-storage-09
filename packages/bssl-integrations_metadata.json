@@ -1,0 +1,11 @@
+{
+  "name": "bssl-integrations",
+  "version": "1.0.0a0",
+  "summary": "BSSL project integration with existing http clients",
+  "author": "Dmytro Tkachenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bssl_integrations-1.0.0a0.tar.gz",
+  "download_time": "2025-10-21T15:18:38.785922",
+  "package_url": "https://pypi.org/project/bssl-integrations/"
+}
