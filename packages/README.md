@@ -1,21 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-21T21:42:02.627023
-- **Total Packages**: 88
-- **Total Size**: 19.13 MB
+- **Download Time**: 2025-10-21T21:52:41.220951
+- **Total Packages**: 82
+- **Total Size**: 15.66 MB
 
 ## Packages List
+- quantconnect-stubs
+- ncbi-tree
+- ethereum-light-api
+- sleepless-agent
+- obsidown
+- scc-firewall-manager-sdk
+- datasette-metadata-editable
+- tts-webui-extension.openai-tts-api
+- empowered
+- reward-hub
+- eval-protocol
+- NEMO-publications
+- omnigen-usf
+- authflow
+- fileglancer
+- letschatty
+- mysql-to-sqlite3
+- mlserve-sdk
+- kawapythonserver
+- tstrends
+- energy-toolkit
+- dayhoff-tools
+- model-runner-client
+- music-assistant-frontend
+- abstractvoice
 - epiccli-lite
 - producteca
 - emcd-projects
 - langgraph-api
 - computemate
-- scc-firewall-manager-sdk
 - wizit-context-ingestor
 - tree-sitter-zsh
 - yandex-mlproxy
-- empowered
 - streamlit-plugins
 - yandex-mlproxy-sync
 - streamlit-component-loader
@@ -41,7 +64,6 @@
 - manim-fa-physics
 - easycoder
 - hyperway
-- omnigen-usf
 - smart-scheduler
 - vigil-client
 - vigil-core
@@ -66,31 +88,3 @@
 - aind-zarr-utils
 - pystorz
 - truss
-- langchain-financial
-- pyhabitat
-- bombcell
-- arcade-actions
-- music-assistant-frontend
-- lihil
-- warn-scraper
-- infer-return-type
-- warp-tm-vis
-- eegdash
-- nexaai
-- vsi-cli
-- krl-data-connectors
-- kensho-kfinance
-- collinear
-- philh_myftp_biz
-- xgboost-cpu
-- web-recruitment-sdk
-- ragie
-- volt-framework
-- pypearl
-- entari-plugin-hyw
-- keeper-pam-webrtc-rs
-- sentry-redis-tools
-- basic-agent-chat-loop
-- langchain
-- pysma
-- devioc

@@ -1,0 +1,11 @@
+{
+  "name": "datasette-metadata-editable",
+  "version": "0.2a2",
+  "summary": null,
+  "author": "Alex Garcia",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "datasette_metadata_editable-0.2a2.tar.gz",
+  "download_time": "2025-10-21T21:52:00.031955",
+  "package_url": "https://pypi.org/project/datasette-metadata-editable/"
+}

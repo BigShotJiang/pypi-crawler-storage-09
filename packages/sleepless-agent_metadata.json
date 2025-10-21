@@ -1,0 +1,11 @@
+{
+  "name": "sleepless-agent",
+  "version": "0.1.0",
+  "summary": "24/7 AI agent that maximizes Claude usage via Slack interface",
+  "author": "Sleepless Agent Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sleepless_agent-0.1.0.tar.gz",
+  "download_time": "2025-10-21T21:51:57.874831",
+  "package_url": "https://pypi.org/project/sleepless-agent/"
+}
