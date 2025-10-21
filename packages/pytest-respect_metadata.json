@@ -1,0 +1,11 @@
+{
+  "name": "pytest-respect",
+  "version": "0.9.0",
+  "summary": "Pytest plugin to load resource files relative to test code and to expect values to match them.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_respect-0.9.0.tar.gz",
+  "download_time": "2025-10-21T09:42:46.381076",
+  "package_url": "https://pypi.org/project/pytest-respect/"
+}

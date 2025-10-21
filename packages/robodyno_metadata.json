@@ -1,0 +1,11 @@
+{
+  "name": "robodyno",
+  "version": "1.7.2",
+  "summary": "The Robodyno Robot SDK for Python 3",
+  "author": "song",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://101.42.250.169/",
+  "download_filename": "robodyno-1.7.2.tar.gz",
+  "download_time": "2025-10-21T09:42:49.514218",
+  "package_url": "https://pypi.org/project/robodyno/"
+}

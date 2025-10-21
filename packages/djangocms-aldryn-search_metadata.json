@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-aldryn-search",
+  "version": "3.1.0",
+  "summary": "An extension to django CMS to provide multilingual Haystack indexes.",
+  "author": "Benjamin Wohlwend",
+  "license": "BSD License",
+  "home_page": "https://github.com/CZ-NIC/djangocms-aldryn-search",
+  "download_filename": "djangocms_aldryn_search-3.1.0.tar.gz",
+  "download_time": "2025-10-21T09:43:15.971322",
+  "package_url": "https://pypi.org/project/djangocms-aldryn-search/"
+}

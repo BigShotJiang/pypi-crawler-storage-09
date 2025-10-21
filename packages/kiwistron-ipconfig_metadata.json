@@ -1,0 +1,11 @@
+{
+  "name": "kiwistron-ipconfig",
+  "version": "0.1.0",
+  "summary": "Serial-based network scanner and lightweight GUI to configure device Wi-Fi and get stream URL (Kiwistron IP config).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kiwistron_ipconfig-0.1.0.tar.gz",
+  "download_time": "2025-10-21T09:43:05.400062",
+  "package_url": "https://pypi.org/project/kiwistron-ipconfig/"
+}

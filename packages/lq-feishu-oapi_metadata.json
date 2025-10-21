@@ -1,0 +1,11 @@
+{
+  "name": "lq-feishu-oapi",
+  "version": "0.0.1",
+  "summary": "飞书扩展库",
+  "author": "你的名字",
+  "license": null,
+  "home_page": "https://gitee.com/my/my",
+  "download_filename": "lq-feishu-oapi-0.0.1.tar.gz",
+  "download_time": "2025-10-21T09:43:15.459805",
+  "package_url": "https://pypi.org/project/lq-feishu-oapi/"
+}

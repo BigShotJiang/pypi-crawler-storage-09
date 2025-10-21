@@ -1,0 +1,11 @@
+{
+  "name": "gizmo-sdk",
+  "version": "1.0.0",
+  "summary": "The official Python library for the gizmo API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gizmo_sdk-1.0.0.tar.gz",
+  "download_time": "2025-10-21T09:43:09.043405",
+  "package_url": "https://pypi.org/project/gizmo-sdk/"
+}

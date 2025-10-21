@@ -1,0 +1,11 @@
+{
+  "name": "patchworklib",
+  "version": "0.6.6",
+  "summary": "patchwork for matplotlib",
+  "author": "Hideto Mori",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/ponnhide/patchworklib",
+  "download_filename": "patchworklib-0.6.6-py3-none-any.whl",
+  "download_time": "2025-10-21T09:42:41.763914",
+  "package_url": "https://pypi.org/project/patchworklib/"
+}

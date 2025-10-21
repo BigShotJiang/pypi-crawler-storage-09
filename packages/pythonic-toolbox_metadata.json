@@ -1,0 +1,11 @@
+{
+  "name": "pythonic-toolbox",
+  "version": "1.1.40",
+  "summary": "a toolbox with pythonic utils, tools",
+  "author": "menglong.li",
+  "license": "Apache2.0",
+  "home_page": "https://github.com/albertmenglongli/pythonic-toolbox",
+  "download_filename": "pythonic-toolbox-1.1.40.tar.gz",
+  "download_time": "2025-10-21T09:43:22.011180",
+  "package_url": "https://pypi.org/project/pythonic-toolbox/"
+}

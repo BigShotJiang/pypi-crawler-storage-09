@@ -1,0 +1,11 @@
+{
+  "name": "exiv2",
+  "version": "0.18.0",
+  "summary": "Python interface to libexiv2",
+  "author": null,
+  "license": "GNU GPL",
+  "home_page": null,
+  "download_filename": "exiv2-0.18.0-cp310-cp310-macosx_13_0_x86_64.whl",
+  "download_time": "2025-10-21T09:43:01.562276",
+  "package_url": "https://pypi.org/project/exiv2/"
+}
