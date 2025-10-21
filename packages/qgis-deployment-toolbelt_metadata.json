@@ -1,0 +1,11 @@
+{
+  "name": "qgis-deployment-toolbelt",
+  "version": "0.40.0",
+  "summary": "QGIS deployment toolbelt is a CLI (Command Line Interface) to perform redundant operations after a QGIS deployment, managing QGIS profiles, plugins, environment variables, start menu / desktop shortcuts and many things to rationalize your QGIS installations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qgis_deployment_toolbelt-0.40.0-py3-none-any.whl",
+  "download_time": "2025-10-21T14:54:04.156140",
+  "package_url": "https://pypi.org/project/qgis-deployment-toolbelt/"
+}

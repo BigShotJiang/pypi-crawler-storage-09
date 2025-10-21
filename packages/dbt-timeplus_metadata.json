@@ -1,0 +1,11 @@
+{
+  "name": "dbt-timeplus",
+  "version": "1.10.0",
+  "summary": "The Timeplus (Proton) plugin for dbt (data build tool)",
+  "author": "Timeplus Inc.",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/timeplus-io/dbt-timeplus",
+  "download_filename": "dbt_timeplus-1.10.0.tar.gz",
+  "download_time": "2025-10-21T14:53:47.383309",
+  "package_url": "https://pypi.org/project/dbt-timeplus/"
+}

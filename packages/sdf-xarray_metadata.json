@@ -1,0 +1,11 @@
+{
+  "name": "sdf-xarray",
+  "version": "0.3.0",
+  "summary": "Provides a backend for xarray to read SDF files as created by the EPOCH plasma PIC code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdf_xarray-0.3.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-21T14:54:18.903357",
+  "package_url": "https://pypi.org/project/sdf-xarray/"
+}

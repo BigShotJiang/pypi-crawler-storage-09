@@ -1,0 +1,11 @@
+{
+  "name": "commonroad-labeling",
+  "version": "2025.1.2",
+  "summary": "Automatic labeling of CommonRoad scenarios.",
+  "author": "Florian Finkeldei",
+  "license": null,
+  "home_page": null,
+  "download_filename": "commonroad_labeling-2025.1.2.tar.gz",
+  "download_time": "2025-10-21T14:54:15.455658",
+  "package_url": "https://pypi.org/project/commonroad-labeling/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lib2fas",
+  "version": "0.1.10",
+  "summary": "Unofficial implementation of 2fas for Python (as a library)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lib2fas-0.1.10.tar.gz",
+  "download_time": "2025-10-21T14:54:17.126742",
+  "package_url": "https://pypi.org/project/lib2fas/"
+}
