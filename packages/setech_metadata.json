@@ -1,11 +1,11 @@
 {
   "name": "setech",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "Setech utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "setech-1.5.1.tar.gz",
-  "download_time": "2025-10-21T12:34:48.724705",
+  "download_filename": "setech-1.5.2.tar.gz",
+  "download_time": "2025-10-21T13:24:33.804901",
   "package_url": "https://pypi.org/project/setech/"
 }

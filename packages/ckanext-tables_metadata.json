@@ -1,11 +1,11 @@
 {
   "name": "ckanext-tables",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "An extension to render dynamic tables",
   "author": null,
   "license": "AGPL",
   "home_page": null,
-  "download_filename": "ckanext_tables-1.1.1.tar.gz",
-  "download_time": "2025-10-21T11:52:04.235718",
+  "download_filename": "ckanext_tables-1.2.0.tar.gz",
+  "download_time": "2025-10-21T13:24:30.710102",
   "package_url": "https://pypi.org/project/ckanext-tables/"
 }

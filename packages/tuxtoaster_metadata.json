@@ -1,11 +1,11 @@
 {
   "name": "tuxtoaster",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "summary": "All-in-one Linux stress and benchmarking toolkit",
   "author": "Samuel Matildes",
   "license": null,
   "home_page": null,
-  "download_filename": "tuxtoaster-1.2.4.tar.gz",
-  "download_time": "2025-10-20T10:45:33.067065",
+  "download_filename": "tuxtoaster-1.2.6.tar.gz",
+  "download_time": "2025-10-21T13:23:54.793492",
   "package_url": "https://pypi.org/project/tuxtoaster/"
 }

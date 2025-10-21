@@ -1,0 +1,11 @@
+{
+  "name": "briefcasex-slint",
+  "version": "1.14.0b1",
+  "summary": "Plugin for Briefcase to offer Slint application templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "briefcasex_slint-1.14.0b1.tar.gz",
+  "download_time": "2025-10-21T13:24:29.158624",
+  "package_url": "https://pypi.org/project/briefcasex-slint/"
+}

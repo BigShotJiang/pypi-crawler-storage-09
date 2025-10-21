@@ -1,0 +1,11 @@
+{
+  "name": "niaarmts",
+  "version": "0.2.6",
+  "summary": "Time series numerical association rule mining variants",
+  "author": "Iztok Fister Jr.",
+  "license": null,
+  "home_page": "https://github.com/firefly-cpp/NiaARMTS",
+  "download_filename": "niaarmts-0.2.6.tar.gz",
+  "download_time": "2025-10-21T13:24:28.132049",
+  "package_url": "https://pypi.org/project/niaarmts/"
+}

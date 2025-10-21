@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-parameters",
+  "version": "2.2.0",
+  "summary": "Set or overwrite parameters of a task.",
+  "author": "Thomas Wilmering",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/eccenca/cmem-plugin-parameters/",
+  "download_filename": "cmem_plugin_parameters-2.2.0.tar.gz",
+  "download_time": "2025-10-21T13:24:10.498645",
+  "package_url": "https://pypi.org/project/cmem-plugin-parameters/"
+}

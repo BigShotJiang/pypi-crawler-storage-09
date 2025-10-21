@@ -1,0 +1,11 @@
+{
+  "name": "telert",
+  "version": "0.2.7",
+  "summary": "Ultimate command monitoring & notification system: Telegram, Slack, Discord, Teams, Pushover, Email, desktop & more. Monitor Python code and CLI tasks with context managers, decorators, and webhooks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "telert-0.2.7.tar.gz",
+  "download_time": "2025-10-21T13:24:26.590623",
+  "package_url": "https://pypi.org/project/telert/"
+}

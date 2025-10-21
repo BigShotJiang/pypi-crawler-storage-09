@@ -1,0 +1,11 @@
+{
+  "name": "mf6Voronoi",
+  "version": "0.0.37",
+  "summary": "Voronoi mesh generator for MODFLOW6 Disv models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mf6voronoi-0.0.37.tar.gz",
+  "download_time": "2025-10-21T13:24:20.347196",
+  "package_url": "https://pypi.org/project/mf6Voronoi/"
+}

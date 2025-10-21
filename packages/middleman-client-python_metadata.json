@@ -1,0 +1,11 @@
+{
+  "name": "middleman-client-python",
+  "version": "1.0.2",
+  "summary": "Python client library for MiddleMan applications",
+  "author": "andyyy2k",
+  "license": null,
+  "home_page": null,
+  "download_filename": "middleman_client_python-1.0.2.tar.gz",
+  "download_time": "2025-10-21T13:23:48.524972",
+  "package_url": "https://pypi.org/project/middleman-client-python/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "samvaad",
+  "version": "0.1.0",
+  "summary": "An AI-powered conversational assistant with voice support and document intelligence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "samvaad-0.1.0.tar.gz",
+  "download_time": "2025-10-21T13:23:58.926632",
+  "package_url": "https://pypi.org/project/samvaad/"
+}

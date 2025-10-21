@@ -1,0 +1,11 @@
+{
+  "name": "dictop",
+  "version": "0.2.3",
+  "summary": "DICT-OPERATION allow you select data value from a dict-instance with dot separated path, and update.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dictop-0.2.3.tar.gz",
+  "download_time": "2025-10-21T13:24:18.212059",
+  "package_url": "https://pypi.org/project/dictop/"
+}

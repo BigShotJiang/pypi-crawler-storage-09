@@ -1,0 +1,11 @@
+{
+  "name": "medisearch-client",
+  "version": "0.3.17",
+  "summary": "A Python client for the MediSearch medical information API",
+  "author": "Michal Pandy",
+  "license": null,
+  "home_page": "https://github.com/MediSearch/medisearch_client_python",
+  "download_filename": "medisearch_client-0.3.17.tar.gz",
+  "download_time": "2025-10-21T13:24:00.491659",
+  "package_url": "https://pypi.org/project/medisearch-client/"
+}
