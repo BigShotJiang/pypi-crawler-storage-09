@@ -1,11 +1,11 @@
 {
   "name": "fxpoppet",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "A Python module that enables the automation of Firefox on Android",
   "author": "Tyson Smith",
   "license": "MPL 2.0",
   "home_page": "https://github.com/MozillaSecurity/fxpoppet",
-  "download_filename": "fxpoppet-0.3.4.tar.gz",
-  "download_time": "2025-10-20T16:21:50.229248",
+  "download_filename": "fxpoppet-0.3.5.tar.gz",
+  "download_time": "2025-10-21T18:23:27.885553",
   "package_url": "https://pypi.org/project/fxpoppet/"
 }

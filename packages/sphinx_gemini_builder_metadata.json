@@ -1,0 +1,11 @@
+{
+  "name": "sphinx_gemini_builder",
+  "version": "2.0.1",
+  "summary": "Build gemini blog",
+  "author": "kujiu, ptitgnu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_gemini_builder-2.0.1.tar.gz",
+  "download_time": "2025-10-21T18:24:00.677037",
+  "package_url": "https://pypi.org/project/sphinx_gemini_builder/"
+}

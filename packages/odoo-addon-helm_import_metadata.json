@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helm_import",
+  "version": "18.0.1.0.0",
+  "summary": "Import data from Helm repo.",
+  "author": "Mint System GmbH",
+  "license": "AGPL-3",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_helm_import-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-21T18:23:50.854612",
+  "package_url": "https://pypi.org/project/odoo-addon-helm_import/"
+}

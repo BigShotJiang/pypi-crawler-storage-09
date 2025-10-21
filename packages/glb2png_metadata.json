@@ -1,11 +1,11 @@
 {
   "name": "glb2png",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Convert GLB files to PNG previews",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glb2png-0.1.2.tar.gz",
-  "download_time": "2025-10-21T16:25:54.289084",
+  "download_filename": "glb2png-0.1.4.tar.gz",
+  "download_time": "2025-10-21T18:23:54.450888",
   "package_url": "https://pypi.org/project/glb2png/"
 }

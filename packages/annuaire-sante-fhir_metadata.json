@@ -1,0 +1,11 @@
+{
+  "name": "annuaire-sante-fhir",
+  "version": "0.0.3",
+  "summary": "Client Python type-safe pour l'API Annuaire Santé : FHIR vers JSON DB-ready avec résolution MOS automatique",
+  "author": "Olivier Roch Vilato",
+  "license": null,
+  "home_page": null,
+  "download_filename": "annuaire_sante_fhir-0.0.3.tar.gz",
+  "download_time": "2025-10-21T18:24:07.874276",
+  "package_url": "https://pypi.org/project/annuaire-sante-fhir/"
+}

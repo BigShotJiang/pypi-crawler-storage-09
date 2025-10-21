@@ -1,11 +1,11 @@
 {
   "name": "dspyteach",
-  "version": "0.1.8b1",
+  "version": "0.1.9b1",
   "summary": "CLI utility that summarizes single files into teaching briefs using DSPy, with optional MLflow tracking",
   "author": "DSPy File Maintainers",
   "license": null,
   "home_page": null,
-  "download_filename": "dspyteach-0.1.8b1.tar.gz",
-  "download_time": "2025-10-20T14:16:41.350020",
+  "download_filename": "dspyteach-0.1.9b1.tar.gz",
+  "download_time": "2025-10-21T18:23:52.385617",
   "package_url": "https://pypi.org/project/dspyteach/"
 }

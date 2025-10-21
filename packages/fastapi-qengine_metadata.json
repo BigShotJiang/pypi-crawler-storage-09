@@ -1,11 +1,11 @@
 {
   "name": "fastapi-qengine",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "summary": "fastapi-qengine is an advanced query engine for FastAPI, inspired by Loopback 4's filtering system. It allows building complex queries directly from URLs with a flexible syntax.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_qengine-0.6.1.tar.gz",
-  "download_time": "2025-10-20T23:31:00.642629",
+  "download_filename": "fastapi_qengine-0.6.3.tar.gz",
+  "download_time": "2025-10-21T18:23:46.583808",
   "package_url": "https://pypi.org/project/fastapi-qengine/"
 }

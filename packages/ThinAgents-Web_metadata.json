@@ -1,0 +1,11 @@
+{
+  "name": "ThinAgents-Web",
+  "version": "0.0.1",
+  "summary": "Web application for ThinAgents",
+  "author": "Prabhu Kiran Konda",
+  "license": "MIT",
+  "home_page": "https://github.com/PrabhuKiran8790/thinagents_web",
+  "download_filename": "thinagents_web-0.0.1.tar.gz",
+  "download_time": "2025-10-21T18:24:00.163115",
+  "package_url": "https://pypi.org/project/ThinAgents-Web/"
+}

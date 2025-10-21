@@ -1,11 +1,11 @@
 {
   "name": "aisentinel-sdk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AISentinel Python SDK for AI governance and security",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aisentinel_sdk-0.1.1.tar.gz",
-  "download_time": "2025-10-21T04:20:20.258814",
+  "download_filename": "aisentinel_sdk-0.1.2.tar.gz",
+  "download_time": "2025-10-21T18:23:51.365835",
   "package_url": "https://pypi.org/project/aisentinel-sdk/"
 }
