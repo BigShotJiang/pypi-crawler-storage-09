@@ -1,0 +1,11 @@
+{
+  "name": "useless-facts-package",
+  "version": "1.0.0",
+  "summary": "A Python package that returns random useless facts. So useless in fact that it's actually usefull.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/useless-facts",
+  "download_filename": "useless_facts_package-1.0.0.tar.gz",
+  "download_time": "2025-10-21T23:52:04.764249",
+  "package_url": "https://pypi.org/project/useless-facts-package/"
+}

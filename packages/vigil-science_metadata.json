@@ -1,11 +1,11 @@
 {
   "name": "vigil-science",
-  "version": "0.3.3",
+  "version": "0.3.5",
   "summary": "Vigil Science: Complete reproducible science platform",
   "author": "Science Abundance",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vigil_science-0.3.3.tar.gz",
-  "download_time": "2025-10-21T23:32:35.247324",
+  "download_filename": "vigil_science-0.3.5.tar.gz",
+  "download_time": "2025-10-21T23:51:52.691734",
   "package_url": "https://pypi.org/project/vigil-science/"
 }

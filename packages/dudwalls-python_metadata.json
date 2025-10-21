@@ -1,0 +1,11 @@
+{
+  "name": "dudwalls-python",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Dudwalls NoSQL Database",
+  "author": "Dudwalls Team",
+  "license": null,
+  "home_page": "https://github.com/dudwalls/dudwalls-python",
+  "download_filename": "dudwalls_python-1.0.0.tar.gz",
+  "download_time": "2025-10-21T23:51:55.330195",
+  "package_url": "https://pypi.org/project/dudwalls-python/"
+}

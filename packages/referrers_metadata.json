@@ -1,0 +1,11 @@
+{
+  "name": "referrers",
+  "version": "0.16.1",
+  "summary": "Finds the graph of referrers for a Python object",
+  "author": "Neil Ferguson",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "referrers-0.16.1.tar.gz",
+  "download_time": "2025-10-21T23:52:04.241298",
+  "package_url": "https://pypi.org/project/referrers/"
+}

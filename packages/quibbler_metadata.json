@@ -1,11 +1,11 @@
 {
   "name": "quibbler",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "AI monitoring for Claude Code agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quibbler-0.1.4.tar.gz",
-  "download_time": "2025-10-21T15:18:41.069776",
+  "download_filename": "quibbler-0.1.5.tar.gz",
+  "download_time": "2025-10-21T23:51:51.079328",
   "package_url": "https://pypi.org/project/quibbler/"
 }

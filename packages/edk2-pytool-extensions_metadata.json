@@ -1,11 +1,11 @@
 {
   "name": "edk2-pytool-extensions",
-  "version": "0.30.4",
+  "version": "0.30.5",
   "summary": "Python tools supporting UEFI EDK2 firmware development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edk2_pytool_extensions-0.30.4.tar.gz",
-  "download_time": "2025-10-20T22:33:41.937374",
+  "download_filename": "edk2_pytool_extensions-0.30.5.tar.gz",
+  "download_time": "2025-10-21T23:51:43.090683",
   "package_url": "https://pypi.org/project/edk2-pytool-extensions/"
 }
