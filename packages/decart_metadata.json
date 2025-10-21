@@ -1,0 +1,11 @@
+{
+  "name": "decart",
+  "version": "0.0.3",
+  "summary": "Decart's Python SDK",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "decart-0.0.3.tar.gz",
+  "download_time": "2025-10-21T14:36:07.226406",
+  "package_url": "https://pypi.org/project/decart/"
+}

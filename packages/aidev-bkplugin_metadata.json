@@ -1,11 +1,11 @@
 {
   "name": "aidev-bkplugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "AiDev Agent Bkplugin builtin functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aidev_bkplugin-1.0.1-py3-none-any.whl",
-  "download_time": "2025-10-21T04:20:24.987523",
+  "download_filename": "aidev_bkplugin-1.0.2-py3-none-any.whl",
+  "download_time": "2025-10-21T14:36:25.163055",
   "package_url": "https://pypi.org/project/aidev-bkplugin/"
 }

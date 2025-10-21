@@ -1,0 +1,11 @@
+{
+  "name": "invenio-records-global-search",
+  "version": "0.3.5",
+  "summary": "InvenioRDM module for the Dublin Core data model",
+  "author": "TU Graz",
+  "license": "MIT",
+  "home_page": "https://github.com/tu-graz-library/invenio-records-global-search",
+  "download_filename": "invenio_records_global_search-0.3.5.tar.gz",
+  "download_time": "2025-10-21T14:36:35.703115",
+  "package_url": "https://pypi.org/project/invenio-records-global-search/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "biosero-data-models",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A python library with client and contract code to work with the Data Services API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "biosero_data_models-0.1.4.tar.gz",
-  "download_time": "2025-10-20T16:21:20.367636",
+  "download_filename": "biosero_data_models-0.1.6.tar.gz",
+  "download_time": "2025-10-21T14:35:59.353518",
   "package_url": "https://pypi.org/project/biosero-data-models/"
 }

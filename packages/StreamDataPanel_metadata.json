@@ -1,11 +1,11 @@
 {
   "name": "StreamDataPanel",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "summary": "StreamDataPanel is a web app used to show frequently-freshed data.",
   "author": "Syuya_Murakami",
   "license": null,
   "home_page": null,
-  "download_filename": "streamdatapanel-0.1.21.tar.gz",
-  "download_time": "2025-10-21T13:24:22.445855",
+  "download_filename": "streamdatapanel-0.1.22.tar.gz",
+  "download_time": "2025-10-21T14:36:09.328231",
   "package_url": "https://pypi.org/project/StreamDataPanel/"
 }

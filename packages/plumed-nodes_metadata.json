@@ -1,0 +1,11 @@
+{
+  "name": "plumed-nodes",
+  "version": "0.1.0a6",
+  "summary": "Python interfaces for the plumed library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plumed_nodes-0.1.0a6.tar.gz",
+  "download_time": "2025-10-21T14:36:15.204695",
+  "package_url": "https://pypi.org/project/plumed-nodes/"
+}
