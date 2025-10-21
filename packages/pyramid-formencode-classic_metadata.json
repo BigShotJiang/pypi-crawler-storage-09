@@ -1,0 +1,11 @@
+{
+  "name": "pyramid-formencode-classic",
+  "version": "0.11.3",
+  "summary": "('An implementation of the classic Pylons formencode validation, for Pyramid',)",
+  "author": "Jonathan Vanasco",
+  "license": "BSD",
+  "home_page": "https://github.com/jvanasco/pyramid_formencode_classic",
+  "download_filename": "pyramid_formencode_classic-0.11.3.tar.gz",
+  "download_time": "2025-10-21T16:47:47.840007",
+  "package_url": "https://pypi.org/project/pyramid-formencode-classic/"
+}

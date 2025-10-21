@@ -1,11 +1,11 @@
 {
   "name": "pagerduty_advance_mcp",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "summary": "PagerDuty's official local MCP (Model Context Protocol) server which provides tools to interact with PagerDuty AI Agent directly from your MCP-enabled client.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pagerduty_advance_mcp-0.0.4.tar.gz",
-  "download_time": "2025-10-20T11:40:32.710736",
+  "download_filename": "pagerduty_advance_mcp-0.0.7.tar.gz",
+  "download_time": "2025-10-21T16:47:34.802639",
   "package_url": "https://pypi.org/project/pagerduty_advance_mcp/"
 }

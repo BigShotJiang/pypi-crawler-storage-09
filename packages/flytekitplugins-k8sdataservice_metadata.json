@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-k8sdataservice",
+  "version": "1.16.6",
+  "summary": "Flytekit K8s Data Service Plugin",
+  "author": "LinkedIn",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_k8sdataservice-1.16.6.tar.gz",
+  "download_time": "2025-10-21T16:48:07.290577",
+  "package_url": "https://pypi.org/project/flytekitplugins-k8sdataservice/"
+}

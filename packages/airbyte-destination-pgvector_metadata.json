@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-destination-pgvector",
+  "version": "0.1.8",
+  "summary": "Airbyte destination implementation for PGVector.",
+  "author": "Airbyte",
+  "license": "ELv2",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_destination_pgvector-0.1.8.tar.gz",
+  "download_time": "2025-10-21T16:47:46.777236",
+  "package_url": "https://pypi.org/project/airbyte-destination-pgvector/"
+}

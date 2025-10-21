@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-spark",
+  "version": "1.16.6",
+  "summary": "Spark 3 plugin for flytekit",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": null,
+  "download_filename": "flytekitplugins_spark-1.16.6.tar.gz",
+  "download_time": "2025-10-21T16:47:53.287449",
+  "package_url": "https://pypi.org/project/flytekitplugins-spark/"
+}

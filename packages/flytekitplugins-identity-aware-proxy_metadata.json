@@ -1,0 +1,11 @@
+{
+  "name": "flytekitplugins-identity-aware-proxy",
+  "version": "1.16.6",
+  "summary": "External command plugin to generate ID tokens for GCP Identity Aware Proxy",
+  "author": "flyteorg",
+  "license": "apache2",
+  "home_page": "https://github.com/flyteorg/flytekit/tree/master/plugins/flytekit-identity-aware-proxy",
+  "download_filename": "flytekitplugins_identity_aware_proxy-1.16.6.tar.gz",
+  "download_time": "2025-10-21T16:48:09.044591",
+  "package_url": "https://pypi.org/project/flytekitplugins-identity-aware-proxy/"
+}
