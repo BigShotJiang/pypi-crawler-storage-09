@@ -1,0 +1,11 @@
+{
+  "name": "docpipe-ai",
+  "version": "0.2.0",
+  "summary": "OpenAI-Compatible & Dynamic-Batch AI post-processor for docpipe-mini",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docpipe_ai-0.2.0.tar.gz",
+  "download_time": "2025-10-21T05:51:23.370751",
+  "package_url": "https://pypi.org/project/docpipe-ai/"
+}

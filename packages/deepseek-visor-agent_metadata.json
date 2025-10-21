@@ -1,0 +1,11 @@
+{
+  "name": "deepseek-visor-agent",
+  "version": "0.1.0",
+  "summary": "Standard vision tool for AI agents - Convert documents to structured data",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "deepseek_visor_agent-0.1.0.tar.gz",
+  "download_time": "2025-10-21T05:51:25.432760",
+  "package_url": "https://pypi.org/project/deepseek-visor-agent/"
+}

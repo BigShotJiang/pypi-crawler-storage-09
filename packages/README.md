@@ -1,27 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-21T05:36:30.272474
-- **Total Packages**: 83
-- **Total Size**: 1.39 MB
+- **Download Time**: 2025-10-21T05:51:53.427123
+- **Total Packages**: 80
+- **Total Size**: 3.34 MB
 
 ## Packages List
+- jupyter-hurl-kernel
+- infuse-iot
+- Quadrupy
+- uk_bin_collection
+- dptoie
+- aegis-vision
+- lockpy
+- netra-sdk
+- mcp-server-flow
+- odoo-plugin-manager
+- opendp
+- anzar
+- sql-query-builder-py
+- nexaai
+- jknife
+- pyimagedl
+- abstractassistant
+- beads-mcp
+- nemo-library-etl
+- drupal-scout-mcp
+- downstream
+- market-data-orchestrator
+- pymbc
+- swarms
+- django-cfg
+- docpipe-ai
+- FourCIPP
+- autogen-vertexai-memory
+- deepseek-visor-agent
+- pulumiverse-vercel
+- serpex
+- pulumiverse-gandi
+- commit-bot
+- hanzo-live
+- judge-llm
+- bbeval
+- mkdocs-minify-html-plugin
+- cat-llm
+- pro-craft
+- pypomes-http
+- EqUMP
 - clickzetta-semantic-model-generator
 - moleditpy-linux
 - moleditpy
 - langchain-trigger-server
 - gandol2-ocr
-- nemo-library-etl
 - gh-actions-tool-kit
-- judge-llm
-- odoo-plugin-manager
 - reflexive
 - connectonion
 - py-dmmjp
 - mysingle-quant
 - mcp-agent
 - fusesell
-- jknife
 - pyauxlib
 - mcp-agentcore-proxy
 - cc-balancer
@@ -29,7 +66,6 @@
 - gitlab-api
 - internet-archive-extractor
 - isa-model
-- django-cfg
 - audio-transcriber
 - md2pdf-mermaid
 - datacube
@@ -50,42 +86,3 @@
 - tap-fedidb
 - Publ
 - easysewer
-- iamdata
-- anzar
-- tap-planetscaleapi
-- Cb-FloodDy
-- drupal-scout-mcp
-- qolsys-controller
-- pulumi-xyz
-- isolate-proto
-- tap-clinicaltrials
-- kc-ohlc
-- agnt5
-- pulumi-provider-boilerplate
-- llm-sandbox
-- bioql
-- cisco-ai-mcp-scanner
-- mcp-contextforge-gateway
-- physioprep
-- archivebox-api
-- sglang-router
-- zachvit
-- smc-screener
-- intentkit
-- mcplaywright
-- pydantic-typed-cache
-- model-mp-core
-- model-mp-io
-- semverish
-- por-que
-- django-filtering
-- keras-nlp-nightly
-- keras-hub-nightly
-- apache-tvm-ffi
-- qctrl-fire-opal-riken-commons
-- qctrl-fire-opal-riken-client
-- ttkbootstrap
-- DLMS-SPODES
-- pypomes-http
-- servicenow-api
-- codeviewx

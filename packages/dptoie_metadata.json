@@ -1,11 +1,11 @@
 {
   "name": "dptoie",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "summary": "DPToie-Python is an Open Information Extractor for Portuguese language that employs Dependence Parser and Part of Speech Tagger models with Stanford CoreNLP.",
   "author": "André Walker",
   "license": null,
   "home_page": null,
-  "download_filename": "dptoie-0.1.0.tar.gz",
-  "download_time": "2025-10-21T05:16:49.709589",
+  "download_filename": "dptoie-0.1.5.tar.gz",
+  "download_time": "2025-10-21T05:51:10.572735",
   "package_url": "https://pypi.org/project/dptoie/"
 }

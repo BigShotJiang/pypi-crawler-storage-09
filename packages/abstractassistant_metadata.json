@@ -1,11 +1,11 @@
 {
   "name": "abstractassistant",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "A sleek (macOS) system tray application providing instant access to LLMs",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "abstractassistant-0.2.5.tar.gz",
-  "download_time": "2025-10-21T02:45:38.483163",
+  "download_filename": "abstractassistant-0.2.7.tar.gz",
+  "download_time": "2025-10-21T05:51:17.971001",
   "package_url": "https://pypi.org/project/abstractassistant/"
 }
