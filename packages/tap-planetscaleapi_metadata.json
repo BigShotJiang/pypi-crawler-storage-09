@@ -1,0 +1,11 @@
+{
+  "name": "tap-planetscaleapi",
+  "version": "0.4.3",
+  "summary": "Singer tap for PlanetScaleAPI, built with the Meltano Singer SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tap_planetscaleapi-0.4.3.tar.gz",
+  "download_time": "2025-10-21T04:53:35.660183",
+  "package_url": "https://pypi.org/project/tap-planetscaleapi/"
+}

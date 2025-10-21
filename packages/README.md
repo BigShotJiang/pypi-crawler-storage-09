@@ -1,11 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-21T04:44:41.147524
+- **Download Time**: 2025-10-21T04:54:11.426176
 - **Total Packages**: 88
-- **Total Size**: 19.57 MB
+- **Total Size**: 4.11 MB
 
 ## Packages List
+- resgen-python
+- gandol2-ocr
+- preliz
+- django-qs-lsp
+- syncweb
+- VKPyKit
+- terrakio-admin-api
+- terrakio-api
+- judge-llm
+- terrakio-core
+- cumulusci
+- oc-client-provider
+- md2pdf-mermaid
+- collinear
+- tap-fedidb
+- Publ
+- easysewer
+- iamdata
+- anzar
+- tap-planetscaleapi
+- Cb-FloodDy
+- drupal-scout-mcp
+- qolsys-controller
+- pulumi-xyz
 - isolate-proto
 - tap-clinicaltrials
 - kc-ohlc
@@ -13,7 +37,6 @@
 - pulumi-provider-boilerplate
 - llm-sandbox
 - bioql
-- qolsys-controller
 - cisco-ai-mcp-scanner
 - mcp-contextforge-gateway
 - physioprep
@@ -22,7 +45,6 @@
 - zachvit
 - smc-screener
 - intentkit
-- pulumi-xyz
 - mcplaywright
 - pydantic-typed-cache
 - model-mp-core
@@ -35,7 +57,6 @@
 - keras-hub-nightly
 - apache-tvm-ffi
 - SURE-tools
-- anzar
 - qctrl-fire-opal-riken-commons
 - qctrl-fire-opal-riken-client
 - ttkbootstrap
@@ -73,24 +94,3 @@
 - pyenmeval
 - databricks-switch-plugin
 - dtreenetwork
-- clickzetta-semantic-model-generator
-- pex
-- netdriver
-- viqi-api
-- pydantic-rpc-cli
-- pydantic-rpc
-- kissllm
-- bach-cedar-mcp
-- odoo-addon-tms
-- pdf-mcp-server
-- modusa
-- odoo-addon-spreadsheet-dashboard-oca
-- odoo-addon-spreadsheet-oca
-- odoo-addon-mail-gateway
-- simple_duck_ml
-- odoo-addon-base-tier-validation
-- symclosestwannier
-- trilium-py
-- witrnhid
-- tsuno
-- phono3py
