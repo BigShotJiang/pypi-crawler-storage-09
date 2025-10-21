@@ -1,11 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-21T04:20:55.903476
-- **Total Packages**: 85
-- **Total Size**: 18.25 MB
+- **Download Time**: 2025-10-21T04:44:41.147524
+- **Total Packages**: 88
+- **Total Size**: 19.57 MB
 
 ## Packages List
+- isolate-proto
+- tap-clinicaltrials
+- kc-ohlc
+- agnt5
+- pulumi-provider-boilerplate
+- llm-sandbox
+- bioql
+- qolsys-controller
+- cisco-ai-mcp-scanner
+- mcp-contextforge-gateway
+- physioprep
+- archivebox-api
+- sglang-router
+- zachvit
+- smc-screener
+- intentkit
+- pulumi-xyz
+- mcplaywright
+- pydantic-typed-cache
+- model-mp-core
+- model-mp-io
+- semverish
+- mysingle-quant
+- por-que
+- django-filtering
+- keras-nlp-nightly
+- keras-hub-nightly
+- apache-tvm-ffi
+- SURE-tools
+- anzar
+- qctrl-fire-opal-riken-commons
 - qctrl-fire-opal-riken-client
 - ttkbootstrap
 - DLMS-SPODES
@@ -15,7 +46,6 @@
 - gitlab-api
 - fastapi-mcp-openapi
 - lmspace
-- archivebox-api
 - svc-infra
 - employment-hero-sdk
 - clippy-code
@@ -23,7 +53,6 @@
 - hjxdl
 - snowflake-connector-python-nightly
 - openportal
-- qctrl-fire-opal-riken-commons
 - fred-oss
 - parallel-web
 - CVNN-Jamie
@@ -50,7 +79,6 @@
 - viqi-api
 - pydantic-rpc-cli
 - pydantic-rpc
-- SURE-tools
 - kissllm
 - bach-cedar-mcp
 - odoo-addon-tms
@@ -59,7 +87,6 @@
 - odoo-addon-spreadsheet-dashboard-oca
 - odoo-addon-spreadsheet-oca
 - odoo-addon-mail-gateway
-- mcplaywright
 - simple_duck_ml
 - odoo-addon-base-tier-validation
 - symclosestwannier
@@ -67,27 +94,3 @@
 - witrnhid
 - tsuno
 - phono3py
-- concurry
-- labcodes
-- backend-common-kato
-- kerblwelt-api
-- slack-github-triager-core
-- tcdr
-- simunet-netdriver
-- neofoodclub
-- common-stats-thaichim
-- liquidpy
-- Cb-FloodDy
-- cdktf-cdktf-provider-upcloud
-- quilt-mcp
-- odoo-addon-purchase-line-reassign
-- multi-puzzle-solver
-- shancx
-- ExploTest
-- odoo-addons-oca-project
-- synth-ai
-- reflex
-- spiraltorch
-- sam-mask-cli
-- exness-data-preprocess
-- keras-rs-nightly

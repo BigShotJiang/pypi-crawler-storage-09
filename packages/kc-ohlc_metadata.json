@@ -1,0 +1,11 @@
+{
+  "name": "kc-ohlc",
+  "version": "0.2.1",
+  "summary": "Authenticated client + CLI for KC Trading OHLC API (pandas/polars). Optional HMAC signing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kc_ohlc-0.2.1.tar.gz",
+  "download_time": "2025-10-21T04:43:56.003144",
+  "package_url": "https://pypi.org/project/kc-ohlc/"
+}

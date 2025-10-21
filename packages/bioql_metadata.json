@@ -1,11 +1,11 @@
 {
   "name": "bioql",
-  "version": "5.7.6",
+  "version": "5.7.7",
   "summary": "Enterprise Quantum Computing v5.6.0 - ADVANCED DRUG DISCOVERY PIPELINE: ADME/Tox Prediction, Bioisosteric Replacement (12+ replacements), Similarity Search (ChEMBL/PubChem), Off-Target Screening (30+ proteins), Resistance Profiling, Complete 9-Step Pipeline Orchestrator - Production Ready!",
   "author": "BioQL Development Team - SpectrixRD",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/bioql",
-  "download_filename": "bioql-5.7.6.tar.gz",
-  "download_time": "2025-10-19T19:37:19.969489",
+  "download_filename": "bioql-5.7.7.tar.gz",
+  "download_time": "2025-10-21T04:43:58.777763",
   "package_url": "https://pypi.org/project/bioql/"
 }

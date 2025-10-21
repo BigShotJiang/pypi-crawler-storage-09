@@ -1,11 +1,11 @@
 {
   "name": "anzar",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Add your description here",
   "author": "Hakou Guelfen",
   "license": null,
   "home_page": null,
-  "download_filename": "anzar-0.2.5.tar.gz",
-  "download_time": "2025-10-20T22:33:58.704372",
+  "download_filename": "anzar-0.2.6.tar.gz",
+  "download_time": "2025-10-21T04:44:10.951422",
   "package_url": "https://pypi.org/project/anzar/"
 }
