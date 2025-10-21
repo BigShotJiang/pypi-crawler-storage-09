@@ -1,0 +1,11 @@
+{
+  "name": "pypus",
+  "version": "1.5.2",
+  "summary": "Octopus cli toolkit",
+  "author": "Michael MacKenna",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypus-1.5.2.tar.gz",
+  "download_time": "2025-10-21T19:54:03.810643",
+  "package_url": "https://pypi.org/project/pypus/"
+}

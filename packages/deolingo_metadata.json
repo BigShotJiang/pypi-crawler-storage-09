@@ -1,0 +1,11 @@
+{
+  "name": "deolingo",
+  "version": "1.0.2",
+  "summary": "A deontic logic solver for explainable deontic reasoning with Answer Set Programming (ASP).",
+  "author": "Ovidio M. Moar",
+  "license": "MIT",
+  "home_page": "https://github.com/ovidiomanteiga/deolingo",
+  "download_filename": "deolingo-1.0.2.tar.gz",
+  "download_time": "2025-10-21T19:53:43.372851",
+  "package_url": "https://pypi.org/project/deolingo/"
+}

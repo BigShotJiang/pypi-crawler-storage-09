@@ -1,11 +1,11 @@
 {
   "name": "pydantic-ai-claude-code",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "Use local Claude Code CLI as a Pydantic AI model provider with full support for structured responses, tools, and streaming",
   "author": "mark",
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_ai_claude_code-0.7.2.tar.gz",
-  "download_time": "2025-10-21T11:52:20.464285",
+  "download_filename": "pydantic_ai_claude_code-0.7.3.tar.gz",
+  "download_time": "2025-10-21T19:54:19.264972",
   "package_url": "https://pypi.org/project/pydantic-ai-claude-code/"
 }

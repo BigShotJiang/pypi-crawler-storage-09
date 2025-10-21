@@ -1,0 +1,11 @@
+{
+  "name": "digamma-ep",
+  "version": "0.1.6",
+  "summary": "Symbolic audit framework for model divergence and integrity",
+  "author": "Cerene-Salt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "digamma_ep-0.1.6.tar.gz",
+  "download_time": "2025-10-21T19:53:39.757302",
+  "package_url": "https://pypi.org/project/digamma-ep/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "causalis",
+  "version": "0.1.1",
+  "summary": "A Python toolkit for causal inference and experimentation",
+  "author": "causalis Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "causalis-0.1.1.tar.gz",
+  "download_time": "2025-10-21T19:53:40.467781",
+  "package_url": "https://pypi.org/project/causalis/"
+}

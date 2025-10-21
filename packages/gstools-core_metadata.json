@@ -1,0 +1,11 @@
+{
+  "name": "gstools-core",
+  "version": "1.2.0",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://geostat-framework.org/#gstools",
+  "download_filename": "gstools_core-1.2.0.tar.gz",
+  "download_time": "2025-10-21T19:53:50.801260",
+  "package_url": "https://pypi.org/project/gstools-core/"
+}

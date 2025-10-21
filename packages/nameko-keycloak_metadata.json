@@ -1,0 +1,11 @@
+{
+  "name": "nameko-keycloak",
+  "version": "2.2.0",
+  "summary": "Helpers to integrate Single Sign-On in nameko-based applications using Keycloak.",
+  "author": "Emplocity",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nameko_keycloak-2.2.0.tar.gz",
+  "download_time": "2025-10-21T19:54:05.479337",
+  "package_url": "https://pypi.org/project/nameko-keycloak/"
+}
