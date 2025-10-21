@@ -1,11 +1,11 @@
 {
   "name": "sportsball",
-  "version": "0.34.133",
+  "version": "0.34.135",
   "summary": "A library for pulling in and normalising sports stats.",
   "author": "Will Sackfield",
   "license": "MIT",
   "home_page": "https://github.com/8W9aG/sportsball",
-  "download_filename": "sportsball-0.34.133.tar.gz",
-  "download_time": "2025-10-20T23:30:37.096182",
+  "download_filename": "sportsball-0.34.135.tar.gz",
+  "download_time": "2025-10-21T11:15:33.499982",
   "package_url": "https://pypi.org/project/sportsball/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lapx",
-  "version": "0.6.2",
-  "summary": "Linear Assignment Problem solver (LAPJV/LAPMOD).",
+  "version": "0.7.0",
+  "summary": "Linear assignment problem solvers",
   "author": "Ratha SIV",
   "license": "MIT",
   "home_page": "https://github.com/rathaROG/lapx",
-  "download_filename": "lapx-0.6.2.tar.gz",
-  "download_time": "2025-10-19T01:18:49.852921",
+  "download_filename": "lapx-0.7.0.tar.gz",
+  "download_time": "2025-10-21T11:15:38.372500",
   "package_url": "https://pypi.org/project/lapx/"
 }

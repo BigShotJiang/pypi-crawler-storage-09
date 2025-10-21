@@ -1,0 +1,11 @@
+{
+  "name": "wild-generator",
+  "version": "0.0.1",
+  "summary": "Gerador de código para CRUDs completos no Django, incluindo Views, Forms e URLs.",
+  "author": "Alyff antonio barbosa da silva",
+  "license": "MIT",
+  "home_page": "https://github.com/Alyffantonio/code_generator",
+  "download_filename": "wild_generator-0.0.1.tar.gz",
+  "download_time": "2025-10-21T11:15:34.027127",
+  "package_url": "https://pypi.org/project/wild-generator/"
+}
