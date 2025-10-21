@@ -1,0 +1,11 @@
+{
+  "name": "tocount",
+  "version": "0.3",
+  "summary": "ToCount: Lightweight Token Estimator",
+  "author": "ToCount Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/openscilab/tocount",
+  "download_filename": "tocount-0.3.tar.gz",
+  "download_time": "2025-10-21T14:18:25.978664",
+  "package_url": "https://pypi.org/project/tocount/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sbdk-dev",
+  "version": "1.1.2",
+  "summary": "🚀 Local-first data pipeline sandbox: DuckDB + dbt + DLT with interactive SQL query - Zero setup, instant analytics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sbdk_dev-1.1.2.tar.gz",
+  "download_time": "2025-10-21T14:18:06.551265",
+  "package_url": "https://pypi.org/project/sbdk-dev/"
+}

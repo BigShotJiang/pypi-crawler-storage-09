@@ -1,0 +1,11 @@
+{
+  "name": "fleetmaster",
+  "version": "0.1.1",
+  "summary": "A wrapper to run capytaine in batch from the commandline",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fleetmaster-0.1.1.tar.gz",
+  "download_time": "2025-10-21T14:18:13.376170",
+  "package_url": "https://pypi.org/project/fleetmaster/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.utils.io",
+  "version": "1.52",
+  "summary": "RCSB Python I/O Utility Classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcsb_utils_io-1.52.tar.gz",
+  "download_time": "2025-10-21T14:18:28.269026",
+  "package_url": "https://pypi.org/project/rcsb.utils.io/"
+}
