@@ -1,0 +1,11 @@
+{
+  "name": "qore-client",
+  "version": "0.1.6",
+  "summary": "Qore Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qore_client-0.1.6.tar.gz",
+  "download_time": "2025-10-21T07:18:26.429929",
+  "package_url": "https://pypi.org/project/qore-client/"
+}

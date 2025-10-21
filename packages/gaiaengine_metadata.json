@@ -1,0 +1,11 @@
+{
+  "name": "gaiaengine",
+  "version": "0.6.1",
+  "summary": "Lightweight and easy-to-use Python framework for creating interactive visual simulations. The project is still in development and not ready for release",
+  "author": "Paul Vallet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gaiaengine-0.6.1-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2025-10-21T07:19:07.877655",
+  "package_url": "https://pypi.org/project/gaiaengine/"
+}

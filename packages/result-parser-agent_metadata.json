@@ -1,0 +1,11 @@
+{
+  "name": "result-parser-agent",
+  "version": "2.0.3",
+  "summary": "A CLI tool for extracting metrics from raw result files using workload-specific tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "result_parser_agent-2.0.3.tar.gz",
+  "download_time": "2025-10-21T07:18:35.460296",
+  "package_url": "https://pypi.org/project/result-parser-agent/"
+}

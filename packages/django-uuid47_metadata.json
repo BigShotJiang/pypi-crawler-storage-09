@@ -1,0 +1,11 @@
+{
+  "name": "django-uuid47",
+  "version": "0.1.0",
+  "summary": "Django UUID47 field and utilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_uuid47-0.1.0.tar.gz",
+  "download_time": "2025-10-21T07:19:05.762022",
+  "package_url": "https://pypi.org/project/django-uuid47/"
+}

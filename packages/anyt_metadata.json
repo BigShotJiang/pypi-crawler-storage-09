@@ -1,11 +1,11 @@
 {
   "name": "anyt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AI-native task management CLI for coding agents and human developers",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "anyt-0.1.1.tar.gz",
-  "download_time": "2025-10-19T19:37:22.567399",
+  "download_filename": "anyt-0.1.2.tar.gz",
+  "download_time": "2025-10-21T07:18:47.466237",
   "package_url": "https://pypi.org/project/anyt/"
 }

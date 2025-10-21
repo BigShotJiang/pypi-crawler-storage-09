@@ -1,0 +1,11 @@
+{
+  "name": "lda4microbiome",
+  "version": "0.1.21",
+  "summary": "A workflow for LDA analysis of microbiome data using MALLET with interactive Sankey visualizations",
+  "author": "Peiyang Huo",
+  "license": null,
+  "home_page": "https://gitlab.kuleuven.be/aida-lab/projects/LDA4Microbiome_Workflow",
+  "download_filename": "lda4microbiome-0.1.21.tar.gz",
+  "download_time": "2025-10-21T07:18:44.609254",
+  "package_url": "https://pypi.org/project/lda4microbiome/"
+}
