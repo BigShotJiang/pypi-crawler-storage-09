@@ -1,0 +1,11 @@
+{
+  "name": "app-store-connect-mcp",
+  "version": "0.2.1",
+  "summary": "MCP server for interacting with Apple's App Store Connect API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "app_store_connect_mcp-0.2.1.tar.gz",
+  "download_time": "2025-10-21T21:31:54.225075",
+  "package_url": "https://pypi.org/project/app-store-connect-mcp/"
+}

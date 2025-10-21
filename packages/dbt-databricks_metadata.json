@@ -1,0 +1,11 @@
+{
+  "name": "dbt-databricks",
+  "version": "1.10.13",
+  "summary": "The Databricks adapter plugin for dbt",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbt_databricks-1.10.13.tar.gz",
+  "download_time": "2025-10-21T21:31:59.407969",
+  "package_url": "https://pypi.org/project/dbt-databricks/"
+}

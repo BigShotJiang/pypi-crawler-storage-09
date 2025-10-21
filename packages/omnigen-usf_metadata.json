@@ -1,11 +1,11 @@
 {
   "name": "omnigen-usf",
-  "version": "0.1.1",
-  "summary": "Enterprise-Grade Synthetic Data Generation with Per-Provider Rate Limiting & Auto-Detection",
+  "version": "0.1.3",
+  "summary": "Enterprise-Grade Synthetic Data Generation with Flexible Rate Limiting (Concurrency & RPM)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "omnigen_usf-0.1.1.tar.gz",
-  "download_time": "2025-10-21T20:53:21.668680",
+  "download_filename": "omnigen_usf-0.1.3.tar.gz",
+  "download_time": "2025-10-21T21:31:47.261843",
   "package_url": "https://pypi.org/project/omnigen-usf/"
 }

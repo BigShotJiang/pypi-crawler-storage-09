@@ -1,0 +1,11 @@
+{
+  "name": "faster-web3",
+  "version": "7.14.0",
+  "summary": "A faster fork of web3: A Python library for interacting with Ethereum. Implemented in C.",
+  "author": "The Ethereum Foundation",
+  "license": "MIT",
+  "home_page": "https://github.com/BobTheBuidler/faster-web3.py",
+  "download_filename": "faster_web3-7.14.0.tar.gz",
+  "download_time": "2025-10-21T21:31:49.352766",
+  "package_url": "https://pypi.org/project/faster-web3/"
+}

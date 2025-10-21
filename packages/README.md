@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-21T21:17:12.687511
-- **Total Packages**: 87
-- **Total Size**: 27.57 MB
+- **Download Time**: 2025-10-21T21:32:30.691308
+- **Total Packages**: 86
+- **Total Size**: 27.74 MB
 
 ## Packages List
+- tobiko-cloud-api-client
+- manim-fa-physics
+- easycoder
+- hyperway
+- omnigen-usf
+- smart-scheduler
+- vigil-client
+- vigil-core
+- faster-web3
+- agentbill-pcu-tools-2025
+- fraim
+- dbos
+- gcore
+- aiosonic
+- producteca
+- orionis
+- langgraph-checkpoint-aws
+- app-store-connect-mcp
+- funcnodes-worker
+- pulumi-vault
+- datasette-write-ui
+- botocore-stubs
+- gitflow-analytics
+- SURE-tools
+- CliSelf
+- pytol
+- adk-chatkit
+- dbt-databricks
+- aind-zarr-utils
+- pystorz
+- truss
+- langchain-financial
+- pyhabitat
+- bombcell
+- arcade-actions
+- music-assistant-frontend
+- lihil
+- spaceblocks-permissions-server
+- warn-scraper
 - infer-return-type
 - warp-tm-vis
 - eegdash
@@ -29,7 +68,6 @@
 - pysma
 - devioc
 - pyxetabase
-- SURE-tools
 - mini-apigw
 - arklex
 - latexdl
@@ -44,7 +82,6 @@
 - dsw-command-queue
 - sbxpy
 - dsw-database
-- pytol
 - dsw-tdk
 - etextedit
 - colvar-toolkit
@@ -55,41 +92,3 @@
 - sottek-hearing-model
 - arcade-freshservice-api
 - computemate
-- open-compute
-- framekit
-- mcplaywright
-- btpy
-- chython
-- agentmake
-- q2rad
-- vellum-workflow-server
-- pixelpay-sdk
-- fluidattacks_utils_logger
-- kailash-dataflow
-- q2gui
-- stinger-ipc
-- abtk
-- vfbquery
-- tencentcloud-sdk-python-tke
-- tencentcloud-sdk-python-teo
-- tencentcloud-sdk-python-ocr
-- tencentcloud-sdk-python-oceanus
-- q2db
-- tencentcloud-sdk-python-monitor
-- lusid-sdk
-- tencentcloud-sdk-python-es
-- tencentcloud-sdk-python-dts
-- tencentcloud-sdk-python-csip
-- tencentcloud-sdk-python-common
-- tencentcloud-sdk-python-cfg
-- tencentcloud-sdk-python-cdb
-- pydruglogics
-- etf-steuernotizbuch
-- biblemate
-- docsteady
-- funcnodes-worker
-- icsneopy
-- slidgnal
-- atomistica
-- pyqrackising
-- CliSelf

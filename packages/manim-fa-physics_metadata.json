@@ -1,0 +1,11 @@
+{
+  "name": "manim-fa-physics",
+  "version": "0.1.0",
+  "summary": "افزونه فیزیک برای Manim (مکانیک، گرانش، اوپتیک، الکترومغناطیس، الکترواستاتیک)",
+  "author": "Tabesh Alli",
+  "license": "MIT",
+  "home_page": "https://github.com/Tabesh2020/manim-fa-physics",
+  "download_filename": "manim_fa_physics-0.1.0.tar.gz",
+  "download_time": "2025-10-21T21:31:45.680398",
+  "package_url": "https://pypi.org/project/manim-fa-physics/"
+}
