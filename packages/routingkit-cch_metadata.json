@@ -1,11 +1,11 @@
 {
   "name": "routingkit-cch",
-  "version": "0.1.2",
-  "summary": null,
+  "version": "0.1.3",
+  "summary": "Python bindings for the Customizable Contraction Hierarchies (CCH) implementation from RoutingKit.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "routingkit_cch-0.1.2.tar.gz",
-  "download_time": "2025-10-21T14:17:59.631304",
+  "download_filename": "routingkit_cch-0.1.3.tar.gz",
+  "download_time": "2025-10-21T23:17:18.007790",
   "package_url": "https://pypi.org/project/routingkit-cch/"
 }
