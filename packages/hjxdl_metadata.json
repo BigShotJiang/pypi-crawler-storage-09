@@ -1,0 +1,11 @@
+{
+  "name": "hjxdl",
+  "version": "0.3.54",
+  "summary": "A collection of functions for Jupyter notebooks",
+  "author": "Jianxing Hu",
+  "license": null,
+  "home_page": "https://github.com/huluxiaohuowa/hdl",
+  "download_filename": "hjxdl-0.3.54-py3-none-any.whl",
+  "download_time": "2025-10-21T02:45:59.946781",
+  "package_url": "https://pypi.org/project/hjxdl/"
+}

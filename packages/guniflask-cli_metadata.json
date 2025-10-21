@@ -1,0 +1,11 @@
+{
+  "name": "guniflask-cli",
+  "version": "0.13.1",
+  "summary": "Standard tooling for Flask development with guniflask",
+  "author": "jadbin",
+  "license": "MIT",
+  "home_page": "https://github.com/jadbin/guniflask-cli",
+  "download_filename": "guniflask_cli-0.13.1.tar.gz",
+  "download_time": "2025-10-21T02:46:17.417189",
+  "package_url": "https://pypi.org/project/guniflask-cli/"
+}

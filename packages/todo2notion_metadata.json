@@ -1,0 +1,11 @@
+{
+  "name": "todo2notion",
+  "version": "0.1.7",
+  "summary": "自动将todo同步到Notion",
+  "author": "malinkang",
+  "license": null,
+  "home_page": "https://github.com/malinkang/todo2notion",
+  "download_filename": "todo2notion-0.1.7.tar.gz",
+  "download_time": "2025-10-21T02:45:54.157888",
+  "package_url": "https://pypi.org/project/todo2notion/"
+}

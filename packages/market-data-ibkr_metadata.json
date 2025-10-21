@@ -1,0 +1,11 @@
+{
+  "name": "market-data-ibkr",
+  "version": "1.1.1",
+  "summary": "Interactive Brokers provider implementation for market-data-core",
+  "author": "OpenBB",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "market_data_ibkr-1.1.1.tar.gz",
+  "download_time": "2025-10-21T02:46:10.346558",
+  "package_url": "https://pypi.org/project/market-data-ibkr/"
+}

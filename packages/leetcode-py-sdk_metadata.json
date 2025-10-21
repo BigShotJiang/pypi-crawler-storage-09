@@ -1,11 +1,11 @@
 {
   "name": "leetcode-py-sdk",
-  "version": "0.36.0",
+  "version": "0.36.2",
   "summary": "Modern Python LeetCode practice environment with automated problem generation, beautiful data structure visualizations, and comprehensive testing",
   "author": "Wisaroot Lertthaweedech",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "leetcode_py_sdk-0.36.0.tar.gz",
-  "download_time": "2025-10-18T02:34:47.161538",
+  "download_filename": "leetcode_py_sdk-0.36.2.tar.gz",
+  "download_time": "2025-10-21T02:46:08.804895",
   "package_url": "https://pypi.org/project/leetcode-py-sdk/"
 }

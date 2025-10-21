@@ -1,11 +1,11 @@
 {
   "name": "strands-telegram-listener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Real-time Telegram message processing with AI-powered responses for Strands Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "strands_telegram_listener-1.0.0.tar.gz",
-  "download_time": "2025-10-20T02:55:23.643107",
+  "download_filename": "strands_telegram_listener-1.0.1.tar.gz",
+  "download_time": "2025-10-21T02:46:20.539754",
   "package_url": "https://pypi.org/project/strands-telegram-listener/"
 }

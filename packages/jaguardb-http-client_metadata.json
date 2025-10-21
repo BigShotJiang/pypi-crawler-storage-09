@@ -1,11 +1,11 @@
 {
   "name": "jaguardb-http-client",
-  "version": "3.4.9.1",
+  "version": "3.5.0",
   "summary": "Http client for Jaguar vector database",
   "author": "JaguarDB",
   "license": "Apache 2.0",
   "home_page": "http://www.jaguardb.com",
-  "download_filename": "jaguardb_http_client-3.4.9.1.tar.gz",
-  "download_time": "2025-10-17T08:21:36.676525",
+  "download_filename": "jaguardb_http_client-3.5.0.tar.gz",
+  "download_time": "2025-10-21T02:46:08.283085",
   "package_url": "https://pypi.org/project/jaguardb-http-client/"
 }

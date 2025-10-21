@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addons-sygel-technology-sy-crm",
+  "version": "16.0.20251020.0",
+  "summary": "Meta package for sygel-technology-sy-crm Odoo addons",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_addons_sygel_technology_sy_crm-16.0.20251020.0-py3-none-any.whl",
+  "download_time": "2025-10-21T02:45:52.565814",
+  "package_url": "https://pypi.org/project/odoo-addons-sygel-technology-sy-crm/"
+}

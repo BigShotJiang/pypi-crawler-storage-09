@@ -1,11 +1,11 @@
 {
   "name": "pyeasyphd",
-  "version": "0.3.1",
+  "version": "0.3.4",
   "summary": "pyeasyphd",
   "author": "NextAI",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/Easy-PhD/pyeasyphd",
-  "download_filename": "pyeasyphd-0.3.1.tar.gz",
-  "download_time": "2025-10-20T03:47:11.183083",
+  "download_filename": "pyeasyphd-0.3.4.tar.gz",
+  "download_time": "2025-10-21T02:45:52.047949",
   "package_url": "https://pypi.org/project/pyeasyphd/"
 }

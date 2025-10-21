@@ -1,0 +1,11 @@
+{
+  "name": "fnos",
+  "version": "0.1.0",
+  "summary": "A Python client for Fnos WebSocket communication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fnos-0.1.0.tar.gz",
+  "download_time": "2025-10-21T02:46:07.244597",
+  "package_url": "https://pypi.org/project/fnos/"
+}
