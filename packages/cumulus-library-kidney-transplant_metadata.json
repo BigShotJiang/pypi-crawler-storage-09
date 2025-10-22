@@ -1,0 +1,11 @@
+{
+  "name": "cumulus-library-kidney-transplant",
+  "version": "0.2.0",
+  "summary": "kidney transplant irAE (immuno related adverse events) related to immunosuppressive Medications post transplant",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cumulus_library_kidney_transplant-0.2.0.tar.gz",
+  "download_time": "2025-10-22T19:22:34.983994",
+  "package_url": "https://pypi.org/project/cumulus-library-kidney-transplant/"
+}

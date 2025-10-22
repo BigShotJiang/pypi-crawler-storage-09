@@ -1,11 +1,11 @@
 {
   "name": "prismarine",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Pythonic DynamoDB ORM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prismarine-1.4.0.tar.gz",
-  "download_time": "2025-10-22T18:52:19.929378",
+  "download_filename": "prismarine-1.4.1.tar.gz",
+  "download_time": "2025-10-22T19:23:13.919258",
   "package_url": "https://pypi.org/project/prismarine/"
 }

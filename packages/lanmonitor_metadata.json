@@ -1,0 +1,11 @@
+{
+  "name": "lanmonitor",
+  "version": "4.0.1",
+  "summary": "Monitor the state of services, processes, web pages, file system, etc. on your server and LAN",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lanmonitor-4.0.1.tar.gz",
+  "download_time": "2025-10-22T19:23:22.085685",
+  "package_url": "https://pypi.org/project/lanmonitor/"
+}

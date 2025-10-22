@@ -1,11 +1,11 @@
 {
   "name": "parallel-web",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "The official Python library for the Parallel API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "parallel_web-0.3.1.tar.gz",
-  "download_time": "2025-10-21T06:29:28.021816",
+  "download_filename": "parallel_web-0.3.2.tar.gz",
+  "download_time": "2025-10-22T19:23:12.176097",
   "package_url": "https://pypi.org/project/parallel-web/"
 }

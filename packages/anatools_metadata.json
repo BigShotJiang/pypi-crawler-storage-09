@@ -1,0 +1,11 @@
+{
+  "name": "anatools",
+  "version": "5.1.21",
+  "summary": "Tools for development with the Rendered.ai Platform.",
+  "author": "Rendered AI, Inc",
+  "license": null,
+  "home_page": "https://rendered.ai",
+  "download_filename": "anatools-5.1.21.tar.gz",
+  "download_time": "2025-10-22T19:23:18.618808",
+  "package_url": "https://pypi.org/project/anatools/"
+}

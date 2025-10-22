@@ -1,0 +1,11 @@
+{
+  "name": "pyarcamsolo",
+  "version": "0.2.1",
+  "summary": "Asyncio Python library for controlling Arcam Solo Hi-Fi devices via RS232 ser2net bridge.",
+  "author": "pantherale0",
+  "license": "MIT",
+  "home_page": "http://github.com/pantherale0/pyarcamsolo",
+  "download_filename": "pyarcamsolo-0.2.1.tar.gz",
+  "download_time": "2025-10-22T19:22:38.426974",
+  "package_url": "https://pypi.org/project/pyarcamsolo/"
+}

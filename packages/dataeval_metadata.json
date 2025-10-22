@@ -1,11 +1,11 @@
 {
   "name": "dataeval",
-  "version": "0.93.0",
+  "version": "0.93.1",
   "summary": "DataEval provides a simple interface to characterize image data and its impact on model performance across classification and object-detection tasks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dataeval-0.93.0.tar.gz",
-  "download_time": "2025-10-22T05:18:08.660547",
+  "download_filename": "dataeval-0.93.1.tar.gz",
+  "download_time": "2025-10-22T19:22:45.383800",
   "package_url": "https://pypi.org/project/dataeval/"
 }

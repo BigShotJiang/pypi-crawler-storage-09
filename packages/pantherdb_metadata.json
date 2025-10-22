@@ -1,0 +1,11 @@
+{
+  "name": "pantherdb",
+  "version": "2.3.3",
+  "summary": "is a Simple, FileBase and Document Oriented database",
+  "author": "Ali RajabNezhad",
+  "license": "MIT",
+  "home_page": "https://github.com/PantherPy/pantherdb",
+  "download_filename": "pantherdb-2.3.3.tar.gz",
+  "download_time": "2025-10-22T19:22:44.204509",
+  "package_url": "https://pypi.org/project/pantherdb/"
+}

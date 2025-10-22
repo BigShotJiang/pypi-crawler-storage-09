@@ -1,0 +1,11 @@
+{
+  "name": "qoery",
+  "version": "0.2.3",
+  "summary": "qoery's API",
+  "author": "qoery Support",
+  "license": null,
+  "home_page": "https://github.com/qoery/python-sdk",
+  "download_filename": "qoery-0.2.3.tar.gz",
+  "download_time": "2025-10-22T19:23:17.458005",
+  "package_url": "https://pypi.org/project/qoery/"
+}

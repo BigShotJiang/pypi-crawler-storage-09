@@ -1,0 +1,11 @@
+{
+  "name": "geesc-helpers",
+  "version": "0.1.1",
+  "summary": "Projeto python, com funções helpers pra baixar os arquivos do dropbox pela api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geesc_helpers-0.1.1.tar.gz",
+  "download_time": "2025-10-22T19:22:32.676921",
+  "package_url": "https://pypi.org/project/geesc-helpers/"
+}
