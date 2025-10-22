@@ -1,0 +1,11 @@
+{
+  "name": "opencode-sdk",
+  "version": "0.2.0",
+  "summary": "Python client for opencode server API",
+  "author": "Fergus Fettes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opencode_sdk-0.2.0.tar.gz",
+  "download_time": "2025-10-22T19:52:34.933405",
+  "package_url": "https://pypi.org/project/opencode-sdk/"
+}

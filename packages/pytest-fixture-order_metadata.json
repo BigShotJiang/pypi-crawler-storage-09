@@ -1,0 +1,11 @@
+{
+  "name": "pytest-fixture-order",
+  "version": "0.1.5",
+  "summary": "pytest plugin to control fixture evaluation order",
+  "author": "Zach \"theY4Kman\" Kanzler",
+  "license": "MIT",
+  "home_page": "https://github.com/theY4Kman/pytest-fixture-order",
+  "download_filename": "pytest_fixture_order-0.1.5.tar.gz",
+  "download_time": "2025-10-22T19:52:35.564055",
+  "package_url": "https://pypi.org/project/pytest-fixture-order/"
+}

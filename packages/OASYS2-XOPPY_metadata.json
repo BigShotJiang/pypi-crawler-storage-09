@@ -1,11 +1,11 @@
 {
   "name": "OASYS2-XOPPY",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "XOPPY: XOP (X-ray oriented programs) in Python",
   "author": "Manuel Sanchez del Rio, Luca Rebuffi, and Bioinformatics Laboratory, FRI UL",
   "license": "GPLv3",
   "home_page": "https://github.com/oasys-kit/XOPPY",
-  "download_filename": "oasys2_xoppy-1.0.4.tar.gz",
-  "download_time": "2025-10-21T19:41:22.842376",
+  "download_filename": "oasys2_xoppy-1.0.5.tar.gz",
+  "download_time": "2025-10-22T19:52:44.183509",
   "package_url": "https://pypi.org/project/OASYS2-XOPPY/"
 }
