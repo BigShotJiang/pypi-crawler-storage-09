@@ -1,0 +1,11 @@
+{
+  "name": "dbbasic-screenshot",
+  "version": "0.1.0",
+  "summary": "Fast screenshot annotation tool for macOS",
+  "author": "askrobots",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbbasic_screenshot-0.1.0.tar.gz",
+  "download_time": "2025-10-22T20:52:10.262475",
+  "package_url": "https://pypi.org/project/dbbasic-screenshot/"
+}

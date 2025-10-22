@@ -1,0 +1,11 @@
+{
+  "name": "galmex",
+  "version": "1.1.0",
+  "summary": "Python package for measuring non-parametric morphological indices of galaxies",
+  "author": "V. M. Sampaio",
+  "license": "MIT",
+  "home_page": "https://github.com/vitorms99/galmex",
+  "download_filename": "galmex-1.1.0.tar.gz",
+  "download_time": "2025-10-22T20:52:06.041249",
+  "package_url": "https://pypi.org/project/galmex/"
+}

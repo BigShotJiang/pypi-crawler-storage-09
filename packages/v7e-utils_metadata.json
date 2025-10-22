@@ -1,0 +1,11 @@
+{
+  "name": "v7e-utils",
+  "version": "0.18.7",
+  "summary": "A collection of utility functions for V6E projects",
+  "author": "Luis Valverde",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "v7e_utils-0.18.7.tar.gz",
+  "download_time": "2025-10-22T20:52:04.494387",
+  "package_url": "https://pypi.org/project/v7e-utils/"
+}

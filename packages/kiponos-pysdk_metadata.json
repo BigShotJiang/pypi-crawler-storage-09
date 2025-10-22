@@ -1,0 +1,11 @@
+{
+  "name": "kiponos-pysdk",
+  "version": "0.1.2",
+  "summary": "Kiponos Python SDK for real-time configuration management via WebSocket/STOMP for Kiponos.io",
+  "author": "Moshe Avdiel",
+  "license": "Apache-2.0",
+  "home_page": "https://kiponos.io",
+  "download_filename": "kiponos_pysdk-0.1.2.tar.gz",
+  "download_time": "2025-10-22T20:52:03.980954",
+  "package_url": "https://pypi.org/project/kiponos-pysdk/"
+}
