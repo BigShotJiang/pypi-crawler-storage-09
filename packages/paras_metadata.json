@@ -1,0 +1,11 @@
+{
+  "name": "paras",
+  "version": "1.0.0",
+  "summary": "Predictive algorithm for resolving A-domain specificity featurising enzyme and compound in tandem.",
+  "author": "Barbara Terlouw",
+  "license": null,
+  "home_page": "https://github.com/BTheDragonMaster/parasect",
+  "download_filename": "paras-1.0.0.tar.gz",
+  "download_time": "2025-10-22T08:50:44.526388",
+  "package_url": "https://pypi.org/project/paras/"
+}

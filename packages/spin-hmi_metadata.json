@@ -1,11 +1,11 @@
 {
   "name": "spin-hmi",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "Control box monitoring system",
   "author": null,
   "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "spin_hmi-0.9.1.tar.gz",
-  "download_time": "2025-10-21T14:54:30.580370",
+  "download_filename": "spin_hmi-0.9.2.tar.gz",
+  "download_time": "2025-10-22T08:51:05.064399",
   "package_url": "https://pypi.org/project/spin-hmi/"
 }

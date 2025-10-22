@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-energy-communities",
+  "version": "16.0.0.6.0",
+  "summary": "Energy Community",
+  "author": "Coopdevs Treball SCCL & Som Energia SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/comunitats-energetiques/odoo-ce",
+  "download_filename": "odoo_addon_energy_communities-16.0.0.6.0.tar.gz",
+  "download_time": "2025-10-22T08:51:08.140861",
+  "package_url": "https://pypi.org/project/odoo-addon-energy-communities/"
+}

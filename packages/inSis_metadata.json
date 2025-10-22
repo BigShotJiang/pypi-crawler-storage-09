@@ -1,0 +1,11 @@
+{
+  "name": "inSis",
+  "version": "2.0.0.0",
+  "summary": "installation of inSis Package",
+  "author": "Sivarambrahmam",
+  "license": "MIT",
+  "home_page": "https://www.jaajitech.com",
+  "download_filename": "insis-2.0.0.0.tar.gz",
+  "download_time": "2025-10-22T08:50:58.907252",
+  "package_url": "https://pypi.org/project/inSis/"
+}

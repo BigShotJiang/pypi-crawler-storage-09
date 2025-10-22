@@ -1,11 +1,11 @@
 {
   "name": "rollon",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Roll-On: Descargas con yt-dlp, UI limpia y portada Apple para OPUS (menú interactivo).",
   "author": "Cesarx9",
   "license": "MIT",
   "home_page": "https://github.com/Cesarx9/Roll-On",
-  "download_filename": "rollon-0.1.4.tar.gz",
-  "download_time": "2025-10-22T08:25:18.777827",
+  "download_filename": "rollon-0.1.5.tar.gz",
+  "download_time": "2025-10-22T08:50:55.836459",
   "package_url": "https://pypi.org/project/rollon/"
 }

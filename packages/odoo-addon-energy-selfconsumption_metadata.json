@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-energy-selfconsumption",
+  "version": "16.0.0.5.11",
+  "summary": "Comprehensive management of energy self-consumption projects and communities",
+  "author": "Som IT SCCL & Som Energia SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/comunitats-energetiques/odoo-ce",
+  "download_filename": "odoo_addon_energy_selfconsumption-16.0.0.5.11.tar.gz",
+  "download_time": "2025-10-22T08:51:03.527185",
+  "package_url": "https://pypi.org/project/odoo-addon-energy-selfconsumption/"
+}

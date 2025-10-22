@@ -1,0 +1,11 @@
+{
+  "name": "giturlparse",
+  "version": "0.13.0",
+  "summary": "A Git URL parsing module (supports parsing and rewriting)",
+  "author": "Aaron O Mullan",
+  "license": "Apache v2",
+  "home_page": "https://github.com/nephila/giturlparse",
+  "download_filename": "giturlparse-0.13.0.tar.gz",
+  "download_time": "2025-10-22T08:50:55.325164",
+  "package_url": "https://pypi.org/project/giturlparse/"
+}
