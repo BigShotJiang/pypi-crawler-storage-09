@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-qdrant",
+  "version": "0.47.4",
+  "summary": "OpenTelemetry Qdrant instrumentation",
+  "author": "Gal Kleinman",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_qdrant-0.47.4.tar.gz",
+  "download_time": "2025-10-22T17:52:04.601055",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-qdrant/"
+}

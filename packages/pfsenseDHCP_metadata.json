@@ -1,0 +1,11 @@
+{
+  "name": "pfsenseDHCP",
+  "version": "2.0.1",
+  "summary": "Merge DHCP static assignments .csv data into pfSense DHCP4 Server config file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pfsensedhcp-2.0.1.tar.gz",
+  "download_time": "2025-10-22T17:51:52.590917",
+  "package_url": "https://pypi.org/project/pfsenseDHCP/"
+}

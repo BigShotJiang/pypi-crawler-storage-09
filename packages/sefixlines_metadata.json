@@ -1,11 +1,11 @@
 {
   "name": "sefixlines",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Инструмент для быстрого решения ML задач, с оптимизацией обучения моделей и большим спектром возможностей",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sefixlines-0.1.5.tar.gz",
-  "download_time": "2025-10-22T17:33:55.766530",
+  "download_filename": "sefixlines-0.1.8.tar.gz",
+  "download_time": "2025-10-22T17:51:49.396480",
   "package_url": "https://pypi.org/project/sefixlines/"
 }

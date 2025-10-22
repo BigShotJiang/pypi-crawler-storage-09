@@ -1,0 +1,11 @@
+{
+  "name": "envoxyd",
+  "version": "0.4.0",
+  "summary": "Customized uWSGI server for Envoxy",
+  "author": "Matheus Santos",
+  "license": null,
+  "home_page": "https://github.com/habitio/envoxy",
+  "download_filename": "envoxyd-0.4.0.tar.gz",
+  "download_time": "2025-10-22T17:51:55.211154",
+  "package_url": "https://pypi.org/project/envoxyd/"
+}
