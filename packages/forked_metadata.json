@@ -1,11 +1,11 @@
 {
   "name": "forked",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Git-native fork overlay & guard tool",
   "author": "Spenquatch",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "forked-0.0.1.tar.gz",
-  "download_time": "2025-10-22T01:16:12.557302",
+  "download_filename": "forked-0.0.2.tar.gz",
+  "download_time": "2025-10-22T17:33:47.962827",
   "package_url": "https://pypi.org/project/forked/"
 }

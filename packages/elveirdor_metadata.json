@@ -1,11 +1,11 @@
 {
   "name": "elveirdor",
-  "version": "0.1.1",
-  "summary": "Elveirdor unified pipeline (merged from user sources)",
-  "author": null,
+  "version": "0.1.5",
+  "summary": "Elveirdor Infinity Computing Pipeline with visual generation, decoding, and export features.",
+  "author": "Elveirdor Systems",
   "license": null,
   "home_page": null,
-  "download_filename": "elveirdor-0.1.1.tar.gz",
-  "download_time": "2025-10-22T11:16:31.387478",
+  "download_filename": "elveirdor-0.1.5.tar.gz",
+  "download_time": "2025-10-22T17:34:12.912127",
   "package_url": "https://pypi.org/project/elveirdor/"
 }

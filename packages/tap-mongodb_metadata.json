@@ -1,0 +1,11 @@
+{
+  "name": "tap-mongodb",
+  "version": "3.3.0",
+  "summary": "Singer.io tap for extracting data from MongoDB",
+  "author": "Stitch",
+  "license": null,
+  "home_page": "https://singer.io",
+  "download_filename": "tap_mongodb-3.3.0.tar.gz",
+  "download_time": "2025-10-22T17:34:20.210050",
+  "package_url": "https://pypi.org/project/tap-mongodb/"
+}

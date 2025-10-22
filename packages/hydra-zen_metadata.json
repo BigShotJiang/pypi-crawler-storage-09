@@ -1,0 +1,11 @@
+{
+  "name": "hydra-zen",
+  "version": "0.16.0",
+  "summary": "Configurable, reproducible, and scalable workflows in Python, via Hydra",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hydra_zen-0.16.0.tar.gz",
+  "download_time": "2025-10-22T17:33:50.040462",
+  "package_url": "https://pypi.org/project/hydra-zen/"
+}
