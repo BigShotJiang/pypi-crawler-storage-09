@@ -1,0 +1,11 @@
+{
+  "name": "mysql-connector-python",
+  "version": "9.5.0",
+  "summary": "A self-contained Python driver for communicating with MySQL servers, using an API that is compliant with the Python Database API Specification v2.0 (PEP 249).",
+  "author": "Oracle and/or its affiliates",
+  "license": "GNU GPLv2 (with FOSS License Exception)",
+  "home_page": null,
+  "download_filename": "mysql_connector_python-9.5.0-py2.py3-none-any.whl",
+  "download_time": "2025-10-22T09:22:10.269269",
+  "package_url": "https://pypi.org/project/mysql-connector-python/"
+}

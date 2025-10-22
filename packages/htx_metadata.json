@@ -1,0 +1,11 @@
+{
+  "name": "htx",
+  "version": "0.0.100",
+  "summary": "htx crypto exchange api client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "htx-0.0.100.tar.gz",
+  "download_time": "2025-10-22T09:21:58.115698",
+  "package_url": "https://pypi.org/project/htx/"
+}

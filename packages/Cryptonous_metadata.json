@@ -1,0 +1,11 @@
+{
+  "name": "Cryptonous",
+  "version": "1.0.0",
+  "summary": "A library for various cryptography algorithms (Caesar, Hill Cipher.)",
+  "author": "Ibrahem Abo kila",
+  "license": null,
+  "home_page": "https://github.com/hemanamo/CryptoClasec",
+  "download_filename": "cryptonous-1.0.0.tar.gz",
+  "download_time": "2025-10-22T09:21:41.440608",
+  "package_url": "https://pypi.org/project/Cryptonous/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "asynhttp",
+  "version": "3.13.1",
+  "summary": "Happy Eyeball for asyncio",
+  "author": "zichung",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "asynhttp-3.13.1-py3-none-any.whl",
+  "download_time": "2025-10-22T09:22:12.054766",
+  "package_url": "https://pypi.org/project/asynhttp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OASYS1-ESRF-Extensions",
+  "version": "0.0.94",
+  "summary": "OASYS extension for the ESRF",
+  "author": "Manuel Sanchez del Rio, Juan Reyes-Herrera, Luca Rebuffi",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oasys-esrf-kit/OASYS1-ESRF-Extensions",
+  "download_filename": "OASYS1-ESRF-Extensions-0.0.94.tar.gz",
+  "download_time": "2025-10-22T09:21:30.500713",
+  "package_url": "https://pypi.org/project/OASYS1-ESRF-Extensions/"
+}

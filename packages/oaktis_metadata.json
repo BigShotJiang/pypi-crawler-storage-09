@@ -1,11 +1,11 @@
 {
   "name": "oaktis",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Official Python SDK for Oaktis - AI-powered image & video generation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oaktis-0.1.10.tar.gz",
-  "download_time": "2025-10-22T08:50:56.860309",
+  "download_filename": "oaktis-0.1.11.tar.gz",
+  "download_time": "2025-10-22T09:21:36.245518",
   "package_url": "https://pypi.org/project/oaktis/"
 }

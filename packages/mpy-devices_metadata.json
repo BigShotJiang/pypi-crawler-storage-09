@@ -1,11 +1,11 @@
 {
   "name": "mpy-devices",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Query and monitor MicroPython devices - discover connected devices and check firmware versions",
   "author": "Andrew Leech",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mpy_devices-1.0.0.tar.gz",
-  "download_time": "2025-10-22T08:50:31.035066",
+  "download_filename": "mpy_devices-1.1.0.tar.gz",
+  "download_time": "2025-10-22T09:21:22.398800",
   "package_url": "https://pypi.org/project/mpy-devices/"
 }

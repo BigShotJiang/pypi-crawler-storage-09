@@ -1,0 +1,11 @@
+{
+  "name": "diffmind",
+  "version": "0.1.0",
+  "summary": "AI-powered commit message generator (CLI + git hook) with delightful terminal UX",
+  "author": "DiffMind Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "diffmind-0.1.0.tar.gz",
+  "download_time": "2025-10-22T09:21:28.148642",
+  "package_url": "https://pypi.org/project/diffmind/"
+}

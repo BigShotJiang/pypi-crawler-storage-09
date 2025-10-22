@@ -1,0 +1,11 @@
+{
+  "name": "pelican-render-math",
+  "version": "1.0.5",
+  "summary": "Render mathematics in Pelican site content",
+  "author": null,
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "pelican_render_math-1.0.5.tar.gz",
+  "download_time": "2025-10-22T09:21:26.424639",
+  "package_url": "https://pypi.org/project/pelican-render-math/"
+}
