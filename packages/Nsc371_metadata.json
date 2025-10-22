@@ -1,0 +1,11 @@
+{
+  "name": "Nsc371",
+  "version": "0.1.0",
+  "summary": "A hilarious and simple script interpreter - 让编程像说话一样简单的极简脚本解释器",
+  "author": "王子毅",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nsc371-0.1.0.tar.gz",
+  "download_time": "2025-10-22T14:48:53.224685",
+  "package_url": "https://pypi.org/project/Nsc371/"
+}

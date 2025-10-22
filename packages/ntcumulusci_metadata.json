@@ -1,11 +1,11 @@
 {
   "name": "ntcumulusci",
-  "version": "4.6.0.1",
+  "version": "4.6.0.2",
   "summary": "Build and release tools for Salesforce developers",
   "author": null,
   "license": "BSD 3-Clause License",
   "home_page": null,
-  "download_filename": "ntcumulusci-4.6.0.1.tar.gz",
-  "download_time": "2025-10-21T19:16:20.275746",
+  "download_filename": "ntcumulusci-4.6.0.2.tar.gz",
+  "download_time": "2025-10-22T14:49:18.373106",
   "package_url": "https://pypi.org/project/ntcumulusci/"
 }

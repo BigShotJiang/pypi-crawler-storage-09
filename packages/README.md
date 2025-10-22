@@ -1,12 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-22T14:26:02.878270
-- **Total Packages**: 92
-- **Total Size**: 51.1 MB
+- **Download Time**: 2025-10-22T14:49:48.952673
+- **Total Packages**: 89
+- **Total Size**: 28.49 MB
 
 ## Packages List
+- ics-wivi-analytics-ingest
+- python-script-runner
+- Nsc371
+- invenio-records-ui
+- napari-sc3D-viewer
+- docspace-api-sdk
+- datus-metricflow
+- nci-cidc-api-modules
+- nb_g2p
+- amazon-product-video-fetcher
+- odoo-addon-helpdesk-somconnexio
+- dsf-quantum-sdk
 - idi-brightsites-sdk
+- abuc
+- otel-observability
+- assemblyline-core
+- assemblyline
+- assemblyline-v4-service
+- assemblyline-ui
+- quackpipe
+- assemblyline-service-server
+- assemblyline-service-client
+- odoo-addon-stock-partner-delivery-window
+- scipy-openblas64
+- scipy-openblas32
+- pyarchinit-mini
+- epiccli-lite
+- comfy-nodekit
+- pyrudof
+- gamengine2d
+- djangocms-aldryn-forms
+- tutor-contrib-aspects
+- openhcs
+- instaui-tdesign
+- lmspace
+- predipy
+- unicorn-eval
+- ritellm
+- ntcumulusci
+- django-spectator
+- pycti
+- mbag-gensyn
+- mloda
+- instaui
+- cogflow
+- pulumi-upcloud
+- ipasnmatcher
+- leetcode-obsidian-sync
+- codeEEW-parser
+- llm-annotator
+- pyNAVIS
+- compose-generator
+- sequifier
+- unicex
 - opler
 - pingmapper
 - bitwarden-workflow-linter
@@ -23,9 +76,7 @@
 - bam-masterdata
 - koxs-terminal-tools
 - wonderingpanda510
-- comfy-nodekit
 - knowrithm-py
-- nb_g2p
 - lfss
 - GlocalText
 - opal-server
@@ -34,7 +85,6 @@
 - micropython-webassembly-stubs
 - opal-common
 - lusid-sdk
-- python-script-runner
 - smartpush
 - lazy-decorators
 - nominal-api-protos
@@ -45,56 +95,3 @@
 - tnr
 - gs-quant
 - arthur-client
-- odoo-addon-mrp-production-location-picking-type
-- nobodywhopython
-- exc2issue
-- django-bulk-hooks
-- colibri-stateless
-- wam2layers
-- svs-core
-- neptune-scale
-- kivy-garden.ebs.core
-- tabsim
-- gr4vy
-- sequifier
-- invoke-toolkit
-- tox-gh-actions
-- smart-bot-factory
-- pro-craft
-- employment-hero-sdk
-- pycodereview
-- ebs-linuxnode-camera
-- amazon-product-video-fetcher
-- maps4fs
-- datamarket
-- hyperquant
-- jolly-brancher
-- catalog-agent
-- sequence
-- codeEEW-parser
-- r-t111
-- bitfount
-- ordeq
-- bluer-sandbox
-- PyGamLab
-- cb-bsdl-parser
-- snappi-ixnetwork
-- pypomes-sob
-- resummation
-- git-sanity
-- legit-api-client
-- bots-edi-parser
-- pyroxy-real
-- manufacturedops-sdk
-- python-jack-knife
-- glassflow
-- dkinst
-- log-time-to-tempo
-- tbr-deal-finder
-- derotation
-- prt-sim
-- omnipkg
-- docling-serve
-- cozepy
-- dataclass-baseclass
-- MeUtils

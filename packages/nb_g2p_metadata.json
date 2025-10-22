@@ -1,11 +1,11 @@
 {
   "name": "nb_g2p",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Transcribe Norwegian dialects phonemically from bokmål text.",
   "author": null,
   "license": "CC0",
   "home_page": null,
-  "download_filename": "nb_g2p-2.1.0.tar.gz",
-  "download_time": "2025-10-22T14:25:17.819159",
+  "download_filename": "nb_g2p-2.1.1.tar.gz",
+  "download_time": "2025-10-22T14:48:57.069472",
   "package_url": "https://pypi.org/project/nb_g2p/"
 }

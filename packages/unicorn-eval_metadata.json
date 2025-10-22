@@ -1,11 +1,11 @@
 {
   "name": "unicorn-eval",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "summary": "Evaluation and adaption method for the UNICORN Challenge",
   "author": "Joeran Bosma, Clément Grisi, Marina D`Amato, Luc Builtjes, Lena Philipp, Fennie van der Graaf, Judith Lefkes, Michelle Stegeman, Rianne Weber",
   "license": null,
   "home_page": "https://github.com/DIAGNijmegen/unicorn_eval",
-  "download_filename": "unicorn_eval-3.0.4.tar.gz",
-  "download_time": "2025-10-17T08:22:09.812512",
+  "download_filename": "unicorn_eval-3.0.5.tar.gz",
+  "download_time": "2025-10-22T14:49:17.007008",
   "package_url": "https://pypi.org/project/unicorn-eval/"
 }

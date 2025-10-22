@@ -1,11 +1,11 @@
 {
   "name": "idi-brightsites-sdk",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Brightsites SDK",
   "author": "Bradley Reynolds",
   "license": null,
   "home_page": null,
-  "download_filename": "idi_brightsites_sdk-0.1.1.tar.gz",
-  "download_time": "2025-10-22T14:25:06.465397",
+  "download_filename": "idi_brightsites_sdk-0.2.0.tar.gz",
+  "download_time": "2025-10-22T14:48:59.631615",
   "package_url": "https://pypi.org/project/idi-brightsites-sdk/"
 }

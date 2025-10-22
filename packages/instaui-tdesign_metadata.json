@@ -1,11 +1,11 @@
 {
   "name": "instaui-tdesign",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "InstaUI TDesign",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "instaui_tdesign-0.5.0.tar.gz",
-  "download_time": "2025-10-18T08:52:26.860775",
+  "download_filename": "instaui_tdesign-0.5.1.tar.gz",
+  "download_time": "2025-10-22T14:49:14.503731",
   "package_url": "https://pypi.org/project/instaui-tdesign/"
 }

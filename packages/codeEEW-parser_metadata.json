@@ -1,11 +1,11 @@
 {
   "name": "codeEEW-parser",
-  "version": "0.1",
+  "version": "0.1.1",
   "summary": "緊急地震速報のコード電文を解析するためのパッケージ",
   "author": "t0729",
   "license": null,
-  "home_page": null,
-  "download_filename": "codeeew_parser-0.1.tar.gz",
-  "download_time": "2025-10-22T14:25:45.392925",
+  "home_page": "https://github.com/t0729/codeEEW_parser/",
+  "download_filename": "codeeew_parser-0.1.1.tar.gz",
+  "download_time": "2025-10-22T14:49:25.006745",
   "package_url": "https://pypi.org/project/codeEEW-parser/"
 }

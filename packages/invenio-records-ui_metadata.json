@@ -1,0 +1,11 @@
+{
+  "name": "invenio-records-ui",
+  "version": "2.1.1",
+  "summary": "\"User interface for Invenio-Records.\"",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-records-ui",
+  "download_filename": "invenio_records_ui-2.1.1.tar.gz",
+  "download_time": "2025-10-22T14:48:53.860597",
+  "package_url": "https://pypi.org/project/invenio-records-ui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tutor-contrib-aspects",
+  "version": "2.5.0",
+  "summary": "Aspects plugin for Tutor",
+  "author": "The Open edX Community",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/openedx/tutor-contrib-aspects",
+  "download_filename": "tutor_contrib_aspects-2.5.0.tar.gz",
+  "download_time": "2025-10-22T14:49:13.182967",
+  "package_url": "https://pypi.org/project/tutor-contrib-aspects/"
+}

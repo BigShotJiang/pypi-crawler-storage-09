@@ -1,0 +1,11 @@
+{
+  "name": "napari-sc3D-viewer",
+  "version": "2.0.0",
+  "summary": "A plugin to visualize 3D single cell omics",
+  "author": "Leo Guignard",
+  "license": "MIT",
+  "home_page": "https://github.com/GuignardLab/napari-sc3D-viewer",
+  "download_filename": "napari_sc3d_viewer-2.0.0.tar.gz",
+  "download_time": "2025-10-22T14:48:54.501139",
+  "package_url": "https://pypi.org/project/napari-sc3D-viewer/"
+}
