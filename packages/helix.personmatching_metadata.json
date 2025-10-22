@@ -1,11 +1,11 @@
 {
   "name": "helix.personmatching",
-  "version": "1.0.58",
+  "version": "1.0.59",
   "summary": "helix.personmatching",
   "author": "Imran Qureshi",
   "license": null,
   "home_page": "https://github.com/icanbwell/helix.personmatching",
-  "download_filename": "helix_personmatching-1.0.58.tar.gz",
-  "download_time": "2025-10-22T06:52:33.623831",
+  "download_filename": "helix_personmatching-1.0.59.tar.gz",
+  "download_time": "2025-10-22T07:34:25.144897",
   "package_url": "https://pypi.org/project/helix.personmatching/"
 }

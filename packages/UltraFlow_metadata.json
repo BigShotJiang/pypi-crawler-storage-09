@@ -1,11 +1,11 @@
 {
   "name": "UltraFlow",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "A comprehensive toolkit for streamlined development, testing, and deployment of prompt.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ultraflow-0.1.9.tar.gz",
-  "download_time": "2025-10-21T15:53:14.145867",
+  "download_filename": "ultraflow-0.2.0.tar.gz",
+  "download_time": "2025-10-22T07:34:57.102587",
   "package_url": "https://pypi.org/project/UltraFlow/"
 }

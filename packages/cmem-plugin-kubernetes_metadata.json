@@ -1,0 +1,11 @@
+{
+  "name": "cmem-plugin-kubernetes",
+  "version": "0.8.0",
+  "summary": "Start processes on pods on your kubernetes cluster.",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cmem_plugin_kubernetes-0.8.0.tar.gz",
+  "download_time": "2025-10-22T07:34:34.430026",
+  "package_url": "https://pypi.org/project/cmem-plugin-kubernetes/"
+}

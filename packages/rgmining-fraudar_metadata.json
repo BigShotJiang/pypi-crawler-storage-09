@@ -1,0 +1,11 @@
+{
+  "name": "rgmining-fraudar",
+  "version": "0.7.6",
+  "summary": "A wrapper of Fraudar algorithm for Review graph mining project",
+  "author": "Junpei Kawamoto",
+  "license": null,
+  "home_page": "https://rgmining.github.io/fraudar/",
+  "download_filename": "rgmining_fraudar-0.7.6.tar.gz",
+  "download_time": "2025-10-22T07:34:21.546566",
+  "package_url": "https://pypi.org/project/rgmining-fraudar/"
+}
