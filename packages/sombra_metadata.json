@@ -1,11 +1,11 @@
 {
   "name": "sombra",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A high-performance graph database with ACID transactions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sombra-0.3.2-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-22T19:22:51.748808",
+  "download_filename": "sombra-0.3.3-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-22T21:52:14.088755",
   "package_url": "https://pypi.org/project/sombra/"
 }

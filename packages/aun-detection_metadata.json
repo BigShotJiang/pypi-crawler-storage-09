@@ -1,11 +1,11 @@
 {
   "name": "aun-detection",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AI mimicry detection using symbolic collapse logic (∿)",
   "author": "Jerry Katz",
   "license": "MIT",
   "home_page": "https://github.com/halifaxjerrykatz-dotcom/aun-detection",
-  "download_filename": "aun_detection-0.1.1.tar.gz",
-  "download_time": "2025-10-22T20:21:58.086765",
+  "download_filename": "aun_detection-0.1.2.tar.gz",
+  "download_time": "2025-10-22T21:52:13.514798",
   "package_url": "https://pypi.org/project/aun-detection/"
 }
