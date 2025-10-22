@@ -1,0 +1,11 @@
+{
+  "name": "ipulse-shared-base-ftredge",
+  "version": "12.5.0",
+  "summary": "Shared Enums, Logger and other Base Utils for  Pulse Platform . Using AI for Asset Management and Financial Advisory.",
+  "author": "Russlan Ramdowar",
+  "license": null,
+  "home_page": "https://github.com/TheFutureEdge/ipulse_shared_base",
+  "download_filename": "ipulse_shared_base_ftredge-12.5.0.tar.gz",
+  "download_time": "2025-10-22T04:32:04.942151",
+  "package_url": "https://pypi.org/project/ipulse-shared-base-ftredge/"
+}

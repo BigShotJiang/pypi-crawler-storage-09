@@ -1,0 +1,11 @@
+{
+  "name": "typecraft",
+  "version": "0.1.0",
+  "summary": "Annotation-native toolkit for data validation, transformation, and type inspection",
+  "author": "mm21",
+  "license": null,
+  "home_page": "https://github.com/mm21/typecraft",
+  "download_filename": "typecraft-0.1.0.tar.gz",
+  "download_time": "2025-10-22T04:31:37.253353",
+  "package_url": "https://pypi.org/project/typecraft/"
+}
