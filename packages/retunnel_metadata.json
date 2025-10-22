@@ -1,0 +1,11 @@
+{
+  "name": "retunnel",
+  "version": "2.0.3",
+  "summary": "ReTunnel - Securely expose local servers to the internet",
+  "author": "ReTunnel Team",
+  "license": "MIT",
+  "home_page": "https://retunnel.com",
+  "download_filename": "retunnel-2.0.3.tar.gz",
+  "download_time": "2025-10-22T23:29:59.882348",
+  "package_url": "https://pypi.org/project/retunnel/"
+}
