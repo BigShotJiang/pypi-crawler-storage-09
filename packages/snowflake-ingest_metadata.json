@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-ingest",
+  "version": "1.0.12",
+  "summary": "Official SnowflakeDB File Ingest SDK",
+  "author": "Snowflake Computing",
+  "license": "Apache",
+  "home_page": "https://www.snowflake.net",
+  "download_filename": "snowflake_ingest-1.0.12.tar.gz",
+  "download_time": "2025-10-22T22:23:26.627579",
+  "package_url": "https://pypi.org/project/snowflake-ingest/"
+}

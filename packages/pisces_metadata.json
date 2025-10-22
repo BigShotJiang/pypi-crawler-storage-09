@@ -1,0 +1,11 @@
+{
+  "name": "pisces",
+  "version": "0.4.5",
+  "summary": "A Practical Seismological Database Library in Python.",
+  "author": "Jonathan MacCarthy",
+  "license": "LANL-MIT",
+  "home_page": "https://github.com/LANL-Seismoacoustics/pisces",
+  "download_filename": "pisces-0.4.5.tar.gz",
+  "download_time": "2025-10-22T22:23:10.646873",
+  "package_url": "https://pypi.org/project/pisces/"
+}

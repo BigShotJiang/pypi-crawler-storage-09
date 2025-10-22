@@ -1,11 +1,11 @@
 {
   "name": "chora-compose",
-  "version": "1.4.2",
+  "version": "1.8.0",
   "summary": "Chora Compose - Configuration-driven framework for composing artifacts from structured content",
   "author": "Victor",
   "license": null,
   "home_page": null,
-  "download_filename": "chora_compose-1.4.2.tar.gz",
-  "download_time": "2025-10-20T19:40:03.550644",
+  "download_filename": "chora_compose-1.8.0.tar.gz",
+  "download_time": "2025-10-22T22:23:09.619917",
   "package_url": "https://pypi.org/project/chora-compose/"
 }

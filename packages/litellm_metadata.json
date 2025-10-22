@@ -1,11 +1,11 @@
 {
   "name": "litellm",
-  "version": "1.78.5",
+  "version": "1.78.7",
   "summary": "Library to easily interface with LLM API providers",
   "author": "BerriAI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "litellm-1.78.5-py3-none-any.whl",
-  "download_time": "2025-10-18T22:50:40.371238",
+  "download_filename": "litellm-1.78.7-py3-none-any.whl",
+  "download_time": "2025-10-22T22:22:59.677870",
   "package_url": "https://pypi.org/project/litellm/"
 }

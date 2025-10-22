@@ -1,0 +1,11 @@
+{
+  "name": "coda-mcp",
+  "version": "0.12.0",
+  "summary": "MCP server for Coda document integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coda_mcp-0.12.0.tar.gz",
+  "download_time": "2025-10-22T22:23:11.677393",
+  "package_url": "https://pypi.org/project/coda-mcp/"
+}

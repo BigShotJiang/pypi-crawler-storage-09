@@ -1,0 +1,11 @@
+{
+  "name": "archgw",
+  "version": "0.3.16",
+  "summary": "Python-based CLI tool to manage Arch Gateway.",
+  "author": "Katanemo Labs, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "archgw-0.3.16.tar.gz",
+  "download_time": "2025-10-22T22:23:36.158595",
+  "package_url": "https://pypi.org/project/archgw/"
+}

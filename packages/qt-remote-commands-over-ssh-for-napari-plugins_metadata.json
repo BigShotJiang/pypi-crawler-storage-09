@@ -1,11 +1,11 @@
 {
   "name": "qt-remote-commands-over-ssh-for-napari-plugins",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "SSH JSONL messaging utilities for napari",
   "author": null,
   "license": "GPL",
   "home_page": null,
-  "download_filename": "qt_remote_commands_over_ssh_for_napari_plugins-0.2.0.tar.gz",
-  "download_time": "2025-10-20T15:38:54.319420",
+  "download_filename": "qt_remote_commands_over_ssh_for_napari_plugins-0.2.2.tar.gz",
+  "download_time": "2025-10-22T22:23:22.453735",
   "package_url": "https://pypi.org/project/qt-remote-commands-over-ssh-for-napari-plugins/"
 }

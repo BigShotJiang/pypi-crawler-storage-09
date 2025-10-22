@@ -1,0 +1,11 @@
+{
+  "name": "libtado",
+  "version": "4.1.0",
+  "summary": "A library (and a command line client) to control your Tado Smart Thermostat.",
+  "author": "Germain Lefebvre",
+  "license": "GNU GPL v3.0",
+  "home_page": "https://libtado.readthedocs.io/",
+  "download_filename": "libtado-4.1.0.tar.gz",
+  "download_time": "2025-10-22T22:23:20.314712",
+  "package_url": "https://pypi.org/project/libtado/"
+}
