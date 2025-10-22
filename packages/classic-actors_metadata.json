@@ -1,11 +1,11 @@
 {
   "name": "classic-actors",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Provides utilities for creating actors",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "classic_actors-0.1.0.tar.gz",
-  "download_time": "2025-10-20T08:47:49.685350",
+  "download_filename": "classic_actors-0.1.1.tar.gz",
+  "download_time": "2025-10-22T03:43:54.742951",
   "package_url": "https://pypi.org/project/classic-actors/"
 }

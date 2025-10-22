@@ -1,0 +1,11 @@
+{
+  "name": "DuiAutomation",
+  "version": "1.0.0",
+  "summary": "An ui-autotest framework for windows DuiLib.",
+  "author": "Bruce Cai",
+  "license": null,
+  "home_page": "https://gitee.com/qetest/DuiAutomation",
+  "download_filename": "duiautomation-1.0.0.tar.gz",
+  "download_time": "2025-10-22T03:43:51.108115",
+  "package_url": "https://pypi.org/project/DuiAutomation/"
+}

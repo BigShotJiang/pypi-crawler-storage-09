@@ -1,11 +1,11 @@
 {
   "name": "maleo-database",
-  "version": "0.1.50",
+  "version": "0.1.52",
   "summary": "Database package for MaleoSuite",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "maleo_database-0.1.50.tar.gz",
-  "download_time": "2025-10-17T06:47:44.035824",
+  "download_filename": "maleo_database-0.1.52.tar.gz",
+  "download_time": "2025-10-22T03:44:26.852145",
   "package_url": "https://pypi.org/project/maleo-database/"
 }

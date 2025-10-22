@@ -1,0 +1,11 @@
+{
+  "name": "types-cachetools",
+  "version": "6.2.0.20251022",
+  "summary": "Typing stubs for cachetools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_cachetools-6.2.0.20251022.tar.gz",
+  "download_time": "2025-10-22T03:44:34.679341",
+  "package_url": "https://pypi.org/project/types-cachetools/"
+}

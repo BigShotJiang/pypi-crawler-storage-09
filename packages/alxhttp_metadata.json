@@ -1,11 +1,11 @@
 {
   "name": "alxhttp",
-  "version": "0.9.84",
+  "version": "0.9.85",
   "summary": "A better base server for AioHTTP",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alxhttp-0.9.84.tar.gz",
-  "download_time": "2025-10-16T18:22:40.965945",
+  "download_filename": "alxhttp-0.9.85.tar.gz",
+  "download_time": "2025-10-22T03:43:51.627605",
   "package_url": "https://pypi.org/project/alxhttp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pynocaptcha",
+  "version": "3.0.6",
+  "summary": "nocaptcha.io api",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pynocaptcha-3.0.6.tar.gz",
+  "download_time": "2025-10-22T03:44:00.526368",
+  "package_url": "https://pypi.org/project/pynocaptcha/"
+}
