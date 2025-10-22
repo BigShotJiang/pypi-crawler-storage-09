@@ -1,0 +1,11 @@
+{
+  "name": "pyPSG-toolbox",
+  "version": "1.0.8",
+  "summary": "Python toolbox for PPG, ECG, SPO2 and HRV analysis",
+  "author": "Szabolcs M. Péter, Marton A. Goda, PhD",
+  "license": null,
+  "home_page": "https://github.com/pszabolcsm/pyPSG",
+  "download_filename": "pypsg_toolbox-1.0.8.tar.gz",
+  "download_time": "2025-10-22T02:50:35.662865",
+  "package_url": "https://pypi.org/project/pyPSG-toolbox/"
+}

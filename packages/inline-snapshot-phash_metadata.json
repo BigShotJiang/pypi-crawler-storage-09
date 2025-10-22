@@ -1,0 +1,11 @@
+{
+  "name": "inline-snapshot-phash",
+  "version": "0.1.0",
+  "summary": "Perceptual hash storage protocol for inline-snapshot",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "inline_snapshot_phash-0.1.0.tar.gz",
+  "download_time": "2025-10-22T02:50:48.864832",
+  "package_url": "https://pypi.org/project/inline-snapshot-phash/"
+}

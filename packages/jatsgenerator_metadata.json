@@ -1,0 +1,11 @@
+{
+  "name": "jatsgenerator",
+  "version": "0.20.0",
+  "summary": "JATS XML generator.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/elifesciences/jats-generator",
+  "download_filename": "jatsgenerator-0.20.0.tar.gz",
+  "download_time": "2025-10-22T02:50:35.141813",
+  "package_url": "https://pypi.org/project/jatsgenerator/"
+}

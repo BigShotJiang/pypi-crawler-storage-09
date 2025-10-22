@@ -1,0 +1,11 @@
+{
+  "name": "naimco",
+  "version": "0.4.0",
+  "summary": "Package to control Naim Mu-so sound systems",
+  "author": "Yngvi Þór Sigurjónsson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "naimco-0.4.0.tar.gz",
+  "download_time": "2025-10-22T02:50:27.100024",
+  "package_url": "https://pypi.org/project/naimco/"
+}

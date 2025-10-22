@@ -1,11 +1,11 @@
 {
   "name": "aiomysql",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "MySQL driver for asyncio.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiomysql-0.3.1.tar.gz",
-  "download_time": "2025-10-21T23:32:44.085248",
+  "download_filename": "aiomysql-0.3.2.tar.gz",
+  "download_time": "2025-10-22T02:50:32.482936",
   "package_url": "https://pypi.org/project/aiomysql/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vodiboi-state-space-visualizer",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A state space visualizing tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vodiboi_state_space_visualizer-0.1.2.tar.gz",
-  "download_time": "2025-10-19T23:51:17.504857",
+  "download_filename": "vodiboi_state_space_visualizer-0.1.5.tar.gz",
+  "download_time": "2025-10-22T02:50:23.924581",
   "package_url": "https://pypi.org/project/vodiboi-state-space-visualizer/"
 }

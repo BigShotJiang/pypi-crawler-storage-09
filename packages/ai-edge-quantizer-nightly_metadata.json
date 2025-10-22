@@ -1,11 +1,11 @@
 {
   "name": "ai-edge-quantizer-nightly",
-  "version": "0.4.0.dev20251021",
+  "version": "0.4.0.dev20251022",
   "summary": "A quantizer for advanced developers to quantize converted AI Edge models.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/google-ai-edge/ai-edge-quantizer",
-  "download_filename": "ai_edge_quantizer_nightly-0.4.0.dev20251021-py3-none-any.whl",
-  "download_time": "2025-10-21T01:13:57.242585",
+  "download_filename": "ai_edge_quantizer_nightly-0.4.0.dev20251022-py3-none-any.whl",
+  "download_time": "2025-10-22T02:50:34.622295",
   "package_url": "https://pypi.org/project/ai-edge-quantizer-nightly/"
 }

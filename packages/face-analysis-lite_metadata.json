@@ -1,0 +1,11 @@
+{
+  "name": "face-analysis-lite",
+  "version": "0.1.0",
+  "summary": "Library for facial region detection and extraction",
+  "author": "leonel hernandez",
+  "license": null,
+  "home_page": "https://github.com/leonelhs/faceanalysis",
+  "download_filename": "face_analysis_lite-0.1.0-py3-none-any.whl",
+  "download_time": "2025-10-22T02:50:22.385190",
+  "package_url": "https://pypi.org/project/face-analysis-lite/"
+}
