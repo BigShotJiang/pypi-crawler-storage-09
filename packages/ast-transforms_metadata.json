@@ -1,0 +1,11 @@
+{
+  "name": "ast-transforms",
+  "version": "0.2.0",
+  "summary": "A collection of AST-based transformations",
+  "author": "Tong Zhou",
+  "license": null,
+  "home_page": "https://github.com/habanero-lab/ast-transforms",
+  "download_filename": "ast_transforms-0.2.0.tar.gz",
+  "download_time": "2025-10-22T11:16:17.151332",
+  "package_url": "https://pypi.org/project/ast-transforms/"
+}

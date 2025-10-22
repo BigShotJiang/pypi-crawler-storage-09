@@ -1,0 +1,11 @@
+{
+  "name": "caldav-tasks-api",
+  "version": "1.6.0",
+  "summary": "A Python client for CalDAV task servers, with a CLI.",
+  "author": "thiswillbeyourgithub",
+  "license": null,
+  "home_page": "https://github.com/thiswillbeyourgithub/CaldavTasksAPI/",
+  "download_filename": "caldav_tasks_api-1.6.0.tar.gz",
+  "download_time": "2025-10-22T11:16:21.837541",
+  "package_url": "https://pypi.org/project/caldav-tasks-api/"
+}

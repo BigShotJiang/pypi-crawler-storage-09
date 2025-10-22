@@ -1,11 +1,11 @@
 {
   "name": "pyNAVIS",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Useful tools to analyze and process spiking information from neuromorphic auditory sensors.",
   "author": "Juan P. Dominguez-Morales",
   "license": "GPL",
   "home_page": "https://github.com/jpdominguez/pyNAVIS",
-  "download_filename": "pynavis-1.2.2.tar.gz",
-  "download_time": "2025-10-22T10:57:22.628308",
+  "download_filename": "pynavis-1.2.3.tar.gz",
+  "download_time": "2025-10-22T11:16:24.971850",
   "package_url": "https://pypi.org/project/pyNAVIS/"
 }

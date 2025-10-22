@@ -1,11 +1,11 @@
 {
   "name": "traittypes",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Scipy trait types",
   "author": "IPython Development Team",
   "license": "BSD",
   "home_page": "http://ipython.org",
-  "download_filename": "traittypes-0.2.2.tar.gz",
-  "download_time": "2025-10-22T08:24:46.901219",
+  "download_filename": "traittypes-0.2.3.tar.gz",
+  "download_time": "2025-10-22T11:16:22.886615",
   "package_url": "https://pypi.org/project/traittypes/"
 }
