@@ -1,11 +1,11 @@
 {
   "name": "keeps-learn-nexus-proto",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Shared Protocol Buffer definitions for Nexus microservices",
-  "author": "Keeps",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/Keeps-Learn/nexus-proto",
-  "download_filename": "keeps_learn_nexus_proto-0.4.0.tar.gz",
-  "download_time": "2025-10-22T19:22:51.202572",
+  "home_page": null,
+  "download_filename": "keeps_learn_nexus_proto-0.5.0.tar.gz",
+  "download_time": "2025-10-22T19:39:45.140690",
   "package_url": "https://pypi.org/project/keeps-learn-nexus-proto/"
 }
