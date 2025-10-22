@@ -1,0 +1,11 @@
+{
+  "name": "adk-extra-services",
+  "version": "0.1.7",
+  "summary": "Additional service implementations for Google ADK",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "adk_extra_services-0.1.7.tar.gz",
+  "download_time": "2025-10-22T18:27:28.357622",
+  "package_url": "https://pypi.org/project/adk-extra-services/"
+}

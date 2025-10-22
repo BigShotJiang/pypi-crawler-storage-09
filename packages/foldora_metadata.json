@@ -1,0 +1,11 @@
+{
+  "name": "foldora",
+  "version": "0.0.6",
+  "summary": "A CLI tool that manages files and directories.",
+  "author": "Ayoub A.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foldora-0.0.6.tar.gz",
+  "download_time": "2025-10-22T18:27:36.263292",
+  "package_url": "https://pypi.org/project/foldora/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hatchet",
+  "version": "1.4.1",
+  "summary": "A Python library for analyzing hierarchical performance data",
+  "author": "Abhinav Bhatele",
+  "license": "MIT",
+  "home_page": "https://github.com/hatchet/hatchet",
+  "download_filename": "hatchet-1.4.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-22T18:27:16.077008",
+  "package_url": "https://pypi.org/project/hatchet/"
+}

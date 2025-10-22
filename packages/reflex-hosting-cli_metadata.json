@@ -1,11 +1,11 @@
 {
   "name": "reflex-hosting-cli",
-  "version": "0.1.57",
+  "version": "0.1.58",
   "summary": "Reflex Hosting CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reflex_hosting_cli-0.1.57.tar.gz",
-  "download_time": "2025-10-16T19:25:21.072865",
+  "download_filename": "reflex_hosting_cli-0.1.58.tar.gz",
+  "download_time": "2025-10-22T18:27:07.533816",
   "package_url": "https://pypi.org/project/reflex-hosting-cli/"
 }
