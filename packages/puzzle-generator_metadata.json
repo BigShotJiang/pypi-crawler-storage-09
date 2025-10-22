@@ -1,0 +1,11 @@
+{
+  "name": "puzzle-generator",
+  "version": "0.17.0",
+  "summary": "Generates python code representing a puzzle",
+  "author": "piotr.idzik",
+  "license": "MIT",
+  "home_page": "https://github.com/vil02/puzzle_generator",
+  "download_filename": "puzzle_generator-0.17.0.tar.gz",
+  "download_time": "2025-10-22T20:42:13.528321",
+  "package_url": "https://pypi.org/project/puzzle-generator/"
+}

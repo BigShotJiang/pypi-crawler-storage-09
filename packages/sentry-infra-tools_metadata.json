@@ -1,11 +1,11 @@
 {
   "name": "sentry-infra-tools",
-  "version": "1.17.1",
+  "version": "1.17.2",
   "summary": "Infrastructure tools used at Sentry",
   "author": "Sentry",
   "license": "FSL-1.0-Apache-2.0",
   "home_page": null,
-  "download_filename": "sentry_infra_tools-1.17.1-py3-none-any.whl",
-  "download_time": "2025-10-22T15:18:25.056368",
+  "download_filename": "sentry_infra_tools-1.17.2-py3-none-any.whl",
+  "download_time": "2025-10-22T20:42:39.067836",
   "package_url": "https://pypi.org/project/sentry-infra-tools/"
 }

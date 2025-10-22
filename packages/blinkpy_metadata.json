@@ -1,11 +1,11 @@
 {
   "name": "blinkpy",
-  "version": "0.24.0",
+  "version": "0.24.1",
   "summary": "A Blink camera Python Library.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "blinkpy-0.24.0.tar.gz",
-  "download_time": "2025-10-19T19:12:23.995467",
+  "download_filename": "blinkpy-0.24.1.tar.gz",
+  "download_time": "2025-10-22T20:42:39.606937",
   "package_url": "https://pypi.org/project/blinkpy/"
 }
