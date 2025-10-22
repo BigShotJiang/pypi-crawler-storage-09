@@ -1,0 +1,11 @@
+{
+  "name": "omni-user-manager",
+  "version": "0.2.3",
+  "summary": "Omni User Manager - Sync users and groups with Omni",
+  "author": "Jamie Fry",
+  "license": null,
+  "home_page": "https://github.com/Hawkfry-Group/omni-user-manager",
+  "download_filename": "omni_user_manager-0.2.3.tar.gz",
+  "download_time": "2025-10-22T15:59:39.711510",
+  "package_url": "https://pypi.org/project/omni-user-manager/"
+}
