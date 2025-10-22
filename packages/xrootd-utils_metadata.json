@@ -1,0 +1,11 @@
+{
+  "name": "xrootd-utils",
+  "version": "0.1.0",
+  "summary": "A collection of high-level utility scripts for moving data to and from offline archival storage using XRootD.",
+  "author": "Patrick Austin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xrootd_utils-0.1.0.tar.gz",
+  "download_time": "2025-10-22T12:35:58.338224",
+  "package_url": "https://pypi.org/project/xrootd-utils/"
+}

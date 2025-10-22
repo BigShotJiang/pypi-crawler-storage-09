@@ -1,11 +1,11 @@
 {
   "name": "moleditpy-linux",
-  "version": "1.9.8",
+  "version": "1.9.10",
   "summary": "A cross-platform, simple, and intuitive molecular structure editor built in Python. It allows 2D molecular drawing and 3D structure visualization. It supports exporting structure files for input to DFT calculation software.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moleditpy_linux-1.9.8.tar.gz",
-  "download_time": "2025-10-21T05:16:54.589495",
+  "download_filename": "moleditpy_linux-1.9.10.tar.gz",
+  "download_time": "2025-10-22T12:35:24.687181",
   "package_url": "https://pypi.org/project/moleditpy-linux/"
 }

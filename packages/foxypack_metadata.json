@@ -1,0 +1,11 @@
+{
+  "name": "foxypack",
+  "version": "0.0.6.1",
+  "summary": "foxy interface library, entity balancing core, and shared parser",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foxypack-0.0.6.1.tar.gz",
+  "download_time": "2025-10-22T12:35:38.357104",
+  "package_url": "https://pypi.org/project/foxypack/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aiida-workgraph",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "Design flexible node-based workflow for AiiDA calculation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiida_workgraph-0.7.3.tar.gz",
-  "download_time": "2025-10-19T10:33:42.757906",
+  "download_filename": "aiida_workgraph-0.7.4.tar.gz",
+  "download_time": "2025-10-22T12:35:48.859667",
   "package_url": "https://pypi.org/project/aiida-workgraph/"
 }

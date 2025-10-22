@@ -1,11 +1,11 @@
 {
   "name": "open-compute",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Open Compute - multi-agent systems for healthtech",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "open_compute-0.1.2.tar.gz",
-  "download_time": "2025-10-21T21:16:51.013223",
+  "download_filename": "open_compute-0.1.3.tar.gz",
+  "download_time": "2025-10-22T12:35:17.869391",
   "package_url": "https://pypi.org/project/open-compute/"
 }

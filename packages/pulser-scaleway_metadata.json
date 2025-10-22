@@ -1,0 +1,11 @@
+{
+  "name": "pulser-scaleway",
+  "version": "0.1.4",
+  "summary": "A Pulser-compatible package to connect to Scaleway Quantum as a Service",
+  "author": "The Scaleway Developers",
+  "license": "Apache 2",
+  "home_page": null,
+  "download_filename": "pulser_scaleway-0.1.4.tar.gz",
+  "download_time": "2025-10-22T12:35:36.208380",
+  "package_url": "https://pypi.org/project/pulser-scaleway/"
+}
