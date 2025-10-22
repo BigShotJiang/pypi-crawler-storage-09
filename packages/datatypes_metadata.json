@@ -1,11 +1,11 @@
 {
   "name": "datatypes",
-  "version": "0.27.2",
+  "version": "0.28.0",
   "summary": "Utility Classes and Functions that are handy across multiple projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "datatypes-0.27.2.tar.gz",
-  "download_time": "2025-10-20T22:34:19.911670",
+  "download_filename": "datatypes-0.28.0.tar.gz",
+  "download_time": "2025-10-22T21:32:02.437359",
   "package_url": "https://pypi.org/project/datatypes/"
 }

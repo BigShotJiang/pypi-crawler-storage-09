@@ -1,11 +1,11 @@
 {
   "name": "mini-apigw",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Minimal OpenAI-compatible edge gateway with multi-backend routing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mini_apigw-0.0.6.tar.gz",
-  "download_time": "2025-10-21T21:16:37.805234",
+  "download_filename": "mini_apigw-0.0.7.tar.gz",
+  "download_time": "2025-10-22T21:31:18.755049",
   "package_url": "https://pypi.org/project/mini-apigw/"
 }

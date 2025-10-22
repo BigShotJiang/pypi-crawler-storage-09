@@ -1,11 +1,11 @@
 {
   "name": "OASYS2-shadow4",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "oasys2-shadow4: Oasys 2 widgets for shadow4",
   "author": "M. Sanchez del Rio, L. Rebuffi",
   "license": "BSD3",
   "home_page": "https://github.com/oasys-kit/OASYS2-SHADOW4",
-  "download_filename": "oasys2_shadow4-0.0.8.tar.gz",
-  "download_time": "2025-10-22T19:52:41.389491",
+  "download_filename": "oasys2_shadow4-0.0.9.tar.gz",
+  "download_time": "2025-10-22T21:31:22.396582",
   "package_url": "https://pypi.org/project/OASYS2-shadow4/"
 }

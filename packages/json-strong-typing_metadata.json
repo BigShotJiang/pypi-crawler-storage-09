@@ -1,0 +1,11 @@
+{
+  "name": "json-strong-typing",
+  "version": "0.4.1",
+  "summary": "Type-safe data interchange for Python data classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "json_strong_typing-0.4.1.tar.gz",
+  "download_time": "2025-10-22T21:31:23.498365",
+  "package_url": "https://pypi.org/project/json-strong-typing/"
+}

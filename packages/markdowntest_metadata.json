@@ -1,11 +1,11 @@
 {
   "name": "markdowntest",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "markdowntest: A unit test runner that renders a markdown file.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "markdowntest-0.0.4.tar.gz",
-  "download_time": "2025-10-22T17:33:46.934128",
+  "download_filename": "markdowntest-0.0.5.tar.gz",
+  "download_time": "2025-10-22T21:31:33.672578",
   "package_url": "https://pypi.org/project/markdowntest/"
 }

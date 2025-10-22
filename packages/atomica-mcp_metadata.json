@@ -1,0 +1,11 @@
+{
+  "name": "atomica-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for PDB structure queries and protein resolution using AnAge database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atomica_mcp-0.1.1.tar.gz",
+  "download_time": "2025-10-22T21:31:48.335383",
+  "package_url": "https://pypi.org/project/atomica-mcp/"
+}

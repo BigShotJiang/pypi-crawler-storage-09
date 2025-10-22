@@ -1,0 +1,11 @@
+{
+  "name": "tkflexbox",
+  "version": "0.1.0",
+  "summary": "Implements flexbox like functionality to tkinter. Makes creating a reactive GUI far easier.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tkflexbox-0.1.0.tar.gz",
+  "download_time": "2025-10-22T21:31:44.723073",
+  "package_url": "https://pypi.org/project/tkflexbox/"
+}

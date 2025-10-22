@@ -1,0 +1,11 @@
+{
+  "name": "ass",
+  "version": "1.0.3",
+  "summary": "A library for parsing and manipulating Advanced SubStation Alpha subtitle files.",
+  "author": "Tony Young, FichteFoll, Myaamori",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ass-1.0.3.tar.gz",
+  "download_time": "2025-10-22T21:32:01.921476",
+  "package_url": "https://pypi.org/project/ass/"
+}
