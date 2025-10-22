@@ -1,0 +1,11 @@
+{
+  "name": "hdl-registers",
+  "version": "8.1.0",
+  "summary": "An open-source HDL register interface code generator fast enough to run in real time",
+  "author": "Lukas Vik",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "hdl_registers-8.1.0.tar.gz",
+  "download_time": "2025-10-22T06:26:11.781966",
+  "package_url": "https://pypi.org/project/hdl-registers/"
+}
