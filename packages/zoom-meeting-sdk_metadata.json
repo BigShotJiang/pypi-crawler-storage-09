@@ -1,0 +1,11 @@
+{
+  "name": "zoom-meeting-sdk",
+  "version": "0.0.25",
+  "summary": "Python Bindings for the Zoom Meeting SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zoom-meeting-sdk-0.0.25.tar.gz",
+  "download_time": "2025-10-22T04:01:32.540668",
+  "package_url": "https://pypi.org/project/zoom-meeting-sdk/"
+}

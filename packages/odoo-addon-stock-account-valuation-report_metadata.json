@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-account-valuation-report",
+  "version": "18.0.1.0.0.5",
+  "summary": "Improves logic of the Inventory Valuation Report",
+  "author": "ForgeFlow S.L., Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-reporting",
+  "download_filename": "odoo_addon_stock_account_valuation_report-18.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-10-22T04:01:29.375928",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-account-valuation-report/"
+}

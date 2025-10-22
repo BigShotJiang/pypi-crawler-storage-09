@@ -1,0 +1,11 @@
+{
+  "name": "pixtreme-filter",
+  "version": "0.6.0",
+  "summary": "GPU-accelerated image filtering operations for pixtreme",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixtreme_filter-0.6.0.tar.gz",
+  "download_time": "2025-10-22T04:01:40.464741",
+  "package_url": "https://pypi.org/project/pixtreme-filter/"
+}
