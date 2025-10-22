@@ -1,0 +1,11 @@
+{
+  "name": "wwpdb.utils.db",
+  "version": "0.34.1",
+  "summary": "wwPDB Python DB Schema Utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wwpdb_utils_db-0.34.1.tar.gz",
+  "download_time": "2025-10-22T16:23:28.126375",
+  "package_url": "https://pypi.org/project/wwpdb.utils.db/"
+}

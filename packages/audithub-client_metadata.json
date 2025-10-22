@@ -1,0 +1,11 @@
+{
+  "name": "audithub-client",
+  "version": "1.1.8",
+  "summary": "A Python client that can access Veridise AuditHub via its REST API, providing CLI access",
+  "author": "Nikos Chondros",
+  "license": "AGPLv3",
+  "home_page": null,
+  "download_filename": "audithub_client-1.1.8.tar.gz",
+  "download_time": "2025-10-22T16:23:03.033916",
+  "package_url": "https://pypi.org/project/audithub-client/"
+}

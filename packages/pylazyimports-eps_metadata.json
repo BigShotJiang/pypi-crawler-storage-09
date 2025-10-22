@@ -1,0 +1,11 @@
+{
+  "name": "pylazyimports-eps",
+  "version": "0.2.0",
+  "summary": "Hatch plugin to automaticilly detect and fill lazyimport entrypoints",
+  "author": "Dhia Hmila",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pylazyimports_eps-0.2.0.tar.gz",
+  "download_time": "2025-10-22T16:23:35.611022",
+  "package_url": "https://pypi.org/project/pylazyimports-eps/"
+}

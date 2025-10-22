@@ -1,11 +1,11 @@
 {
   "name": "otel-observability",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A unified OpenTelemetry observability package for Python applications",
   "author": "Mortada Touzi",
   "license": "MIT",
   "home_page": "https://github.com/Touzi-Mortadha/otel-observability",
-  "download_filename": "otel_observability-0.1.0.tar.gz",
-  "download_time": "2025-10-22T14:49:00.901945",
+  "download_filename": "otel_observability-0.1.1.tar.gz",
+  "download_time": "2025-10-22T16:23:26.423570",
   "package_url": "https://pypi.org/project/otel-observability/"
 }

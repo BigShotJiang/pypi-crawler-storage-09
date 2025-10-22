@@ -1,0 +1,11 @@
+{
+  "name": "description-harvester",
+  "version": "0.5.0",
+  "summary": "A tool for working with archival description for public access.",
+  "author": "Gregory Wiedeman",
+  "license": null,
+  "home_page": "https://github.com/UAlbanyArchives/description_harvester",
+  "download_filename": "description_harvester-0.5.0.tar.gz",
+  "download_time": "2025-10-22T16:23:35.082528",
+  "package_url": "https://pypi.org/project/description-harvester/"
+}

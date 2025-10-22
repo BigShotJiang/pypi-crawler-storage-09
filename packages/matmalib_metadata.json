@@ -1,11 +1,11 @@
 {
   "name": "matmalib",
-  "version": "0.1.8",
+  "version": "0.1.9.2",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matmalib-0.1.8.tar.gz",
-  "download_time": "2025-10-20T20:43:01.261825",
+  "download_filename": "matmalib-0.1.9.2.tar.gz",
+  "download_time": "2025-10-22T16:23:23.647311",
   "package_url": "https://pypi.org/project/matmalib/"
 }

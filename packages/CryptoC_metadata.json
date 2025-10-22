@@ -1,0 +1,11 @@
+{
+  "name": "CryptoC",
+  "version": "1.0.0",
+  "summary": "A library for various cryptography algorithms (Caesar, Hill Cipher.)",
+  "author": "Ibrahem Abo kila",
+  "license": null,
+  "home_page": "https://github.com/hemanamo/CryptoC",
+  "download_filename": "cryptoc-1.0.0.tar.gz",
+  "download_time": "2025-10-22T16:23:15.323610",
+  "package_url": "https://pypi.org/project/CryptoC/"
+}

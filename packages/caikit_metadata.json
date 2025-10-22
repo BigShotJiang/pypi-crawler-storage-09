@@ -1,0 +1,11 @@
+{
+  "name": "caikit",
+  "version": "0.28.3",
+  "summary": "AI toolkit that enables AI users to consume stable task-specific model APIs and enables AI developers build algorithms and models in a modular/composable framework",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "caikit-0.28.3.tar.gz",
+  "download_time": "2025-10-22T16:23:41.519904",
+  "package_url": "https://pypi.org/project/caikit/"
+}

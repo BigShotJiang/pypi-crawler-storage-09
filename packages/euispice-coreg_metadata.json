@@ -1,0 +1,11 @@
+{
+  "name": "euispice-coreg",
+  "version": "0.4.0",
+  "summary": "Tools to co-register imagers (including HRI-EUV) and SPICE, on-bord Solar Orbiter. ",
+  "author": "dolliou",
+  "license": null,
+  "home_page": null,
+  "download_filename": "euispice_coreg-0.4.0.tar.gz",
+  "download_time": "2025-10-22T16:23:12.491406",
+  "package_url": "https://pypi.org/project/euispice-coreg/"
+}
