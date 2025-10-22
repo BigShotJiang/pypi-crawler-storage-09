@@ -1,11 +1,11 @@
 {
   "name": "arit",
-  "version": "0.2",
+  "version": "1.5",
   "summary": "This is a prototype package for generating rules from raw text",
   "author": "Olegs Verhodubs",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "arit-0.2.tar.gz",
-  "download_time": "2025-10-22T19:23:23.764434",
+  "download_filename": "arit-1.5.tar.gz",
+  "download_time": "2025-10-22T19:27:03.530305",
   "package_url": "https://pypi.org/project/arit/"
 }

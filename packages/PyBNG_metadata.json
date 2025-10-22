@@ -1,0 +1,11 @@
+{
+  "name": "PyBNG",
+  "version": "0.2.0",
+  "summary": "A library to convert BNG/OSNG coordinates ",
+  "author": "Mohamed Shahawy",
+  "license": null,
+  "home_page": "https://github.com/ThunderStruct/PyBNG",
+  "download_filename": "pybng-0.2.0.tar.gz",
+  "download_time": "2025-10-22T19:27:06.688833",
+  "package_url": "https://pypi.org/project/PyBNG/"
+}

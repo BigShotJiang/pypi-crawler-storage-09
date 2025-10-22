@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-22T19:23:24.265349
+- **Download Time**: 2025-10-22T19:27:51.219277
 - **Total Packages**: 92
-- **Total Size**: 31.93 MB
+- **Total Size**: 11.63 MB
 
 ## Packages List
+- OASYS2-SYNED
+- oasys2
+- arit
+- gammarers.aws-daily-cost-usage-report-stack
+- rumdl
+- opengris-scaler
+- cellect
+- syned
+- PyBNG
+- nomad-tajine-plugin
+- masai-framework
+- hypothesis
+- luminet
+- qfieldcloud-sdk
+- botlit-sdk
 - pybotchi
 - phxutils
 - pyinfra-ansible-inventory-connector
@@ -83,18 +98,3 @@
 - prismarine
 - vibe-llama-core
 - 3lc
-- entari-plugin-hyw
-- astreum
-- llamabot
-- qoery
-- pulumi-awsx
-- anatools
-- pigeon-tem-comms
-- nltkbleud
-- comet-mcp
-- pymarc_csv
-- GNServer
-- lanmonitor
-- rag-memory
-- eremitalpa
-- arit
