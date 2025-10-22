@@ -1,0 +1,11 @@
+{
+  "name": "argopy",
+  "version": "1.3.1",
+  "summary": "A python library for Argo data beginners and experts",
+  "author": "argopy Developers",
+  "license": null,
+  "home_page": "https://github.com/euroargodev/argopy",
+  "download_filename": "argopy-1.3.1.tar.gz",
+  "download_time": "2025-10-22T21:39:25.778534",
+  "package_url": "https://pypi.org/project/argopy/"
+}

@@ -1,19 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-22T21:32:04.537142
+- **Download Time**: 2025-10-22T21:40:16.077239
 - **Total Packages**: 88
-- **Total Size**: 18.32 MB
+- **Total Size**: 7.7 MB
 
 ## Packages List
+- pycarlo
+- atomica-mcp
+- flashmd
+- argopy
+- arize
+- discord.http
+- solarmoonpy
+- littlehorse-client
+- insyt-secure
+- mrx-runway
+- airavata-python-sdk
+- CliSelf
+- omserv
+- ommlds
+- omlish
+- omlish-cext
+- tmesh
+- ominfra
+- omextra
+- omdev
+- omdev-rs
+- omdev-cli
+- omdev-cext
+- annotated-dict
+- gitlab-api
+- servicenow-api
+- omniblack.hatch
+- botapi-py
+- lg2slack
+- dekartifacts
+- cheshire-cat-ai
+- campfirevalley
+- ntscli-client
 - market-data-store
 - pyax
 - lmspace
 - spdx_checker
 - mini-apigw
-- CliSelf
 - OASYS2-SRW
-- botapi-py
 - polars-as-config
 - source-coop-mcp
 - agenta
@@ -29,7 +60,6 @@
 - OASYS2-SYNED
 - videowall
 - syned
-- insyt-secure
 - pythonnative
 - mysingle-quant
 - compass_api_sdk
@@ -64,33 +94,3 @@
 - synthefy
 - easycoder
 - sssom-curator
-- atomica-mcp
-- code-puppy
-- plain
-- vision-agents-plugins-xai
-- vision-agents-plugins-wizper
-- vision-agents-plugins-ultralytics
-- vision-agents-plugins-smart-turn
-- pytest-revealtype-injector
-- vision-agents-plugins-silero
-- vision-agents-plugins-openrouter
-- vision-agents-plugins-openai
-- vision-agents-plugins-moonshine
-- vision-agents-plugins-krisp
-- vision-agents-plugins-kokoro
-- vision-agents-plugins-getstream
-- vision-agents-plugins-gemini
-- vision-agents-plugins-fish
-- vision-agents-plugins-elevenlabs
-- vision-agents-plugins-deepgram
-- vision-agents-plugins-cartesia
-- vision-agents-plugins-aws
-- vision-agents-plugins-anthropic
-- vision-agents
-- fastprocess
-- my-firsttt-package
-- ass
-- datatypes
-- dekartifacts
-- dm-client-workflow
-- dm-client-validator

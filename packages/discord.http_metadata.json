@@ -1,0 +1,11 @@
+{
+  "name": "discord.http",
+  "version": "3.0.0",
+  "summary": "Python library that handles interactions from Discord POST requests.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "discord_http-3.0.0.tar.gz",
+  "download_time": "2025-10-22T21:39:26.947376",
+  "package_url": "https://pypi.org/project/discord.http/"
+}
