@@ -1,0 +1,11 @@
+{
+  "name": "clicamap2cal",
+  "version": "0.3.0",
+  "summary": "Convert your clicamap HTML calendar to an ical ready to import",
+  "author": "Rémi Ferrand",
+  "license": null,
+  "home_page": "https://gitlab.com/riton/clicamap-calendar",
+  "download_filename": "clicamap2cal-0.3.0.tar.gz",
+  "download_time": "2025-10-22T13:52:14.675686",
+  "package_url": "https://pypi.org/project/clicamap2cal/"
+}

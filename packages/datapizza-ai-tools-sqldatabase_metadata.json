@@ -1,11 +1,11 @@
 {
   "name": "datapizza-ai-tools-sqldatabase",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A tool to interact with SQL databases for the datapizza-ai framework.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datapizza_ai_tools_sqldatabase-0.0.1.tar.gz",
-  "download_time": "2025-10-21T10:18:36.651731",
+  "download_filename": "datapizza_ai_tools_sqldatabase-0.0.2.tar.gz",
+  "download_time": "2025-10-22T13:51:55.046128",
   "package_url": "https://pypi.org/project/datapizza-ai-tools-sqldatabase/"
 }

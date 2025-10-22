@@ -1,11 +1,11 @@
 {
   "name": "datapizza-ai-clients-bedrock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "AWS Bedrock client for the datapizza-ai framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datapizza_ai_clients_bedrock-0.0.1.tar.gz",
-  "download_time": "2025-10-21T10:18:40.814250",
+  "download_filename": "datapizza_ai_clients_bedrock-0.0.2.tar.gz",
+  "download_time": "2025-10-22T13:51:52.436544",
   "package_url": "https://pypi.org/project/datapizza-ai-clients-bedrock/"
 }

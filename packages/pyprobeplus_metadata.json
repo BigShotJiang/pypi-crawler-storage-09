@@ -1,0 +1,11 @@
+{
+  "name": "pyprobeplus",
+  "version": "1.1.2",
+  "summary": "A generic library to interact with a Probe Plus BLE device",
+  "author": "pantherale0",
+  "license": "Apache-2.0",
+  "home_page": "http://github.com/pantherale0/pyprobeplus",
+  "download_filename": "pyprobeplus-1.1.2.tar.gz",
+  "download_time": "2025-10-22T13:52:27.241548",
+  "package_url": "https://pypi.org/project/pyprobeplus/"
+}

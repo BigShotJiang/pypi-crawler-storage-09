@@ -1,11 +1,11 @@
 {
   "name": "colibri-stateless",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "Python bindings for Colibri stateless Ethereum proof library",
   "author": "corpus.core",
   "license": "MIT",
   "home_page": "https://github.com/corpus-core/colibri-stateless",
-  "download_filename": "colibri_stateless-0.6.2-cp312-cp312-macosx_15_0_universal2.whl",
-  "download_time": "2025-10-17T19:12:54.713312",
+  "download_filename": "colibri_stateless-0.6.3-cp312-cp312-macosx_15_0_universal2.whl",
+  "download_time": "2025-10-22T13:52:17.842304",
   "package_url": "https://pypi.org/project/colibri-stateless/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ollama-haystack",
+  "version": "5.3.0",
+  "summary": "An integration between the Ollama LLM framework and Haystack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ollama_haystack-5.3.0.tar.gz",
+  "download_time": "2025-10-22T13:52:22.012127",
+  "package_url": "https://pypi.org/project/ollama-haystack/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kioptipack-dataprocessing",
+  "version": "0.2.0",
+  "summary": "A data processing library for KI-Opti-Pack project. It provides addtional data preprocessing and postprocessing functionalities to support machine learning workflows in the context of optimizing plastic packaging solutions by extending sklearn's pipeline operations.",
+  "author": "Alexander Nasuta, Mats Gesenhues",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kioptipack_dataprocessing-0.2.0.tar.gz",
+  "download_time": "2025-10-22T13:51:59.227367",
+  "package_url": "https://pypi.org/project/kioptipack-dataprocessing/"
+}

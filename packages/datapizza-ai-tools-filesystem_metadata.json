@@ -1,11 +1,11 @@
 {
   "name": "datapizza-ai-tools-filesystem",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A tool for interacting with the local file system.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datapizza_ai_tools_filesystem-0.0.1.tar.gz",
-  "download_time": "2025-10-21T10:18:37.676045",
+  "download_filename": "datapizza_ai_tools_filesystem-0.0.2.tar.gz",
+  "download_time": "2025-10-22T13:51:55.564643",
   "package_url": "https://pypi.org/project/datapizza-ai-tools-filesystem/"
 }

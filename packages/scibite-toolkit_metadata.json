@@ -1,0 +1,11 @@
+{
+  "name": "scibite-toolkit",
+  "version": "1.1.0",
+  "summary": "scibite-toolkit - python library for calling SciBite applications: TERMite, TExpress, SciBite Search, CENtree and Workbench. The library also enables processing of the JSON results from such requests",
+  "author": "SciBite",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+  "home_page": "https://github.com/elsevier-health/scibite-toolkit",
+  "download_filename": "scibite_toolkit-1.1.0.tar.gz",
+  "download_time": "2025-10-22T13:52:06.812412",
+  "package_url": "https://pypi.org/project/scibite-toolkit/"
+}

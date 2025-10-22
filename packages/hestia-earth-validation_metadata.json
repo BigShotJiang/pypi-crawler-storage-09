@@ -1,11 +1,11 @@
 {
   "name": "hestia-earth-validation",
-  "version": "0.37.1",
+  "version": "0.37.3",
   "summary": "HESTIA Data Validation library",
   "author": "Guillaume Royer",
   "license": "MIT",
   "home_page": "https://gitlab.com/hestia-earth/hestia-data-validation",
-  "download_filename": "hestia_earth_validation-0.37.1.tar.gz",
-  "download_time": "2025-10-16T09:41:31.146950",
+  "download_filename": "hestia_earth_validation-0.37.3.tar.gz",
+  "download_time": "2025-10-22T13:52:03.671600",
   "package_url": "https://pypi.org/project/hestia-earth-validation/"
 }

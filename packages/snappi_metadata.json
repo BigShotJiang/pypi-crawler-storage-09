@@ -1,11 +1,11 @@
 {
   "name": "snappi",
-  "version": "1.40.2",
+  "version": "1.40.3",
   "summary": "The Snappi Open Traffic Generator Python Package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "snappi-1.40.2.tar.gz",
-  "download_time": "2025-10-21T11:29:51.217055",
+  "download_filename": "snappi-1.40.3.tar.gz",
+  "download_time": "2025-10-22T13:51:44.056603",
   "package_url": "https://pypi.org/project/snappi/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gtagora-connector",
+  "version": "1.7.1",
+  "summary": "The Agora Connector for Python",
+  "author": "Martin Bührer, Felix Eichenberger",
+  "license": null,
+  "home_page": "https://github.com/gyrotools/gtagora",
+  "download_filename": "gtagora_connector-1.7.1.tar.gz",
+  "download_time": "2025-10-22T13:52:07.332383",
+  "package_url": "https://pypi.org/project/gtagora-connector/"
+}
