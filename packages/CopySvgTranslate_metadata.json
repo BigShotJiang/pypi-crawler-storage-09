@@ -1,0 +1,11 @@
+{
+  "name": "CopySvgTranslate",
+  "version": "0.1.0",
+  "summary": "Utilities for extracting and applying translations to multilingual SVG files.",
+  "author": "Ibrahim Qasim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "copysvgtranslate-0.1.0.tar.gz",
+  "download_time": "2025-10-22T23:40:26.665099",
+  "package_url": "https://pypi.org/project/CopySvgTranslate/"
+}

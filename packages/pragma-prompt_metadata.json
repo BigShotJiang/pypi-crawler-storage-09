@@ -1,0 +1,11 @@
+{
+  "name": "pragma-prompt",
+  "version": "0.0.2",
+  "summary": "A powerful toolkit for building, managing, and composing hierarchical prompts as code.",
+  "author": "David Tokar",
+  "license": "MIT",
+  "home_page": "https://github.com/DavidTokar12/PragmaPrompt",
+  "download_filename": "pragma_prompt-0.0.2.tar.gz",
+  "download_time": "2025-10-22T23:39:52.521237",
+  "package_url": "https://pypi.org/project/pragma-prompt/"
+}

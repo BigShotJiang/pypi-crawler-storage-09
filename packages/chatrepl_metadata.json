@@ -1,0 +1,11 @@
+{
+  "name": "chatrepl",
+  "version": "0.2.0a0",
+  "summary": "A Python 2.7+ REPL for interacting with LLMs with an OpenAI Chat Completions-compatible API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatrepl-0.2.0a0.tar.gz",
+  "download_time": "2025-10-22T23:40:29.319566",
+  "package_url": "https://pypi.org/project/chatrepl/"
+}
