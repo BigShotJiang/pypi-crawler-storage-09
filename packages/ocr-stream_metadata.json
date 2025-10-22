@@ -1,11 +1,11 @@
 {
   "name": "ocr-stream",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "summary": "Extrair textos de documentos digitalizados e imagens.",
   "author": "Bruno Chaves",
   "license": null,
   "home_page": null,
-  "download_filename": "ocr_stream-2.3.2.tar.gz",
-  "download_time": "2025-10-19T19:37:19.432960",
+  "download_filename": "ocr_stream-2.3.3.tar.gz",
+  "download_time": "2025-10-22T01:15:50.772692",
   "package_url": "https://pypi.org/project/ocr-stream/"
 }

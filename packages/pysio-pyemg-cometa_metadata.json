@@ -1,0 +1,11 @@
+{
+  "name": "pysio-pyemg-cometa",
+  "version": "0.0.1",
+  "summary": "A pythonic wrapper library for Cometa sEMG Waveplus devices",
+  "author": "e-Media Research Lab @ KU Leuven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysio_pyemg_cometa-0.0.1.tar.gz",
+  "download_time": "2025-10-22T01:16:14.901796",
+  "package_url": "https://pypi.org/project/pysio-pyemg-cometa/"
+}

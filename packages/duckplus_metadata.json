@@ -1,11 +1,11 @@
 {
   "name": "duckplus",
-  "version": "1.4.1",
+  "version": "1.4.4",
   "summary": "Typed expression helpers for DuckDB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "duckplus-1.4.1.tar.gz",
-  "download_time": "2025-10-21T18:23:57.088593",
+  "download_filename": "duckplus-1.4.4.tar.gz",
+  "download_time": "2025-10-22T01:15:39.783402",
   "package_url": "https://pypi.org/project/duckplus/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vigil-client",
-  "version": "0.3.5",
+  "version": "0.3.10",
   "summary": "Vigil Client: Platform integration for artifact management and collaboration",
   "author": "Science Abundance",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vigil_client-0.3.5.tar.gz",
-  "download_time": "2025-10-21T23:51:53.211428",
+  "download_filename": "vigil_client-0.3.10.tar.gz",
+  "download_time": "2025-10-22T01:16:08.366170",
   "package_url": "https://pypi.org/project/vigil-client/"
 }

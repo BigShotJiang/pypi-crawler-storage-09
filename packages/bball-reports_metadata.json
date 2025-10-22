@@ -1,0 +1,11 @@
+{
+  "name": "bball-reports",
+  "version": "0.1.2",
+  "summary": "Report generation for the bball ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bball_reports-0.1.2.tar.gz",
+  "download_time": "2025-10-22T01:15:47.321161",
+  "package_url": "https://pypi.org/project/bball-reports/"
+}

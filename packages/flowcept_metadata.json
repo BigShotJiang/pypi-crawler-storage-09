@@ -1,0 +1,11 @@
+{
+  "name": "flowcept",
+  "version": "0.9.16",
+  "summary": "Capture and query workflow provenance data using data observability",
+  "author": "Oak Ridge National Laboratory",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowcept-0.9.16.tar.gz",
+  "download_time": "2025-10-22T01:16:03.108290",
+  "package_url": "https://pypi.org/project/flowcept/"
+}

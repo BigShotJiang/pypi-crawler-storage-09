@@ -1,0 +1,11 @@
+{
+  "name": "pysio-hermes-cometa",
+  "version": "0.0.1",
+  "summary": "A Cometa sEMG support module for HERMES",
+  "author": "e-Media Research Lab @ KU Leuven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysio_hermes_cometa-0.0.1.tar.gz",
+  "download_time": "2025-10-22T01:15:36.260849",
+  "package_url": "https://pypi.org/project/pysio-hermes-cometa/"
+}

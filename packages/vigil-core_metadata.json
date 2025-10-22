@@ -1,11 +1,11 @@
 {
   "name": "vigil-core",
-  "version": "0.3.0",
+  "version": "0.3.10",
   "summary": "Vigil Core: Cryptographic kernel for reproducible science",
   "author": "Science Abundance",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vigil_core-0.3.0.tar.gz",
-  "download_time": "2025-10-21T23:32:42.549276",
+  "download_filename": "vigil_core-0.3.10.tar.gz",
+  "download_time": "2025-10-22T01:16:06.634435",
   "package_url": "https://pypi.org/project/vigil-core/"
 }
