@@ -1,11 +1,11 @@
 {
   "name": "MapProxy",
-  "version": "5.1.1",
+  "version": "6.0.0",
   "summary": "An accelerating proxy for tile and web map services",
   "author": "Oliver Tonnhofer",
   "license": "Apache Software License 2.0",
   "home_page": "https://mapproxy.org",
-  "download_filename": "mapproxy-5.1.1.tar.gz",
-  "download_time": "2025-10-22T11:16:03.876039",
+  "download_filename": "mapproxy-6.0.0.tar.gz",
+  "download_time": "2025-10-22T11:31:48.255442",
   "package_url": "https://pypi.org/project/MapProxy/"
 }

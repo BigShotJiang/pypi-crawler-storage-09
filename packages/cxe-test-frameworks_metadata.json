@@ -1,0 +1,11 @@
+{
+  "name": "cxe-test-frameworks",
+  "version": "0.1.0",
+  "summary": "Shared testing infrastructure for CXE services (API + UI)",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "cxe_test_frameworks-0.1.0.tar.gz",
+  "download_time": "2025-10-22T11:31:35.836615",
+  "package_url": "https://pypi.org/project/cxe-test-frameworks/"
+}

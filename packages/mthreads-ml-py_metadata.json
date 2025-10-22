@@ -1,0 +1,11 @@
+{
+  "name": "mthreads-ml-py",
+  "version": "2.2.0",
+  "summary": "Python Bindings for the Moore Threads GPU Management Library",
+  "author": "Moore Threads Corporation",
+  "license": "BSD",
+  "home_page": "https://developer.mthreads.com",
+  "download_filename": "mthreads_ml_py-2.2.0-py3-none-any.whl",
+  "download_time": "2025-10-22T11:31:22.410743",
+  "package_url": "https://pypi.org/project/mthreads-ml-py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rust-template",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "summary": "A production-ready Rust project template to bootstrap new projects fast. It includes a clean Cargo layout, Docker, and a complete CI/CD suite.",
   "author": "Wei Lee",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rust_template-0.1.30.tar.gz",
-  "download_time": "2025-10-19T15:29:52.736558",
+  "download_filename": "rust_template-0.1.31.tar.gz",
+  "download_time": "2025-10-22T11:31:41.056796",
   "package_url": "https://pypi.org/project/rust-template/"
 }

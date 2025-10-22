@@ -1,0 +1,11 @@
+{
+  "name": "itam-assistant",
+  "version": "0.1.16",
+  "summary": "新增功能：1. 支持自定义模型路径 2. 支持自定义模型参数",
+  "author": "liujunmeiD",
+  "license": null,
+  "home_page": "https://github.com/liujunmeiD/itam_assistant",
+  "download_filename": "itam_assistant-0.1.16.tar.gz",
+  "download_time": "2025-10-22T11:31:17.269070",
+  "package_url": "https://pypi.org/project/itam-assistant/"
+}
