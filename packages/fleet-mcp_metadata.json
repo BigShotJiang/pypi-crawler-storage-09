@@ -1,0 +1,11 @@
+{
+  "name": "fleet-mcp",
+  "version": "1.0.1",
+  "summary": "Model Context Protocol tool for Fleet DM integration",
+  "author": "Fleet MCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fleet_mcp-1.0.1.tar.gz",
+  "download_time": "2025-10-22T04:48:58.106657",
+  "package_url": "https://pypi.org/project/fleet-mcp/"
+}

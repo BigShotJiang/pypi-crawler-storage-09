@@ -1,11 +1,11 @@
 {
   "name": "mtcli-rvo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Plugin mtcli do indicador RVO (Relative Volume Oscilator)",
   "author": "Valmir França",
   "license": "GPL-3.0",
   "home_page": "https://github.com/vfranca/mtcli-rvo",
-  "download_filename": "mtcli_rvo-1.0.0.tar.gz",
-  "download_time": "2025-10-22T04:31:42.000104",
+  "download_filename": "mtcli_rvo-1.0.1.tar.gz",
+  "download_time": "2025-10-22T04:49:05.137315",
   "package_url": "https://pypi.org/project/mtcli-rvo/"
 }
