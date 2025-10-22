@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-74hc595",
+  "version": "1.5.0",
+  "summary": "CircuitPython driver for 74HC595 shift register.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_74hc595-1.5.0.tar.gz",
+  "download_time": "2025-10-22T18:52:27.390215",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-74hc595/"
+}

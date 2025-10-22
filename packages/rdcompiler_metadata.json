@@ -1,0 +1,11 @@
+{
+  "name": "rdcompiler",
+  "version": "0.2.0",
+  "summary": "A library to compile Rhythm Doctor custom levels.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdcompiler-0.2.0.tar.gz",
+  "download_time": "2025-10-22T18:52:22.262605",
+  "package_url": "https://pypi.org/project/rdcompiler/"
+}

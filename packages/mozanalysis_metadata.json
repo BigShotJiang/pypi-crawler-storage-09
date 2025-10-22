@@ -1,0 +1,11 @@
+{
+  "name": "mozanalysis",
+  "version": "2025.10.1",
+  "summary": "A library for Mozilla experiments analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mozanalysis-2025.10.1.tar.gz",
+  "download_time": "2025-10-22T18:52:42.601446",
+  "package_url": "https://pypi.org/project/mozanalysis/"
+}

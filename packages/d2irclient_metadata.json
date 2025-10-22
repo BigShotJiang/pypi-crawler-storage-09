@@ -1,0 +1,11 @@
+{
+  "name": "d2irclient",
+  "version": "0.1.0",
+  "summary": "A python client for the Direct to INN-Reach (D2IR) API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "d2irclient-0.1.0.tar.gz",
+  "download_time": "2025-10-22T18:52:19.343226",
+  "package_url": "https://pypi.org/project/d2irclient/"
+}
