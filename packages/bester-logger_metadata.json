@@ -1,11 +1,11 @@
 {
   "name": "bester-logger",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "A easier way to log data to database or files when building applications fast.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bester_logger-0.0.4.tar.gz",
-  "download_time": "2025-10-22T04:49:03.537855",
+  "download_filename": "bester_logger-0.0.6.tar.gz",
+  "download_time": "2025-10-22T10:47:16.596893",
   "package_url": "https://pypi.org/project/bester-logger/"
 }
