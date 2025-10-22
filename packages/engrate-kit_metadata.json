@@ -1,11 +1,11 @@
 {
   "name": "engrate-kit",
-  "version": "0.0.5",
+  "version": "0.0.9",
   "summary": "Development toolkit to quickly build Engrate plugins.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "engrate_kit-0.0.5.tar.gz",
-  "download_time": "2025-10-21T19:29:24.573195",
+  "download_filename": "engrate_kit-0.0.9.tar.gz",
+  "download_time": "2025-10-22T09:44:49.801368",
   "package_url": "https://pypi.org/project/engrate-kit/"
 }

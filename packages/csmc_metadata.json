@@ -1,0 +1,11 @@
+{
+  "name": "csmc",
+  "version": "2.0.0",
+  "summary": "Matrix completion with column subset selection.",
+  "author": "Antonina Krajewska",
+  "license": "MIT",
+  "home_page": "https://github.com/ZAL-NASK/CSMC",
+  "download_filename": "csmc-2.0.0.tar.gz",
+  "download_time": "2025-10-22T09:44:30.499882",
+  "package_url": "https://pypi.org/project/csmc/"
+}

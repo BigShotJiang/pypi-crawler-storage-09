@@ -1,0 +1,11 @@
+{
+  "name": "seismod1d",
+  "version": "0.3.6",
+  "summary": "Create synthetic seismic ",
+  "author": "Equinor ASA",
+  "license": null,
+  "home_page": "https://github.com/equinor/seismod1d",
+  "download_filename": "seismod1d-0.3.6.tar.gz",
+  "download_time": "2025-10-22T09:45:03.601820",
+  "package_url": "https://pypi.org/project/seismod1d/"
+}

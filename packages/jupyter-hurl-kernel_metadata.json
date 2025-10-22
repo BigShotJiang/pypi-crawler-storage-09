@@ -1,11 +1,11 @@
 {
   "name": "jupyter-hurl-kernel",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "summary": "A Jupyter kernel for running Hurl commands",
   "author": "Cédric Couralet",
   "license": null,
   "home_page": null,
-  "download_filename": "jupyter_hurl_kernel-0.0.10.tar.gz",
-  "download_time": "2025-10-21T07:18:34.313629",
+  "download_filename": "jupyter_hurl_kernel-0.0.12.tar.gz",
+  "download_time": "2025-10-22T09:44:44.042010",
   "package_url": "https://pypi.org/project/jupyter-hurl-kernel/"
 }

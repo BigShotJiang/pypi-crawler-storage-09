@@ -1,0 +1,11 @@
+{
+  "name": "lib-pcg-algopy",
+  "version": "0.4.3",
+  "summary": "PCG library implemented using Algorand Python",
+  "author": "Giorgio Ciotti",
+  "license": "MIT",
+  "home_page": "https://github.com/CiottiGiorgio/lib-pcg-avm",
+  "download_filename": "lib_pcg_algopy-0.4.3.tar.gz",
+  "download_time": "2025-10-22T09:45:02.044529",
+  "package_url": "https://pypi.org/project/lib-pcg-algopy/"
+}

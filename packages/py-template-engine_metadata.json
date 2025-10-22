@@ -1,0 +1,11 @@
+{
+  "name": "py-template-engine",
+  "version": "0.1.0",
+  "summary": "A Python template engine with support for variables, functions, conditionals, loops, and includes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_template_engine-0.1.0.tar.gz",
+  "download_time": "2025-10-22T09:44:27.829173",
+  "package_url": "https://pypi.org/project/py-template-engine/"
+}
