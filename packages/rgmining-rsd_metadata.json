@@ -1,0 +1,11 @@
+{
+  "name": "rgmining-rsd",
+  "version": "0.3.6",
+  "summary": "An implementation of Review Spammer Detection algorithm",
+  "author": "Junpei Kawamoto",
+  "license": null,
+  "home_page": "https://rgmining.github.io/rsd/",
+  "download_filename": "rgmining_rsd-0.3.6.tar.gz",
+  "download_time": "2025-10-22T05:43:23.846031",
+  "package_url": "https://pypi.org/project/rgmining-rsd/"
+}
