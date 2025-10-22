@@ -1,0 +1,11 @@
+{
+  "name": "webdriver-kaifuku",
+  "version": "25.10.22",
+  "summary": "Restartable webdriver instances",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "webdriver_kaifuku-25.10.22.tar.gz",
+  "download_time": "2025-10-22T17:17:28.043710",
+  "package_url": "https://pypi.org/project/webdriver-kaifuku/"
+}

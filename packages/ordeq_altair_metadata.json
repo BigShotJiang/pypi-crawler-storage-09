@@ -1,0 +1,11 @@
+{
+  "name": "ordeq_altair",
+  "version": "1.0.3",
+  "summary": "Altair integration for Ordeq",
+  "author": "Niels Neerhoff, Simon Brugman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ordeq_altair-1.0.3.tar.gz",
+  "download_time": "2025-10-22T17:17:24.936148",
+  "package_url": "https://pypi.org/project/ordeq_altair/"
+}

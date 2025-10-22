@@ -1,0 +1,11 @@
+{
+  "name": "lounger",
+  "version": "0.6.0",
+  "summary": "Next generation automated testing framework.",
+  "author": "bugmaster",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lounger-0.6.0.tar.gz",
+  "download_time": "2025-10-22T17:17:15.076589",
+  "package_url": "https://pypi.org/project/lounger/"
+}
