@@ -1,11 +1,11 @@
 {
   "name": "agenta",
-  "version": "0.59.2",
+  "version": "0.59.4",
   "summary": "The SDK for agenta is an open-source LLMOps platform.",
   "author": "Mahmoud Mabrouk",
   "license": null,
   "home_page": "https://agenta.ai",
-  "download_filename": "agenta-0.59.2.tar.gz",
-  "download_time": "2025-10-17T15:15:58.371032",
+  "download_filename": "agenta-0.59.4.tar.gz",
+  "download_time": "2025-10-22T16:51:23.347628",
   "package_url": "https://pypi.org/project/agenta/"
 }

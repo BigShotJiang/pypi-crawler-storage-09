@@ -1,0 +1,11 @@
+{
+  "name": "langchain-privy",
+  "version": "0.1.0",
+  "summary": "LangChain integration for Privy embedded wallets",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_privy-0.1.0.tar.gz",
+  "download_time": "2025-10-22T16:51:24.398290",
+  "package_url": "https://pypi.org/project/langchain-privy/"
+}

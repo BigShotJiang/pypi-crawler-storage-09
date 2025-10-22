@@ -1,11 +1,11 @@
 {
   "name": "matrice-common",
-  "version": "0.1.24",
+  "version": "0.1.26",
   "summary": "Common server utilities for Matrice.ai services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matrice_common-0.1.24.tar.gz",
-  "download_time": "2025-10-16T10:18:12.622504",
+  "download_filename": "matrice_common-0.1.26.tar.gz",
+  "download_time": "2025-10-22T16:50:45.209580",
   "package_url": "https://pypi.org/project/matrice-common/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "voidnet",
+  "version": "0.0.1",
+  "summary": "A Python library for interacting with the OpenVoidNet API",
+  "author": "Roshan Akther",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "voidnet-0.0.1.tar.gz",
+  "download_time": "2025-10-22T16:51:20.212361",
+  "package_url": "https://pypi.org/project/voidnet/"
+}

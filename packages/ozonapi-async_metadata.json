@@ -1,11 +1,11 @@
 {
   "name": "ozonapi-async",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Асинхронный клиент для работы с API маркетплейса Ozon",
   "author": "Alexander Ulianov",
   "license": "MIT",
   "home_page": "https://github.com/a-ulianov/OzonAPI",
-  "download_filename": "ozonapi_async-0.8.0.tar.gz",
-  "download_time": "2025-10-22T02:50:59.851424",
+  "download_filename": "ozonapi_async-0.9.0.tar.gz",
+  "download_time": "2025-10-22T16:51:28.082027",
   "package_url": "https://pypi.org/project/ozonapi-async/"
 }

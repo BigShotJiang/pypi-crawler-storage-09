@@ -1,11 +1,11 @@
 {
   "name": "pararamio-aio",
-  "version": "3.0.7",
+  "version": "3.0.9",
   "summary": "Async Python client library for pararam.io platform",
   "author": "Pararamio Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pararamio_aio-3.0.7.tar.gz",
-  "download_time": "2025-10-21T16:57:46.305354",
+  "download_filename": "pararamio_aio-3.0.9.tar.gz",
+  "download_time": "2025-10-22T16:51:20.732723",
   "package_url": "https://pypi.org/project/pararamio-aio/"
 }

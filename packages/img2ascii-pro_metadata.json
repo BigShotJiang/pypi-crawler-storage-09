@@ -1,11 +1,11 @@
 {
   "name": "img2ascii-pro",
-  "version": "1.1",
+  "version": "1.3",
   "summary": "Convert images to colored ASCII art (text + HTML)",
   "author": "Mohamed Elsayed",
   "license": null,
   "home_page": "https://github.com/MohamedElsayed-debug/img2ascii-pro",
-  "download_filename": "img2ascii_pro-1.1.tar.gz",
-  "download_time": "2025-10-22T16:23:00.182408",
+  "download_filename": "img2ascii_pro-1.3.tar.gz",
+  "download_time": "2025-10-22T16:51:09.612866",
   "package_url": "https://pypi.org/project/img2ascii-pro/"
 }
