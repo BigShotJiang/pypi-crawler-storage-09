@@ -1,11 +1,11 @@
 {
   "name": "anyenv",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Compatibility layer for some basic operations to allow painless operation in PyOdide and Python pre-releases",
   "author": "Philipp Temminghoff",
   "license": null,
   "home_page": null,
-  "download_filename": "anyenv-1.2.4.tar.gz",
-  "download_time": "2025-10-21T13:24:31.744050",
+  "download_filename": "anyenv-1.2.5.tar.gz",
+  "download_time": "2025-10-22T08:24:57.363547",
   "package_url": "https://pypi.org/project/anyenv/"
 }

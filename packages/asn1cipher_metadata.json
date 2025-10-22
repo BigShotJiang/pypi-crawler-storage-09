@@ -1,0 +1,11 @@
+{
+  "name": "asn1cipher",
+  "version": "0.1.0",
+  "summary": "A Python library for encrypting and decrypting ASN.1 encrypted content.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "asn1cipher-0.1.0.tar.gz",
+  "download_time": "2025-10-22T08:25:03.668571",
+  "package_url": "https://pypi.org/project/asn1cipher/"
+}

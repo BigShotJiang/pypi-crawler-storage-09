@@ -1,11 +1,11 @@
 {
   "name": "dbt-database",
-  "version": "0.0.1a5",
+  "version": "0.0.1a6",
   "summary": "The custom adapter plugin for dbt",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_database-0.0.1a5.tar.gz",
-  "download_time": "2025-10-22T07:34:36.521117",
+  "download_filename": "dbt_database-0.0.1a6.tar.gz",
+  "download_time": "2025-10-22T08:25:06.762015",
   "package_url": "https://pypi.org/project/dbt-database/"
 }

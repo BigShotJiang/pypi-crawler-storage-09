@@ -1,0 +1,11 @@
+{
+  "name": "async-modbus",
+  "version": "0.2.3",
+  "summary": "Async ModBus python library",
+  "author": "Tiago Coutinho",
+  "license": "GNU General Public License v3",
+  "home_page": "https://github.com/tiagocoutinho/async_modbus",
+  "download_filename": "async_modbus-0.2.3.tar.gz",
+  "download_time": "2025-10-22T08:24:45.863792",
+  "package_url": "https://pypi.org/project/async-modbus/"
+}
