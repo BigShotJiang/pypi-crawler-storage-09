@@ -1,16 +1,8 @@
 {
-  "download_time": "2025-10-22T22:53:37.263032",
+  "download_time": "2025-10-22T23:16:33.101393",
   "total_packages_downloaded": 91,
-  "total_size_mb": 38.32,
+  "total_size_mb": 0.1,
   "packages": [
-    "mensajes-andre",
-    "owocr",
-    "AOT-biomaps",
-    "ozonapi-async",
-    "sqlmesh",
-    "multiagent-core",
-    "source-coop-mcp",
-    "pori-python",
     "FTL-Extract",
     "mini-apigw",
     "svtplay-dl",
@@ -50,6 +42,7 @@
     "isolate-proto",
     "passwort",
     "ndtkit-api",
+    "AOT-biomaps",
     "wannierberri",
     "fused",
     "geesc-helpers",
@@ -93,6 +86,13 @@
     "microsoft-agents-copilotstudio-client",
     "microsoft-agents-authentication-msal",
     "microsoft-agents-activity",
-    "req-update-check"
+    "req-update-check",
+    "nx-hif",
+    "graphlit-client",
+    "chora-compose",
+    "aorta-sirius-dev",
+    "pisces",
+    "regula-documentreader-webclient",
+    "coda-mcp"
   ]
 }

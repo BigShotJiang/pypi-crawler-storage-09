@@ -1,11 +1,11 @@
 {
   "name": "dc-chat-exporter",
-  "version": "0.0.1",
-  "summary": "An API wrapper for the Cookie API",
+  "version": "0.1.0",
+  "summary": "Export Discord chats to beautiful HTML files",
   "author": "miguel_meier",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dc_chat_exporter-0.0.1.tar.gz",
-  "download_time": "2025-10-22T22:52:54.232205",
+  "download_filename": "dc_chat_exporter-0.1.0.tar.gz",
+  "download_time": "2025-10-22T23:15:46.358885",
   "package_url": "https://pypi.org/project/dc-chat-exporter/"
 }

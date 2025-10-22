@@ -1,19 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-22T22:53:37.263032
+- **Download Time**: 2025-10-22T23:16:33.101393
 - **Total Packages**: 91
-- **Total Size**: 38.32 MB
+- **Total Size**: 0.1 MB
 
 ## Packages List
-- mensajes-andre
-- owocr
-- AOT-biomaps
-- ozonapi-async
-- sqlmesh
-- multiagent-core
-- source-coop-mcp
-- pori-python
 - FTL-Extract
 - mini-apigw
 - svtplay-dl
@@ -53,6 +45,7 @@
 - isolate-proto
 - passwort
 - ndtkit-api
+- AOT-biomaps
 - wannierberri
 - fused
 - geesc-helpers
@@ -97,3 +90,10 @@
 - microsoft-agents-authentication-msal
 - microsoft-agents-activity
 - req-update-check
+- nx-hif
+- graphlit-client
+- chora-compose
+- aorta-sirius-dev
+- pisces
+- regula-documentreader-webclient
+- coda-mcp
