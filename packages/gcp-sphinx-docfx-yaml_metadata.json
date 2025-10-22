@@ -1,0 +1,11 @@
+{
+  "name": "gcp-sphinx-docfx-yaml",
+  "version": "3.2.4",
+  "summary": "Sphinx Python Domain to DocFX YAML Generator",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/sphinx-docfx-yaml",
+  "download_filename": "gcp_sphinx_docfx_yaml-3.2.4.tar.gz",
+  "download_time": "2025-10-22T23:52:01.017726",
+  "package_url": "https://pypi.org/project/gcp-sphinx-docfx-yaml/"
+}

@@ -1,19 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-22T23:40:38.811431
-- **Total Packages**: 90
-- **Total Size**: 59.75 MB
+- **Download Time**: 2025-10-22T23:52:38.275675
+- **Total Packages**: 89
+- **Total Size**: 19.18 MB
 
 ## Packages List
+- atomic-red-team-mcp
+- pycarlo
+- wakautosolver
+- cdk-factory
+- campfires
+- sql-blocks
+- market-data-core
+- scythe-ttp
+- patchbatch
+- pydust-utils
+- mcp-ticketer
+- np_codeocean
+- btgsolutions-dataservices-python-client
+- artconsole
+- quik-python
+- dtpyfw
+- chatroutes-autobranch
+- gcp-sphinx-docfx-yaml
+- lbt-dragonfly
+- performance-calculator
+- star-shell
+- sleipnirgroup-jormungandr
+- dojo-sdk-core
+- pybibtexer
+- lbt-honeybee
 - fastapi-qengine
 - tccli-intl-en
 - pyreactflow
 - dragonfly-energy
 - kaggle-environments
 - roiextractors
-- artconsole
-- lbt-honeybee
 - dragonfly-radiance
 - pragma-prompt
 - elemental-tools
@@ -24,10 +47,7 @@
 - cjm-fasthtml-settings
 - yt-dlp
 - business-use-core
-- mcp-ticketer
 - business-use
-- cdk-factory
-- star-shell
 - autobahn
 - nextgen-kernels-api
 - geostack-py
@@ -75,24 +95,3 @@
 - multi-puzzle-solver
 - CopySvgTranslate
 - python-script-runner
-- scythe-ttp
-- faterunner
-- honeybee-core
-- chatrepl
-- certroot
-- gdsfactoryplus
-- flwr-nightly
-- google-ads-mcp
-- eventdispatch
-- ai-parrot
-- webarenax
-- dc-chat-exporter
-- AOT-biomaps
-- fastapi-rtk
-- lapx
-- alchemiscale
-- django-async-backend
-- retunnel
-- voice-mode-enhanced
-- mensajes-andre
-- owocr

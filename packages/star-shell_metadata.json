@@ -1,11 +1,11 @@
 {
   "name": "star-shell",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "summary": "AI-powered command line assistant that generates and executes shell commands",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "star_shell-0.5.3.tar.gz",
-  "download_time": "2025-10-22T23:40:00.233019",
+  "download_filename": "star_shell-0.5.4.tar.gz",
+  "download_time": "2025-10-22T23:52:02.637521",
   "package_url": "https://pypi.org/project/star-shell/"
 }
