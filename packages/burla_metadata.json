@@ -1,0 +1,11 @@
+{
+  "name": "burla",
+  "version": "1.3.7",
+  "summary": "The simplest way to run Python on lot's of computers.",
+  "author": "Jake Zuliani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "burla-1.3.7.tar.gz",
+  "download_time": "2025-10-22T22:53:06.675186",
+  "package_url": "https://pypi.org/project/burla/"
+}

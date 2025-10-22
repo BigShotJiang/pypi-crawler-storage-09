@@ -1,0 +1,11 @@
+{
+  "name": "aimd-limiter",
+  "version": "0.1.0",
+  "summary": "Asynchronous AIMD-based rate limiter",
+  "author": "AIMD Limiter Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aimd_limiter-0.1.0.tar.gz",
+  "download_time": "2025-10-22T22:53:03.343925",
+  "package_url": "https://pypi.org/project/aimd-limiter/"
+}

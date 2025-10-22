@@ -1,11 +1,11 @@
 {
   "name": "autoprepml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "AI-Assisted Multi-Modal Data Preprocessing Pipeline for ML",
   "author": "MD Shoaibuddin Chanda",
   "license": "MIT",
   "home_page": "https://github.com/mdshoaibuddinchanda/autoprepml",
-  "download_filename": "autoprepml-1.0.0.tar.gz",
-  "download_time": "2025-10-22T21:52:11.818273",
+  "download_filename": "autoprepml-1.0.1.tar.gz",
+  "download_time": "2025-10-22T22:53:19.834328",
   "package_url": "https://pypi.org/project/autoprepml/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ndtkit-api",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "This Python API provides a high-level interface to interact with the NDTkit desktop application. It allows developers to script and automate NDTkit features remotely, leveraging the full power of the underlying Java application through a simple and pythonic library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ndtkit_api-0.0.5.tar.gz",
-  "download_time": "2025-10-22T17:17:20.706996",
+  "download_filename": "ndtkit_api-0.0.6.tar.gz",
+  "download_time": "2025-10-22T22:53:13.134649",
   "package_url": "https://pypi.org/project/ndtkit-api/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cisco-ai-mcp-scanner",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "summary": "A tool to scan MCP servers and tools for security vulnerabilities",
   "author": "Cisco",
   "license": null,
   "home_page": null,
-  "download_filename": "cisco_ai_mcp_scanner-3.0.1.tar.gz",
-  "download_time": "2025-10-21T04:43:59.815775",
+  "download_filename": "cisco_ai_mcp_scanner-3.1.0.tar.gz",
+  "download_time": "2025-10-22T22:53:05.075545",
   "package_url": "https://pypi.org/project/cisco-ai-mcp-scanner/"
 }

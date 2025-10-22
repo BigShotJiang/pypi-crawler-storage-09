@@ -1,11 +1,11 @@
 {
   "name": "dftracer",
-  "version": "2.0.1",
-  "summary": "I/O profiler for deep learning python apps. Specifically for dlio_benchmark.",
+  "version": "2.0.2",
+  "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dftracer-2.0.1-cp310-cp310-manylinux_2_34_x86_64.whl",
-  "download_time": "2025-10-20T20:21:03.922573",
+  "download_filename": "dftracer-2.0.2-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-10-22T22:53:02.832906",
   "package_url": "https://pypi.org/project/dftracer/"
 }
