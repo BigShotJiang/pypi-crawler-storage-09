@@ -1,0 +1,11 @@
+{
+  "name": "etomofiles",
+  "version": "0.1.1",
+  "summary": "A Python package for reading IMOD etomo alignment files into pandas DataFrames",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "etomofiles-0.1.1.tar.gz",
+  "download_time": "2025-10-22T10:20:08.151131",
+  "package_url": "https://pypi.org/project/etomofiles/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "antchain-webtrwatrade",
+  "version": "1.0.30",
+  "summary": "Ant Chain WEBTRWATRADE SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_webtrwatrade-1.0.30.tar.gz",
+  "download_time": "2025-10-22T10:20:25.526340",
+  "package_url": "https://pypi.org/project/antchain-webtrwatrade/"
+}

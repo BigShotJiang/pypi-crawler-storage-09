@@ -1,11 +1,11 @@
 {
   "name": "arthub-api",
-  "version": "1.10.5",
+  "version": "1.10.6",
   "summary": "ArHhub Python SDK",
   "author": "Joey Ding",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "arthub_api-1.10.5.tar.gz",
-  "download_time": "2025-10-20T09:52:59.597927",
+  "download_filename": "arthub_api-1.10.6.tar.gz",
+  "download_time": "2025-10-22T10:20:22.242122",
   "package_url": "https://pypi.org/project/arthub-api/"
 }

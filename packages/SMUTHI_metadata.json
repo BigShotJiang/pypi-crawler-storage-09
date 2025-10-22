@@ -1,11 +1,11 @@
 {
   "name": "SMUTHI",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "summary": "Light scattering by multiple particles in thin-film systems",
   "author": "Amos Egel",
   "license": "MIT",
   "home_page": "https://gitlab.com/AmosEgel/smuthi",
-  "download_filename": "SMUTHI-2.2.0.tar.gz",
-  "download_time": "2025-10-22T08:25:19.825103",
+  "download_filename": "SMUTHI-2.2.2.tar.gz",
+  "download_time": "2025-10-22T10:19:53.326032",
   "package_url": "https://pypi.org/project/SMUTHI/"
 }

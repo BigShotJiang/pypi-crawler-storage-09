@@ -1,11 +1,11 @@
 {
   "name": "media-fetching",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Simplified fetching of media for Filonov library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "media_fetching-0.3.1.tar.gz",
-  "download_time": "2025-10-20T14:16:59.228499",
+  "download_filename": "media_fetching-0.3.2.tar.gz",
+  "download_time": "2025-10-22T10:19:46.786484",
   "package_url": "https://pypi.org/project/media-fetching/"
 }

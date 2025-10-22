@@ -1,11 +1,11 @@
 {
   "name": "scriptman",
-  "version": "2.9.564",
+  "version": "2.9.571",
   "summary": "A powerful Python package for automation, script management, and workflow orchestration.",
   "author": "Nelson Ombuya",
   "license": null,
   "home_page": null,
-  "download_filename": "scriptman-2.9.564.tar.gz",
-  "download_time": "2025-10-21T12:34:37.978503",
+  "download_filename": "scriptman-2.9.571.tar.gz",
+  "download_time": "2025-10-22T10:20:27.376114",
   "package_url": "https://pypi.org/project/scriptman/"
 }

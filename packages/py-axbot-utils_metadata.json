@@ -1,0 +1,11 @@
+{
+  "name": "py-axbot-utils",
+  "version": "0.1.4",
+  "summary": "Utilities for AutoXing Robotics",
+  "author": "AutoXing",
+  "license": "MIT",
+  "home_page": "https://github.com/AutoxingTech/py_axbot_utils",
+  "download_filename": "py_axbot_utils-0.1.4.tar.gz",
+  "download_time": "2025-10-22T10:19:57.978350",
+  "package_url": "https://pypi.org/project/py-axbot-utils/"
+}

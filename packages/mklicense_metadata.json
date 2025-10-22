@@ -1,0 +1,11 @@
+{
+  "name": "mklicense",
+  "version": "0.3.0",
+  "summary": "Quickly generate a license file",
+  "author": "Jonas da Silva",
+  "license": null,
+  "home_page": "https://github.com/phoenixr-codes/mklicense",
+  "download_filename": "mklicense-0.3.0.tar.gz",
+  "download_time": "2025-10-22T10:20:01.373304",
+  "package_url": "https://pypi.org/project/mklicense/"
+}

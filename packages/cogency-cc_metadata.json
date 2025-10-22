@@ -1,0 +1,11 @@
+{
+  "name": "cogency-cc",
+  "version": "0.1.0",
+  "summary": "Streaming coding CLI for cogency agents.",
+  "author": "Tyson Chan",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/iteebz/cogency-cc",
+  "download_filename": "cogency_cc-0.1.0.tar.gz",
+  "download_time": "2025-10-22T10:20:00.242621",
+  "package_url": "https://pypi.org/project/cogency-cc/"
+}
