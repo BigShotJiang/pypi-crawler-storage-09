@@ -1,11 +1,11 @@
 {
   "name": "WordWriter",
-  "version": "4.0.0",
+  "version": "4.0.3",
   "summary": "A Python library for Word document template processing with OOP API",
   "author": "pzweuj",
   "license": "MIT",
   "home_page": "https://github.com/pzweuj/WordWriter",
-  "download_filename": "wordwriter-4.0.0.tar.gz",
-  "download_time": "2025-10-22T07:34:58.123506",
+  "download_filename": "wordwriter-4.0.3.tar.gz",
+  "download_time": "2025-10-22T07:52:03.230547",
   "package_url": "https://pypi.org/project/WordWriter/"
 }

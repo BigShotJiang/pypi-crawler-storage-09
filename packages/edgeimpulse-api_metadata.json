@@ -1,11 +1,11 @@
 {
   "name": "edgeimpulse-api",
-  "version": "1.76.0",
+  "version": "1.76.3",
   "summary": "Python bindings for the Edge Impulse API.",
   "author": "EdgeImpulse Inc.",
   "license": "BSD-3-Clause-Clear",
   "home_page": "https://edgeimpulse.com",
-  "download_filename": "edgeimpulse_api-1.76.0.tar.gz",
-  "download_time": "2025-10-16T19:12:50.104251",
+  "download_filename": "edgeimpulse_api-1.76.3.tar.gz",
+  "download_time": "2025-10-22T07:51:53.909094",
   "package_url": "https://pypi.org/project/edgeimpulse-api/"
 }

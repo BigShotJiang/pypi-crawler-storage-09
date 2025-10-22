@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-bmi-calculator",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A Model Context Protocol server for BMI (Body Mass Index) calculation and health assessment",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_server_bmi_calculator-0.1.1.tar.gz",
-  "download_time": "2025-10-22T07:18:02.149989",
+  "download_filename": "mcp_server_bmi_calculator-0.2.0.tar.gz",
+  "download_time": "2025-10-22T07:51:59.583802",
   "package_url": "https://pypi.org/project/mcp-server-bmi-calculator/"
 }
