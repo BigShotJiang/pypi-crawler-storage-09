@@ -1,0 +1,11 @@
+{
+  "name": "HYGO",
+  "version": "0.9.13",
+  "summary": "HYbrid Genetic Optimizer mixing parametric genetic optimization with genetic programming",
+  "author": "Isaac Robledo Martín",
+  "license": "MIT",
+  "home_page": "https://github.com/ipatazas/HYGO",
+  "download_filename": "hygo-0.9.13.tar.gz",
+  "download_time": "2025-10-22T13:24:19.557491",
+  "package_url": "https://pypi.org/project/HYGO/"
+}

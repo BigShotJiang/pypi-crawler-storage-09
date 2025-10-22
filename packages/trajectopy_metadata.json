@@ -1,11 +1,11 @@
 {
   "name": "trajectopy",
-  "version": "3.1.6",
+  "version": "3.1.8",
   "summary": "Trajectory Evaluation in Python",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "trajectopy-3.1.6-py3-none-any.whl",
-  "download_time": "2025-10-16T14:16:24.104420",
+  "download_filename": "trajectopy-3.1.8-py3-none-any.whl",
+  "download_time": "2025-10-22T13:23:54.995240",
   "package_url": "https://pypi.org/project/trajectopy/"
 }

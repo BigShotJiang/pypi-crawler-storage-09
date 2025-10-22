@@ -1,11 +1,11 @@
 {
   "name": "byte-ai-cli",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "A human-in-the-loop AI coding agent that keeps you in control.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "byte_ai_cli-0.1.8.tar.gz",
-  "download_time": "2025-10-20T13:47:06.473567",
+  "download_filename": "byte_ai_cli-0.1.10.tar.gz",
+  "download_time": "2025-10-22T13:23:50.314987",
   "package_url": "https://pypi.org/project/byte-ai-cli/"
 }

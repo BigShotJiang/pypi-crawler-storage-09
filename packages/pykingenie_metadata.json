@@ -1,11 +1,11 @@
 {
   "name": "pykingenie",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pykingenie-0.1.4.tar.gz",
-  "download_time": "2025-10-17T14:16:03.900694",
+  "download_filename": "pykingenie-0.1.6.tar.gz",
+  "download_time": "2025-10-22T13:24:30.054061",
   "package_url": "https://pypi.org/project/pykingenie/"
 }

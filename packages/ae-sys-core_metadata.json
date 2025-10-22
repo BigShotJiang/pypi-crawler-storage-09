@@ -1,0 +1,11 @@
+{
+  "name": "ae-sys-core",
+  "version": "0.3.25",
+  "summary": "ae namespace module portion sys_core: dynamic system configuration, initialization and connection",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/ae-group/ae_sys_core",
+  "download_filename": "ae_sys_core-0.3.25.tar.gz",
+  "download_time": "2025-10-22T13:23:58.258607",
+  "package_url": "https://pypi.org/project/ae-sys-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcpower-shared",
+  "version": "0.1.1",
+  "summary": "Shared types and utilities for MCPower projects",
+  "author": "MCPower",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpower_shared-0.1.1.tar.gz",
+  "download_time": "2025-10-22T13:24:30.597348",
+  "package_url": "https://pypi.org/project/mcpower-shared/"
+}

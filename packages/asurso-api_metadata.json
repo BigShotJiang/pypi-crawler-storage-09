@@ -1,11 +1,11 @@
 {
   "name": "asurso-api",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "API-wrapper for NetSchool (ASURSO)",
   "author": "Alekzum",
   "license": null,
   "home_page": null,
-  "download_filename": "asurso_api-0.6.2.tar.gz",
-  "download_time": "2025-10-17T19:38:00.289733",
+  "download_filename": "asurso_api-0.6.3.tar.gz",
+  "download_time": "2025-10-22T13:24:25.241657",
   "package_url": "https://pypi.org/project/asurso-api/"
 }

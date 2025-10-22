@@ -1,11 +1,11 @@
 {
   "name": "sun-agent-toolkit",
-  "version": "0.0.3b11",
+  "version": "0.0.3b12",
   "summary": "Sun Agent Toolkit - TRON wallet functionality for AI agents",
   "author": "Sun Agent Toolkit Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sun_agent_toolkit-0.0.3b11-py3-none-any.whl",
-  "download_time": "2025-10-21T03:31:46.165678",
+  "download_filename": "sun_agent_toolkit-0.0.3b12-py3-none-any.whl",
+  "download_time": "2025-10-22T13:24:05.907569",
   "package_url": "https://pypi.org/project/sun-agent-toolkit/"
 }

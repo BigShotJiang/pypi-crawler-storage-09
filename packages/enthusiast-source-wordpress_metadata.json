@@ -1,0 +1,11 @@
+{
+  "name": "enthusiast-source-wordpress",
+  "version": "1.2.0",
+  "summary": "A plugin for Enthusiast that provides a Wordpress documents importer.",
+  "author": "Rafal Cymerys",
+  "license": null,
+  "home_page": null,
+  "download_filename": "enthusiast_source_wordpress-1.2.0.tar.gz",
+  "download_time": "2025-10-22T13:24:37.112580",
+  "package_url": "https://pypi.org/project/enthusiast-source-wordpress/"
+}

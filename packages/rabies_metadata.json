@@ -1,0 +1,11 @@
+{
+  "name": "rabies",
+  "version": "0.5.4",
+  "summary": "RABIES: Rodent Automated Bold Improvement of EPI Sequences.",
+  "author": "CoBrALab",
+  "license": "LICENSE",
+  "home_page": "https://github.com/CoBrALab/RABIES",
+  "download_filename": "rabies-0.5.4.tar.gz",
+  "download_time": "2025-10-22T13:24:27.410532",
+  "package_url": "https://pypi.org/project/rabies/"
+}

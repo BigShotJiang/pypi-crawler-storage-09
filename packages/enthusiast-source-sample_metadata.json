@@ -1,0 +1,11 @@
+{
+  "name": "enthusiast-source-sample",
+  "version": "1.2.0",
+  "summary": "A plugin for Enthusiast that provides a sample data source for demo purposes.",
+  "author": "Rafal Cymerys",
+  "license": null,
+  "home_page": null,
+  "download_filename": "enthusiast_source_sample-1.2.0.tar.gz",
+  "download_time": "2025-10-22T13:24:34.302891",
+  "package_url": "https://pypi.org/project/enthusiast-source-sample/"
+}
