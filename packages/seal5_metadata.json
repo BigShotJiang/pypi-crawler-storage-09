@@ -1,0 +1,11 @@
+{
+  "name": "seal5",
+  "version": "0.3.1",
+  "summary": "Seal5 - Semi-automated LLVM Support for RISC-V Extensions including Autovectorization",
+  "author": "TUM Department of Electrical and Computer Engineering - Chair of Electronic Design Automation",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/tum-ei-eda/seal5",
+  "download_filename": "seal5-0.3.1.tar.gz",
+  "download_time": "2025-10-22T10:57:59.703663",
+  "package_url": "https://pypi.org/project/seal5/"
+}

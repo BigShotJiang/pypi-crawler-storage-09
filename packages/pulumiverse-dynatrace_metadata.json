@@ -1,0 +1,11 @@
+{
+  "name": "pulumiverse-dynatrace",
+  "version": "0.33.0",
+  "summary": "A Pulumi package for creating and managing Dynatrace cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://www.pulumi.com",
+  "download_filename": "pulumiverse_dynatrace-0.33.0.tar.gz",
+  "download_time": "2025-10-22T10:57:44.074935",
+  "package_url": "https://pypi.org/project/pulumiverse-dynatrace/"
+}

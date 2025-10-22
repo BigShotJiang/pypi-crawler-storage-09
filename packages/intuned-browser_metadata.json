@@ -1,11 +1,11 @@
 {
   "name": "intuned-browser",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Intuned Browser SDK",
   "author": "Intuned Developers",
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "intuned_browser-0.1.3.tar.gz",
-  "download_time": "2025-10-21T11:29:20.359526",
+  "download_filename": "intuned_browser-0.1.4.tar.gz",
+  "download_time": "2025-10-22T10:57:17.400378",
   "package_url": "https://pypi.org/project/intuned-browser/"
 }

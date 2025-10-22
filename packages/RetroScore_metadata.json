@@ -1,11 +1,11 @@
 {
   "name": "RetroScore",
-  "version": "1.0",
+  "version": "1.2",
   "summary": "RetroScoreTools",
   "author": "SnowGao",
   "license": null,
   "home_page": null,
-  "download_filename": "retroscore-1.0.tar.gz",
-  "download_time": "2025-10-19T02:59:31.525988",
+  "download_filename": "retroscore-1.2.tar.gz",
+  "download_time": "2025-10-22T10:57:50.933548",
   "package_url": "https://pypi.org/project/RetroScore/"
 }

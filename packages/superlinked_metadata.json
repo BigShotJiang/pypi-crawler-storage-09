@@ -1,0 +1,11 @@
+{
+  "name": "superlinked",
+  "version": "37.5.0",
+  "summary": "The Superlinked vector computing library",
+  "author": "Superlinked Release",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "superlinked-37.5.0.tar.gz",
+  "download_time": "2025-10-22T10:57:46.488556",
+  "package_url": "https://pypi.org/project/superlinked/"
+}

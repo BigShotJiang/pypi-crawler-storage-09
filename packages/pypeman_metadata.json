@@ -1,0 +1,11 @@
+{
+  "name": "pypeman",
+  "version": "0.6.1",
+  "summary": "Minimalistic but pragmatic ESB / ETL / EAI in Python",
+  "author": "Jeremie Pardou",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/mhcomm/pypeman",
+  "download_filename": "pypeman-0.6.1.tar.gz",
+  "download_time": "2025-10-22T10:57:37.152670",
+  "package_url": "https://pypi.org/project/pypeman/"
+}
