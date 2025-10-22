@@ -1,0 +1,11 @@
+{
+  "name": "basalt-sdk",
+  "version": "0.4.1",
+  "summary": "Basalt SDK for python",
+  "author": "Basalt",
+  "license": "MIT",
+  "home_page": "https://github.com/basalt-ai/basalt-python",
+  "download_filename": "basalt_sdk-0.4.1.tar.gz",
+  "download_time": "2025-10-22T05:52:23.923843",
+  "package_url": "https://pypi.org/project/basalt-sdk/"
+}
