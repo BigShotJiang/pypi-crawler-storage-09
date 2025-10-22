@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-helpdesk-ticket-close-inactive",
+  "version": "17.0.1.1.1",
+  "summary": "Helpdesk Ticket Close Inactive",
+  "author": "APSL-Nagarro, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/helpdesk",
+  "download_filename": "odoo_addon_helpdesk_ticket_close_inactive-17.0.1.1.1-py3-none-any.whl",
+  "download_time": "2025-10-22T06:52:45.369966",
+  "package_url": "https://pypi.org/project/odoo-addon-helpdesk-ticket-close-inactive/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "netztransparenz",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A simple client to acess data from the German Netztransparenz portal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netztransparenz-0.2.1.tar.gz",
-  "download_time": "2025-10-21T15:19:04.792971",
+  "download_filename": "netztransparenz-0.2.2.tar.gz",
+  "download_time": "2025-10-22T06:52:08.337218",
   "package_url": "https://pypi.org/project/netztransparenz/"
 }

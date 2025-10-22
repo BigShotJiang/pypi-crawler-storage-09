@@ -1,0 +1,11 @@
+{
+  "name": "gguf-io",
+  "version": "0.0.3",
+  "summary": "localhost for gguf.io (mirror)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gguf_io-0.0.3.tar.gz",
+  "download_time": "2025-10-22T06:52:14.283316",
+  "package_url": "https://pypi.org/project/gguf-io/"
+}

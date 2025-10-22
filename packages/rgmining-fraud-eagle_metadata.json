@@ -1,0 +1,11 @@
+{
+  "name": "rgmining-fraud-eagle",
+  "version": "0.10.6",
+  "summary": "An implementation of Fraud Eagle algorithm",
+  "author": "Junpei Kawamoto",
+  "license": null,
+  "home_page": "https://rgmining.github.io/frad-eagle/",
+  "download_filename": "rgmining_fraud_eagle-0.10.6.tar.gz",
+  "download_time": "2025-10-22T06:52:21.713783",
+  "package_url": "https://pypi.org/project/rgmining-fraud-eagle/"
+}

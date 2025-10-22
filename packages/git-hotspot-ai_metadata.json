@@ -1,11 +1,11 @@
 {
   "name": "git-hotspot-ai",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Analyze git hotspots and trigger AI post-processing",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/git-hotspot-ai",
-  "download_filename": "git_hotspot_ai-0.2.0.tar.gz",
-  "download_time": "2025-10-22T04:49:07.768703",
+  "download_filename": "git_hotspot_ai-0.3.0.tar.gz",
+  "download_time": "2025-10-22T06:52:31.955741",
   "package_url": "https://pypi.org/project/git-hotspot-ai/"
 }

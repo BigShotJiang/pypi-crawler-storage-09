@@ -1,11 +1,11 @@
 {
   "name": "davidkhala.ai",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "misc AI modules",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "davidkhala_ai-0.0.7.tar.gz",
-  "download_time": "2025-10-16T21:16:12.242550",
+  "download_filename": "davidkhala_ai-0.0.8.tar.gz",
+  "download_time": "2025-10-22T06:52:31.434503",
   "package_url": "https://pypi.org/project/davidkhala.ai/"
 }

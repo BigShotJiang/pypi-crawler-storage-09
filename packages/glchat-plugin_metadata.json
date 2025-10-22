@@ -1,11 +1,11 @@
 {
   "name": "glchat-plugin",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glchat_plugin-0.3.3-py3-none-any.whl",
-  "download_time": "2025-10-22T05:43:15.493205",
+  "download_filename": "glchat_plugin-0.3.4-py3-none-any.whl",
+  "download_time": "2025-10-22T06:52:52.778219",
   "package_url": "https://pypi.org/project/glchat-plugin/"
 }

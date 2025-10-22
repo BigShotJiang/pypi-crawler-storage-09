@@ -1,11 +1,11 @@
 {
   "name": "pyadps",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A Python package for ADCP data processing",
   "author": "P. Amol",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyadps-0.3.2.tar.gz",
-  "download_time": "2025-10-22T05:18:11.265733",
+  "download_filename": "pyadps-0.3.3.tar.gz",
+  "download_time": "2025-10-22T06:52:11.604230",
   "package_url": "https://pypi.org/project/pyadps/"
 }

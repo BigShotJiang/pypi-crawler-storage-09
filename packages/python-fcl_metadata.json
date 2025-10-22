@@ -1,0 +1,11 @@
+{
+  "name": "python-fcl",
+  "version": "0.7.0.10",
+  "summary": "Python bindings for the Flexible Collision Library",
+  "author": "Michael Dawson-Haggerty, See contributor list",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "python_fcl-0.7.0.10-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-10-22T06:52:50.672877",
+  "package_url": "https://pypi.org/project/python-fcl/"
+}

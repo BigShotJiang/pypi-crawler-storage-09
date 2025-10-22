@@ -1,0 +1,11 @@
+{
+  "name": "django-mobile-app-version",
+  "version": "1.2.0",
+  "summary": "Pluggable app for your Django projects to modify your mobile app versions using your API.",
+  "author": "Mohammad Javad Nikbakht",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/javadnikbakht/django_mobile_app_version",
+  "download_filename": "django_mobile_app_version-1.2.0.tar.gz",
+  "download_time": "2025-10-22T06:52:46.933914",
+  "package_url": "https://pypi.org/project/django-mobile-app-version/"
+}

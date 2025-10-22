@@ -1,0 +1,11 @@
+{
+  "name": "adb-pywrapper",
+  "version": "1.3.0",
+  "summary": "adb_pywrapper facilitates seamless interaction with Android devices using the Android Debug Bridge (ADB) directly within Python scripts.",
+  "author": "Netherlands Forensic Institute",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/NetherlandsForensicInstitute/adb-pywrapper",
+  "download_filename": "adb_pywrapper-1.3.0.tar.gz",
+  "download_time": "2025-10-22T06:52:36.801644",
+  "package_url": "https://pypi.org/project/adb-pywrapper/"
+}

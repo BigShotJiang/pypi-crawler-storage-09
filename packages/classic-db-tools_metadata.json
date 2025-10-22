@@ -1,11 +1,11 @@
 {
   "name": "classic-db-tools",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Classic DB tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "classic_db_tools-0.0.4.tar.gz",
-  "download_time": "2025-10-22T04:32:02.671911",
+  "download_filename": "classic_db_tools-0.0.5.tar.gz",
+  "download_time": "2025-10-22T06:52:19.072446",
   "package_url": "https://pypi.org/project/classic-db-tools/"
 }
