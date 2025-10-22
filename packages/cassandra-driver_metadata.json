@@ -1,0 +1,11 @@
+{
+  "name": "cassandra-driver",
+  "version": "3.29.3",
+  "summary": "DataStax Driver for Apache Cassandra",
+  "author": "DataStax",
+  "license": null,
+  "home_page": "http://github.com/datastax/python-driver",
+  "download_filename": "cassandra_driver-3.29.3.tar.gz",
+  "download_time": "2025-10-22T15:18:14.692319",
+  "package_url": "https://pypi.org/project/cassandra-driver/"
+}

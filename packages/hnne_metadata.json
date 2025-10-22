@@ -1,0 +1,11 @@
+{
+  "name": "hnne",
+  "version": "2.0.0",
+  "summary": "A fast hierarchical dimensionality reduction algorithm.",
+  "author": "Marios Koulakis, Saquib Sarfraz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hnne-2.0.0.tar.gz",
+  "download_time": "2025-10-22T15:18:11.589604",
+  "package_url": "https://pypi.org/project/hnne/"
+}

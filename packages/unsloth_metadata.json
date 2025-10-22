@@ -1,11 +1,11 @@
 {
   "name": "unsloth",
-  "version": "2025.10.6",
+  "version": "2025.10.8",
   "summary": "2-5X faster training, reinforcement learning & finetuning",
   "author": "Unsloth AI team",
   "license": null,
   "home_page": null,
-  "download_filename": "unsloth-2025.10.6.tar.gz",
-  "download_time": "2025-10-19T01:18:34.139679",
+  "download_filename": "unsloth-2025.10.8.tar.gz",
+  "download_time": "2025-10-22T15:18:46.301777",
   "package_url": "https://pypi.org/project/unsloth/"
 }

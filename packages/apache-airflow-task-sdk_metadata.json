@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-task-sdk",
+  "version": "1.1.0",
+  "summary": "Python Task SDK for Apache Airflow DAG Authors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_task_sdk-1.1.0.tar.gz",
+  "download_time": "2025-10-22T15:18:22.977349",
+  "package_url": "https://pypi.org/project/apache-airflow-task-sdk/"
+}

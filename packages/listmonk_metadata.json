@@ -1,0 +1,11 @@
+{
+  "name": "listmonk",
+  "version": "0.3.8",
+  "summary": "Listmonk Email API Client for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "listmonk-0.3.8.tar.gz",
+  "download_time": "2025-10-22T15:18:11.076948",
+  "package_url": "https://pypi.org/project/listmonk/"
+}

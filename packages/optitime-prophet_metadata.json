@@ -1,0 +1,11 @@
+{
+  "name": "optitime-prophet",
+  "version": "0.2.3",
+  "summary": "A Prophet-inspired forecasting library distilling OptiWisdom OptiScorer insights into autoregressive, changepoint, and diagnostic enhancements.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "optitime_prophet-0.2.3.tar.gz",
+  "download_time": "2025-10-22T15:18:05.922409",
+  "package_url": "https://pypi.org/project/optitime-prophet/"
+}

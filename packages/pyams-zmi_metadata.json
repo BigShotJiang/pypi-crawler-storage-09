@@ -1,0 +1,11 @@
+{
+  "name": "pyams-zmi",
+  "version": "2.6.2",
+  "summary": "PyAMS management interface package",
+  "author": "Thierry Florac",
+  "license": "ZPL",
+  "home_page": "https://pyams.readthedocs.io",
+  "download_filename": "pyams_zmi-2.6.2.tar.gz",
+  "download_time": "2025-10-22T15:18:20.389976",
+  "package_url": "https://pypi.org/project/pyams-zmi/"
+}
