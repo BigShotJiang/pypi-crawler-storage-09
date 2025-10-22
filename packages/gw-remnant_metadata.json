@@ -1,0 +1,11 @@
+{
+  "name": "gw-remnant",
+  "version": "0.2.0",
+  "summary": "Python package to extract remnant black hole properties from gravitational waveforms",
+  "author": "Tousif Islam, Scott Field, Gaurav Khanna",
+  "license": "MIT",
+  "home_page": "https://github.com/tousifislam/gw_remnant",
+  "download_filename": "gw_remnant-0.2.0.tar.gz",
+  "download_time": "2025-10-22T21:14:34.134435",
+  "package_url": "https://pypi.org/project/gw-remnant/"
+}
