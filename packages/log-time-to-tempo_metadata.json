@@ -1,0 +1,11 @@
+{
+  "name": "log-time-to-tempo",
+  "version": "0.0.9",
+  "summary": "Log your work time to tempo from the command line.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "log_time_to_tempo-0.0.9.tar.gz",
+  "download_time": "2025-10-22T14:25:57.636620",
+  "package_url": "https://pypi.org/project/log-time-to-tempo/"
+}

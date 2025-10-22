@@ -1,0 +1,11 @@
+{
+  "name": "tox-gh-actions",
+  "version": "3.5.0",
+  "summary": "Seamless integration of tox into GitHub Actions",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tox_gh_actions-3.5.0.tar.gz",
+  "download_time": "2025-10-22T14:25:37.231423",
+  "package_url": "https://pypi.org/project/tox-gh-actions/"
+}

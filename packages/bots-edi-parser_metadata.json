@@ -1,11 +1,11 @@
 {
   "name": "bots-edi-parser",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Standalone EDI parser extracted from Bots EDI Translator supporting EDIFACT, X12, and more",
   "author": "Extracted from Bots EDI Translator",
   "license": "GPL-3.0",
   "home_page": "https://github.com/yourusername/edi-parser",
-  "download_filename": "bots_edi_parser-1.1.0.tar.gz",
-  "download_time": "2025-10-22T13:24:19.017557",
+  "download_filename": "bots_edi_parser-1.1.1.tar.gz",
+  "download_time": "2025-10-22T14:25:53.654335",
   "package_url": "https://pypi.org/project/bots-edi-parser/"
 }

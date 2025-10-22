@@ -1,0 +1,11 @@
+{
+  "name": "abc321",
+  "version": "0.1",
+  "summary": "This is a prototype package for generating rules from raw text",
+  "author": "Olegs Verhodubs",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "abc321-0.1.tar.gz",
+  "download_time": "2025-10-22T14:25:10.250529",
+  "package_url": "https://pypi.org/project/abc321/"
+}

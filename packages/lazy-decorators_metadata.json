@@ -1,0 +1,11 @@
+{
+  "name": "lazy-decorators",
+  "version": "1.0.2",
+  "summary": "Decorators to define lazy methods and functions",
+  "author": "Ehsan Karbasian",
+  "license": null,
+  "home_page": "https://github.com/ehsankarbasian/lazy_decorators",
+  "download_filename": "lazy_decorators-1.0.2.tar.gz",
+  "download_time": "2025-10-22T14:25:24.235418",
+  "package_url": "https://pypi.org/project/lazy-decorators/"
+}
