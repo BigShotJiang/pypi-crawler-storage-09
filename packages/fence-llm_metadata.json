@@ -1,0 +1,11 @@
+{
+  "name": "fence-llm",
+  "version": "2.0.5",
+  "summary": "The bloat moat! - A lightweight LLM and Agent interaction library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fence_llm-2.0.5.tar.gz",
+  "download_time": "2025-10-22T11:43:16.712188",
+  "package_url": "https://pypi.org/project/fence-llm/"
+}

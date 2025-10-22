@@ -1,0 +1,11 @@
+{
+  "name": "miniweb",
+  "version": "0.1.15",
+  "summary": "A simple web framework for Python.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "miniweb-0.1.15.tar.gz",
+  "download_time": "2025-10-22T11:43:18.349392",
+  "package_url": "https://pypi.org/project/miniweb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dataproduct-mcp",
+  "version": "0.1.10",
+  "summary": "A Model Context Protocol (MCP) server for discovering data products, requesting access, and executing queries on the data platform to access business data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataproduct_mcp-0.1.10.tar.gz",
+  "download_time": "2025-10-22T11:43:09.618181",
+  "package_url": "https://pypi.org/project/dataproduct-mcp/"
+}

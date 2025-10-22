@@ -1,11 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-22T11:32:01.461258
-- **Total Packages**: 89
-- **Total Size**: 22.93 MB
+- **Download Time**: 2025-10-22T11:43:46.053060
+- **Total Packages**: 84
+- **Total Size**: 25.49 MB
 
 ## Packages List
+- upplib
+- uwscli
+- triggerflow
+- pulumi-volcengine
+- yeref
+- cxe-test-frameworks
+- tts-webui-extension.openai-tts-api
+- PyQt6-NetworkAuth-Qt6
+- StreamDataPanel
+- PyQt6-Graphs-Qt6
+- MeUtils
+- srndcipher
+- model-runner-client
+- bitswan
+- ckan-pilot
+- PyQt6-DataVisualization-Qt6
+- PyQt6-Charts-Qt6
+- dataproduct-mcp
+- PyQt6-3D-Qt6
+- astra-mcp-server
+- rsyncx
+- cued-speech
+- vigorvision
+- pillar-security
+- subaligner
+- json-model-compiler
+- skypilot-nightly
+- Palantyra
+- excel2pyral
+- fence-llm
+- uadapy
+- netsblox
+- miniweb
+- stario
+- glpic
+- daaf-plot
+- docling
+- pycmd2
+- faster-coco-eval
+- streamlit-launcher
+- document-merge-service
+- pyedb
+- dbt-swap
 - pulumi-upcloud
 - meili-ros-lib
 - skypatrol
@@ -29,8 +72,6 @@
 - torchft-nightly
 - electroid
 - pyqidian
-- vigorvision
-- yeref
 - uiautodev
 - pupil-labs-neon-recording
 - netbox-authorized-keys
@@ -47,51 +88,5 @@
 - PyHOPE
 - pasarguard-node-bridge
 - figlinq
-- cxe-test-frameworks
 - taskrepo
 - machineconfig
-- seshadri-wrapper
-- upgini
-- licenselynx
-- microbootstrap
-- coiled
-- jupyter-server-client
-- akari-bot-webui
-- rust-template
-- opik
-- py-aps
-- checkmk-dev-tools
-- deltafi
-- dsp-tools
-- wiredb
-- wire-websocket
-- wire-pipe
-- wire-memory
-- wire-file
-- prismstudio
-- impit
-- c2pie
-- MapProxy
-- qwsend
-- doris-vector-search
-- mcp-agent
-- in-dbt-spark
-- git-hotspot-ai
-- oc-cdtapi
-- MeUtils
-- dektools
-- pro-craft
-- vantage-agent
-- langchain-dev-utils
-- fiqus
-- air
-- docseer
-- aptapy
-- libtasnl
-- turbopuffer
-- hiero-sdk-python
-- gllm-inference-binary
-- disposable-email-domains
-- speciesot
-- ast-transforms
-- databricks-bundles

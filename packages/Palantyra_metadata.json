@@ -1,0 +1,11 @@
+{
+  "name": "Palantyra",
+  "version": "1.0.6",
+  "summary": "AI observability platform for LLM applications - Python SDK",
+  "author": "Palantyra Team",
+  "license": null,
+  "home_page": "https://github.com/tanmaysharma2001/palantyra-python-sdk",
+  "download_filename": "Palantyra-1.0.6.tar.gz",
+  "download_time": "2025-10-22T11:43:15.644412",
+  "package_url": "https://pypi.org/project/Palantyra/"
+}
