@@ -1,0 +1,11 @@
+{
+  "name": "openbiomcp",
+  "version": "0.1.1",
+  "summary": "BioOpenMCP: Model Context Protocol tools and CLI for bioinformatics workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openbiomcp-0.1.1.tar.gz",
+  "download_time": "2025-10-22T05:17:56.311994",
+  "package_url": "https://pypi.org/project/openbiomcp/"
+}

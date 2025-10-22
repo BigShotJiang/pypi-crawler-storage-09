@@ -1,0 +1,11 @@
+{
+  "name": "evipy",
+  "version": "0.0.2",
+  "summary": "Control eviqo devices (via the cloud) in python. See also eviqo-hacs for a home-assistant connection.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evipy-0.0.2.tar.gz",
+  "download_time": "2025-10-22T05:18:02.854989",
+  "package_url": "https://pypi.org/project/evipy/"
+}

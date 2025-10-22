@@ -1,11 +1,11 @@
 {
   "name": "telegram-mcp-server",
-  "version": "0.1.0",
-  "summary": "Remote control Claude Code via Telegram - MCP Server",
+  "version": "0.2.1",
+  "summary": "Remote control Claude Code via Telegram - MCP Server with Dynamic Buttons",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "telegram_mcp_server-0.1.0.tar.gz",
-  "download_time": "2025-10-21T11:29:37.080130",
+  "download_filename": "telegram_mcp_server-0.2.1.tar.gz",
+  "download_time": "2025-10-22T05:17:59.963907",
   "package_url": "https://pypi.org/project/telegram-mcp-server/"
 }

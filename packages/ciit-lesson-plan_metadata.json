@@ -1,0 +1,11 @@
+{
+  "name": "ciit-lesson-plan",
+  "version": "0.1.2",
+  "summary": "这是一个用于将Markdown格式的教学计划内容转换为Word文档（.docx）的Python脚本。该脚本使用python_docx库来处理Word文档，能够读取Markdown文件内容，并根据预定义的模板生成格式化的教案文档。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ciit_lesson_plan-0.1.2.tar.gz",
+  "download_time": "2025-10-22T05:17:55.793534",
+  "package_url": "https://pypi.org/project/ciit-lesson-plan/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "flagdataset",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": null,
   "author": "shihongguang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flagdataset-1.1.3.tar.gz",
-  "download_time": "2025-10-22T04:32:12.386226",
+  "download_filename": "flagdataset-1.1.4.tar.gz",
+  "download_time": "2025-10-22T05:17:58.402934",
   "package_url": "https://pypi.org/project/flagdataset/"
 }
