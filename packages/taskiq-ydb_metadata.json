@@ -1,0 +1,11 @@
+{
+  "name": "taskiq-ydb",
+  "version": "0.4.0",
+  "summary": "YDB integration for taskiq",
+  "author": "Anfimov Dima",
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskiq_ydb-0.4.0.tar.gz",
+  "download_time": "2025-10-22T09:54:15.039674",
+  "package_url": "https://pypi.org/project/taskiq-ydb/"
+}

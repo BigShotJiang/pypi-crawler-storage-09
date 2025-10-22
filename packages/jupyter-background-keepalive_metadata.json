@@ -1,11 +1,11 @@
 {
   "name": "jupyter-background-keepalive",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Initialize a background thread that pings Jupyter so that it doesn't get culled",
   "author": "Muhammad Alif Putra Yasa",
   "license": null,
   "home_page": null,
-  "download_filename": "jupyter_background_keepalive-0.1.1.tar.gz",
-  "download_time": "2025-10-22T09:44:28.889862",
+  "download_filename": "jupyter_background_keepalive-0.1.2.tar.gz",
+  "download_time": "2025-10-22T09:54:19.429155",
   "package_url": "https://pypi.org/project/jupyter-background-keepalive/"
 }

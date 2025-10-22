@@ -1,0 +1,11 @@
+{
+  "name": "python-bidi",
+  "version": "0.6.7",
+  "summary": "Python Bidi layout wrapping the Rust crate unicode-bidi",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_bidi-0.6.7.tar.gz",
+  "download_time": "2025-10-22T09:54:14.498491",
+  "package_url": "https://pypi.org/project/python-bidi/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "jdcat",
-  "version": "1.0.1",
-  "summary": "JDCat local service (pip package) bundling sensitive_check_local and CLI entry",
+  "version": "1.0.4",
+  "summary": "修复mitmdump检查函数的导入错误，完善自动打开浏览器功能",
   "author": "Sensitive Check Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jdcat-1.0.1.tar.gz",
-  "download_time": "2025-10-22T08:50:52.754629",
+  "download_filename": "jdcat-1.0.4.tar.gz",
+  "download_time": "2025-10-22T09:54:20.831194",
   "package_url": "https://pypi.org/project/jdcat/"
 }

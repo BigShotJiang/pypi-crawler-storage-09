@@ -1,0 +1,11 @@
+{
+  "name": "taxing",
+  "version": "0.1.0",
+  "summary": "Tax deduction automation for Australian households",
+  "author": "Tyson Chan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "taxing-0.1.0.tar.gz",
+  "download_time": "2025-10-22T09:54:15.583105",
+  "package_url": "https://pypi.org/project/taxing/"
+}
