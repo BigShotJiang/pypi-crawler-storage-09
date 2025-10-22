@@ -1,0 +1,11 @@
+{
+  "name": "HyperArgs",
+  "version": "0.1.2",
+  "summary": "HyperArgs is a typed configuration library with automatic WEB GUI for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hyperargs-0.1.2.tar.gz",
+  "download_time": "2025-10-22T20:21:45.450379",
+  "package_url": "https://pypi.org/project/HyperArgs/"
+}

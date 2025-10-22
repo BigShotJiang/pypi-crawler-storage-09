@@ -1,11 +1,11 @@
 {
   "name": "immichporter",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Import photos from various sources to Immich",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "immichporter-0.0.4.tar.gz",
-  "download_time": "2025-10-22T17:33:55.252534",
+  "download_filename": "immichporter-0.0.5.tar.gz",
+  "download_time": "2025-10-22T20:21:55.455801",
   "package_url": "https://pypi.org/project/immichporter/"
 }

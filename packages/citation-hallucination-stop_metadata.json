@@ -1,0 +1,11 @@
+{
+  "name": "citation-hallucination-stop",
+  "version": "1.0.0",
+  "summary": "A Python library for filtering academic references to match only in-text citations, eliminating hallucinated or non-cited references",
+  "author": "Citation Hallucination Stop Team",
+  "license": "MIT",
+  "home_page": "https://github.com/danbroz/CitationHallucinationStop",
+  "download_filename": "citation_hallucination_stop-1.0.0.tar.gz",
+  "download_time": "2025-10-22T20:21:44.344133",
+  "package_url": "https://pypi.org/project/citation-hallucination-stop/"
+}

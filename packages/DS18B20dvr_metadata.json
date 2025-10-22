@@ -1,0 +1,11 @@
+{
+  "name": "DS18B20dvr",
+  "version": "1.2.2",
+  "summary": "DS18B20 library/driver for Raspberry Pi using the w1_therm kernel driver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ds18b20dvr-1.2.2.tar.gz",
+  "download_time": "2025-10-22T20:22:11.811353",
+  "package_url": "https://pypi.org/project/DS18B20dvr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wanyi-watermark",
+  "version": "1.0.0",
+  "summary": "百分百一键去水印 - 视频链接解析与媒体资源提取MCP服务器，支持抖音/小红书/通用平台",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wanyi_watermark-1.0.0.tar.gz",
+  "download_time": "2025-10-22T20:22:19.107603",
+  "package_url": "https://pypi.org/project/wanyi-watermark/"
+}

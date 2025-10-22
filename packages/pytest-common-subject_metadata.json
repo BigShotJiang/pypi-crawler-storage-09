@@ -1,0 +1,11 @@
+{
+  "name": "pytest-common-subject",
+  "version": "1.1.2",
+  "summary": "pytest framework for testing different aspects of a common method",
+  "author": "Zach \"theY4Kman\" Kanzler",
+  "license": "MIT",
+  "home_page": "https://github.com/theY4Kman/pytest-common-subject",
+  "download_filename": "pytest_common_subject-1.1.2.tar.gz",
+  "download_time": "2025-10-22T20:22:22.242897",
+  "package_url": "https://pypi.org/project/pytest-common-subject/"
+}

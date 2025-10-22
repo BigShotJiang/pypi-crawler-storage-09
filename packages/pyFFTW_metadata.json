@@ -1,0 +1,11 @@
+{
+  "name": "pyFFTW",
+  "version": "0.15.1",
+  "summary": "A pythonic wrapper around FFTW, the FFT library, presenting a unified interface for all the supported transforms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyfftw-0.15.1.tar.gz",
+  "download_time": "2025-10-22T20:22:17.029101",
+  "package_url": "https://pypi.org/project/pyFFTW/"
+}

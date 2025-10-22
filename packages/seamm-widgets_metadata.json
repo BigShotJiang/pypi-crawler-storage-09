@@ -1,0 +1,11 @@
+{
+  "name": "seamm-widgets",
+  "version": "2025.10.22",
+  "summary": "seamm_widgets",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seam/seamm_widgets",
+  "download_filename": "seamm_widgets-2025.10.22.tar.gz",
+  "download_time": "2025-10-22T20:22:23.313725",
+  "package_url": "https://pypi.org/project/seamm-widgets/"
+}
