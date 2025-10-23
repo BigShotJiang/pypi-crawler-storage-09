@@ -1,11 +1,11 @@
 {
   "name": "archiver_client",
-  "version": "1.0.0b2",
+  "version": "1.0.0",
   "summary": "Pscheduler Result Archiver Client API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "archiver_client-1.0.0b2.tar.gz",
-  "download_time": "2025-10-23T03:52:22.086729",
+  "download_filename": "archiver_client-1.0.0.tar.gz",
+  "download_time": "2025-10-23T04:44:48.856058",
   "package_url": "https://pypi.org/project/archiver_client/"
 }
