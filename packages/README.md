@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-23T20:43:01.162265
-- **Total Packages**: 93
-- **Total Size**: 26.88 MB
+- **Download Time**: 2025-10-23T20:52:33.538242
+- **Total Packages**: 86
+- **Total Size**: 19.64 MB
 
 ## Packages List
+- kiru
+- vaiz-sdk
+- prefect-kubernetes
+- aplr
+- dmqclib
+- tidysdmx
+- pageai-sdk
+- fleet-client
+- bgpsimulator
+- groundx
+- aignostics
+- prefect-client
+- apache-airflow-providers-fastetl
+- snowflake-snowpark-python
+- prefect
+- lbmd-sota
+- virtualshell
+- ferrite
+- jl95terceira-pytools-java
+- slide-lye
+- slide-space-monkey
+- slide-narrator
+- slide-tyler
+- dhti-elixir-base
+- bellman-tools
+- scopez
+- easyrunner-cli
+- ocstrack
+- eikonax
+- pulumi-aws
+- planar
+- atdata
+- incupie
+- ndtkit-api
+- sshler
+- pybispectra
+- finRav
+- kimi-cli
+- mlrun
+- pycarlo
+- dhenara-ai
+- agno
+- retryhttp
+- durabletask
+- durabletask.azuremanaged
+- Quantum-Tomography
+- reflex
+- log-surgeon-ffi
+- micromegas
 - crow-kit
 - pylebanon
 - talklabs
@@ -18,27 +67,20 @@
 - uhslc-station-tools
 - kinaid
 - kaqing
-- finRav
 - airbyte-cdk
 - snowexsql
 - python-terminusgps
-- mashrur-facebook-scrapper
 - webbed-duck
-- pulumi-aws
 - rebase-dashboard
-- kimi-cli
-- bgpsimulator
 - py-potok
 - laissez
 - megatron-bridge
-- ocstrack
 - LayerZero
 - botapi-py
 - lcm
 - nam-entropy
 - xmllens
 - hotbeak
-- bellman-tools
 - fusion-tools
 - offlam
 - dagger-io
@@ -50,52 +92,3 @@
 - pipecat-ai-cli
 - strangeworks-extensions
 - strangeworks-braket-extension
-- halo-mcp-server
-- datatailr
-- botocore-stubs
-- graph-games-proto
-- xerxes
-- quantiq-jax
-- ai-parrot
-- pydevd-pycharm
-- langchain-google-vertexai
-- openjd-cli
-- peakrdl-python
-- simforge
-- django-clever-selects
-- sqlsaber
-- amati
-- ferrite
-- arbor-ai
-- groundx
-- marimushka
-- fluidsim-core
-- shadowgate
-- noqa-runner
-- open-sas
-- epiccli-lite
-- simpleprompts
-- simforge_foundry
-- vellum-ai
-- veri-agents-common
-- veri-agents-api
-- types-boto3
-- boto3-stubs
-- boto3-stubs-lite
-- types-boto3-lite
-- bim2rdf
-- actionstreamer
-- lofigui
-- great-expectations
-- taskiq-aio-pika
-- mypy-boto3-synthetics
-- mypy-boto3-storagegateway
-- mypy-boto3-sesv2
-- azstoragetorch
-- mypy-boto3-securitylake
-- mypy-boto3-savingsplans
-- mypy-boto3-sagemaker
-- mypy-boto3-sagemaker-edge
-- mypy-boto3-rum
-- mypy-boto3-resiliencehub
-- mypy-boto3-pinpoint-email

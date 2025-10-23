@@ -1,11 +1,11 @@
 {
   "name": "prefect-client",
-  "version": "3.4.24",
+  "version": "3.4.25",
   "summary": "Workflow orchestration and management.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "prefect_client-3.4.24.tar.gz",
-  "download_time": "2025-10-17T08:21:49.650156",
+  "download_filename": "prefect_client-3.4.25.tar.gz",
+  "download_time": "2025-10-23T20:51:53.971857",
   "package_url": "https://pypi.org/project/prefect-client/"
 }

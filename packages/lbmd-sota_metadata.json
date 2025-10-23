@@ -1,0 +1,11 @@
+{
+  "name": "lbmd-sota",
+  "version": "1.0.0",
+  "summary": "Latent Boundary Manifold Decomposition for State-of-the-Art Mechanistic Interpretability",
+  "author": "Srikanth Vemula",
+  "license": "MIT",
+  "home_page": "https://github.com/lbmd-research/lbmd-sota",
+  "download_filename": "lbmd_sota-1.0.0.tar.gz",
+  "download_time": "2025-10-23T20:51:56.091694",
+  "package_url": "https://pypi.org/project/lbmd-sota/"
+}

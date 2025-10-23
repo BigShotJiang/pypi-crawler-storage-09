@@ -1,11 +1,11 @@
 {
   "name": "dmqclib",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "This package aims to offer helper functions that simplify model building and evaluation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dmqclib-0.6.2.tar.gz",
-  "download_time": "2025-10-20T07:50:59.469182",
+  "download_filename": "dmqclib-0.6.3-py3-none-any.whl",
+  "download_time": "2025-10-23T20:51:49.844456",
   "package_url": "https://pypi.org/project/dmqclib/"
 }
