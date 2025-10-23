@@ -1,0 +1,11 @@
+{
+  "name": "turkish-python",
+  "version": "0.9.1",
+  "summary": "Python'ın bazı yerleşik fonksiyonlarını Türkçeleştiren küçük bir paket.",
+  "author": "taha1901",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "turkish_python-0.9.1.tar.gz",
+  "download_time": "2025-10-23T10:45:47.546218",
+  "package_url": "https://pypi.org/project/turkish-python/"
+}

@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-23T10:20:40.975763
-- **Total Packages**: 95
-- **Total Size**: 24.86 MB
+- **Download Time**: 2025-10-23T10:46:36.776421
+- **Total Packages**: 94
+- **Total Size**: 10.45 MB
 
 ## Packages List
+- triggerflow
+- agentia
+- jupyter-scheduler-keepalive
+- exqalibur
+- mem0ai-azure-mysql
+- agentipy
+- UnitMatchPy
+- redditadmin
+- sottek-hearing-model
+- llama-cpp-haystack
+- t2d2-sdk
+- pulumi-command
+- turkish-python
+- micrologai
+- chronflow
+- gradio-canvaworkflow
 - enthusiast-model-mistral
 - enthusiast-model-google
 - enthusiast-model-ollama
@@ -16,7 +32,6 @@
 - very-nb-api
 - agntcy-identity-service-sdk
 - odoo-addon-contract
-- agentipy
 - waldur-site-agent-slurm
 - waldur-site-agent-okd
 - waldur-site-agent-mup
@@ -32,7 +47,6 @@
 - genie-flow-invoker-ms-sql-server
 - fc-code-interpreter-mcp-server
 - ai-edge-torch-nightly
-- UnitMatchPy
 - legit-api-client
 - mito-utils
 - slack-export-viewer
@@ -84,20 +98,5 @@
 - optimum-rbln
 - nvidia-nat-ingestion
 - nvidia-nat-langchain
-- t2d2-sdk
 - pyjudilibre
 - nvidia-nat-zep-cloud
-- nvidia-nat-s3
-- bayspec
-- odoo-addon-l10n-es-atc-mod420
-- nvidia-nat
-- nvidia-nat-ragaai
-- nvidia-nat-weave
-- nvidia-nat-semantic-kernel
-- grpc-framework
-- pyforestscan
-- nvidia-nat-data-flywheel
-- nvidia-nat-adk
-- kcli
-- invoke-toolkit
-- nvidia-nat-test
