@@ -1,11 +1,11 @@
 {
   "name": "epiccli-lite",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "A CLI for the EPIC API",
   "author": "Zenotech Ltd",
   "license": null,
   "home_page": "https://github.com/zenotech/epic-cli",
-  "download_filename": "epiccli_lite-0.2.6.tar.gz",
-  "download_time": "2025-10-23T15:42:27.687412",
+  "download_filename": "epiccli_lite-0.2.7.tar.gz",
+  "download_time": "2025-10-23T20:42:47.649909",
   "package_url": "https://pypi.org/project/epiccli-lite/"
 }

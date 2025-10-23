@@ -1,11 +1,11 @@
 {
   "name": "ctx-bandits-mcmc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Feel-Good Thompson Sampling for Contextual Bandits: a Markov Chain Monte Carlo Showdown",
   "author": "Emile Anand, Sarah Liaw",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/ctx-bandits-mcmc-showdown",
-  "download_filename": "ctx_bandits_mcmc-1.0.0.tar.gz",
-  "download_time": "2025-10-23T14:46:37.992072",
+  "home_page": "https://github.com/SarahLiaw/ctx-bandits-mcmc-showdown",
+  "download_filename": "ctx_bandits_mcmc-1.0.1.tar.gz",
+  "download_time": "2025-10-23T20:42:13.458811",
   "package_url": "https://pypi.org/project/ctx-bandits-mcmc/"
 }

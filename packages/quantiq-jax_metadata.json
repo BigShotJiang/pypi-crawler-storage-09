@@ -1,0 +1,11 @@
+{
+  "name": "quantiq-jax",
+  "version": "0.0.1",
+  "summary": "Modern JAX-Powered Framework for Measurement Data Science",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantiq_jax-0.0.1.tar.gz",
+  "download_time": "2025-10-23T20:42:38.228547",
+  "package_url": "https://pypi.org/project/quantiq-jax/"
+}

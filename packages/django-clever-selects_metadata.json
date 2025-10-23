@@ -1,0 +1,11 @@
+{
+  "name": "django-clever-selects",
+  "version": "2.0.2",
+  "summary": "Chained select box widget for Django framework using AJAX requests.",
+  "author": "Pragmatic Mates",
+  "license": "BSD License",
+  "home_page": "https://github.com/PragmaticMates/django-clever-selects",
+  "download_filename": "django_clever_selects-2.0.2.tar.gz",
+  "download_time": "2025-10-23T20:42:41.844684",
+  "package_url": "https://pypi.org/project/django-clever-selects/"
+}

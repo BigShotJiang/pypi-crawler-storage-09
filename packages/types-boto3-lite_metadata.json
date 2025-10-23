@@ -5,7 +5,7 @@
   "author": "Vlad Emelianov",
   "license": "MIT License",
   "home_page": "https://github.com/youtype/mypy_boto3_builder",
-  "download_filename": "types_boto3_lite-1.40.58-py3-none-any.whl",
-  "download_time": "2025-10-23T20:19:37.439933",
+  "download_filename": "types_boto3_lite-1.40.58.tar.gz",
+  "download_time": "2025-10-23T20:42:52.326760",
   "package_url": "https://pypi.org/project/types-boto3-lite/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bellman-tools",
+  "version": "0.2.0",
+  "summary": "A set of tools in Python for data manipulation, database interaction, scheduling and financial analysis for Hedge Funds.",
+  "author": "David Bellman",
+  "license": "Proprietary",
+  "home_page": "https://github.com/davidbellman/bellman_tools",
+  "download_filename": "bellman_tools-0.2.0.tar.gz",
+  "download_time": "2025-10-23T20:42:29.422910",
+  "package_url": "https://pypi.org/project/bellman-tools/"
+}

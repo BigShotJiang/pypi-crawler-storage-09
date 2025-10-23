@@ -1,0 +1,11 @@
+{
+  "name": "ocstrack",
+  "version": "0.1.0",
+  "summary": "Satellite data download, crop, and collocation with model outputs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ocstrack-0.1.0.tar.gz",
+  "download_time": "2025-10-23T20:42:25.748195",
+  "package_url": "https://pypi.org/project/ocstrack/"
+}

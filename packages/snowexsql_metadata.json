@@ -1,0 +1,11 @@
+{
+  "name": "snowexsql",
+  "version": "1.0.0",
+  "summary": "SQL Database software for SnowEx data",
+  "author": null,
+  "license": "GNU",
+  "home_page": null,
+  "download_filename": "snowexsql-1.0.0.tar.gz",
+  "download_time": "2025-10-23T20:42:20.008136",
+  "package_url": "https://pypi.org/project/snowexsql/"
+}
