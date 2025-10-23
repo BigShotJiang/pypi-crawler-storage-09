@@ -1,0 +1,11 @@
+{
+  "name": "foldkit",
+  "version": "0.1.1",
+  "summary": "Toolkit for working with AlphaFold3 results and confidence metadata",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foldkit-0.1.1.tar.gz",
+  "download_time": "2025-10-23T14:57:19.581280",
+  "package_url": "https://pypi.org/project/foldkit/"
+}

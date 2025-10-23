@@ -1,11 +1,11 @@
 {
   "name": "paddlex",
-  "version": "3.3.4",
+  "version": "3.3.5",
   "summary": "Low-code development tool based on PaddlePaddle.",
   "author": "PaddlePaddle Authors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "paddlex-3.3.4.tar.gz",
-  "download_time": "2025-10-20T16:21:46.768078",
+  "download_filename": "paddlex-3.3.5-py3-none-any.whl",
+  "download_time": "2025-10-23T14:57:19.068365",
   "package_url": "https://pypi.org/project/paddlex/"
 }

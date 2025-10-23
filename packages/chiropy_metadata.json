@@ -1,11 +1,11 @@
 {
   "name": "chiropy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "CHIROpy is a Gaussian binding tool for analyze chiroptical properties.",
   "author": "Shota Inoue",
   "license": "MIT",
   "home_page": "https://github.com/s-inoue0108/chiropy",
-  "download_filename": "chiropy-1.0.2.tar.gz",
-  "download_time": "2025-10-23T14:46:52.082654",
+  "download_filename": "chiropy-1.0.3.tar.gz",
+  "download_time": "2025-10-23T14:57:09.523338",
   "package_url": "https://pypi.org/project/chiropy/"
 }

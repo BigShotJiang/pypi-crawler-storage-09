@@ -1,11 +1,11 @@
 {
   "name": "nanovdb-editor",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "NanoVDB Editor Python Module",
   "author": "The OpenVDB Project contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nanovdb_editor-0.0.6.tar.gz",
-  "download_time": "2025-10-21T07:51:01.914671",
+  "download_filename": "nanovdb_editor-0.0.7.tar.gz",
+  "download_time": "2025-10-23T14:57:23.550871",
   "package_url": "https://pypi.org/project/nanovdb-editor/"
 }

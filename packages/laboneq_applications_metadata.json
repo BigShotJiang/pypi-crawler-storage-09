@@ -1,0 +1,11 @@
+{
+  "name": "laboneq_applications",
+  "version": "2.16.0",
+  "summary": "Library of LabOne Q experiments, analysis functions, and more.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "laboneq_applications-2.16.0.tar.gz",
+  "download_time": "2025-10-23T14:57:26.738278",
+  "package_url": "https://pypi.org/project/laboneq_applications/"
+}
