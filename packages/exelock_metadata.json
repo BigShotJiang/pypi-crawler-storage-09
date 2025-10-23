@@ -1,0 +1,11 @@
+{
+  "name": "exelock",
+  "version": "1.0.0",
+  "summary": "A simple library to prevent multiple instances of a program from running",
+  "author": "exelock Developer",
+  "license": null,
+  "home_page": "https://github.com/yourusername/exelock",
+  "download_filename": "exelock-1.0.0.tar.gz",
+  "download_time": "2025-10-23T15:42:39.925098",
+  "package_url": "https://pypi.org/project/exelock/"
+}

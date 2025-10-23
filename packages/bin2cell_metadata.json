@@ -1,0 +1,11 @@
+{
+  "name": "bin2cell",
+  "version": "0.3.4",
+  "summary": "Join subcellular Visium HD bins into cells",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bin2cell-0.3.4.tar.gz",
+  "download_time": "2025-10-23T15:42:35.721052",
+  "package_url": "https://pypi.org/project/bin2cell/"
+}

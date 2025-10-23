@@ -1,0 +1,11 @@
+{
+  "name": "raspc-notif",
+  "version": "1.1.1",
+  "summary": "RaspController notifications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "raspc_notif-1.1.1.tar.gz",
+  "download_time": "2025-10-23T15:42:31.223290",
+  "package_url": "https://pypi.org/project/raspc-notif/"
+}

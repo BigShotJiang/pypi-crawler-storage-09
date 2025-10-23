@@ -1,0 +1,11 @@
+{
+  "name": "keypoint-moseq",
+  "version": "0.6.5",
+  "summary": null,
+  "author": "Caleb Weinreb",
+  "license": null,
+  "home_page": "https://github.com/dattalab/keypoint-moseq",
+  "download_filename": "keypoint_moseq-0.6.5.tar.gz",
+  "download_time": "2025-10-23T15:42:21.160562",
+  "package_url": "https://pypi.org/project/keypoint-moseq/"
+}

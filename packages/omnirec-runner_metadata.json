@@ -1,11 +1,11 @@
 {
   "name": "omnirec-runner",
-  "version": "0.1.0",
-  "summary": "This is a placeholder package. Full release of OmniRec will be published soon!",
+  "version": "0.1.1",
+  "summary": "This package is part of the omnirec package. Please look there for more details.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "omnirec-runner-0.1.0.tar.gz",
-  "download_time": "2025-10-21T22:52:39.644364",
+  "download_filename": "omnirec_runner-0.1.1.tar.gz",
+  "download_time": "2025-10-23T15:42:10.850638",
   "package_url": "https://pypi.org/project/omnirec-runner/"
 }

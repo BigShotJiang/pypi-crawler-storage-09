@@ -1,0 +1,11 @@
+{
+  "name": "nhsuk-frontend-jinja",
+  "version": "0.5.0",
+  "summary": "A port of NHS.UK frontend templates for the Jinja templating engine.",
+  "author": "Mat Moore",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nhsuk_frontend_jinja-0.5.0.tar.gz",
+  "download_time": "2025-10-23T15:42:33.807644",
+  "package_url": "https://pypi.org/project/nhsuk-frontend-jinja/"
+}

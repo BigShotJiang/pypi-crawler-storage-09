@@ -1,0 +1,11 @@
+{
+  "name": "shef-parser",
+  "version": "1.5.3",
+  "summary": "Module to extract data from SHEF formated files with ability to save output as flat file, dss file, or directly into Corps water management systems (CWMS) database",
+  "author": "Hydrologic Engineering Center",
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "shef_parser-1.5.3.tar.gz",
+  "download_time": "2025-10-23T15:42:24.779726",
+  "package_url": "https://pypi.org/project/shef-parser/"
+}

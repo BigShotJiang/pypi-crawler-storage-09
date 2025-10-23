@@ -1,11 +1,11 @@
 {
   "name": "ZJUWebVPN",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A Python wrapper for Zhejiang University WebVPN",
   "author": "eWloYW8",
   "license": "WTFPL",
   "home_page": "https://github.com/eWloYW8/ZJUWebVPN",
-  "download_filename": "zjuwebvpn-0.2.0.tar.gz",
-  "download_time": "2025-10-23T15:19:34.062881",
+  "download_filename": "zjuwebvpn-0.2.1.tar.gz",
+  "download_time": "2025-10-23T15:42:39.287770",
   "package_url": "https://pypi.org/project/ZJUWebVPN/"
 }
