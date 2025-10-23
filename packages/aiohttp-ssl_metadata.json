@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-ssl",
+  "version": "3.13.1",
+  "summary": "Aiohttp support SSL",
+  "author": "zichung",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "aiohttp_ssl-3.13.1-py3-none-any.whl",
+  "download_time": "2025-10-23T07:52:32.439633",
+  "package_url": "https://pypi.org/project/aiohttp-ssl/"
+}
