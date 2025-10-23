@@ -1,0 +1,11 @@
+{
+  "name": "tcc-otel",
+  "version": "0.1.0",
+  "summary": "The Context Company OpenTelemetry SDK for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tcc_otel-0.1.0.tar.gz",
+  "download_time": "2025-10-23T05:36:45.186617",
+  "package_url": "https://pypi.org/project/tcc-otel/"
+}

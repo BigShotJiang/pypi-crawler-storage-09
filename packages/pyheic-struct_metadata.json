@@ -1,0 +1,11 @@
+{
+  "name": "pyheic-struct",
+  "version": "0.1.0",
+  "summary": "Low-level utilities for parsing and rebuilding HEIC/HEIF files, with Samsung-to-Apple motion photo conversion helpers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyheic_struct-0.1.0.tar.gz",
+  "download_time": "2025-10-23T05:36:48.888077",
+  "package_url": "https://pypi.org/project/pyheic-struct/"
+}
