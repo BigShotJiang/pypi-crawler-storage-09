@@ -1,0 +1,11 @@
+{
+  "name": "pgvector-azure-openai-mcp-server",
+  "version": "1.0.0",
+  "summary": "A MCP server with RAG capabilities using Azure OpenAI embeddings and pgvector for PostgreSQL.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pgvector_azure_openai_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-10-23T11:31:26.921919",
+  "package_url": "https://pypi.org/project/pgvector-azure-openai-mcp-server/"
+}

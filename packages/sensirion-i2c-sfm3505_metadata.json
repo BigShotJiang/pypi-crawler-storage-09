@@ -1,0 +1,11 @@
+{
+  "name": "sensirion-i2c-sfm3505",
+  "version": "1.0.0",
+  "summary": "I2C driver for the Sensirion SFM3505 sensor family",
+  "author": "Sensirion",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "sensirion_i2c_sfm3505-1.0.0.tar.gz",
+  "download_time": "2025-10-23T11:31:19.893897",
+  "package_url": "https://pypi.org/project/sensirion-i2c-sfm3505/"
+}

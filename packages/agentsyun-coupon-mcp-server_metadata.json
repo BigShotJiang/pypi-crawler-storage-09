@@ -1,11 +1,11 @@
 {
   "name": "agentsyun-coupon-mcp-server",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "summary": "Agentsyun优惠券MCP服务，提供多品类优惠券查询、筛选和推广链接生成功能，支持外卖、美食、休闲娱乐、酒店民宿、门票度假、医药等多个类目",
   "author": null,
   "license": "Copyright (c) 2018 The Python Packaging Authority  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
   "home_page": null,
-  "download_filename": "agentsyun_coupon_mcp_server-0.0.16.tar.gz",
-  "download_time": "2025-10-23T11:16:24.318877",
+  "download_filename": "agentsyun_coupon_mcp_server-0.0.17.tar.gz",
+  "download_time": "2025-10-23T11:31:38.916217",
   "package_url": "https://pypi.org/project/agentsyun-coupon-mcp-server/"
 }

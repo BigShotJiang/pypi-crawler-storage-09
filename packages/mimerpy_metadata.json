@@ -1,0 +1,11 @@
+{
+  "name": "mimerpy",
+  "version": "1.3.1",
+  "summary": "Python database interface for Mimer SQL",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mimerpy-1.3.1.tar.gz",
+  "download_time": "2025-10-23T11:31:28.503280",
+  "package_url": "https://pypi.org/project/mimerpy/"
+}

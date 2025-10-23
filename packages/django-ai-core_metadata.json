@@ -1,0 +1,11 @@
+{
+  "name": "django-ai-core",
+  "version": "0.1.5",
+  "summary": "Django AI Core provides developer-focused AI features for implementing AI tooling in to Django sites.",
+  "author": "Wagtail core team + contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_ai_core-0.1.5.tar.gz",
+  "download_time": "2025-10-23T11:31:43.605133",
+  "package_url": "https://pypi.org/project/django-ai-core/"
+}

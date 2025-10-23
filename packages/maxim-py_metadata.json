@@ -1,11 +1,11 @@
 {
   "name": "maxim-py",
-  "version": "3.11.4",
+  "version": "3.12.0",
   "summary": "A package that allows you to use the Maxim Python Library to interact with the Maxim Platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "maxim_py-3.11.4.tar.gz",
-  "download_time": "2025-10-22T08:24:51.071913",
+  "download_filename": "maxim_py-3.12.0.tar.gz",
+  "download_time": "2025-10-23T11:31:30.592759",
   "package_url": "https://pypi.org/project/maxim-py/"
 }
