@@ -1,0 +1,11 @@
+{
+  "name": "django-drf-dynamics",
+  "version": "0.0.11",
+  "summary": "A Django app for restframework dynamic components.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_drf_dynamics-0.0.11.tar.gz",
+  "download_time": "2025-10-23T22:18:28.700704",
+  "package_url": "https://pypi.org/project/django-drf-dynamics/"
+}

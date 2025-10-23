@@ -1,11 +1,11 @@
 {
   "name": "cellmaps-coembedding",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "A tool to generate coembeddings from IF image embeddings and PPI network embeddings",
   "author": "Cell Maps team",
   "license": "MIT license",
   "home_page": "https://github.com/idekerlab/cellmaps_coembedding",
-  "download_filename": "cellmaps_coembedding-1.4.0.tar.gz",
-  "download_time": "2025-10-23T21:52:36.755478",
+  "download_filename": "cellmaps_coembedding-1.5.0.tar.gz",
+  "download_time": "2025-10-23T22:18:25.109075",
   "package_url": "https://pypi.org/project/cellmaps-coembedding/"
 }

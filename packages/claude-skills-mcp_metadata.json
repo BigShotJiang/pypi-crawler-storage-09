@@ -1,11 +1,11 @@
 {
   "name": "claude-skills-mcp",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Lightweight MCP proxy for Claude Skills (auto-downloads backend)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "claude_skills_mcp-1.0.3.tar.gz",
-  "download_time": "2025-10-23T06:53:00.086360",
+  "download_filename": "claude_skills_mcp-1.0.5.tar.gz",
+  "download_time": "2025-10-23T22:18:03.657511",
   "package_url": "https://pypi.org/project/claude-skills-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "claude-skills-mcp-backend",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Heavy backend for Claude Skills MCP server with vector search (Streamable HTTP)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "claude_skills_mcp_backend-1.0.3.tar.gz",
-  "download_time": "2025-10-23T06:53:01.684732",
+  "download_filename": "claude_skills_mcp_backend-1.0.5.tar.gz",
+  "download_time": "2025-10-23T22:18:05.225525",
   "package_url": "https://pypi.org/project/claude-skills-mcp-backend/"
 }

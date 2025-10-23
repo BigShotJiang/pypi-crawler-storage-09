@@ -1,0 +1,11 @@
+{
+  "name": "stax-cx-automation-sdk",
+  "version": "0.1.15",
+  "summary": "Stax.ai CX Automation SDK",
+  "author": "Stax.ai, Inc. <https://stax.ai>",
+  "license": "Proprietary",
+  "home_page": "https://github.com/stax-ai/cx-automation-sdk",
+  "download_filename": "stax_cx_automation_sdk-0.1.15.tar.gz",
+  "download_time": "2025-10-23T22:18:02.630296",
+  "package_url": "https://pypi.org/project/stax-cx-automation-sdk/"
+}
