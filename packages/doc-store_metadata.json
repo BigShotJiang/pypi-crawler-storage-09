@@ -1,11 +1,11 @@
 {
   "name": "doc-store",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Storage for documents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "doc_store-0.2.0.tar.gz",
-  "download_time": "2025-10-17T10:50:53.452462",
+  "download_filename": "doc_store-0.3.0.tar.gz",
+  "download_time": "2025-10-23T03:30:40.369020",
   "package_url": "https://pypi.org/project/doc-store/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mvesuvio",
+  "version": "0.1.dev14",
+  "summary": "Analyse Vesuvio instrument data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mvesuvio-0.1.dev14.tar.gz",
+  "download_time": "2025-10-23T03:30:44.277684",
+  "package_url": "https://pypi.org/project/mvesuvio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "knack",
+  "version": "0.13.0",
+  "summary": "A Command-Line Interface framework",
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/knack",
+  "download_filename": "knack-0.13.0.tar.gz",
+  "download_time": "2025-10-23T03:30:32.916963",
+  "package_url": "https://pypi.org/project/knack/"
+}

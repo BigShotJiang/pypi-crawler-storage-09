@@ -1,0 +1,11 @@
+{
+  "name": "vyirc",
+  "version": "1.2.1",
+  "summary": "An irc plugin for vy.",
+  "author": "Iury O. G. Figueiredo",
+  "license": null,
+  "home_page": "https://github.com/vyapp/vyirc",
+  "download_filename": "vyirc-1.2.1.tar.gz",
+  "download_time": "2025-10-23T03:30:48.863293",
+  "package_url": "https://pypi.org/project/vyirc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ldaputils",
+  "version": "0.1.11",
+  "summary": "Ldap utils library.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ldaputils-0.1.11.tar.gz",
+  "download_time": "2025-10-23T03:30:41.488434",
+  "package_url": "https://pypi.org/project/ldaputils/"
+}
