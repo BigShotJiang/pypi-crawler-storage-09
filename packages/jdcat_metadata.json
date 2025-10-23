@@ -1,11 +1,11 @@
 {
   "name": "jdcat",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "summary": "修复资源文件打包和路径查找问题",
   "author": "Sensitive Check Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jdcat-1.0.17.tar.gz",
-  "download_time": "2025-10-23T06:53:34.138494",
+  "download_filename": "jdcat-1.0.18.tar.gz",
+  "download_time": "2025-10-23T07:18:46.225899",
   "package_url": "https://pypi.org/project/jdcat/"
 }

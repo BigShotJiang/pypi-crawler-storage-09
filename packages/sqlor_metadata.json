@@ -1,11 +1,11 @@
 {
   "name": "sqlor",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "a new version of sqlor, each db's sor need to plugin to sqlor, and dbdriver now a isolated module",
   "author": null,
   "license": "{text = MIT}",
   "home_page": null,
-  "download_filename": "sqlor-2.0.1-py3-none-any.whl",
-  "download_time": "2025-10-22T07:51:51.337473",
+  "download_filename": "sqlor-2.0.2-py3-none-any.whl",
+  "download_time": "2025-10-23T07:18:04.391129",
   "package_url": "https://pypi.org/project/sqlor/"
 }

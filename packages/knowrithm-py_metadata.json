@@ -1,11 +1,11 @@
 {
   "name": "knowrithm-py",
-  "version": "0.1.17",
+  "version": "0.1.19",
   "summary": "Knowrithm Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "knowrithm_py-0.1.17.tar.gz",
-  "download_time": "2025-10-22T14:25:17.243258",
+  "download_filename": "knowrithm_py-0.1.19.tar.gz",
+  "download_time": "2025-10-23T07:18:09.232790",
   "package_url": "https://pypi.org/project/knowrithm-py/"
 }

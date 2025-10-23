@@ -1,0 +1,11 @@
+{
+  "name": "poly-query-mcp",
+  "version": "0.1.0",
+  "summary": "MCP tool for connecting to MySQL, PostgreSQL, Redis and MongoDB databases",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "poly_query_mcp-0.1.0.tar.gz",
+  "download_time": "2025-10-23T07:18:47.252437",
+  "package_url": "https://pypi.org/project/poly-query-mcp/"
+}

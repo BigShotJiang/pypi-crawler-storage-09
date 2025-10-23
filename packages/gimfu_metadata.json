@@ -1,11 +1,11 @@
 {
   "name": "gimfu",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A toolkit for generating future scenarios in AUTOUGH2.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gimfu-0.0.3.tar.gz",
-  "download_time": "2025-10-22T20:21:53.365376",
+  "download_filename": "gimfu-0.0.4.tar.gz",
+  "download_time": "2025-10-23T07:18:38.444719",
   "package_url": "https://pypi.org/project/gimfu/"
 }

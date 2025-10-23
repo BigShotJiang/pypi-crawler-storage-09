@@ -1,0 +1,11 @@
+{
+  "name": "passuth",
+  "version": "0.3.2",
+  "summary": "A python package wrapping 'password-auth' rust crate for password hashing and verification.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passuth-0.3.2.tar.gz",
+  "download_time": "2025-10-23T07:18:39.488826",
+  "package_url": "https://pypi.org/project/passuth/"
+}
