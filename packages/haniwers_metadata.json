@@ -1,0 +1,11 @@
+{
+  "name": "haniwers",
+  "version": "0.24.1",
+  "summary": "Analysis tool for TanQ/FunQ project",
+  "author": "Shota Takahashi (KMI)",
+  "license": "MIT",
+  "home_page": "https://qumasan.gitlab.io/haniwers/docs/",
+  "download_filename": "haniwers-0.24.1.tar.gz",
+  "download_time": "2025-10-23T14:46:46.101908",
+  "package_url": "https://pypi.org/project/haniwers/"
+}

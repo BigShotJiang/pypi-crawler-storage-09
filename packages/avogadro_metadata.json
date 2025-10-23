@@ -1,0 +1,11 @@
+{
+  "name": "avogadro",
+  "version": "1.102.0",
+  "summary": "Avogadro provides analysis and data processing useful in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas.",
+  "author": "Avogadro / OpenChemistry Developers",
+  "license": "BSD",
+  "home_page": "https://github.com/OpenChemistry/avogadrolibs",
+  "download_filename": "avogadro-1.102.0.tar.gz",
+  "download_time": "2025-10-23T14:47:12.192080",
+  "package_url": "https://pypi.org/project/avogadro/"
+}

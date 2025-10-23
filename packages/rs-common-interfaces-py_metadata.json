@@ -1,11 +1,11 @@
 {
   "name": "rs-common-interfaces-py",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Common interface types for video processing and request handling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rs_common_interfaces_py-0.1.5.tar.gz",
-  "download_time": "2025-10-23T14:19:24.231363",
+  "download_filename": "rs_common_interfaces_py-0.1.7.tar.gz",
+  "download_time": "2025-10-23T14:46:37.459804",
   "package_url": "https://pypi.org/project/rs-common-interfaces-py/"
 }

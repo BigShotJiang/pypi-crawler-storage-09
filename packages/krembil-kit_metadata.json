@@ -1,11 +1,11 @@
 {
   "name": "krembil-kit",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Comprehensive EEG analysis pipeline with advanced spectral analysis, connectivity analysis, memory-safe HDF5 graph processing, trigger detection, and spectral parameterization (SpecParam)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "krembil_kit-1.0.5.tar.gz",
-  "download_time": "2025-10-21T06:51:11.706215",
+  "download_filename": "krembil_kit-1.0.6.tar.gz",
+  "download_time": "2025-10-23T14:47:09.418534",
   "package_url": "https://pypi.org/project/krembil-kit/"
 }
