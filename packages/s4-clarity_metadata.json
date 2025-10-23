@@ -1,0 +1,11 @@
+{
+  "name": "s4-clarity",
+  "version": "1.8.0",
+  "summary": "A general purpose library for interacting with Clarity LIMS",
+  "author": "Semaphore Solutions",
+  "license": null,
+  "home_page": "https://github.com/SemaphoreSolutions/s4-clarity-lib",
+  "download_filename": "s4_clarity-1.8.0.tar.gz",
+  "download_time": "2025-10-23T16:22:37.006061",
+  "package_url": "https://pypi.org/project/s4-clarity/"
+}

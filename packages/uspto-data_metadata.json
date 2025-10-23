@@ -1,0 +1,11 @@
+{
+  "name": "uspto-data",
+  "version": "0.1.7",
+  "summary": "Structured Python datamodels and wrappers for accessing USPTO patent data APIs.",
+  "author": "ForGen AI, LLC",
+  "license": "Proprietary",
+  "home_page": "https://forgen.ai",
+  "download_filename": "uspto_data-0.1.7.tar.gz",
+  "download_time": "2025-10-23T16:23:07.202240",
+  "package_url": "https://pypi.org/project/uspto-data/"
+}

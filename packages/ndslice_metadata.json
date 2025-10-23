@@ -1,11 +1,11 @@
 {
   "name": "ndslice",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Interactive N-dimensional numpy array viewer with FFT support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ndslice-0.1.4.tar.gz",
-  "download_time": "2025-10-23T14:46:34.779737",
+  "download_filename": "ndslice-0.2.0.tar.gz",
+  "download_time": "2025-10-23T16:23:07.767271",
   "package_url": "https://pypi.org/project/ndslice/"
 }

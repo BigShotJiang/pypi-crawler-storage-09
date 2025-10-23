@@ -1,11 +1,11 @@
 {
   "name": "shellpad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A minimalist notebook for your shell.",
   "author": "wormcracker",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shellpad-1.0.0.tar.gz",
-  "download_time": "2025-10-23T15:52:51.803699",
+  "download_filename": "shellpad-1.0.1.tar.gz",
+  "download_time": "2025-10-23T16:22:38.096450",
   "package_url": "https://pypi.org/project/shellpad/"
 }

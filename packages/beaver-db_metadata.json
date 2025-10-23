@@ -1,11 +1,11 @@
 {
   "name": "beaver-db",
-  "version": "0.18.2",
+  "version": "0.18.4",
   "summary": "Fast, embedded, and multi-modal DB based on SQLite for AI-powered applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "beaver_db-0.18.2.tar.gz",
-  "download_time": "2025-10-23T15:53:01.115264",
+  "download_filename": "beaver_db-0.18.4.tar.gz",
+  "download_time": "2025-10-23T16:22:26.479066",
   "package_url": "https://pypi.org/project/beaver-db/"
 }

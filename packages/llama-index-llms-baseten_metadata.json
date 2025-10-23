@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-llms-baseten",
+  "version": "0.1.7",
+  "summary": "llama-index llms baseten integration",
+  "author": "alexker",
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_llms_baseten-0.1.7.tar.gz",
+  "download_time": "2025-10-23T16:22:20.701273",
+  "package_url": "https://pypi.org/project/llama-index-llms-baseten/"
+}

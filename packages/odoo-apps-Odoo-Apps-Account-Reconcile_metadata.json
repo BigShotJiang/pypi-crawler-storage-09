@@ -1,11 +1,11 @@
 {
   "name": "odoo-apps-Odoo-Apps-Account-Reconcile",
-  "version": "16.0.20251023.0",
+  "version": "18.0.20251023.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_apps_odoo_apps_account_reconcile-16.0.20251023.0-py3-none-any.whl",
-  "download_time": "2025-10-23T14:19:41.356956",
+  "download_filename": "odoo_apps_odoo_apps_account_reconcile-18.0.20251023.0-py3-none-any.whl",
+  "download_time": "2025-10-23T16:22:53.773497",
   "package_url": "https://pypi.org/project/odoo-apps-Odoo-Apps-Account-Reconcile/"
 }
