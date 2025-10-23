@@ -1,11 +1,11 @@
 {
   "name": "zzignal",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "High-performance quantitative finance library written in Rust with Python bindings.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zzignal-0.1.9-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-23T04:53:39.931749",
+  "download_filename": "zzignal-0.1.11-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-10-23T05:18:39.912020",
   "package_url": "https://pypi.org/project/zzignal/"
 }

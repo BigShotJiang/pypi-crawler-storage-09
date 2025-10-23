@@ -1,11 +1,11 @@
 {
   "name": "rltools",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "A Python wrapper for RLtools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rltools-2.2.0.tar.gz",
-  "download_time": "2025-10-23T04:53:39.411126",
+  "download_filename": "rltools-2.2.1.tar.gz",
+  "download_time": "2025-10-23T05:18:43.431862",
   "package_url": "https://pypi.org/project/rltools/"
 }

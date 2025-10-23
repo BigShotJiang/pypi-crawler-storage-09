@@ -1,11 +1,11 @@
 {
   "name": "remote-read-sql",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "Securely read sql into a pandas dataframe from a remote mysql DB",
   "author": "Erik van Widenfelt",
   "license": null,
   "home_page": null,
-  "download_filename": "remote_read_sql-1.0.3.tar.gz",
-  "download_time": "2025-10-23T04:44:53.531142",
+  "download_filename": "remote_read_sql-1.1.0.tar.gz",
+  "download_time": "2025-10-23T05:19:08.212669",
   "package_url": "https://pypi.org/project/remote-read-sql/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "autoFRK",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "autoFRK: Automatic Fixed Rank Kriging. The Python version with PyTorch",
   "author": "ShengLi Tzeng, Hsin-Cheng Huang, Wen-Ting Wang, Yao-Chih Hsu",
   "license": null,
   "home_page": null,
-  "download_filename": "autofrk-1.1.0.tar.gz",
-  "download_time": "2025-10-21T02:46:14.820568",
+  "download_filename": "autofrk-1.1.1.tar.gz",
+  "download_time": "2025-10-23T05:18:46.424956",
   "package_url": "https://pypi.org/project/autoFRK/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agentic-cache",
+  "version": "0.1.0",
+  "summary": "Core component for Agent Memory and Task Management",
+  "author": "Abinayasankar M",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentic_cache-0.1.0.tar.gz",
+  "download_time": "2025-10-23T05:18:32.046327",
+  "package_url": "https://pypi.org/project/agentic-cache/"
+}
