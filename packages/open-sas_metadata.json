@@ -1,11 +1,11 @@
 {
   "name": "open-sas",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Python-based SAS interpreter with Jupyter notebook support",
   "author": "Ryan Story",
   "license": null,
   "home_page": "https://github.com/ryan-story/Open-SAS",
-  "download_filename": "open_sas-0.1.1.tar.gz",
-  "download_time": "2025-10-23T20:42:47.093281",
+  "download_filename": "open_sas-0.1.2.tar.gz",
+  "download_time": "2025-10-23T21:16:55.398618",
   "package_url": "https://pypi.org/project/open-sas/"
 }
