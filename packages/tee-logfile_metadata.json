@@ -1,11 +1,11 @@
 {
   "name": "tee-logfile",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "A simple utility to tee stdout and stderr to a logfile.",
   "author": "cy",
   "license": null,
   "home_page": "https://github.com/firstim21cy/tee-logfile",
-  "download_filename": "tee_logfile-0.3.5.tar.gz",
-  "download_time": "2025-10-23T22:18:06.246146",
+  "download_filename": "tee_logfile-0.3.6.tar.gz",
+  "download_time": "2025-10-23T22:36:22.128994",
   "package_url": "https://pypi.org/project/tee-logfile/"
 }
