@@ -1,0 +1,11 @@
+{
+  "name": "langchain-ibm",
+  "version": "0.3.19",
+  "summary": "An integration package connecting IBM watsonx.ai and LangChain",
+  "author": "IBM",
+  "license": "MIT",
+  "home_page": "https://github.com/langchain-ai/langchain-ibm",
+  "download_filename": "langchain_ibm-0.3.19.tar.gz",
+  "download_time": "2025-10-23T12:36:12.308775",
+  "package_url": "https://pypi.org/project/langchain-ibm/"
+}

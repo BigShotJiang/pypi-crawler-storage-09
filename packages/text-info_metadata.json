@@ -1,0 +1,11 @@
+{
+  "name": "text-info",
+  "version": "1.0.3",
+  "summary": "Tools to extract useful information from xml text corpora",
+  "author": "Dirk Roorda",
+  "license": "MIT",
+  "home_page": "https://github.com/annotation/text-info",
+  "download_filename": "text_info-1.0.3.tar.gz",
+  "download_time": "2025-10-23T12:36:08.652576",
+  "package_url": "https://pypi.org/project/text-info/"
+}

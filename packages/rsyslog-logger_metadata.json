@@ -1,0 +1,11 @@
+{
+  "name": "rsyslog-logger",
+  "version": "1.0.5",
+  "summary": "Production-ready logging with rsyslog formatting and reliable rotation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsyslog_logger-1.0.5.tar.gz",
+  "download_time": "2025-10-23T12:35:36.337744",
+  "package_url": "https://pypi.org/project/rsyslog-logger/"
+}

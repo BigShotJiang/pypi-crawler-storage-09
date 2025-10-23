@@ -1,0 +1,11 @@
+{
+  "name": "pygit2",
+  "version": "1.19.0",
+  "summary": "Python bindings for libgit2.",
+  "author": null,
+  "license": "GPLv2 with linking exception",
+  "home_page": "https://github.com/libgit2/pygit2",
+  "download_filename": "pygit2-1.19.0.tar.gz",
+  "download_time": "2025-10-23T12:35:37.380528",
+  "package_url": "https://pypi.org/project/pygit2/"
+}

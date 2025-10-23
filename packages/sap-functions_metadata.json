@@ -1,11 +1,11 @@
 {
   "name": "sap-functions",
-  "version": "0.1.1",
+  "version": "1.0",
   "summary": "A utility package for sap automations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sap_functions-0.1.1.tar.gz",
-  "download_time": "2025-10-17T18:20:17.210291",
+  "download_filename": "sap_functions-1.0.tar.gz",
+  "download_time": "2025-10-23T12:35:55.093044",
   "package_url": "https://pypi.org/project/sap-functions/"
 }

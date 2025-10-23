@@ -1,0 +1,11 @@
+{
+  "name": "invenio-userprofiles",
+  "version": "4.1.1",
+  "summary": "User profiles module for Invenio.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-userprofiles",
+  "download_filename": "invenio_userprofiles-4.1.1.tar.gz",
+  "download_time": "2025-10-23T12:35:42.566141",
+  "package_url": "https://pypi.org/project/invenio-userprofiles/"
+}

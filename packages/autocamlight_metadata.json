@@ -1,11 +1,11 @@
 {
   "name": "autocamlight",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Automate your webcam light.",
   "author": "Dries007",
   "license": null,
   "home_page": null,
-  "download_filename": "autocamlight-0.1.1.tar.gz",
-  "download_time": "2025-10-23T08:50:08.480515",
+  "download_filename": "autocamlight-0.2.0.tar.gz",
+  "download_time": "2025-10-23T12:36:02.398323",
   "package_url": "https://pypi.org/project/autocamlight/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "msserviceprofiler",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": null,
-  "author": "MindStudio",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "msserviceprofiler-1.1.6-py3-none-any.whl",
-  "download_time": "2025-10-23T11:31:21.485174",
+  "download_filename": "msserviceprofiler-1.1.7.tar.gz",
+  "download_time": "2025-10-23T12:35:52.515726",
   "package_url": "https://pypi.org/project/msserviceprofiler/"
 }

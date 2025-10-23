@@ -1,11 +1,11 @@
 {
   "name": "platynui-inspector",
-  "version": "0.12.0.dev1",
+  "version": "0.12.0.dev3",
   "summary": "Inspector for Robot Framework PlatynUI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "platynui_inspector-0.12.0.dev1-py3-none-win_amd64.whl",
-  "download_time": "2025-10-23T11:42:27.952872",
+  "download_filename": "platynui_inspector-0.12.0.dev3-py3-none-win_amd64.whl",
+  "download_time": "2025-10-23T12:36:10.215369",
   "package_url": "https://pypi.org/project/platynui-inspector/"
 }
