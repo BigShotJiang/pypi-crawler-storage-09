@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-order-report-hide-tax",
+  "version": "16.0.1.0.1.2",
+  "summary": "Hide taxes column when they don't add value",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/sale-reporting",
+  "download_filename": "odoo_addon_sale_order_report_hide_tax-16.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2025-10-23T03:52:24.163751",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-order-report-hide-tax/"
+}

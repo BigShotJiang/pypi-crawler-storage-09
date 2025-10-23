@@ -1,11 +1,11 @@
 {
   "name": "openatlas",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "An autonomous browser agent with web search and interactive browsing capabilities",
   "author": "Harish Santhanalakshmi Ganesan",
   "license": "MIT",
   "home_page": "https://github.com/openatlas/openatlas",
-  "download_filename": "openatlas-1.0.3.tar.gz",
-  "download_time": "2025-10-23T03:30:26.009761",
+  "download_filename": "openatlas-1.0.4.tar.gz",
+  "download_time": "2025-10-23T03:52:36.732326",
   "package_url": "https://pypi.org/project/openatlas/"
 }

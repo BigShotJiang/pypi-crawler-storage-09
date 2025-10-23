@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-base-multicompany-reporting-currency",
-  "version": "16.0.1.0.0.1",
+  "version": "16.0.1.0.0.2",
   "summary": "Adds the possibility to specify Multicompany Reporting Currency",
   "author": "Camptocamp SA, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/sale-reporting",
-  "download_filename": "odoo_addon_base_multicompany_reporting_currency-16.0.1.0.0.1-py3-none-any.whl",
-  "download_time": "2025-10-21T07:40:12.156352",
+  "download_filename": "odoo_addon_base_multicompany_reporting_currency-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-23T03:52:23.644058",
   "package_url": "https://pypi.org/project/odoo-addon-base-multicompany-reporting-currency/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-proto-converter",
+  "version": "1.0.2",
+  "summary": "Library to converter between protos",
+  "author": "Huayu Yang",
+  "license": null,
+  "home_page": "https://github.com/google/python-proto-converter'",
+  "download_filename": "python_proto_converter-1.0.2.tar.gz",
+  "download_time": "2025-10-23T03:52:37.262678",
+  "package_url": "https://pypi.org/project/python-proto-converter/"
+}
