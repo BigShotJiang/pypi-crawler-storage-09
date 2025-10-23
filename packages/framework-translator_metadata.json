@@ -1,0 +1,11 @@
+{
+  "name": "framework-translator",
+  "version": "1.1.1",
+  "summary": "A powerful CLI tool and Python SDK for seamlessly translating code between machine learning frameworks (PyTorch, TensorFlow, JAX, Scikit-learn) using advanced AI models. Features authentication, translation history, and both command-line and programmatic interfaces for developers working across different ML ecosystems.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "framework_translator-1.1.1.tar.gz",
+  "download_time": "2025-10-23T19:30:54.366591",
+  "package_url": "https://pypi.org/project/framework-translator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vacasa-opentelemetry",
+  "version": "1.0.0",
+  "summary": "OpenTelemetry helpers for Vacasa Python services",
+  "author": "Vacasa",
+  "license": "MIT",
+  "home_page": "https://github.com/Vacasa/node-util-ts-lib",
+  "download_filename": "vacasa_opentelemetry-1.0.0.tar.gz",
+  "download_time": "2025-10-23T19:30:57.969815",
+  "package_url": "https://pypi.org/project/vacasa-opentelemetry/"
+}

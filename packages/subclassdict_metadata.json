@@ -1,0 +1,11 @@
+{
+  "name": "subclassdict",
+  "version": "0.1.1",
+  "summary": "A TypeDict that allows subclasses of type keys to be used as keys",
+  "author": "Odos Matthews",
+  "license": null,
+  "home_page": null,
+  "download_filename": "subclassdict-0.1.1.tar.gz",
+  "download_time": "2025-10-23T19:30:54.877694",
+  "package_url": "https://pypi.org/project/subclassdict/"
+}

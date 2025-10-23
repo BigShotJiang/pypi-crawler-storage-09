@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-23T19:17:23.379560
-- **Total Packages**: 79
-- **Total Size**: 24.57 MB
+- **Download Time**: 2025-10-23T19:31:32.549738
+- **Total Packages**: 86
+- **Total Size**: 8.24 MB
 
 ## Packages List
+- luxforge-foundry
+- langevals-core
+- github-chatbot
+- extencli
+- kelp-o-matic
+- roman-datamodels
+- pdf2sqlite
+- archetypes
+- sia-script
+- bindu
+- pygsk
+- business-use-core
+- lg2slack
+- raiplaysound
+- framework-translator
+- subclassdict
+- ag-ui-langgraph
+- nemo-automodel
+- python3-autopep8
+- oprattr
+- pulumiverse-cpln
+- vacasa-opentelemetry
+- wds-client
+- kicad-symbol-merge
+- django-whatsapp
+- vit-pytorch
+- zzignal
+- fastdup
+- simile
+- mayini-framework
+- BHPTNRremnant
+- openwisp-notifications
+- buildrunner
+- lm-deluge
+- CiliaTracks
+- waymore
+- cisco-ai-mcp-scanner
+- csvpath
+- gac
+- sund
+- fhir-sheets
+- flux-core
+- countmut
+- insta-rag
+- aiohomematic-test-support
+- aiohomematic
+- causum
 - scout-mcp
 - snowflake-data-exchange-agent
 - csc-cia-stne
@@ -16,11 +63,9 @@
 - Invenio-Theme-TUW
 - groundx
 - talklabs
-- business-use-core
 - mar-eval
 - future_sales_inno_ds_project
 - netjsonconfig
-- ag-ui-langgraph
 - Invenio-Config-TUW
 - microvector
 - nemo-library-etl
@@ -33,7 +78,6 @@
 - penguiflow
 - selfw
 - patpy
-- pulumiverse-cpln
 - hotbeak
 - newsflash
 - webjeux-flash-downloader
@@ -48,40 +92,3 @@
 - polarpandas
 - guardcoreapi
 - langgraph-checkpoint-cosmosdb
-- t-lark
-- opendental-sdk
-- beam-client
-- claude-worktree
-- changedetection.io
-- cjm-fasthtml-settings
-- tmtcrunch
-- seqme
-- pixmatch
-- mbari-pbp
-- beta9
-- infinity-grid
-- eyconf
-- edazer
-- markpub
-- dictlens
-- dinnovos-agent
-- pkg-updater
-- nextpipe
-- mcp-agent
-- factoreally
-- domaintools-api-test-upload
-- allotropy
-- mithridatium
-- arize
-- graph-games-proto
-- py-directus2
-- LogQS
-- vital
-- django-traceback-in-sql
-- veri-agents-common
-- tagmapper
-- ozi-spec
-- access-django-user-admin
-- veri-agents-aiware
-- odoo-addon-l10n-br-nfse-focus
-- sqlmesh

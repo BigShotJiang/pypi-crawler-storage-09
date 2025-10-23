@@ -1,0 +1,11 @@
+{
+  "name": "kicad-symbol-merge",
+  "version": "0.1.1",
+  "summary": "Merge all .kicad_sym symbol files in a folder into one KiCad library (KiCad v6+ compatible).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kicad_symbol_merge-0.1.1.tar.gz",
+  "download_time": "2025-10-23T19:30:59.058052",
+  "package_url": "https://pypi.org/project/kicad-symbol-merge/"
+}
