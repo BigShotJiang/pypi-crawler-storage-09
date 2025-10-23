@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account_followup_due_filter",
+  "version": "18.0.1.0.0",
+  "summary": "Show only invoices that are due in the followup report.",
+  "author": "Mint System GmbH",
+  "license": "OPL-1",
+  "home_page": "https://www.mint-system.ch/",
+  "download_filename": "odoo_addon_account_followup_due_filter-18.0.1.0.0-py3-none-any.whl",
+  "download_time": "2025-10-23T14:19:52.733940",
+  "package_url": "https://pypi.org/project/odoo-addon-account_followup_due_filter/"
+}

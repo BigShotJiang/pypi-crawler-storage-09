@@ -1,0 +1,11 @@
+{
+  "name": "opthub_runner_admin",
+  "version": "0.4.4",
+  "summary": "Library for running OptHub problems and indicators.",
+  "author": "Opthub Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/opthub-org/opthub-runner-admin",
+  "download_filename": "opthub_runner_admin-0.4.4.tar.gz",
+  "download_time": "2025-10-23T14:19:53.269689",
+  "package_url": "https://pypi.org/project/opthub_runner_admin/"
+}

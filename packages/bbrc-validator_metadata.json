@@ -1,11 +1,11 @@
 {
   "name": "bbrc-validator",
-  "version": "0.6",
+  "version": "0.6.post1",
   "summary": "Systematic sanity checks on imaging datasets within an XNAT environment",
   "author": "Greg Operto, Jordi Huguet",
   "license": null,
   "home_page": "https://gitlab.com/bbrc/xnat/bbrc-validator",
-  "download_filename": "bbrc_validator-0.6.tar.gz",
-  "download_time": "2025-10-23T10:54:44.947228",
+  "download_filename": "bbrc_validator-0.6.post1.tar.gz",
+  "download_time": "2025-10-23T14:19:11.716470",
   "package_url": "https://pypi.org/project/bbrc-validator/"
 }

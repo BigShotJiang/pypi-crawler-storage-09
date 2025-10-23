@@ -1,11 +1,11 @@
 {
   "name": "lib-memvid",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Video-based AI memory library for fast semantic search and retrieval",
-  "author": "Saleban Olow",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/olow304/memvid",
-  "download_filename": "lib_memvid-1.0.0.tar.gz",
-  "download_time": "2025-10-21T15:18:54.921190",
+  "home_page": null,
+  "download_filename": "lib_memvid-1.0.2.tar.gz",
+  "download_time": "2025-10-23T14:19:36.891220",
   "package_url": "https://pypi.org/project/lib-memvid/"
 }

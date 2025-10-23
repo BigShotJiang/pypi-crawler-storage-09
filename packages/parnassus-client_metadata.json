@@ -1,11 +1,11 @@
 {
   "name": "parnassus-client",
-  "version": "0.1.0a2",
+  "version": "0.1.0a3",
   "summary": null,
   "author": "MigoXV",
   "license": null,
   "home_page": null,
-  "download_filename": "parnassus_client-0.1.0a2.tar.gz",
-  "download_time": "2025-10-23T13:51:58.166166",
+  "download_filename": "parnassus_client-0.1.0a3.tar.gz",
+  "download_time": "2025-10-23T14:19:43.522367",
   "package_url": "https://pypi.org/project/parnassus-client/"
 }

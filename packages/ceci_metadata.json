@@ -1,0 +1,11 @@
+{
+  "name": "ceci",
+  "version": "2.3.1",
+  "summary": "Lightweight pipeline engine for LSST DESC",
+  "author": "Joe Zuntz",
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "ceci-2.3.1.tar.gz",
+  "download_time": "2025-10-23T14:19:34.681557",
+  "package_url": "https://pypi.org/project/ceci/"
+}

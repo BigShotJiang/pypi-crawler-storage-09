@@ -1,0 +1,11 @@
+{
+  "name": "loc-authorities",
+  "version": "0.1.0",
+  "summary": "Python module for interacting with Library of Congress Linked Data Service and API endpoint",
+  "author": null,
+  "license": "Apache-2",
+  "home_page": null,
+  "download_filename": "loc_authorities-0.1.0.tar.gz",
+  "download_time": "2025-10-23T14:19:10.603000",
+  "package_url": "https://pypi.org/project/loc-authorities/"
+}
