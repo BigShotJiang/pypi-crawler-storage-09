@@ -1,0 +1,11 @@
+{
+  "name": "tbint-logger",
+  "version": "0.5.0",
+  "summary": "A simple logger for tbint projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tbint_logger-0.5.0.tar.gz",
+  "download_time": "2025-10-23T18:53:08.112573",
+  "package_url": "https://pypi.org/project/tbint-logger/"
+}

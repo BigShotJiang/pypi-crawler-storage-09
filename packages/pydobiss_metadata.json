@@ -1,0 +1,11 @@
+{
+  "name": "pydobiss",
+  "version": "0.1.56",
+  "summary": "python interface to the dobiss developer api",
+  "author": "Kester Aernoudt",
+  "license": "MIT",
+  "home_page": "https://github.com/kesteraernoudt/pydobiss",
+  "download_filename": "pydobiss-0.1.56.tar.gz",
+  "download_time": "2025-10-23T18:53:15.550999",
+  "package_url": "https://pypi.org/project/pydobiss/"
+}

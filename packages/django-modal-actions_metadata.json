@@ -1,0 +1,11 @@
+{
+  "name": "django-modal-actions",
+  "version": "0.1.6",
+  "summary": "A Django app for adding modal actions to the admin interface",
+  "author": "Michael Gendy",
+  "license": "MIT",
+  "home_page": "https://github.com/Mng-dev-ai/django-modal-actions",
+  "download_filename": "django_modal_actions-0.1.6.tar.gz",
+  "download_time": "2025-10-23T18:53:14.914276",
+  "package_url": "https://pypi.org/project/django-modal-actions/"
+}

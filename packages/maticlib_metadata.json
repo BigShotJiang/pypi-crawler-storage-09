@@ -1,11 +1,11 @@
 {
   "name": "maticlib",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A Python Automation Library for creating agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "maticlib-0.1.3.tar.gz",
-  "download_time": "2025-10-23T04:21:34.503187",
+  "download_filename": "maticlib-0.1.4.tar.gz",
+  "download_time": "2025-10-23T18:53:02.829630",
   "package_url": "https://pypi.org/project/maticlib/"
 }

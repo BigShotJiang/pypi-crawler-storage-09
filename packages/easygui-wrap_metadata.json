@@ -1,11 +1,11 @@
 {
   "name": "easygui-wrap",
-  "version": "0.11.0",
-  "summary": "Stylish, hybrid callback GUI wrapper for Python (Tkinter & DearPyGui)",
-  "author": "Thesmal",
+  "version": "1.0.5",
+  "summary": "A beginner-friendly, stylish GUI wrapper for Python using DearPyGui.",
+  "author": "Zaik",
   "license": null,
-  "home_page": null,
-  "download_filename": "easygui_wrap-0.11.0.tar.gz",
-  "download_time": "2025-10-23T17:54:07.700610",
+  "home_page": "https://github.com/yourusername/easygui_wrap",
+  "download_filename": "easygui_wrap-1.0.5.tar.gz",
+  "download_time": "2025-10-23T18:53:07.532163",
   "package_url": "https://pypi.org/project/easygui-wrap/"
 }

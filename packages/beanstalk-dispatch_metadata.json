@@ -1,0 +1,11 @@
+{
+  "name": "beanstalk-dispatch",
+  "version": "0.1.4",
+  "summary": "Django application to schedule and run functions on an AWS SQS queue.",
+  "author": "Joshua Blum",
+  "license": "Apache 2",
+  "home_page": "http://github.com/joshblum/beanstalk-dispatch",
+  "download_filename": "beanstalk_dispatch-0.1.4.tar.gz",
+  "download_time": "2025-10-23T18:52:52.364656",
+  "package_url": "https://pypi.org/project/beanstalk-dispatch/"
+}

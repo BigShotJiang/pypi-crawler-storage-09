@@ -1,11 +1,11 @@
 {
   "name": "increase",
-  "version": "0.363.0",
+  "version": "0.364.0",
   "summary": "The official Python library for the increase API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "increase-0.363.0.tar.gz",
-  "download_time": "2025-10-22T18:26:52.126524",
+  "download_filename": "increase-0.364.0.tar.gz",
+  "download_time": "2025-10-23T18:53:34.874282",
   "package_url": "https://pypi.org/project/increase/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "salt-docs",
+  "version": "0.1.1",
+  "summary": "Intelligent codebase analysis and documentation generation tool",
+  "author": "Salt Docs Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "salt_docs-0.1.1.tar.gz",
+  "download_time": "2025-10-23T18:52:53.514724",
+  "package_url": "https://pypi.org/project/salt-docs/"
+}

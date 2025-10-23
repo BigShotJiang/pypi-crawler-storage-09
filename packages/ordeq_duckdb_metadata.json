@@ -1,0 +1,11 @@
+{
+  "name": "ordeq_duckdb",
+  "version": "1.0.1",
+  "summary": "DuckDB integration for Ordeq",
+  "author": "Niels Neerhoff, Simon Brugman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ordeq_duckdb-1.0.1.tar.gz",
+  "download_time": "2025-10-23T18:53:35.446739",
+  "package_url": "https://pypi.org/project/ordeq_duckdb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sdss-tree",
+  "version": "4.1.1",
+  "summary": "Control and setup of SDSS tree environment and modules",
+  "author": "Brian Cherinka",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/sdss/tree",
+  "download_filename": "sdss_tree-4.1.1.tar.gz",
+  "download_time": "2025-10-23T18:52:58.204678",
+  "package_url": "https://pypi.org/project/sdss-tree/"
+}

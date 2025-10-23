@@ -1,11 +1,11 @@
 {
   "name": "odsbox",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "Toolbox for accessing ASAM ODS servers using the HTTP API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odsbox-1.0.13.tar.gz",
-  "download_time": "2025-10-18T13:39:18.063961",
+  "download_filename": "odsbox-1.0.14.tar.gz",
+  "download_time": "2025-10-23T18:53:05.787196",
   "package_url": "https://pypi.org/project/odsbox/"
 }
