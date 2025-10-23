@@ -1,11 +1,11 @@
 {
   "name": "dojo-sdk-core",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Core functionality of dojo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dojo_sdk_core-0.1.4.tar.gz",
-  "download_time": "2025-10-23T02:45:29.161189",
+  "download_filename": "dojo_sdk_core-0.1.5.tar.gz",
+  "download_time": "2025-10-23T04:21:15.658362",
   "package_url": "https://pypi.org/project/dojo-sdk-core/"
 }

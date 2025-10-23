@@ -1,0 +1,11 @@
+{
+  "name": "smb2-gym",
+  "version": "0.2.14",
+  "summary": "Super Mario Bros 2 (Europe) Gymnasium Environment",
+  "author": "Alexei Quick",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smb2_gym-0.2.14.tar.gz",
+  "download_time": "2025-10-23T04:21:37.121791",
+  "package_url": "https://pypi.org/project/smb2-gym/"
+}

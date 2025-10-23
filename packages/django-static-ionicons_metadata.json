@@ -1,0 +1,11 @@
+{
+  "name": "django-static-ionicons",
+  "version": "2.0.1.6",
+  "summary": "Django application contain ionicons static files.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_static_ionicons-2.0.1.6.tar.gz",
+  "download_time": "2025-10-23T04:21:21.520915",
+  "package_url": "https://pypi.org/project/django-static-ionicons/"
+}

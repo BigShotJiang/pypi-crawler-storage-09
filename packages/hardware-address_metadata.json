@@ -1,0 +1,11 @@
+{
+  "name": "hardware-address",
+  "version": "0.2.0",
+  "summary": "IEEE 802 MAC-48, EUI-48, EUI-64, or a 20-octet IP over InfiniBand link-layer addresses",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "hardware_address-0.2.0.tar.gz",
+  "download_time": "2025-10-23T04:21:39.223406",
+  "package_url": "https://pypi.org/project/hardware-address/"
+}

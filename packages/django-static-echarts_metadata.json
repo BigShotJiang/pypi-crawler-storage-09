@@ -1,0 +1,11 @@
+{
+  "name": "django-static-echarts",
+  "version": "5.4.3.3",
+  "summary": "Django application contain echarts static files.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_static_echarts-5.4.3.3.tar.gz",
+  "download_time": "2025-10-23T04:21:15.147509",
+  "package_url": "https://pypi.org/project/django-static-echarts/"
+}

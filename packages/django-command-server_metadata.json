@@ -1,0 +1,11 @@
+{
+  "name": "django-command-server",
+  "version": "0.1.3",
+  "summary": "Django management.command is running a long live task, we make it a linux daemon server, so that you can start, stop, restart the task.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_command_server-0.1.3.tar.gz",
+  "download_time": "2025-10-23T04:21:25.739098",
+  "package_url": "https://pypi.org/project/django-command-server/"
+}

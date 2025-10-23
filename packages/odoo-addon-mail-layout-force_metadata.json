@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-layout-force",
+  "version": "16.0.2.0.0.4",
+  "summary": "Force a mail layout on selected email templates",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/social",
+  "download_filename": "odoo_addon_mail_layout_force-16.0.2.0.0.4-py3-none-any.whl",
+  "download_time": "2025-10-23T04:21:37.643303",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-layout-force/"
+}

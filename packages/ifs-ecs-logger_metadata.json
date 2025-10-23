@@ -1,11 +1,11 @@
 {
   "name": "ifs-ecs-logger",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "IFS-compliant ECS structured logger for CI/CD pipelines",
   "author": "IFS Golden CI Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ifs_ecs_logger-0.1.1.tar.gz",
-  "download_time": "2025-10-21T13:51:25.682443",
+  "download_filename": "ifs_ecs_logger-0.1.3.tar.gz",
+  "download_time": "2025-10-23T04:21:35.032295",
   "package_url": "https://pypi.org/project/ifs-ecs-logger/"
 }
