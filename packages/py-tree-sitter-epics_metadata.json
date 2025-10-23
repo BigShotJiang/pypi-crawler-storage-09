@@ -1,0 +1,11 @@
+{
+  "name": "py-tree-sitter-epics",
+  "version": "0.2.2",
+  "summary": "Facilitate tree-sitter-epics parsing in python",
+  "author": "Alexis Gaget",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_tree_sitter_epics-0.2.2.tar.gz",
+  "download_time": "2025-10-23T15:19:25.441328",
+  "package_url": "https://pypi.org/project/py-tree-sitter-epics/"
+}

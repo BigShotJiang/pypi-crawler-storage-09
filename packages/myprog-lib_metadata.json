@@ -1,0 +1,11 @@
+{
+  "name": "myprog-lib",
+  "version": "0.1.0",
+  "summary": "A simple library for program name lookup",
+  "author": "Deepak M",
+  "license": null,
+  "home_page": null,
+  "download_filename": "myprog_lib-0.1.0.tar.gz",
+  "download_time": "2025-10-23T15:19:42.760288",
+  "package_url": "https://pypi.org/project/myprog-lib/"
+}

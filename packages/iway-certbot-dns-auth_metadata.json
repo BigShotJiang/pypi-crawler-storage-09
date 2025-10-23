@@ -1,0 +1,11 @@
+{
+  "name": "iway-certbot-dns-auth",
+  "version": "0.2.1",
+  "summary": "Certbot hook for DNS challenge using iWay Portal API.",
+  "author": "Frank Bohnsack",
+  "license": "MIT",
+  "home_page": "https://github.com/iwayag/iway-certbot-dns-auth",
+  "download_filename": "iway_certbot_dns_auth-0.2.1-py3-none-any.whl",
+  "download_time": "2025-10-23T15:19:17.723319",
+  "package_url": "https://pypi.org/project/iway-certbot-dns-auth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "togetherai-haystack",
+  "version": "2.0.0",
+  "summary": "An integration between the Together AI framework and Haystack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "togetherai_haystack-2.0.0.tar.gz",
+  "download_time": "2025-10-23T15:19:29.285793",
+  "package_url": "https://pypi.org/project/togetherai-haystack/"
+}

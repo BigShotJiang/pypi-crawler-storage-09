@@ -1,11 +1,11 @@
 {
   "name": "bantam-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Bantam language model core",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bantam_cli-0.1.1.tar.gz",
-  "download_time": "2025-10-20T15:39:24.054790",
+  "download_filename": "bantam_cli-0.1.2.tar.gz",
+  "download_time": "2025-10-23T15:20:07.953707",
   "package_url": "https://pypi.org/project/bantam-cli/"
 }

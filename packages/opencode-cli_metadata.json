@@ -1,0 +1,11 @@
+{
+  "name": "opencode-cli",
+  "version": "0.1.0",
+  "summary": "CLI tool for opencode server API",
+  "author": "Fergus Fettes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opencode_cli-0.1.0.tar.gz",
+  "download_time": "2025-10-23T15:19:26.548163",
+  "package_url": "https://pypi.org/project/opencode-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dsf-quantum-sdk",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Lightweight SDK for DSF Quantum Adaptive Scoring with IBM Quantum support",
   "author": "Jaime Alexander Jimenez",
   "license": null,
   "home_page": "https://github.com/jaimeajl/dsf-quantum-sdk",
-  "download_filename": "dsf_quantum_sdk-1.0.5.tar.gz",
-  "download_time": "2025-10-23T14:57:32.517893",
+  "download_filename": "dsf_quantum_sdk-1.0.6.tar.gz",
+  "download_time": "2025-10-23T15:19:56.290355",
   "package_url": "https://pypi.org/project/dsf-quantum-sdk/"
 }

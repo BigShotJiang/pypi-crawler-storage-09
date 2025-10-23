@@ -1,0 +1,11 @@
+{
+  "name": "asyncpusher",
+  "version": "0.2.5",
+  "summary": "An asynchronous Pusher client library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asyncpusher-0.2.5.tar.gz",
+  "download_time": "2025-10-23T15:19:43.312771",
+  "package_url": "https://pypi.org/project/asyncpusher/"
+}

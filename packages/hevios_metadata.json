@@ -1,11 +1,11 @@
 {
   "name": "hevios",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A sample Python package for ZDIT",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hevios-0.1.2.tar.gz",
-  "download_time": "2025-10-23T14:57:24.062306",
+  "download_filename": "hevios-0.1.3.tar.gz",
+  "download_time": "2025-10-23T15:19:19.943464",
   "package_url": "https://pypi.org/project/hevios/"
 }

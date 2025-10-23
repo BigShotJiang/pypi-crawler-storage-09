@@ -1,11 +1,11 @@
 {
   "name": "db-query-agent",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AI-powered natural language database query system using OpenAI Agents SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "db_query_agent-0.1.1.tar.gz",
-  "download_time": "2025-10-23T14:19:10.048367",
+  "download_filename": "db_query_agent-0.1.2.tar.gz",
+  "download_time": "2025-10-23T15:19:21.581809",
   "package_url": "https://pypi.org/project/db-query-agent/"
 }

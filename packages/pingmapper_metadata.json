@@ -1,11 +1,11 @@
 {
   "name": "pingmapper",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "summary": "Open-source interface for processing recreation-grade side scan sonar datasets and reproducibly mapping benthic habitat",
   "author": "Cameron Bodine, Daniel Buscombe",
   "license": null,
   "home_page": null,
-  "download_filename": "pingmapper-5.0.13.tar.gz",
-  "download_time": "2025-10-22T14:25:07.757513",
+  "download_filename": "pingmapper-5.0.14.tar.gz",
+  "download_time": "2025-10-23T15:19:28.198501",
   "package_url": "https://pypi.org/project/pingmapper/"
 }

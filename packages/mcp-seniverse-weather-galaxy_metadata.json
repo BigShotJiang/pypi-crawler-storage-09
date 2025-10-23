@@ -1,11 +1,11 @@
 {
   "name": "mcp-seniverse-weather-galaxy",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_seniverse_weather_galaxy-0.2.0.tar.gz",
-  "download_time": "2025-10-23T14:46:45.570283",
+  "download_filename": "mcp_seniverse_weather_galaxy-0.3.0.tar.gz",
+  "download_time": "2025-10-23T15:19:24.306226",
   "package_url": "https://pypi.org/project/mcp-seniverse-weather-galaxy/"
 }

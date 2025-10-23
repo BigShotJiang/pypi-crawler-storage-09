@@ -1,0 +1,11 @@
+{
+  "name": "cuiman",
+  "version": "0.0.5",
+  "summary": "Provides a client Python API, GUI, and CLI for servers compliant with OGC API - Processes",
+  "author": "Norman Fomferra (Brockmann Consult GmbH), Tejas Morbagal Harish (Brockmann Consult GmbH)",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cuiman-0.0.5.tar.gz",
+  "download_time": "2025-10-23T15:19:22.718587",
+  "package_url": "https://pypi.org/project/cuiman/"
+}

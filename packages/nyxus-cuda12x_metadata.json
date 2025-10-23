@@ -1,0 +1,11 @@
+{
+  "name": "nyxus-cuda12x",
+  "version": "0.9.3",
+  "summary": "Scalable library for calculating features from intensity-label image data",
+  "author": "Andriy Kharchenko",
+  "license": null,
+  "home_page": "https://github.com/PolusAI/nyxus",
+  "download_filename": "nyxus_cuda12x-0.9.3-cp312-cp312-win_amd64.whl",
+  "download_time": "2025-10-23T15:20:06.848741",
+  "package_url": "https://pypi.org/project/nyxus-cuda12x/"
+}

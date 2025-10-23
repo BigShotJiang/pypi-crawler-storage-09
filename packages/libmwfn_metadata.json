@@ -1,0 +1,11 @@
+{
+  "name": "libmwfn",
+  "version": "0.0.3",
+  "summary": "A flexible .mwfn format handler",
+  "author": "FreemanTheMaverick",
+  "license": null,
+  "home_page": "https://github.com/FreemanTheMaverick/libmwfn.git",
+  "download_filename": "libmwfn-0.0.3-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-10-23T15:19:41.680950",
+  "package_url": "https://pypi.org/project/libmwfn/"
+}

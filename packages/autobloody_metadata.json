@@ -1,11 +1,11 @@
 {
   "name": "autobloody",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "AD Privesc Automation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autobloody-1.0.0.tar.gz",
-  "download_time": "2025-10-22T05:43:18.116311",
+  "download_filename": "autobloody-1.1.0.tar.gz",
+  "download_time": "2025-10-23T15:19:34.590550",
   "package_url": "https://pypi.org/project/autobloody/"
 }
