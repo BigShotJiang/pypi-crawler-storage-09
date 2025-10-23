@@ -1,0 +1,11 @@
+{
+  "name": "brevo-api",
+  "version": "1.2.0",
+  "summary": "Python API Client for Brevo",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brevo_api-1.2.0.tar.gz",
+  "download_time": "2025-10-23T08:50:23.649610",
+  "package_url": "https://pypi.org/project/brevo-api/"
+}

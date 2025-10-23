@@ -1,0 +1,11 @@
+{
+  "name": "cut2min-bucket",
+  "version": "0.1.3",
+  "summary": "A PyTorch Batch Sampler that buckets by input length and cuts to min size in batch",
+  "author": "Gaetan De Waele",
+  "license": null,
+  "home_page": "https://github.com/gdewael/cut2min-bucket",
+  "download_filename": "cut2min_bucket-0.1.3.tar.gz",
+  "download_time": "2025-10-23T08:49:59.444374",
+  "package_url": "https://pypi.org/project/cut2min-bucket/"
+}

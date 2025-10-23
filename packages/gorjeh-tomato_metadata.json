@@ -1,0 +1,11 @@
+{
+  "name": "gorjeh-tomato",
+  "version": "0.1.1",
+  "summary": "A fast Python library for calculating circle areas, named Gorjeh (Tomato).",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/YourUsername/tomato",
+  "download_filename": "gorjeh-tomato-0.1.1.tar.gz",
+  "download_time": "2025-10-23T08:50:22.094077",
+  "package_url": "https://pypi.org/project/gorjeh-tomato/"
+}

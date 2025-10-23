@@ -1,11 +1,11 @@
 {
   "name": "algotrade-plutus",
-  "version": "0.2.5.20251023",
+  "version": "0.2.5.202510rc0",
   "summary": "Zero-setup market data analytics with Python API, CLI, and LLM integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "algotrade_plutus-0.2.5.20251023.tar.gz",
-  "download_time": "2025-10-23T06:53:06.025972",
+  "download_filename": "algotrade_plutus-0.2.5.202510rc0.tar.gz",
+  "download_time": "2025-10-23T08:50:22.604919",
   "package_url": "https://pypi.org/project/algotrade-plutus/"
 }

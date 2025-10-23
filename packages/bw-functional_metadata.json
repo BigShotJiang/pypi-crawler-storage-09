@@ -1,0 +1,11 @@
+{
+  "name": "bw-functional",
+  "version": "0b93",
+  "summary": "Code for handling multifunctional activities in Brightway",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bw_functional-0b93.tar.gz",
+  "download_time": "2025-10-23T08:50:30.888974",
+  "package_url": "https://pypi.org/project/bw-functional/"
+}

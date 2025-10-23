@@ -1,11 +1,11 @@
 {
   "name": "pro-craft",
-  "version": "0.1.24",
+  "version": "0.1.25",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pro_craft-0.1.24.tar.gz",
-  "download_time": "2025-10-23T07:52:22.930999",
+  "download_filename": "pro_craft-0.1.25.tar.gz",
+  "download_time": "2025-10-23T08:50:38.376702",
   "package_url": "https://pypi.org/project/pro-craft/"
 }
