@@ -1,0 +1,11 @@
+{
+  "name": "taskiq-aio-pika",
+  "version": "0.4.4",
+  "summary": "RabbitMQ broker for taskiq",
+  "author": "Pavel Kirilin",
+  "license": "LICENSE",
+  "home_page": "https://github.com/taskiq-python/taskiq-aio-pika",
+  "download_filename": "taskiq_aio_pika-0.4.4.tar.gz",
+  "download_time": "2025-10-23T20:19:40.241327",
+  "package_url": "https://pypi.org/project/taskiq-aio-pika/"
+}

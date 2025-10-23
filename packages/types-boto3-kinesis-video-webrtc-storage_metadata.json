@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-kinesis-video-webrtc-storage",
+  "version": "1.40.58",
+  "summary": "Type annotations for boto3 KinesisVideoWebRTCStorage 1.40.58 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_boto3_kinesis_video_webrtc_storage-1.40.58.tar.gz",
+  "download_time": "2025-10-23T20:20:19.856751",
+  "package_url": "https://pypi.org/project/types-boto3-kinesis-video-webrtc-storage/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-marketplacecommerceanalytics",
+  "version": "1.40.58",
+  "summary": "Type annotations for boto3 MarketplaceCommerceAnalytics 1.40.58 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_boto3_marketplacecommerceanalytics-1.40.58.tar.gz",
+  "download_time": "2025-10-23T20:20:14.440668",
+  "package_url": "https://pypi.org/project/types-boto3-marketplacecommerceanalytics/"
+}

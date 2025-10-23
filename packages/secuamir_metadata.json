@@ -1,0 +1,11 @@
+{
+  "name": "secuamir",
+  "version": "1.0.0",
+  "summary": "A new Persian-English keyboard-based encryption library",
+  "author": "Amir Hossein Khosravi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "secuamir-1.0.0.tar.gz",
+  "download_time": "2025-10-23T20:20:07.844183",
+  "package_url": "https://pypi.org/project/secuamir/"
+}

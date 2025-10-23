@@ -1,11 +1,11 @@
 {
   "name": "logseq-python",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A comprehensive Python library for working with Logseq knowledge graphs",
   "author": "Julio Ona",
   "license": "MIT",
   "home_page": "https://github.com/thinmanj/logseq-python-library",
-  "download_filename": "logseq_python-0.2.0.tar.gz",
-  "download_time": "2025-10-23T14:19:26.423779",
+  "download_filename": "logseq_python-0.2.1.tar.gz",
+  "download_time": "2025-10-23T20:20:18.204642",
   "package_url": "https://pypi.org/project/logseq-python/"
 }
