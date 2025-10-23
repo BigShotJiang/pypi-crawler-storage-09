@@ -1,47 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-23T21:29:47.764952
-- **Total Packages**: 91
-- **Total Size**: 26.01 MB
+- **Download Time**: 2025-10-23T21:40:25.522277
+- **Total Packages**: 97
+- **Total Size**: 0.75 MB
 
 ## Packages List
-- agilicus
-- infraweave
-- methodnetworkscan
-- automagik-hive
-- mmgp
-- heaserver-keychain
-- rbacx
-- provide-foundation
-- skillz
-- pico-ioc
-- tee-logfile
-- cvtkit
-- crow-kit
-- nvidia-scicode
-- nvidia-compute-eval
-- dhenara-agent
-- nvidia-eval-factory-garak
-- nova-pg
-- heaserver-people
-- jl95terceira-pytools-java
-- keeps-learn-nexus-proto
-- aceti
-- nvidia-bigcode-eval
-- myappmaker
-- ocstrack
-- nvidia-vlmeval
-- nvidia-mmath
-- litellm-proxy-extras
-- hud-python
-- kiru
-- jl95terceira-pytools
-- nvidia-bfcl
-- nvidia-ifbench
-- nvidia-safety-harness
-- kaggle-environments
-- jaxion
 - heaserver
 - AOT-biomaps
 - datallog
@@ -49,11 +13,15 @@
 - easyrunner-cli
 - xwnode
 - exonware-xwnode
+- litellm-proxy-extras
 - driftpy
 - sgevalviz
 - quantconnect-stubs
+- ocstrack
+- provide-foundation
 - beanis
 - pyrbd
+- tee-logfile
 - simulateur-trafic-MouhebBoubaker
 - cifparse
 - pycarlo
@@ -66,6 +34,7 @@
 - pulp-rpm-client
 - pulp-rpm
 - nvidia-crfm-helm
+- infraweave
 - open-sas
 - dagster-cloud-examples
 - dagster-cloud
@@ -97,3 +66,40 @@
 - dagster-looker
 - dagster-pagerduty
 - dagster-snowflake
+- dagster-slack
+- dagster-snowflake-polars
+- dagster-fivetran
+- dagster-duckdb-polars
+- dagster-msteams
+- dagster-sigma
+- dagster-snowflake-pyspark
+- dagster-powerbi
+- dagster-embedded-elt
+- dagster-duckdb-pyspark
+- dagster-omni
+- dagster-azure
+- dagster-ge
+- dagster-duckdb
+- dagster-duckdb-pandas
+- dagster-deltalake
+- dagster-datahub
+- dagster-celery-k8s
+- dagster-dlt
+- dagster-airlift
+- dagster-sling
+- dagster-k8s
+- dagster-celery-docker
+- dagster-census
+- dagster-airbyte
+- dagster-prometheus
+- dagster-deltalake-pandas
+- dagster-openai
+- dagster-dbt
+- dagster-mlflow
+- quantify
+- dagstermill
+- simplebooks
+- dagster-pandera
+- dagster-deltalake-polars
+- dagster-pyspark
+- create-dagster
