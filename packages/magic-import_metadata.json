@@ -1,0 +1,11 @@
+{
+  "name": "magic-import",
+  "version": "0.2.3",
+  "summary": "Import python object from string and return the reference of the object. The object can be a class, instance, variable and anything else, and can be from class, instance, module, global/local environment.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "magic_import-0.2.3.tar.gz",
+  "download_time": "2025-10-23T02:45:23.859844",
+  "package_url": "https://pypi.org/project/magic-import/"
+}

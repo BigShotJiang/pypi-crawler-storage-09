@@ -1,11 +1,11 @@
 {
   "name": "talkpipe-writing-assistant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "AI-powered writing assistant for structured document generation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "talkpipe_writing_assistant-0.1.0.tar.gz",
-  "download_time": "2025-10-22T03:44:18.008358",
+  "download_filename": "talkpipe_writing_assistant-0.1.1.tar.gz",
+  "download_time": "2025-10-23T02:45:07.526782",
   "package_url": "https://pypi.org/project/talkpipe-writing-assistant/"
 }

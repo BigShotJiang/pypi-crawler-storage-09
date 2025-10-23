@@ -1,11 +1,11 @@
 {
   "name": "qctrl-fire-opal-riken-client",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "summary": "Fire Opal RIKEN client",
   "author": "Q-CTRL",
   "license": "https://q-ctrl.com/terms",
   "home_page": null,
-  "download_filename": "qctrl_fire_opal_riken_client-0.0.2.tar.gz",
-  "download_time": "2025-10-21T04:20:05.053271",
+  "download_filename": "qctrl_fire_opal_riken_client-0.1.0.tar.gz",
+  "download_time": "2025-10-23T02:45:32.813449",
   "package_url": "https://pypi.org/project/qctrl-fire-opal-riken-client/"
 }

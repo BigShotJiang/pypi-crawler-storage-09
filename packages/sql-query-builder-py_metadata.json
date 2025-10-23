@@ -1,11 +1,11 @@
 {
   "name": "sql-query-builder-py",
-  "version": "0.1.0rc2",
+  "version": "0.1.0",
   "summary": "Dynamically generate SQL queries",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sql_query_builder_py-0.1.0rc2.tar.gz",
-  "download_time": "2025-10-22T04:32:04.369346",
+  "download_filename": "sql_query_builder_py-0.1.0.tar.gz",
+  "download_time": "2025-10-23T02:45:18.610398",
   "package_url": "https://pypi.org/project/sql-query-builder-py/"
 }
