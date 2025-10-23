@@ -1,0 +1,11 @@
+{
+  "name": "seamm-exec",
+  "version": "2025.10.23",
+  "summary": "Classes to execute background codes for SEAMM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seamm_exec-2025.10.23.tar.gz",
+  "download_time": "2025-10-23T23:41:03.743740",
+  "package_url": "https://pypi.org/project/seamm-exec/"
+}
