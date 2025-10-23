@@ -1,0 +1,11 @@
+{
+  "name": "taskpanel",
+  "version": "1.0.2",
+  "summary": "A Robust Interactive Terminal Task Runner Library",
+  "author": "Wenutu",
+  "license": null,
+  "home_page": "https://github.com/Wenutu/TaskPanel",
+  "download_filename": "taskpanel-1.0.2.tar.gz",
+  "download_time": "2025-10-23T13:52:10.607038",
+  "package_url": "https://pypi.org/project/taskpanel/"
+}

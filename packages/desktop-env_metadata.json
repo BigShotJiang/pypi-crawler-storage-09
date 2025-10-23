@@ -1,11 +1,11 @@
 {
   "name": "desktop-env",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "The package provides a desktop environment for setting and evaluating desktop automation tasks.",
   "author": "Tianbao Xie, Danyang Zhang,  Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, etc.",
   "license": null,
   "home_page": "https://github.com/xlang-ai/desktop_env",
-  "download_filename": "desktop_env-1.0.1.tar.gz",
-  "download_time": "2025-10-23T06:53:26.885299",
+  "download_filename": "desktop_env-1.0.2.tar.gz",
+  "download_time": "2025-10-23T13:52:09.031977",
   "package_url": "https://pypi.org/project/desktop-env/"
 }

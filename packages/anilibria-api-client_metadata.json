@@ -1,0 +1,11 @@
+{
+  "name": "anilibria-api-client",
+  "version": "0.2.1",
+  "summary": "Python async API wrapper for AniLibria Swagger",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "anilibria_api_client-0.2.1.tar.gz",
+  "download_time": "2025-10-23T13:52:32.694965",
+  "package_url": "https://pypi.org/project/anilibria-api-client/"
+}

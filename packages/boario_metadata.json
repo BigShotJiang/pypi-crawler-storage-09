@@ -1,0 +1,11 @@
+{
+  "name": "boario",
+  "version": "0.7.0",
+  "summary": "BoARIO : The Adaptative Regional Input Output model in python.",
+  "author": "Samuel Juhel",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://github.com/spjuhel/BoARIO",
+  "download_filename": "boario-0.7.0.tar.gz",
+  "download_time": "2025-10-23T13:52:18.797553",
+  "package_url": "https://pypi.org/project/boario/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "raritan",
+  "version": "4.3.11.52050",
+  "summary": "Raritan/Servertech PDU JSON-RPC bindings",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "raritan-4.3.11.52050.tar.gz",
+  "download_time": "2025-10-23T13:52:32.185573",
+  "package_url": "https://pypi.org/project/raritan/"
+}

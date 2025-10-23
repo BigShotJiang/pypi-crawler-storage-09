@@ -1,0 +1,11 @@
+{
+  "name": "compliance-trestle",
+  "version": "3.9.3",
+  "summary": "Tools to manage & autogenerate python objects representing the OSCAL layers/models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "compliance_trestle-3.9.3.tar.gz",
+  "download_time": "2025-10-23T13:51:52.421265",
+  "package_url": "https://pypi.org/project/compliance-trestle/"
+}

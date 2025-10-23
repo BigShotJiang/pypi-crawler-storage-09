@@ -1,11 +1,11 @@
 {
   "name": "prt-sim",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Python Research Toolkit - Simulation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prt_sim-0.1.7.tar.gz",
-  "download_time": "2025-10-22T14:25:59.418690",
+  "download_filename": "prt_sim-0.1.8.tar.gz",
+  "download_time": "2025-10-23T13:52:37.984587",
   "package_url": "https://pypi.org/project/prt-sim/"
 }

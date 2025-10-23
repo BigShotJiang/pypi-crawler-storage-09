@@ -1,0 +1,11 @@
+{
+  "name": "showtracetable",
+  "version": "0.0.1",
+  "summary": "Console tracer that renders simple call-traces of Python programs as ASCII diagrams",
+  "author": "hayashikunita",
+  "license": null,
+  "home_page": null,
+  "download_filename": "showtracetable-0.0.1.tar.gz",
+  "download_time": "2025-10-23T13:51:53.447376",
+  "package_url": "https://pypi.org/project/showtracetable/"
+}

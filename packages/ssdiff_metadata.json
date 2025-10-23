@@ -1,0 +1,11 @@
+{
+  "name": "ssdiff",
+  "version": "0.1.0",
+  "summary": "Supervised Semantic Differential (SSD): interpretable, embedding-based analysis of concept meaning in text.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ssdiff-0.1.0.tar.gz",
+  "download_time": "2025-10-23T13:51:55.504042",
+  "package_url": "https://pypi.org/project/ssdiff/"
+}

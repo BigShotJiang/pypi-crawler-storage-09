@@ -1,11 +1,11 @@
 {
   "name": "riot-na",
-  "version": "4.0.3",
+  "version": "4.0.4",
   "summary": "Antibody numbering software",
   "author": "NaturalAntibody",
   "license": null,
   "home_page": null,
-  "download_filename": "riot_na-4.0.3.tar.gz",
-  "download_time": "2025-10-23T11:52:51.944895",
+  "download_filename": "riot_na-4.0.4.tar.gz",
+  "download_time": "2025-10-23T13:52:33.213023",
   "package_url": "https://pypi.org/project/riot-na/"
 }
