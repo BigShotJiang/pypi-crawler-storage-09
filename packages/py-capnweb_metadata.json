@@ -1,0 +1,11 @@
+{
+  "name": "py-capnweb",
+  "version": "0.4.2",
+  "summary": "Python implementation of the Cap'n Web protocol",
+  "author": "Cap'n Web Contributors",
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "py_capnweb-0.4.2.tar.gz",
+  "download_time": "2025-10-23T09:43:54.704178",
+  "package_url": "https://pypi.org/project/py-capnweb/"
+}

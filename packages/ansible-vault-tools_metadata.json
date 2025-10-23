@@ -1,0 +1,11 @@
+{
+  "name": "ansible-vault-tools",
+  "version": "0.2.0",
+  "summary": "Simple library and CLI tool to deal with ansible vaults and encrypted strings",
+  "author": "Max Mehl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansible_vault_tools-0.2.0.tar.gz",
+  "download_time": "2025-10-23T09:43:34.797318",
+  "package_url": "https://pypi.org/project/ansible-vault-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hutb",
+  "version": "2.2",
+  "summary": "Python API for communicating with the HUTB simulator.",
+  "author": "OpenHUTB",
+  "license": "MIT License",
+  "home_page": "https://github.com/OpenHUTB/hutb",
+  "download_filename": "hutb-2.2-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-10-23T09:43:54.156460",
+  "package_url": "https://pypi.org/project/hutb/"
+}

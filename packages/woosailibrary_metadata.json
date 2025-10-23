@@ -1,11 +1,11 @@
 {
   "name": "woosailibrary",
-  "version": "1.0.1",
-  "summary": "AI cost optimization library with auto free license - Save up to 88% on OpenAI API costs",
+  "version": "1.1.0",
+  "summary": "AI Output Token Optimizer - Reduce OpenAI API costs by up to 88%",
   "author": "WoosAI Team",
   "license": null,
   "home_page": "https://github.com/woosai/woosailibrary",
-  "download_filename": "woosailibrary-1.0.1.tar.gz",
-  "download_time": "2025-10-23T02:45:05.427944",
+  "download_filename": "woosailibrary-1.1.0.tar.gz",
+  "download_time": "2025-10-23T09:43:31.257619",
   "package_url": "https://pypi.org/project/woosailibrary/"
 }

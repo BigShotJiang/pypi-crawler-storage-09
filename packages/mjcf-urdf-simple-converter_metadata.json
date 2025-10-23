@@ -1,0 +1,11 @@
+{
+  "name": "mjcf-urdf-simple-converter",
+  "version": "0.7.3",
+  "summary": "Minimal script to convert MuJoCo MJCF robot model files to URDF files usable in ROS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mjcf_urdf_simple_converter-0.7.3.tar.gz",
+  "download_time": "2025-10-23T09:44:05.858196",
+  "package_url": "https://pypi.org/project/mjcf-urdf-simple-converter/"
+}

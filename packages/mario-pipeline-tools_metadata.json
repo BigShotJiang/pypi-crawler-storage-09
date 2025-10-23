@@ -1,0 +1,11 @@
+{
+  "name": "mario-pipeline-tools",
+  "version": "0.57",
+  "summary": "Base classes and helpers for common data pipeline tasks",
+  "author": "scottbw",
+  "license": "all rights reserved",
+  "home_page": "https://github.com/JiscDACT/mario",
+  "download_filename": "mario-pipeline-tools-0.57.tar.gz",
+  "download_time": "2025-10-23T09:43:36.047544",
+  "package_url": "https://pypi.org/project/mario-pipeline-tools/"
+}

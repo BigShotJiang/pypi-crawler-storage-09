@@ -1,0 +1,11 @@
+{
+  "name": "context-bridge",
+  "version": "0.1.0",
+  "summary": "Unified Python package for RAG documentation workflows - Crawl, embed, store, and retrieve technical documentation for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "context_bridge-0.1.0.tar.gz",
+  "download_time": "2025-10-23T09:43:34.024759",
+  "package_url": "https://pypi.org/project/context-bridge/"
+}

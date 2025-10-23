@@ -1,0 +1,11 @@
+{
+  "name": "bifrost",
+  "version": "19.3.0",
+  "summary": "Deployment of physical machines using OpenStack Ironic and Ansible",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/bifrost/latest/",
+  "download_filename": "bifrost-19.3.0.tar.gz",
+  "download_time": "2025-10-23T09:44:08.018090",
+  "package_url": "https://pypi.org/project/bifrost/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bluer-sandbox",
-  "version": "5.435.1",
+  "version": "5.489.1",
   "summary": "🌀 A sandbox for ideas and experiments.",
   "author": "Arash Abadpour (Kamangir)",
   "license": "CC0-1.0",
   "home_page": "https://github.com/kamangir/bluer-sandbox",
-  "download_filename": "bluer_sandbox-5.435.1.tar.gz",
-  "download_time": "2025-10-22T19:22:56.358740",
+  "download_filename": "bluer_sandbox-5.489.1.tar.gz",
+  "download_time": "2025-10-23T09:43:53.413911",
   "package_url": "https://pypi.org/project/bluer-sandbox/"
 }
