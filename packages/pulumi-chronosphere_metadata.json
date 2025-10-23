@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-chronosphere",
+  "version": "0.9.10",
+  "summary": "A Pulumi package for creating and managing Chronosphere resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://chronosphere.io",
+  "download_filename": "pulumi_chronosphere-0.9.10.tar.gz",
+  "download_time": "2025-10-23T22:53:22.893597",
+  "package_url": "https://pypi.org/project/pulumi-chronosphere/"
+}

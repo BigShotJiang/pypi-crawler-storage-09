@@ -1,0 +1,11 @@
+{
+  "name": "simple-file-settings",
+  "version": "0.1.7",
+  "summary": "Easily load and save simple configuration data to and from disk through a type-checked data class.",
+  "author": "Nathan Vaughn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_file_settings-0.1.7.tar.gz",
+  "download_time": "2025-10-23T22:53:11.916198",
+  "package_url": "https://pypi.org/project/simple-file-settings/"
+}
