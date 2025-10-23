@@ -1,11 +1,11 @@
 {
   "name": "crow-kit",
-  "version": "0.0.0",
-  "summary": null,
-  "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "crow_kit-0.0.0.tar.gz",
-  "download_time": "2025-10-23T20:42:11.853706",
+  "version": "0.1.0",
+  "summary": "A lightweight Python toolkit for wrapper generation and data extraction (CroW framework).",
+  "author": "Kallol Naha",
+  "license": "MIT",
+  "home_page": "https://github.com/hmjamil/CroW/crow-kit",
+  "download_filename": "crow_kit-0.1.0.tar.gz",
+  "download_time": "2025-10-23T21:29:06.020446",
   "package_url": "https://pypi.org/project/crow-kit/"
 }

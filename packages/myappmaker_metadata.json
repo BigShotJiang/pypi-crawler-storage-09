@@ -1,0 +1,11 @@
+{
+  "name": "myappmaker",
+  "version": "0.3.0",
+  "summary": "Visual desktop app builder for non-techical and technical users",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "myappmaker-0.3.0.tar.gz",
+  "download_time": "2025-10-23T21:29:11.801967",
+  "package_url": "https://pypi.org/project/myappmaker/"
+}

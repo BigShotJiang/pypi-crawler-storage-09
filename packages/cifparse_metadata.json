@@ -1,0 +1,11 @@
+{
+  "name": "cifparse",
+  "version": "2.0.8",
+  "summary": "A python parser for the FAA CIFP",
+  "author": "misterrodg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cifparse-2.0.8.tar.gz",
+  "download_time": "2025-10-23T21:29:25.606575",
+  "package_url": "https://pypi.org/project/cifparse/"
+}

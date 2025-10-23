@@ -1,0 +1,11 @@
+{
+  "name": "sgevalviz",
+  "version": "0.2.0",
+  "summary": "An improved version of sgeval with visualization and statistical analysis tools for GTFS bioinformatics data.",
+  "author": "Vinícius Araújo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sgevalviz-0.2.0.tar.gz",
+  "download_time": "2025-10-23T21:29:22.893005",
+  "package_url": "https://pypi.org/project/sgevalviz/"
+}

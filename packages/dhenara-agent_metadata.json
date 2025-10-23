@@ -1,0 +1,11 @@
+{
+  "name": "dhenara-agent",
+  "version": "0.3.1",
+  "summary": "Dhenara Agent DSL (DAD) Framework SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dhenara_agent-0.3.1.tar.gz",
+  "download_time": "2025-10-23T21:29:07.599773",
+  "package_url": "https://pypi.org/project/dhenara-agent/"
+}
