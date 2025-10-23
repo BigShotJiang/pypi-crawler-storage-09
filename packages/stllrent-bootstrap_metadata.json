@@ -1,11 +1,11 @@
 {
   "name": "stllrent-bootstrap",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "Comprehensive Python module designed to standardize and accelerate the development of responsive Flask APIs that leverage Celery for asynchronous workload processing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stllrent_bootstrap-1.1.4.tar.gz",
-  "download_time": "2025-10-23T14:57:18.033484",
+  "download_filename": "stllrent_bootstrap-1.1.5.tar.gz",
+  "download_time": "2025-10-23T17:34:53.410141",
   "package_url": "https://pypi.org/project/stllrent-bootstrap/"
 }

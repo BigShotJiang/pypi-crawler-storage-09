@@ -1,11 +1,11 @@
 {
   "name": "retire-coal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A data-driven approach to strategizing US coal plant retirement using network analysis and contextual vulnerabilities.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "retire_coal-0.1.0.tar.gz",
-  "download_time": "2025-10-23T12:36:03.961057",
+  "download_filename": "retire_coal-0.1.1.tar.gz",
+  "download_time": "2025-10-23T17:35:24.469307",
   "package_url": "https://pypi.org/project/retire-coal/"
 }
