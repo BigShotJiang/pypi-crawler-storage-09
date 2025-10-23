@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-23T07:18:51.919841
-- **Total Packages**: 87
-- **Total Size**: 30.61 MB
+- **Download Time**: 2025-10-23T07:34:57.669736
+- **Total Packages**: 91
+- **Total Size**: 29.4 MB
 
 ## Packages List
+- zvamz
+- dektools
+- pulumi-azure
+- couchbase-infrastructure
+- sun-agent-toolkit
+- omniopt2
+- Products.PloneMeeting
+- koyeb-sdk
+- with-argparse
+- dcclib-cli
+- knowrithm-py
+- py-pcapplusplus
+- match-predicting-ann-server-pub-api
+- vscode-copilot-controller
+- databae
+- UtilityLibAPI
+- modusa
+- feldera
+- dcclib
+- mistral-haystack
+- huojiweiguoba
+- imagedata-registration
+- candlesdk
+- pytest-depper
+- colboost
+- isa-common
+- gdsfactoryplus
+- dahitiapi
+- netra-zen
+- dataverse-sdk
+- bosa-server-plugins-binary
+- aorta-sirius-dev
+- manticoresearch
+- metadata-crawler
+- robotframework-doctestlibrary
+- the-keyspy
+- hui2
+- nomad-tajine-plugin
+- scikit-robot
+- pillow-mbm
+- match-predicting-pub-api
+- roboto
+- nucliadb-admin-assets
+- nexus-ai-fs
+- moai-adk
+- odoo-addon-account-payment-widget-amount
+- langchain-mcp-registry
+- neemuds
+- meshtagsplot
 - ipasnmatcher
 - sqlor
 - apppy-env
@@ -16,7 +65,6 @@
 - apppy-db
 - apppy-aws
 - pytest-kubernetes
-- knowrithm-py
 - apppy-fs
 - apppy-sb
 - apppy-queues
@@ -28,17 +76,14 @@
 - alluxiofs
 - apppy-fastql
 - minio-flask-cache
-- match-predicting-pub-api
 - fc-code-interpreter-mcp-server
 - openubmc-bingo
 - dc43-contracts-app
 - dc43-integrations
 - dc43-service-backends
 - dc43-service-clients
-- databae
 - dc43
 - checkov
-- huojiweiguoba
 - sbase
 - basecase
 - trame-slicer
@@ -52,44 +97,3 @@
 - MeUtils
 - torappu-excel
 - seleniumbase
-- IBB-Helper
-- mediaflowvideo
-- odoo-addon-l10n-es-aeat-mod303-oss
-- llmling-models
-- agnitra
-- caoyizhen_basetool
-- defeatbeta-api
-- tigramite
-- yta-editor-nodes
-- tf-models-nightly
-- quillmark
-- datajunction
-- pulumi-rancher2
-- datajunction-reflection
-- datajunction-query
-- datajunction-server
-- AIEmailAutomationUtility
-- netra-zen
-- orq-ai-sdk
-- gimfu
-- proplate
-- passuth
-- slidegeist
-- esspolarization
-- dbt-artifacts-parser
-- codicent-cli
-- aorta-sirius-dev
-- django-cfg
-- scriptx
-- XMWAI
-- kungfu-api
-- bpmn2neo
-- jdcat
-- mxcubecore
-- poly-query-mcp
-- gllm-core-binary
-- mySQLDBCtrlAPI
-- flamo
-- victron-mqtt
-- zyt-dataset-down
-- roboto

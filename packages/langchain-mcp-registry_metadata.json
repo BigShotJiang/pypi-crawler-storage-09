@@ -1,11 +1,11 @@
 {
   "name": "langchain-mcp-registry",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Seamlessly integrate MCP Registry servers into your LangChain workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_mcp_registry-0.1.1.tar.gz",
-  "download_time": "2025-10-23T03:52:51.495674",
+  "download_filename": "langchain_mcp_registry-0.1.2.tar.gz",
+  "download_time": "2025-10-23T07:34:33.928940",
   "package_url": "https://pypi.org/project/langchain-mcp-registry/"
 }

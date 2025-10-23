@@ -1,11 +1,11 @@
 {
   "name": "the-keyspy",
-  "version": "0.0.23",
+  "version": "0.0.24",
   "summary": "The Keys Api",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "the_keyspy-0.0.23.tar.gz",
-  "download_time": "2025-10-22T21:31:36.753592",
+  "download_filename": "the_keyspy-0.0.24.tar.gz",
+  "download_time": "2025-10-23T07:34:27.986023",
   "package_url": "https://pypi.org/project/the-keyspy/"
 }

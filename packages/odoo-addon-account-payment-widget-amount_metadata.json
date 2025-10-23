@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-payment-widget-amount",
+  "version": "18.0.1.0.0.2",
+  "summary": "Extends the payment widget to be able to choose the payment amount",
+  "author": "ForgeFlow S.L., OERP Canada, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo_addon_account_payment_widget_amount-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-23T07:34:33.392669",
+  "package_url": "https://pypi.org/project/odoo-addon-account-payment-widget-amount/"
+}

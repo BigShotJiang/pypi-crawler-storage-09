@@ -1,11 +1,11 @@
 {
   "name": "databae",
-  "version": "0.1.4.9",
+  "version": "0.1.4.10",
   "summary": "DATabase ABstraction lAyEr",
   "author": "Mario Balibrera",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "databae-0.1.4.9-py3-none-any.whl",
-  "download_time": "2025-10-23T07:18:19.288529",
+  "download_filename": "databae-0.1.4.10-py3-none-any.whl",
+  "download_time": "2025-10-23T07:34:16.428865",
   "package_url": "https://pypi.org/project/databae/"
 }
