@@ -1,11 +1,11 @@
 {
   "name": "gradio-canvaworkflow",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A custom component to build flows and graphs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gradio_canvaworkflow-0.0.1.tar.gz",
-  "download_time": "2025-10-23T10:45:49.840832",
+  "download_filename": "gradio_canvaworkflow-0.0.2.tar.gz",
+  "download_time": "2025-10-23T15:52:53.872463",
   "package_url": "https://pypi.org/project/gradio-canvaworkflow/"
 }

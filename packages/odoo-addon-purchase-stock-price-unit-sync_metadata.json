@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-stock-price-unit-sync",
+  "version": "18.0.1.0.0.2",
+  "summary": "Update cost price in stock moves already done",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_stock_price_unit_sync-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-23T15:53:00.091461",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-stock-price-unit-sync/"
+}

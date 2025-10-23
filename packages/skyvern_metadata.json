@@ -1,11 +1,11 @@
 {
   "name": "skyvern",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skyvern-0.2.17.tar.gz",
-  "download_time": "2025-10-16T18:54:27.125578",
+  "download_filename": "skyvern-0.2.18.tar.gz",
+  "download_time": "2025-10-23T15:53:13.453246",
   "package_url": "https://pypi.org/project/skyvern/"
 }

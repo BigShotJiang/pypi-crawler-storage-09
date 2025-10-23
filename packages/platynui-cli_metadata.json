@@ -1,11 +1,11 @@
 {
   "name": "platynui-cli",
-  "version": "0.12.0.dev3",
+  "version": "0.12.0.dev5",
   "summary": "CLI for Robot Framework PlatynUI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "platynui_cli-0.12.0.dev3-py3-none-win_amd64.whl",
-  "download_time": "2025-10-23T12:36:11.261380",
+  "download_filename": "platynui_cli-0.12.0.dev5-py3-none-win_amd64.whl",
+  "download_time": "2025-10-23T15:52:42.035361",
   "package_url": "https://pypi.org/project/platynui-cli/"
 }

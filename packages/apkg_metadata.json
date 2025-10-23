@@ -1,0 +1,11 @@
+{
+  "name": "apkg",
+  "version": "0.7.1",
+  "summary": "cross-distro upstream packaging automation tool",
+  "author": "Jakub Ružicka",
+  "license": "MIT",
+  "home_page": "https://gitlab.nic.cz/packaging/apkg",
+  "download_filename": "apkg-0.7.1.tar.gz",
+  "download_time": "2025-10-23T15:52:26.937567",
+  "package_url": "https://pypi.org/project/apkg/"
+}

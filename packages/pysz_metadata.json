@@ -1,11 +1,11 @@
 {
   "name": "pysz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python interface for SZ3: An error-bounded lossy compressor for scientific data",
   "author": "SZ3 Team",
-  "license": null,
+  "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "pysz-1.0.1.tar.gz",
-  "download_time": "2025-10-21T22:17:01.415114",
+  "download_filename": "pysz-1.0.2.tar.gz",
+  "download_time": "2025-10-23T15:53:05.267075",
   "package_url": "https://pypi.org/project/pysz/"
 }

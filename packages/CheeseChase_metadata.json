@@ -1,0 +1,11 @@
+{
+  "name": "CheeseChase",
+  "version": "1.8.4",
+  "summary": "Cheese-Chase is a modern remake of the classic arcade game Pac-Man, reimagined in the world of Tom & Jerry.",
+  "author": "Francesca Folli, Gaia Bellachioma, Asia Zanotti",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/aequitas-aod/my_project",
+  "download_filename": "cheesechase-1.8.4.tar.gz",
+  "download_time": "2025-10-23T15:52:42.547870",
+  "package_url": "https://pypi.org/project/CheeseChase/"
+}
