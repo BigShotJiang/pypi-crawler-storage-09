@@ -1,15 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-23T11:43:05.270919
-- **Total Packages**: 79
-- **Total Size**: 31.97 MB
+- **Download Time**: 2025-10-23T11:53:18.135133
+- **Total Packages**: 75
+- **Total Size**: 4.2 MB
 
 ## Packages List
+- ipfabric_netbox
+- py-adtools
+- sarvam-conv-ai-sdk
+- oarepo-vocabularies
+- cost-katana
+- assisted-service-client
+- dataprof
+- orq-ai-sdk
+- odoo-addon-pos-product-packaging-container-deposit
+- mkdocs-addresses
+- whalevad
+- petharbor
+- UnitMatchPy
+- omniopt2
+- PypAssist
+- concave-sandbox
+- cb-bsdl-parser
+- fastpluggy-redis
+- upplib
+- seconohe
+- witrnhid
+- youtu-agent
+- datedict
+- iesopt
+- odoo-addon-pos-partner-no-create
+- vip-hci
+- pgvector-azure-openai-mcp-server
+- tencent-wedata-feature-engineering
+- riot-na
 - Whispey
 - ramanchada2
 - webjeux-flash-downloader
-- petharbor
 - ida-settings
 - mappy-python
 - gcc-slycooper50
@@ -22,13 +50,10 @@
 - Cirilla
 - mercuryclient
 - praval
-- pgvector-azure-openai-mcp-server
 - invoke-toolkit
 - eval-ai-library
 - codemie-tools
 - astro-nest
-- tencent-wedata-feature-engineering
-- upplib
 - acconeer-exptool
 - micrologai
 - seu-3d
@@ -45,7 +70,6 @@
 - msserviceprofiler
 - gooddata-api-client
 - gooddata-dbt
-- cb-bsdl-parser
 - gooddata-pipelines
 - gooddata-fdw
 - gooddata-sdk
@@ -57,31 +81,3 @@
 - mimerpy
 - volcengine-python-sdk
 - optimum-rbln
-- maxim-py
-- nvenn2
-- worker-automate-hub
-- grz-cli
-- grz-db
-- bloomkv
-- grzctl
-- commoncode
-- tool_call_models
-- torchft-nightly
-- OASYS1-XOPPY
-- witrnhid
-- bigTpuProfile
-- mcp-package-hero
-- testgres.postgres-configuration
-- ucrs
-- shin
-- alibabacloud-energyexpertexternal20220923
-- byteplus-python-sdk-v2
-- multi-puzzle-solver
-- firebolt-sdk
-- django-ai-core
-- byteplus-sdk
-- quest_qso
-- paramorph
-- pymport
-- assisted-service-client
-- kosong

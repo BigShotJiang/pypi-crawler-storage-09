@@ -1,11 +1,11 @@
 {
   "name": "UnitMatchPy",
-  "version": "3.2.5",
+  "version": "3.2.6",
   "summary": "Automatic matching of neurons across sessions",
   "author": "Enny van Beest, Suyash Agarwal, Wentao Qiu",
   "license": "CC BY-NC-SA 4.0 International",
   "home_page": null,
-  "download_filename": "unitmatchpy-3.2.5.tar.gz",
-  "download_time": "2025-10-23T10:45:43.750679",
+  "download_filename": "unitmatchpy-3.2.6.tar.gz",
+  "download_time": "2025-10-23T11:52:42.107538",
   "package_url": "https://pypi.org/project/UnitMatchPy/"
 }
