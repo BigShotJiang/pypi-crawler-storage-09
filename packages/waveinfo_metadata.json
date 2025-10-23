@@ -1,0 +1,11 @@
+{
+  "name": "waveinfo",
+  "version": "0.5.0",
+  "summary": "A package to read wave audio files and expose details of their contents.",
+  "author": "Bruce Cutler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "waveinfo-0.5.0.tar.gz",
+  "download_time": "2025-10-23T11:42:38.004107",
+  "package_url": "https://pypi.org/project/waveinfo/"
+}
