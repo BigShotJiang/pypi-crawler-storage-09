@@ -1,0 +1,11 @@
+{
+  "name": "pynlog",
+  "version": "0.1.0",
+  "summary": "A simple logger that prints logs to the console and to a file out of the box.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynlog-0.1.0.tar.gz",
+  "download_time": "2025-10-23T01:13:25.893351",
+  "package_url": "https://pypi.org/project/pynlog/"
+}

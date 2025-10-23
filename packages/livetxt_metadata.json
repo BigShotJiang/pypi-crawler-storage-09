@@ -1,0 +1,11 @@
+{
+  "name": "livetxt",
+  "version": "0.0.0",
+  "summary": "A Python package for live text processing",
+  "author": "nisarg38",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+  "home_page": "https://github.com/nisarg38/livetxt",
+  "download_filename": "livetxt-0.0.0.tar.gz",
+  "download_time": "2025-10-23T01:13:29.017905",
+  "package_url": "https://pypi.org/project/livetxt/"
+}

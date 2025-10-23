@@ -1,0 +1,11 @@
+{
+  "name": "lsoc",
+  "version": "0.1.4",
+  "summary": "Lite Python package that lets you view file and directory access rights with octal",
+  "author": "Alper Sakarya",
+  "license": null,
+  "home_page": "https://github.com/AlperSakarya/lsoc",
+  "download_filename": "lsoc-0.1.4.tar.gz",
+  "download_time": "2025-10-23T01:13:17.074881",
+  "package_url": "https://pypi.org/project/lsoc/"
+}

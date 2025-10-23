@@ -1,0 +1,11 @@
+{
+  "name": "rsa2026",
+  "version": "213.9",
+  "summary": "High-security encryption tool using RSA-4096 and AES-256 with anti-debug and self-destruct.",
+  "author": "IMAD 213",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsa2026-213.9.tar.gz",
+  "download_time": "2025-10-23T01:13:11.837820",
+  "package_url": "https://pypi.org/project/rsa2026/"
+}
