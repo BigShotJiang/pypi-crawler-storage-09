@@ -1,0 +1,11 @@
+{
+  "name": "url-signer-python",
+  "version": "0.4.0",
+  "summary": "IO River python library for generating URL signatures",
+  "author": "IO River",
+  "license": null,
+  "home_page": null,
+  "download_filename": "url_signer_python-0.4.0.tar.gz",
+  "download_time": "2025-10-23T09:52:44.255323",
+  "package_url": "https://pypi.org/project/url-signer-python/"
+}

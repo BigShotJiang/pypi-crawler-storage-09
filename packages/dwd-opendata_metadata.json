@@ -1,0 +1,11 @@
+{
+  "name": "dwd-opendata",
+  "version": "0.1.0",
+  "summary": "Download data from DWD's ftp server and return it as xarray DataArray",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dwd_opendata-0.1.0.tar.gz",
+  "download_time": "2025-10-23T09:52:35.946977",
+  "package_url": "https://pypi.org/project/dwd-opendata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "percolate-rem",
+  "version": "0.1.0",
+  "summary": "REM (Resources-Entities-Moments) memory system for Percolate - privacy-first personal AI infrastructure",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "percolate_rem-0.1.0.tar.gz",
+  "download_time": "2025-10-23T09:52:38.512350",
+  "package_url": "https://pypi.org/project/percolate-rem/"
+}

@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-23T09:44:15.994277
-- **Total Packages**: 90
-- **Total Size**: 28.73 MB
+- **Download Time**: 2025-10-23T09:53:20.333854
+- **Total Packages**: 88
+- **Total Size**: 25.04 MB
 
 ## Packages List
+- aixtools
+- gnosari-realtime
+- pybmesh
+- dwd-opendata
+- selfw
+- iflow-mcp_sketchup-mcp
+- yirgacheffe
+- polytope-python
+- percolate-rem
+- pyeasyphd
+- pulumi-aws
+- rosdomofon
+- inset
+- workflows-mcp
+- pysaten
+- tool_call_models
+- uiautodev
+- ggscout
+- url-signer-python
+- odoo-addon-l10n-es-atc-mod420
+- unique_toolkit
+- agentsphere-python-cli
+- experiment-utils-pd
+- maas-task-backoff-framework
+- work-utils-zxj
 - gcspy
 - human-protocol-sdk
 - ucrs
@@ -52,8 +77,6 @@
 - nutpie
 - pytest-describe
 - napari-psfgenerator
-- gnosari-realtime
-- maas-task-backoff-framework
 - holcstore
 - bluer-sandbox
 - hutb
@@ -64,35 +87,10 @@
 - ruft-lib
 - pybibtexer
 - redditadmin
-- iflow-mcp_sketchup-mcp
 - cgmes2pgm-suite
 - cgmes2pgm-converter
 - salutator
 - C2Percentiles
-- selfw
 - cinder
 - nvidia-haystack
 - python3-ssh
-- odoo-addon-stock-partner-delivery-window
-- zvamz
-- ironic
-- nomad-tajine-plugin
-- mjcf-urdf-simple-converter
-- vibego
-- flask-typed-routes
-- transpiler-mate
-- bifrost
-- symclosestwannier
-- agent-reminiscence
-- bc-stark-sdk
-- apify
-- ironic-python-agent
-- outputdecorator
-- semanticfed-sdk
-- pyeasyphd
-- pommes-craft
-- pdfcrowd
-- get-external-data2
-- t2d2-sdk
-- django-tag-me
-- diglife
