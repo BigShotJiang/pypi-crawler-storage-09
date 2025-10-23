@@ -1,11 +1,11 @@
 {
   "name": "lium-sdk",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "A Python SDK for Lium API.",
   "author": "Waris Ali",
   "license": null,
   "home_page": null,
-  "download_filename": "lium_sdk-0.2.10.tar.gz",
-  "download_time": "2025-10-21T10:18:44.462343",
+  "download_filename": "lium_sdk-0.2.11.tar.gz",
+  "download_time": "2025-10-23T11:16:36.612525",
   "package_url": "https://pypi.org/project/lium-sdk/"
 }

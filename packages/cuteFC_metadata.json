@@ -1,0 +1,11 @@
+{
+  "name": "cuteFC",
+  "version": "1.0.2",
+  "summary": "Regenotyping structural variants through an accurate and efficient force-calling method",
+  "author": "Jiang Tao & Cao Shuqi",
+  "license": "MIT",
+  "home_page": "https://github.com/Meltpinkg/cuteFC",
+  "download_filename": "cuteFC-1.0.2.tar.gz",
+  "download_time": "2025-10-23T11:16:48.786597",
+  "package_url": "https://pypi.org/project/cuteFC/"
+}

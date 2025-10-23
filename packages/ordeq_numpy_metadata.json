@@ -1,0 +1,11 @@
+{
+  "name": "ordeq_numpy",
+  "version": "1.0.1",
+  "summary": "NumPy integration for Ordeq",
+  "author": "Niels Neerhoff, Simon Brugman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ordeq_numpy-1.0.1.tar.gz",
+  "download_time": "2025-10-23T11:16:52.423159",
+  "package_url": "https://pypi.org/project/ordeq_numpy/"
+}

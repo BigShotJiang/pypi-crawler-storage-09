@@ -1,0 +1,11 @@
+{
+  "name": "fryte-packages",
+  "version": "0.1.1",
+  "summary": "A Python package for authentication using JWT, password, and API key methods",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fryte_packages-0.1.1.tar.gz",
+  "download_time": "2025-10-23T11:16:21.172436",
+  "package_url": "https://pypi.org/project/fryte-packages/"
+}

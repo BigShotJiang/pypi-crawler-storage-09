@@ -1,0 +1,11 @@
+{
+  "name": "israel-rail-api",
+  "version": "0.1.4",
+  "summary": "Israeli Rail unofficial API",
+  "author": "sh0oki",
+  "license": "MIT",
+  "home_page": "https://github.com/sh0oki/israel-rail-api",
+  "download_filename": "israel_rail_api-0.1.4.tar.gz",
+  "download_time": "2025-10-23T11:16:27.655583",
+  "package_url": "https://pypi.org/project/israel-rail-api/"
+}

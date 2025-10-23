@@ -1,11 +1,11 @@
 {
   "name": "code-intelligence",
-  "version": "4.1.0",
+  "version": "4.3.1",
   "summary": "Code intelligence library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "code_intelligence-4.1.0-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2025-10-21T06:29:56.531231",
+  "download_filename": "code_intelligence-4.3.1-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-23T11:16:41.909247",
   "package_url": "https://pypi.org/project/code-intelligence/"
 }
