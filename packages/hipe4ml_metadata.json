@@ -1,0 +1,11 @@
+{
+  "name": "hipe4ml",
+  "version": "0.0.21",
+  "summary": "Minimal heavy ion physics environment for Machine Learning",
+  "author": "hipe4ml-developers",
+  "license": "GPL",
+  "home_page": "https://github.com/hipe4ml/hipe4ml",
+  "download_filename": "hipe4ml-0.0.21.tar.gz",
+  "download_time": "2025-10-23T08:24:09.953938",
+  "package_url": "https://pypi.org/project/hipe4ml/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pygridmappr",
+  "version": "0.1.1",
+  "summary": "Python implementation of R package gridmappr for automated gridmap layout generation",
+  "author": "Python port of gridmappr by Roger Beecham",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://github.com/tmfnk/pygridmappr",
+  "download_filename": "pygridmappr-0.1.1.tar.gz",
+  "download_time": "2025-10-23T08:24:33.173083",
+  "package_url": "https://pypi.org/project/pygridmappr/"
+}

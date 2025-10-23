@@ -1,11 +1,11 @@
 {
   "name": "mars-time-utils",
-  "version": "0.1.5",
-  "summary": "Outils pour la conversion du temps martien (Mars24, Piqueux, SolCal...)",
+  "version": "0.1.10",
+  "summary": "Utilities for converting Martian time (Mars24, Piqueux, SolCal...)",
   "author": "Paneureka",
   "license": null,
   "home_page": null,
-  "download_filename": "mars_time_utils-0.1.5.tar.gz",
-  "download_time": "2025-10-22T16:50:48.347220",
+  "download_filename": "mars_time_utils-0.1.10.tar.gz",
+  "download_time": "2025-10-23T08:24:46.485497",
   "package_url": "https://pypi.org/project/mars-time-utils/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "minio-flask-cache",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A custom cache backend for Flask-Caching based on Minio. Usable for applications like Superset as a cache backend out of the box.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "minio_flask_cache-0.0.2.tar.gz",
-  "download_time": "2025-10-23T07:18:15.103491",
+  "download_filename": "minio_flask_cache-0.0.3.tar.gz",
+  "download_time": "2025-10-23T08:24:13.737567",
   "package_url": "https://pypi.org/project/minio-flask-cache/"
 }
