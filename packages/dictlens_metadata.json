@@ -1,0 +1,11 @@
+{
+  "name": "dictlens",
+  "version": "0.1.4",
+  "summary": "A lightweight library to compare JSON, dicts, dataclasses, and Pydantic models with tolerance and ignore rules.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "dictlens-0.1.4.tar.gz",
+  "download_time": "2025-10-23T19:17:11.565935",
+  "package_url": "https://pypi.org/project/dictlens/"
+}

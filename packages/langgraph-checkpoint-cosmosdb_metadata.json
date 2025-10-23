@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-checkpoint-cosmosdb",
+  "version": "0.2.5",
+  "summary": "Azure CosmosDB checkpoint saver implementation for LangGraph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langgraph_checkpoint_cosmosdb-0.2.5.tar.gz",
+  "download_time": "2025-10-23T19:17:02.675309",
+  "package_url": "https://pypi.org/project/langgraph-checkpoint-cosmosdb/"
+}

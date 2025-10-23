@@ -1,0 +1,11 @@
+{
+  "name": "netjsonconfig",
+  "version": "1.2",
+  "summary": "Netjsonconfig is a python library that converts NetJSON DeviceConfiguration objects into real router configurations that can be installed on systems like OpenWRT or OpenWisp Firmware.",
+  "author": "OpenWISP",
+  "license": "GPL3",
+  "home_page": "http://netjsonconfig.openwisp.org",
+  "download_filename": "netjsonconfig-1.2.tar.gz",
+  "download_time": "2025-10-23T19:16:47.122972",
+  "package_url": "https://pypi.org/project/netjsonconfig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tmtcrunch",
+  "version": "25.10",
+  "summary": "Python utility for TMT-based proteomics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tmtcrunch-25.10.tar.gz",
+  "download_time": "2025-10-23T19:17:06.309571",
+  "package_url": "https://pypi.org/project/tmtcrunch/"
+}
