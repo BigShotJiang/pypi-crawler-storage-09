@@ -1,0 +1,11 @@
+{
+  "name": "im333rsa",
+  "version": "213.0",
+  "summary": "High-security encryption tool using RSA-4096 and AES-256 with anti-debug and self-destruct.",
+  "author": "IMAD 213",
+  "license": null,
+  "home_page": null,
+  "download_filename": "im333rsa-213.0.tar.gz",
+  "download_time": "2025-10-23T23:52:22.431129",
+  "package_url": "https://pypi.org/project/im333rsa/"
+}
