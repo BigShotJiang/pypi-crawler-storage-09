@@ -1,11 +1,11 @@
 {
   "name": "finr",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Financial stochastic processes and statistical tools",
   "author": "Raviv Herrera",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "finr-0.1.1-py3-none-any.whl",
-  "download_time": "2025-10-23T19:40:15.115254",
+  "download_filename": "finr-0.2.1.tar.gz",
+  "download_time": "2025-10-23T19:52:53.114502",
   "package_url": "https://pypi.org/project/finr/"
 }

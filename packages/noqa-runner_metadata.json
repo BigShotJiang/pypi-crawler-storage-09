@@ -1,11 +1,11 @@
 {
   "name": "noqa-runner",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "noqa runner",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "noqa_runner-0.1.4.tar.gz",
-  "download_time": "2025-10-21T10:45:21.474703",
+  "download_filename": "noqa_runner-0.1.6.tar.gz",
+  "download_time": "2025-10-23T19:52:40.634777",
   "package_url": "https://pypi.org/project/noqa-runner/"
 }

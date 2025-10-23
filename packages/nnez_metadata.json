@@ -1,0 +1,11 @@
+{
+  "name": "nnez",
+  "version": "0.1.2",
+  "summary": "Neural Network Easy Extraction - Simple LLM activation extraction in one line",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/nnez",
+  "download_filename": "nnez-0.1.2.tar.gz",
+  "download_time": "2025-10-23T19:52:46.368284",
+  "package_url": "https://pypi.org/project/nnez/"
+}

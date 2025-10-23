@@ -1,0 +1,11 @@
+{
+  "name": "UnderAutomation.Yaskawa",
+  "version": "1.3.0.0",
+  "summary": "Quickly create applications that communicate with your Yaskawa robots",
+  "author": "UnderAutomation",
+  "license": null,
+  "home_page": "https://underautomation.com/yaskawa",
+  "download_filename": "underautomation_yaskawa-1.3.0.0.tar.gz",
+  "download_time": "2025-10-23T19:52:39.089692",
+  "package_url": "https://pypi.org/project/UnderAutomation.Yaskawa/"
+}

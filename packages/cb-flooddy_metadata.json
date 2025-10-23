@@ -1,0 +1,11 @@
+{
+  "name": "cb-flooddy",
+  "version": "0.4.0",
+  "summary": "A cluster-based temporal attention approach for predicting cyclone-induced compound flood dynamics",
+  "author": "Samuel Daramola",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cb_flooddy-0.4.0.tar.gz",
+  "download_time": "2025-10-23T19:52:53.627178",
+  "package_url": "https://pypi.org/project/cb-flooddy/"
+}

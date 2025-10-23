@@ -1,11 +1,11 @@
 {
   "name": "fusion-tools",
-  "version": "3.6.37",
+  "version": "3.6.39",
   "summary": "Modular visualization and analysis dashboard creation for high-resolution microscopy images.",
   "author": "Sam Border",
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "fusion_tools-3.6.37.tar.gz",
-  "download_time": "2025-10-21T20:20:30.086795",
+  "download_filename": "fusion_tools-3.6.39.tar.gz",
+  "download_time": "2025-10-23T19:52:43.211305",
   "package_url": "https://pypi.org/project/fusion-tools/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cgse-tools",
-  "version": "0.16.12",
+  "version": "0.16.13",
   "summary": "Tools for CGSE",
   "author": "IvS KU Leuven",
   "license": null,
   "home_page": null,
-  "download_filename": "cgse_tools-0.16.12.tar.gz",
-  "download_time": "2025-10-21T15:52:37.920904",
+  "download_filename": "cgse_tools-0.16.13.tar.gz",
+  "download_time": "2025-10-23T19:52:59.889706",
   "package_url": "https://pypi.org/project/cgse-tools/"
 }
