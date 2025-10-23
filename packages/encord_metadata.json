@@ -1,11 +1,11 @@
 {
   "name": "encord",
-  "version": "0.1.178",
+  "version": "0.1.179",
   "summary": "Encord Python SDK Client",
   "author": null,
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "encord-0.1.178.tar.gz",
-  "download_time": "2025-10-22T16:23:44.735909",
+  "download_filename": "encord-0.1.179.tar.gz",
+  "download_time": "2025-10-23T10:54:46.132059",
   "package_url": "https://pypi.org/project/encord/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-astradb",
+  "version": "1.0.0",
+  "summary": "An integration package connecting Astra DB and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_astradb-1.0.0.tar.gz",
+  "download_time": "2025-10-23T10:54:56.011432",
+  "package_url": "https://pypi.org/project/langchain-astradb/"
+}

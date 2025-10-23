@@ -1,0 +1,11 @@
+{
+  "name": "chonky",
+  "version": "0.1.7",
+  "summary": "Chonky is a Python library that intelligently segments text into meaningful semantic chunks using a fine-tuned transformer model.",
+  "author": "mirth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chonky-0.1.7.tar.gz",
+  "download_time": "2025-10-23T10:54:32.256341",
+  "package_url": "https://pypi.org/project/chonky/"
+}

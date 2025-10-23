@@ -1,0 +1,11 @@
+{
+  "name": "arch-ops-server",
+  "version": "0.1.0",
+  "summary": "MCP server bridging AI assistants with Arch Linux ecosystem (Wiki, AUR, official repos)",
+  "author": "Nihal",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "arch_ops_server-0.1.0.tar.gz",
+  "download_time": "2025-10-23T10:55:20.741951",
+  "package_url": "https://pypi.org/project/arch-ops-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastcodedog",
-  "version": "3.0.38",
+  "version": "3.0.39",
   "summary": null,
   "author": "taohoo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastcodedog-3.0.38.tar.gz",
-  "download_time": "2025-10-23T06:52:59.031185",
+  "download_filename": "fastcodedog-3.0.39.tar.gz",
+  "download_time": "2025-10-23T10:54:41.308631",
   "package_url": "https://pypi.org/project/fastcodedog/"
 }
