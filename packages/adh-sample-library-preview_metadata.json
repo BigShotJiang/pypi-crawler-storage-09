@@ -1,0 +1,11 @@
+{
+  "name": "adh-sample-library-preview",
+  "version": "0.10.19rc0",
+  "summary": "A preview of an ADH (Aveva Data Hub) client library",
+  "author": "OSIsoft",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/aveva/sample-adh-sample_libraries-python",
+  "download_filename": "adh_sample_library_preview-0.10.19rc0.tar.gz",
+  "download_time": "2025-10-23T21:52:57.537573",
+  "package_url": "https://pypi.org/project/adh-sample-library-preview/"
+}

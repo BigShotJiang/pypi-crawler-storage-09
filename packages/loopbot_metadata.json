@@ -1,0 +1,11 @@
+{
+  "name": "loopbot",
+  "version": "0.0.0.dev0",
+  "summary": "Python SDK wrapper for the OpenCode AI coding agent.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loopbot-0.0.0.dev0.tar.gz",
+  "download_time": "2025-10-23T21:52:58.582397",
+  "package_url": "https://pypi.org/project/loopbot/"
+}

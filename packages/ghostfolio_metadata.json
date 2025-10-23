@@ -1,0 +1,11 @@
+{
+  "name": "ghostfolio",
+  "version": "0.8.0",
+  "summary": "Python API client for Ghostfolio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghostfolio-0.8.0.tar.gz",
+  "download_time": "2025-10-23T21:52:43.011654",
+  "package_url": "https://pypi.org/project/ghostfolio/"
+}

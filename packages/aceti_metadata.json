@@ -1,11 +1,11 @@
 {
   "name": "aceti",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A simple package to store and create maps for an experiment",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aceti-1.0.0.tar.gz",
-  "download_time": "2025-10-23T21:29:10.733153",
+  "download_filename": "aceti-1.0.1.tar.gz",
+  "download_time": "2025-10-23T21:53:08.545684",
   "package_url": "https://pypi.org/project/aceti/"
 }

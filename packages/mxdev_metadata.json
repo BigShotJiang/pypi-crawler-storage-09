@@ -1,11 +1,11 @@
 {
   "name": "mxdev",
-  "version": "5.0.0",
+  "version": "5.0.2",
   "summary": "Enable to work with Python projects containing lots of packages, of which you only want to develop some.",
   "author": null,
   "license": "BSD 2-Clause License",
   "home_page": null,
-  "download_filename": "mxdev-5.0.0.tar.gz",
-  "download_time": "2025-10-22T16:23:24.214783",
+  "download_filename": "mxdev-5.0.2.tar.gz",
+  "download_time": "2025-10-23T21:52:44.039992",
   "package_url": "https://pypi.org/project/mxdev/"
 }
