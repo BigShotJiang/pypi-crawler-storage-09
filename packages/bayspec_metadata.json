@@ -1,0 +1,11 @@
+{
+  "name": "bayspec",
+  "version": "0.2.1",
+  "summary": "Astronomical spectrum fitting tool",
+  "author": "Jun Yang",
+  "license": "GPLv3",
+  "home_page": "https://github.com/jyangch/bayspec",
+  "download_filename": "bayspec-0.2.1.tar.gz",
+  "download_time": "2025-10-23T10:20:34.233672",
+  "package_url": "https://pypi.org/project/bayspec/"
+}

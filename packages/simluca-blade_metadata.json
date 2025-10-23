@@ -1,11 +1,11 @@
 {
   "name": "simluca-blade",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Xiaoyu's Package of SynLUCA Simulator, named after Blade, the KamenRider.",
   "author": "Xiaoyu Wu",
   "license": "MIT",
   "home_page": "https://github.com/BioProgramming-Lab/SimLUCA_Blade",
-  "download_filename": "simluca_blade-0.1.2.tar.gz",
-  "download_time": "2025-10-23T09:43:29.575272",
+  "download_filename": "simluca_blade-0.1.3.tar.gz",
+  "download_time": "2025-10-23T10:20:26.979986",
   "package_url": "https://pypi.org/project/simluca-blade/"
 }

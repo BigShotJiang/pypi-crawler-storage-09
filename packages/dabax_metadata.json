@@ -1,0 +1,11 @@
+{
+  "name": "dabax",
+  "version": "1.0.10",
+  "summary": "python access to DABAX files",
+  "author": "M Sanchez del Rio",
+  "license": null,
+  "home_page": "https://github.com/oasys-kit/dabax/",
+  "download_filename": "dabax-1.0.10.tar.gz",
+  "download_time": "2025-10-23T10:20:09.870850",
+  "package_url": "https://pypi.org/project/dabax/"
+}

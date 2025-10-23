@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-ro-stock-picking-valued-report",
+  "version": "18.0.0.5.0",
+  "summary": "Romania - Stock Picking Valued Report",
+  "author": "NextERP Romania,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-romania",
+  "download_filename": "odoo_addon_l10n_ro_stock_picking_valued_report-18.0.0.5.0-py3-none-any.whl",
+  "download_time": "2025-10-23T10:20:05.224095",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-ro-stock-picking-valued-report/"
+}

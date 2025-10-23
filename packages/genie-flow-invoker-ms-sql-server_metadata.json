@@ -1,0 +1,11 @@
+{
+  "name": "genie-flow-invoker-ms-sql-server",
+  "version": "0.7.0a1",
+  "summary": "Genie Flow Invoker MS SQL Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genie_flow_invoker_ms_sql_server-0.7.0a1.tar.gz",
+  "download_time": "2025-10-23T10:20:01.289838",
+  "package_url": "https://pypi.org/project/genie-flow-invoker-ms-sql-server/"
+}
