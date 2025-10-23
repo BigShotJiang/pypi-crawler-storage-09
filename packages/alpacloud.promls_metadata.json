@@ -1,0 +1,11 @@
+{
+  "name": "alpacloud.promls",
+  "version": "0.1.0",
+  "summary": "A visualiser for available Prometheus metrics",
+  "author": "Daniel Goldman",
+  "license": "Round Robin 2.0.0",
+  "home_page": null,
+  "download_filename": "alpacloud_promls-0.1.0.tar.gz",
+  "download_time": "2025-10-23T04:53:41.487942",
+  "package_url": "https://pypi.org/project/alpacloud.promls/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "magneticalc",
-  "version": "1.16.4",
+  "version": "1.17.0",
   "summary": null,
   "author": "Paul Wilhelm",
   "license": null,
   "home_page": null,
-  "download_filename": "magneticalc-1.16.4.tar.gz",
-  "download_time": "2025-10-23T04:44:43.643936",
+  "download_filename": "magneticalc-1.17.0.tar.gz",
+  "download_time": "2025-10-23T04:53:40.451390",
   "package_url": "https://pypi.org/project/magneticalc/"
 }

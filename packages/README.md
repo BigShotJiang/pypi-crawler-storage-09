@@ -1,17 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-23T04:45:24.718075
+- **Download Time**: 2025-10-23T04:54:16.483494
 - **Total Packages**: 81
-- **Total Size**: 18.76 MB
+- **Total Size**: 10.38 MB
 
 ## Packages List
+- microvector
+- user-scanner
+- eclips-blossom-ai
+- pycorelibs
+- openmetadata-managed-apis
+- bing-flights-mcp
+- artefacts-copava
+- kivera-sdk
+- spyglass-mcp
+- tahoex
+- origami-ml
+- rltools
+- zzignal
+- magneticalc
+- mcp-generate-mind
+- alpacloud.promls
+- pixel-font-builder
+- aigroup-quant-mcp
+- iamdata
+- mapillary-downloader
+- gitlab-api
+- jdcat
 - nltkbleu
 - netra-zen
 - morai
 - dojo-sdk-core
 - decorative-secrets
-- magneticalc
 - django-cfg
 - scriptx
 - llamaindex-cloud-fern-test
@@ -19,13 +40,11 @@
 - sentry-kafka-schemas
 - mtpk-mariadb
 - timeline-kun
-- zzignal
 - archiver_client
 - openinference-instrumentation-agno
 - plex-generate-previews
 - maruadmin-agent
 - flux-local
-- tahoex
 - perdream-weather-mcp
 - noventis
 - remote-read-sql
@@ -35,14 +54,12 @@
 - screamrouter
 - openatlas
 - boabem
-- gitlab-api
 - memobj
 - maleo-metadata
 - django-server-controller
 - hyperquant
 - mcp-ticketer
 - konigle
-- user-scanner
 - srpc
 - keras-nlp-nightly
 - keras-hub-nightly
@@ -70,20 +87,3 @@
 - garth-mcp-server
 - vibego
 - chromedriver-binary
-- rand-engine
-- autogit
-- scriptmark
-- guispark
-- odoo-addon-stock-partner-delivery-window
-- portacode
-- otlmow-model
-- SURE-tools
-- markdowncleaner
-- maticlib
-- ifs-ecs-logger
-- repo-statistics
-- gffutilsai
-- odoo-addon-sale-stock-available-to-promise-release
-- smb2-gym
-- odoo-addon-mail-layout-force
-- cdktf-cdktf-provider-github

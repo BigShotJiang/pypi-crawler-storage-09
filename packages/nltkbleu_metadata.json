@@ -1,11 +1,11 @@
 {
   "name": "nltkbleu",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A nltk scoring and text utility module with TensorFlow and NLP tools.",
   "author": "pixelpilot24",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/nltkbleu",
-  "download_filename": "nltkbleu-0.1.1.tar.gz",
-  "download_time": "2025-10-23T04:21:31.922207",
+  "download_filename": "nltkbleu-0.1.2.tar.gz",
+  "download_time": "2025-10-23T04:53:45.288699",
   "package_url": "https://pypi.org/project/nltkbleu/"
 }
