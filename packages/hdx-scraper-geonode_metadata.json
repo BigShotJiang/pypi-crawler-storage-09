@@ -1,0 +1,11 @@
+{
+  "name": "hdx-scraper-geonode",
+  "version": "1.5.6",
+  "summary": "HDX Python generic geonode scraper",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hdx_scraper_geonode-1.5.6.tar.gz",
+  "download_time": "2025-10-23T23:17:19.692280",
+  "package_url": "https://pypi.org/project/hdx-scraper-geonode/"
+}

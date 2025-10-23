@@ -1,0 +1,11 @@
+{
+  "name": "arcade-ticktick-api",
+  "version": "0.1.0",
+  "summary": "Tools that enable LLMs to interact directly with the ticktick API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcade_ticktick_api-0.1.0.tar.gz",
+  "download_time": "2025-10-23T23:16:57.308611",
+  "package_url": "https://pypi.org/project/arcade-ticktick-api/"
+}

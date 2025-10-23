@@ -1,0 +1,11 @@
+{
+  "name": "riskcal",
+  "version": "1.2.1",
+  "summary": "Compute f-DP trade-off curves and calibrate differentially private algorithms to operational privacy risk measures",
+  "author": "Bogdan Kulynych, Juan Felipe Gomez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "riskcal-1.2.1.tar.gz",
+  "download_time": "2025-10-23T23:17:17.462614",
+  "package_url": "https://pypi.org/project/riskcal/"
+}

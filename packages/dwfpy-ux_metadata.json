@@ -1,11 +1,11 @@
 {
   "name": "dwfpy-ux",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "summary": "Digilent Waveforms API facade with optional UIX",
   "author": "Sean Mendoza",
   "license": null,
   "home_page": "https://github.com/snmendoza/dwfpy-ux",
-  "download_filename": "dwfpy_ux-0.3.10.tar.gz",
-  "download_time": "2025-10-23T16:48:43.623701",
+  "download_filename": "dwfpy_ux-0.3.11.tar.gz",
+  "download_time": "2025-10-23T23:17:10.250515",
   "package_url": "https://pypi.org/project/dwfpy-ux/"
 }

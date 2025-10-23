@@ -1,0 +1,11 @@
+{
+  "name": "pierre-storage",
+  "version": "0.1.4",
+  "summary": "Pierre Git Storage SDK for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pierre_storage-0.1.4.tar.gz",
+  "download_time": "2025-10-23T23:16:49.102766",
+  "package_url": "https://pypi.org/project/pierre-storage/"
+}

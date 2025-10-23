@@ -1,0 +1,11 @@
+{
+  "name": "mce-deepeval-adapter",
+  "version": "0.1.2",
+  "summary": "DeepEval integration adapter for Metrics Computation Engine",
+  "author": "AGNTCY Telemetry Hub team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mce_deepeval_adapter-0.1.2.tar.gz",
+  "download_time": "2025-10-23T23:17:06.855829",
+  "package_url": "https://pypi.org/project/mce-deepeval-adapter/"
+}
