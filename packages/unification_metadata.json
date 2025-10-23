@@ -1,0 +1,11 @@
+{
+  "name": "unification",
+  "version": "0.3.1",
+  "summary": "Unification algorithm",
+  "author": "Matthew Rocklin",
+  "license": "BSD",
+  "home_page": "http://github.com/logpy/logpy",
+  "download_filename": "unification-0.3.1.tar.gz",
+  "download_time": "2025-10-23T13:23:43.768021",
+  "package_url": "https://pypi.org/project/unification/"
+}

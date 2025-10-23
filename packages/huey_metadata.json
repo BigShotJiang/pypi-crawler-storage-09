@@ -1,0 +1,11 @@
+{
+  "name": "huey",
+  "version": "2.5.4",
+  "summary": "huey, a little task queue",
+  "author": "Charles Leifer",
+  "license": null,
+  "home_page": "http://github.com/coleifer/huey/",
+  "download_filename": "huey-2.5.4.tar.gz",
+  "download_time": "2025-10-23T13:23:55.068752",
+  "package_url": "https://pypi.org/project/huey/"
+}

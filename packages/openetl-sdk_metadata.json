@@ -1,11 +1,11 @@
 {
   "name": "openetl-sdk",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "OpenETL backend lib with connectors.",
   "author": "Rusab Khan",
   "license": "MIT",
   "home_page": "https://dataomnisolutions.com",
-  "download_filename": "openetl_sdk-0.0.2.tar.gz",
-  "download_time": "2025-10-22T11:16:18.715971",
+  "download_filename": "openetl_sdk-0.0.4.tar.gz",
+  "download_time": "2025-10-23T13:23:11.332672",
   "package_url": "https://pypi.org/project/openetl-sdk/"
 }

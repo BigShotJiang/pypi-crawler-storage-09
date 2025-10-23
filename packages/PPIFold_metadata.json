@@ -1,0 +1,11 @@
+{
+  "name": "PPIFold",
+  "version": "1.0.6",
+  "summary": "Automatic pipeline using AlphaPulldown to predict PPI and homo-oligomer",
+  "author": "Quentin Rouger",
+  "license": "GPL-3.0 license",
+  "home_page": "https://github.com/Qrouger/PPIFold",
+  "download_filename": "ppifold-1.0.6.tar.gz",
+  "download_time": "2025-10-23T13:23:52.449130",
+  "package_url": "https://pypi.org/project/PPIFold/"
+}

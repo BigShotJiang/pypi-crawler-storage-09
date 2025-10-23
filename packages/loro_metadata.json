@@ -1,0 +1,11 @@
+{
+  "name": "loro",
+  "version": "1.8.2",
+  "summary": "Python bindings for [Loro](https://loro.dev)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "loro-1.8.2.tar.gz",
+  "download_time": "2025-10-23T13:23:36.224577",
+  "package_url": "https://pypi.org/project/loro/"
+}

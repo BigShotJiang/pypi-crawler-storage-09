@@ -1,11 +1,11 @@
 {
   "name": "calp",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Calamars et Pythons, le jeu de la PyConFR 2025",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "calp-0.2.0.tar.gz",
-  "download_time": "2025-10-21T14:18:33.930931",
+  "download_filename": "calp-0.2.2.tar.gz",
+  "download_time": "2025-10-23T13:23:45.611871",
   "package_url": "https://pypi.org/project/calp/"
 }

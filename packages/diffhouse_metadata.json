@@ -1,11 +1,11 @@
 {
   "name": "diffhouse",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "Repository mining tool for structuring Git metadata at scale.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diffhouse-1.1.0.tar.gz",
-  "download_time": "2025-10-18T11:50:08.065391",
+  "download_filename": "diffhouse-1.1.2.tar.gz",
+  "download_time": "2025-10-23T13:23:37.846526",
   "package_url": "https://pypi.org/project/diffhouse/"
 }
