@@ -1,0 +1,11 @@
+{
+  "name": "zyd-dataset-up",
+  "version": "0.17.0",
+  "summary": "Dataset Uploader SDK",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/***/dataset-up",
+  "download_filename": "zyd_dataset_up-0.17.0-py3-none-any.whl",
+  "download_time": "2025-10-23T06:53:33.100782",
+  "package_url": "https://pypi.org/project/zyd-dataset-up/"
+}

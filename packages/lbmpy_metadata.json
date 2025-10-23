@@ -1,0 +1,11 @@
+{
+  "name": "lbmpy",
+  "version": "1.4",
+  "summary": "Code Generation for Lattice Boltzmann Methods",
+  "author": "Martin Bauer, Markus Holzer, Frederik Hennig",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lbmpy-1.4.tar.gz",
+  "download_time": "2025-10-23T06:53:14.773221",
+  "package_url": "https://pypi.org/project/lbmpy/"
+}
