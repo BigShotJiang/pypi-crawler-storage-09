@@ -1,11 +1,11 @@
 {
   "name": "iommi",
-  "version": "7.18.1",
+  "version": "7.19.0",
   "summary": "iommi is a high level framework built on django",
   "author": "Anders Hovmöller",
   "license": "BSD",
   "home_page": "https://github.com/iommirocks/iommi",
-  "download_filename": "iommi-7.18.1.tar.gz",
-  "download_time": "2025-10-20T11:30:22.695723",
+  "download_filename": "iommi-7.19.0.tar.gz",
+  "download_time": "2025-10-23T19:40:31.880928",
   "package_url": "https://pypi.org/project/iommi/"
 }

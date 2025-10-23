@@ -1,11 +1,11 @@
 {
   "name": "hotbeak",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "When your beak just won't cool down.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hotbeak-0.0.6.tar.gz",
-  "download_time": "2025-10-23T19:16:55.927185",
+  "download_filename": "hotbeak-0.0.7.tar.gz",
+  "download_time": "2025-10-23T19:40:19.466359",
   "package_url": "https://pypi.org/project/hotbeak/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sdssdb",
+  "version": "0.13.5",
+  "summary": "SDSS product for database management",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "sdssdb-0.13.5.tar.gz",
+  "download_time": "2025-10-23T19:40:29.807125",
+  "package_url": "https://pypi.org/project/sdssdb/"
+}
