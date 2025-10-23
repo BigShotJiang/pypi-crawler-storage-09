@@ -1,11 +1,11 @@
 {
   "name": "openXJV",
-  "version": "0.8.8",
+  "version": "0.8.8.1",
   "summary": "openXJV - open XJustiz Viewer",
   "author": "Björn Seipel",
   "license": null,
   "home_page": "https://openxjv.de",
-  "download_filename": "openxjv-0.8.8.tar.gz",
-  "download_time": "2025-10-22T23:52:10.087542",
+  "download_filename": "openxjv-0.8.8.1.tar.gz",
+  "download_time": "2025-10-23T23:31:04.984237",
   "package_url": "https://pypi.org/project/openXJV/"
 }
