@@ -1,0 +1,11 @@
+{
+  "name": "sparkplug-api-notifications",
+  "version": "1.1.5",
+  "summary": "Notifications package for Sparkplug apps",
+  "author": "Sparkplug Marcus",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sparkplug_api_notifications-1.1.5.tar.gz",
+  "download_time": "2025-10-23T05:52:04.289806",
+  "package_url": "https://pypi.org/project/sparkplug-api-notifications/"
+}

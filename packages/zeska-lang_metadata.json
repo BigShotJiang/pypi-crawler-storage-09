@@ -1,11 +1,11 @@
 {
   "name": "zeska-lang",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Tanglish-based beginner-friendly programming language that auto-corrects and self-heals.",
   "author": "Sibi",
   "license": "MIT",
   "home_page": "https://github.com/Smartsibi65hacker/ZeskaLang",
-  "download_filename": "zeska_lang-0.3.0.tar.gz",
-  "download_time": "2025-10-23T05:36:52.841355",
+  "download_filename": "zeska_lang-0.4.0.tar.gz",
+  "download_time": "2025-10-23T05:52:06.556529",
   "package_url": "https://pypi.org/project/zeska-lang/"
 }
