@@ -1,0 +1,11 @@
+{
+  "name": "bmbftnl",
+  "version": "0.1.1",
+  "summary": "Automatisches Ausfüllen von Teilnehmendenlisten des BMBF mit Namen, Standort und Studierendenstatus",
+  "author": "Florian Katerndahl",
+  "license": "MIT",
+  "home_page": "https://github.com/Florian-Katerndahl/bmbfTNL",
+  "download_filename": "bmbftnl-0.1.1.tar.gz",
+  "download_time": "2025-10-23T17:54:05.353107",
+  "package_url": "https://pypi.org/project/bmbftnl/"
+}

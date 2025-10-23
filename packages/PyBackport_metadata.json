@@ -1,0 +1,11 @@
+{
+  "name": "PyBackport",
+  "version": "0.3.0.post1",
+  "summary": "Python package to backport classes from new python releases.",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "pybackport-0.3.0.post1.tar.gz",
+  "download_time": "2025-10-23T17:54:01.225467",
+  "package_url": "https://pypi.org/project/PyBackport/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hiddenlayer-sdk",
+  "version": "3.1.0",
+  "summary": "The official Python library for the hiddenlayer API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hiddenlayer_sdk-3.1.0.tar.gz",
+  "download_time": "2025-10-23T17:54:14.720713",
+  "package_url": "https://pypi.org/project/hiddenlayer-sdk/"
+}

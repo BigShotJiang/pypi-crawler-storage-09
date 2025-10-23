@@ -1,13 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-23T17:35:32.936610
-- **Total Packages**: 85
-- **Total Size**: 20.13 MB
+- **Download Time**: 2025-10-23T17:54:51.926421
+- **Total Packages**: 91
+- **Total Size**: 20.31 MB
 
 ## Packages List
-- gpboost
+- graph-games-proto
+- kailash-dataflow
+- worker-automate-hub
+- solarmoonpy
+- PyBackport
+- luminesce-sdk
+- mathmaker
+- pipemake
 - undersort
+- commonutil-net-thrift
+- kailash
+- bmbftnl
+- skillforge
+- tmt
+- pulumi-django-azure
+- easygui-wrap
+- diplib
+- bim2rdf
+- pyrmute
+- vaiz-sdk
+- microvector
+- chisel
+- bluer-sandbox
+- pygsk
+- cobib-zotero
+- zoo-mcp
+- pywaggle
+- hiddenlayer-sdk
+- soso
+- hummingbot-api-client
+- gpboost
 - bare-script
 - mcp-agent
 - demo-mcp-server
@@ -23,9 +52,6 @@
 - kditransform
 - bdscore
 - mailbridge
-- pygsk
-- easygui-wrap
-- bim2rdf
 - vit-pytorch
 - aibs-informatics-cdk-lib
 - remote-read-sql
@@ -46,7 +72,6 @@
 - passagemath-schemes
 - insyt-secure
 - passagemath-rubiks
-- graph-games-proto
 - passagemath-rankwidth
 - passagemath-qepcad
 - agentify-ai
@@ -72,22 +97,3 @@
 - passagemath-libbraiding
 - passagemath-lcalc
 - passagemath-latte-4ti2
-- passagemath-kissat
-- passagemath-kenzo
-- passagemath-homfly
-- retire-coal
-- passagemath-groups
-- passagemath-gfan
-- osm-changeset-brain
-- passagemath-fricas
-- csc-cia-stne
-- passagemath-docbuild
-- passagemath-doc-pdf
-- passagemath-doc-html
-- passagemath-database-stein-watkins
-- passagemath-database-polytopes-4d
-- signalpilot-ai
-- kinaid
-- passagemath-database-cremona-ellcurve
-- passagemath-conf
-- flet-charts

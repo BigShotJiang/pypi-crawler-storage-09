@@ -1,0 +1,11 @@
+{
+  "name": "pywaggle",
+  "version": "0.56.3",
+  "summary": "Official Waggle Python module.",
+  "author": "Sean Shahkarami",
+  "license": "\"BSD 3-clause\"",
+  "home_page": "https://github.com/waggle-sensor/pywaggle",
+  "download_filename": "pywaggle-0.56.3.tar.gz",
+  "download_time": "2025-10-23T17:54:14.146711",
+  "package_url": "https://pypi.org/project/pywaggle/"
+}

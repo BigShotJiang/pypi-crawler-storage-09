@@ -1,0 +1,11 @@
+{
+  "name": "commonutil-net-thrift",
+  "version": "3.1.0",
+  "summary": "Helper routine for Thrift",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "commonutil_net_thrift-3.1.0.tar.gz",
+  "download_time": "2025-10-23T17:54:04.189212",
+  "package_url": "https://pypi.org/project/commonutil-net-thrift/"
+}
