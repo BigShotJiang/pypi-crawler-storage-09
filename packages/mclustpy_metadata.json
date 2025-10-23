@@ -1,0 +1,11 @@
+{
+  "name": "mclustpy",
+  "version": "0.0.2",
+  "summary": "Clustering using the mclust algorithm.",
+  "author": "KalinNonchev",
+  "license": "MIT License",
+  "home_page": "https://github.com/KalinNonchev/mclustpy",
+  "download_filename": "mclustpy-0.0.2.tar.gz",
+  "download_time": "2025-10-23T16:48:42.010488",
+  "package_url": "https://pypi.org/project/mclustpy/"
+}

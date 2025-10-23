@@ -1,0 +1,11 @@
+{
+  "name": "ichec-django-core",
+  "version": "0.0.7",
+  "summary": "Library of base Django app building blocks and utilities.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ichec_django_core-0.0.7.tar.gz",
+  "download_time": "2025-10-23T16:49:21.705745",
+  "package_url": "https://pypi.org/project/ichec-django-core/"
+}

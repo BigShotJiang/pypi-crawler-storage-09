@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-mail-tracking",
-  "version": "18.0.1.0.4.4",
+  "version": "18.0.1.0.5",
   "summary": "Email tracking system for all mails sent",
   "author": "Tecnativa, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/mail",
-  "download_filename": "odoo_addon_mail_tracking-18.0.1.0.4.4-py3-none-any.whl",
-  "download_time": "2025-10-17T03:25:45.985195",
+  "download_filename": "odoo_addon_mail_tracking-18.0.1.0.5-py3-none-any.whl",
+  "download_time": "2025-10-23T16:49:24.874634",
   "package_url": "https://pypi.org/project/odoo-addon-mail-tracking/"
 }

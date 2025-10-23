@@ -1,0 +1,11 @@
+{
+  "name": "udl-sdk",
+  "version": "0.1.0a27",
+  "summary": "The official Python library for the unifieddatalibrary API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "udl_sdk-0.1.0a27.tar.gz",
+  "download_time": "2025-10-23T16:49:04.193402",
+  "package_url": "https://pypi.org/project/udl-sdk/"
+}

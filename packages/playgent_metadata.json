@@ -1,11 +1,11 @@
 {
   "name": "playgent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "SDK for tracking and testing OpenAI API calls",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "playgent-0.1.0.tar.gz",
-  "download_time": "2025-10-23T05:52:04.866224",
+  "download_filename": "playgent-0.1.1.tar.gz",
+  "download_time": "2025-10-23T16:48:41.491546",
   "package_url": "https://pypi.org/project/playgent/"
 }

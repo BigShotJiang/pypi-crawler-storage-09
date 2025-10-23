@@ -1,0 +1,11 @@
+{
+  "name": "ncmdump-py",
+  "version": "1.1.6",
+  "summary": "Dump ncm files to mp3 or flac files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ncmdump_py-1.1.6.tar.gz",
+  "download_time": "2025-10-23T16:49:01.568618",
+  "package_url": "https://pypi.org/project/ncmdump-py/"
+}

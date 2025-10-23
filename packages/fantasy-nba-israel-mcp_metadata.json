@@ -1,11 +1,11 @@
 {
   "name": "fantasy-nba-israel-mcp",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "A Model Context Protocol server for accessing our Fantasy NBA League statistics and rankings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fantasy_nba_israel_mcp-0.2.1.tar.gz",
-  "download_time": "2025-10-22T14:25:26.568361",
+  "download_filename": "fantasy_nba_israel_mcp-0.3.1.tar.gz",
+  "download_time": "2025-10-23T16:49:11.553707",
   "package_url": "https://pypi.org/project/fantasy-nba-israel-mcp/"
 }

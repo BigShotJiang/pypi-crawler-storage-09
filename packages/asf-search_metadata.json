@@ -1,0 +1,11 @@
+{
+  "name": "asf-search",
+  "version": "10.1.2",
+  "summary": "Python wrapper for ASF's SearchAPI",
+  "author": "Alaska Satellite Facility Discovery Team",
+  "license": "BSD",
+  "home_page": "https://github.com/asfadmin/Discovery-asf_search.git",
+  "download_filename": "asf_search-10.1.2.tar.gz",
+  "download_time": "2025-10-23T16:49:28.562858",
+  "package_url": "https://pypi.org/project/asf-search/"
+}
