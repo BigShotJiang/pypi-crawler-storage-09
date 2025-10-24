@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-24T07:45:11.483171
-- **Total Packages**: 89
-- **Total Size**: 48.14 MB
+- **Download Time**: 2025-10-24T07:54:15.963662
+- **Total Packages**: 86
+- **Total Size**: 2.43 MB
 
 ## Packages List
+- odoo-addon-stock-available-to-promise-release
+- sparq
+- atlas-research
+- vldb-toolkits
+- zwx-mcp-test
+- icflow
+- vibego
+- odoo-addon-stock-release-channel
+- odoo-addon-stock-release-channel-plan
+- q1simulator
+- opik
+- xrpl-py-cheng
+- scopez
+- xannounce-parser
+- scalekit-sdk-python
+- optimum-rbln
+- odoo-addon-stock-available-to-promise-release-dynamic-routing
 - debby-cli
 - maplestory-openapi
 - revengai
@@ -59,10 +76,8 @@
 - fugashi
 - ZWDX-DRIVERS
 - pdd-cli
-- scopez
 - otpylib
 - whatsapp-mcp
-- xrpl-py-cheng
 - nucliadb-admin-assets
 - th2-grpc-act-template
 - bg4h
@@ -74,24 +89,6 @@
 - ant-ray-cpp-nightly
 - seu-3d
 - autowzry
-- reduced-3dgs
 - lupa
 - himile-util
 - shudaodao
-- romatch
-- cdk-ec2-key-pair
-- regula-documentreader-webclient
-- rapid-api-client
-- tritonparse
-- eodc-faas-sen2like
-- achatbot
-- pymodaq_plugins_trinamic
-- sparv-sbx-sentiment-kb-sent
-- realtimex_toolkit
-- future_sales_inno_ds_project
-- rdflib
-- cosmica
-- servicenow-api
-- asyncmq
-- baidu-mcp-server
-- easygui-wrap
