@@ -1,11 +1,11 @@
 {
   "name": "facets-module-mcp",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "summary": "Facets Module MCP",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "facets_module_mcp-0.1.19.tar.gz",
-  "download_time": "2025-10-23T07:52:48.073690",
+  "download_filename": "facets_module_mcp-0.1.20.tar.gz",
+  "download_time": "2025-10-24T07:44:57.143191",
   "package_url": "https://pypi.org/project/facets-module-mcp/"
 }

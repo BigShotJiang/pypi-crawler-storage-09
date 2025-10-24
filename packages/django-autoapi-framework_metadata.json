@@ -1,0 +1,11 @@
+{
+  "name": "django-autoapi-framework",
+  "version": "1.0.0",
+  "summary": "Zero-boilerplate REST APIs for Django with row-level security",
+  "author": "Backend Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/nakula-academy/django-autoapi",
+  "download_filename": "django_autoapi_framework-1.0.0.tar.gz",
+  "download_time": "2025-10-24T07:44:48.936454",
+  "package_url": "https://pypi.org/project/django-autoapi-framework/"
+}

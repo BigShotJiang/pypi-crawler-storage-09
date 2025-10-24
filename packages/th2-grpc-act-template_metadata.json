@@ -1,11 +1,11 @@
 {
   "name": "th2-grpc-act-template",
-  "version": "4.3.1",
+  "version": "4.4.0",
   "summary": "th2_grpc_act_template",
   "author": "TH2-devs",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/th2-net/th2-grpc-act-template",
-  "download_filename": "th2_grpc_act_template-4.3.1.tar.gz",
-  "download_time": "2025-10-16T14:43:43.715617",
+  "download_filename": "th2_grpc_act_template-4.4.0.tar.gz",
+  "download_time": "2025-10-24T07:44:55.606481",
   "package_url": "https://pypi.org/project/th2-grpc-act-template/"
 }

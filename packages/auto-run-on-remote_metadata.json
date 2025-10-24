@@ -1,0 +1,11 @@
+{
+  "name": "auto-run-on-remote",
+  "version": "0.5",
+  "summary": "auto run current python script on remote server",
+  "author": "bfzs",
+  "license": "BSD License",
+  "home_page": "https://github.com/ydf0509/auto_run_on_remote",
+  "download_filename": "auto_run_on_remote-0.5-py3-none-any.whl",
+  "download_time": "2025-10-24T07:44:44.308917",
+  "package_url": "https://pypi.org/project/auto-run-on-remote/"
+}
