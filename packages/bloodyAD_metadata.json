@@ -1,11 +1,11 @@
 {
   "name": "bloodyAD",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "AD Privesc Swiss Army Knife",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bloodyad-2.4.1.tar.gz",
-  "download_time": "2025-10-24T04:44:40.859126",
+  "download_filename": "bloodyad-2.4.2.tar.gz",
+  "download_time": "2025-10-24T04:53:27.830386",
   "package_url": "https://pypi.org/project/bloodyAD/"
 }
