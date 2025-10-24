@@ -1,11 +1,11 @@
 {
   "name": "easygui-wrap",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "A beginner-friendly, stylish GUI wrapper for Python using DearPyGui.",
   "author": "Zaik",
   "license": null,
-  "home_page": "https://github.com/yourusername/easygui_wrap",
-  "download_filename": "easygui_wrap-1.0.5.tar.gz",
-  "download_time": "2025-10-23T18:53:07.532163",
+  "home_page": "https://github.com/thesmal",
+  "download_filename": "easygui_wrap-1.0.6.tar.gz",
+  "download_time": "2025-10-24T06:25:44.732700",
   "package_url": "https://pypi.org/project/easygui-wrap/"
 }

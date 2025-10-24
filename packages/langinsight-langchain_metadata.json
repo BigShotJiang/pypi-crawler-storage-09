@@ -1,0 +1,11 @@
+{
+  "name": "langinsight-langchain",
+  "version": "0.0.1",
+  "summary": "LangInsight callback handler for LangChain - Monitor and trace your LangChain LLM applications",
+  "author": "iZ.inc",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langinsight_langchain-0.0.1.tar.gz",
+  "download_time": "2025-10-24T06:25:55.092058",
+  "package_url": "https://pypi.org/project/langinsight-langchain/"
+}

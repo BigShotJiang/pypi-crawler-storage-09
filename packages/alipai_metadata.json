@@ -1,0 +1,11 @@
+{
+  "name": "alipai",
+  "version": "0.4.12.post0",
+  "summary": "Alibaba Cloud PAI Python SDK",
+  "author": "Alibaba PAI team",
+  "license": "Apache License 2.0",
+  "home_page": "https://www.aliyun.com/product/bigdata/product/learn",
+  "download_filename": "alipai-0.4.12.post0.tar.gz",
+  "download_time": "2025-10-24T06:25:57.151336",
+  "package_url": "https://pypi.org/project/alipai/"
+}

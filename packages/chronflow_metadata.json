@@ -1,11 +1,11 @@
 {
   "name": "chronflow",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A high-performance async task scheduler with cron support, retry mechanism, and configuration management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chronflow-0.2.0.tar.gz",
-  "download_time": "2025-10-23T10:45:49.201698",
+  "download_filename": "chronflow-0.2.1.tar.gz",
+  "download_time": "2025-10-24T06:25:45.244651",
   "package_url": "https://pypi.org/project/chronflow/"
 }

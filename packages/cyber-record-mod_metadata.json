@@ -1,0 +1,11 @@
+{
+  "name": "cyber-record-mod",
+  "version": "0.1.14",
+  "summary": "Cyber record offline parse tool(modified for protobuf 5.x)",
+  "author": "daohu527",
+  "license": null,
+  "home_page": "https://github.com/daohu527/cyber_record",
+  "download_filename": "cyber_record_mod-0.1.14.tar.gz",
+  "download_time": "2025-10-24T06:25:51.510861",
+  "package_url": "https://pypi.org/project/cyber-record-mod/"
+}

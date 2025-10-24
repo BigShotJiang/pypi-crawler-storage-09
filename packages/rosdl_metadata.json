@@ -1,0 +1,11 @@
+{
+  "name": "rosdl",
+  "version": "0.0.2",
+  "summary": "Research Oriented Smart Data Library (CLI + PDF/Math utilities)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rosdl-0.0.2.tar.gz",
+  "download_time": "2025-10-24T06:25:43.707910",
+  "package_url": "https://pypi.org/project/rosdl/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aanalytics2",
+  "version": "0.4.3.post3",
+  "summary": "Adobe Analytics API 2.0 and 1.4 python wrapper",
+  "author": "Julien Piccini",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/pitchmuc/adobe-analytics-api-2.0",
+  "download_filename": "aanalytics2-0.4.3.post3.tar.gz",
+  "download_time": "2025-10-24T06:26:13.726619",
+  "package_url": "https://pypi.org/project/aanalytics2/"
+}

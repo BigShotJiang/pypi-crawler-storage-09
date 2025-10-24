@@ -1,11 +1,11 @@
 {
   "name": "listmonk-exporter",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "A Prometheus exporter for Listmonk newsletter and mailing list manager",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "listmonk_exporter-0.1.1.tar.gz",
-  "download_time": "2025-10-24T05:19:42.452025",
+  "download_filename": "listmonk_exporter-0.2.0.tar.gz",
+  "download_time": "2025-10-24T06:26:08.070202",
   "package_url": "https://pypi.org/project/listmonk-exporter/"
 }

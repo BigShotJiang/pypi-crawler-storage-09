@@ -1,11 +1,11 @@
 {
   "name": "magneticalc",
-  "version": "1.17.0",
-  "summary": null,
-  "author": "Paul Wilhelm",
+  "version": "1.18.1",
+  "summary": "Magnetostatic field calculator with OpenGL GUI",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "magneticalc-1.17.0.tar.gz",
-  "download_time": "2025-10-23T04:53:40.451390",
+  "download_filename": "magneticalc-1.18.1.tar.gz",
+  "download_time": "2025-10-24T06:25:48.901115",
   "package_url": "https://pypi.org/project/magneticalc/"
 }
