@@ -1,11 +1,11 @@
 {
   "name": "hogwarts-android-mcp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "android adb mcp tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hogwarts_android_mcp-0.1.2-py3-none-any.whl",
-  "download_time": "2025-10-23T16:22:35.341642",
+  "download_filename": "hogwarts_android_mcp-0.1.3-py3-none-any.whl",
+  "download_time": "2025-10-24T01:11:17.052835",
   "package_url": "https://pypi.org/project/hogwarts-android-mcp/"
 }

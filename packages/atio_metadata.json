@@ -1,0 +1,11 @@
+{
+  "name": "atio",
+  "version": "3.0.0",
+  "summary": "Safe atomic file writer for Pandas, Polars, NumPy, and other data objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atio-3.0.0.tar.gz",
+  "download_time": "2025-10-24T01:10:42.673111",
+  "package_url": "https://pypi.org/project/atio/"
+}

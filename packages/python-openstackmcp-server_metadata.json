@@ -1,0 +1,11 @@
+{
+  "name": "python-openstackmcp-server",
+  "version": "1.0.0",
+  "summary": "A MCP server providing OpenStack services for MCP clients",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_openstackmcp_server-1.0.0.tar.gz",
+  "download_time": "2025-10-24T01:11:25.114722",
+  "package_url": "https://pypi.org/project/python-openstackmcp-server/"
+}

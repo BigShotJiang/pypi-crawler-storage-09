@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-orm",
+  "version": "0.11.0",
+  "summary": "A production-ready ORM for FastAPI with async support, automatic Pydantic integration, and Django-like syntax",
+  "author": "Abdulaziz Al-Qadimi",
+  "license": null,
+  "home_page": "https://github.com/Alqudimi/FastApiOrm",
+  "download_filename": "fastapi_orm-0.11.0.tar.gz",
+  "download_time": "2025-10-24T01:11:33.752094",
+  "package_url": "https://pypi.org/project/fastapi-orm/"
+}

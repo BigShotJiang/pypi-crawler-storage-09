@@ -1,11 +1,11 @@
 {
   "name": "owasp-nest",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "OWASP Nest Python SDK",
   "author": "Arkadii Yakovets",
   "license": null,
   "home_page": null,
-  "download_filename": "owasp_nest-0.2.5.tar.gz",
-  "download_time": "2025-10-18T16:50:55.954886",
+  "download_filename": "owasp_nest-0.2.6.tar.gz",
+  "download_time": "2025-10-24T01:11:17.569719",
   "package_url": "https://pypi.org/project/owasp-nest/"
 }
