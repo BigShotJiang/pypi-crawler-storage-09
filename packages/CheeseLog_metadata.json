@@ -1,0 +1,11 @@
+{
+  "name": "CheeseLog",
+  "version": "2.0.0",
+  "summary": "日志系统。可在控制台输出一定格式的、可选颜色的内容，并支持写入指定的日志文件。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cheeselog-2.0.0.tar.gz",
+  "download_time": "2025-10-24T02:42:20.507501",
+  "package_url": "https://pypi.org/project/CheeseLog/"
+}

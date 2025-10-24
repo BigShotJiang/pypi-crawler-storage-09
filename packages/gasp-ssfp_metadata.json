@@ -1,0 +1,11 @@
+{
+  "name": "gasp-ssfp",
+  "version": "0.0.3",
+  "summary": "Generation of Arbitary Spectral Profiles using bSSFp MRI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gasp_ssfp-0.0.3.tar.gz",
+  "download_time": "2025-10-24T02:42:53.331773",
+  "package_url": "https://pypi.org/project/gasp-ssfp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "roboflex.dynamixel",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "summary": "Roboflex Dynamixel Library",
   "author": "Colin Prepscius",
   "license": "MIT",
   "home_page": "https://github.com/flexrobotics/roboflex_dynamixel",
-  "download_filename": "roboflex_dynamixel-0.1.19.tar.gz",
-  "download_time": "2025-10-23T02:44:53.230292",
+  "download_filename": "roboflex_dynamixel-0.1.20.tar.gz",
+  "download_time": "2025-10-24T02:42:24.120452",
   "package_url": "https://pypi.org/project/roboflex.dynamixel/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gfmrag",
+  "version": "0.2.2",
+  "summary": "Graph Foundation Model for Retrieval Augmented Generation",
+  "author": "Linhao Luo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gfmrag-0.2.2.tar.gz",
+  "download_time": "2025-10-24T02:42:41.839865",
+  "package_url": "https://pypi.org/project/gfmrag/"
+}

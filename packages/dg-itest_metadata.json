@@ -1,0 +1,11 @@
+{
+  "name": "dg-itest",
+  "version": "0.0.30",
+  "summary": "接口自动化测试框架",
+  "author": "yaitza",
+  "license": null,
+  "home_page": "https://github.com/yaitza/dg-itest",
+  "download_filename": "dg_itest-0.0.30.tar.gz",
+  "download_time": "2025-10-24T02:42:48.641337",
+  "package_url": "https://pypi.org/project/dg-itest/"
+}

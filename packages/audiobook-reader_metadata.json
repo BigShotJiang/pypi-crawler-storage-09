@@ -1,11 +1,11 @@
 {
   "name": "audiobook-reader",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "AI-powered audiobook generator with GPU/NPU acceleration (up to 8x faster than real-time). Built-in Kokoro-82M TTS with character-aware voices and emotion analysis. Supports EPUB, PDF, TXT, MD, RST (use convertext for DOCX/MOBI/HTML).",
   "author": "danielcorsano",
   "license": "MIT",
   "home_page": "https://github.com/danielcorsano/reader",
-  "download_filename": "audiobook_reader-0.1.7.tar.gz",
-  "download_time": "2025-10-18T14:13:12.119710",
+  "download_filename": "audiobook_reader-0.1.8.tar.gz",
+  "download_time": "2025-10-24T02:42:37.167376",
   "package_url": "https://pypi.org/project/audiobook-reader/"
 }
