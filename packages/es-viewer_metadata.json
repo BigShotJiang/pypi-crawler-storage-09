@@ -1,0 +1,11 @@
+{
+  "name": "es-viewer",
+  "version": "1.2.10",
+  "summary": "A lightweight, cross-platform desktop GUI for Elasticsearch",
+  "author": "乖猫记账",
+  "license": null,
+  "home_page": "https://github.com/isee15/es-viewer",
+  "download_filename": "es_viewer-1.2.10.tar.gz",
+  "download_time": "2025-10-24T07:33:21.857738",
+  "package_url": "https://pypi.org/project/es-viewer/"
+}
