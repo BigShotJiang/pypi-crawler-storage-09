@@ -1,11 +1,11 @@
 {
   "name": "yulksync",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "yulksync",
   "author": "yulksync",
   "license": null,
   "home_page": "https://github.com/",
-  "download_filename": "yulksync-0.0.1.tar.gz",
-  "download_time": "2025-10-18T13:27:35.660707",
+  "download_filename": "yulksync-0.0.2.tar.gz",
+  "download_time": "2025-10-24T04:21:39.995393",
   "package_url": "https://pypi.org/project/yulksync/"
 }

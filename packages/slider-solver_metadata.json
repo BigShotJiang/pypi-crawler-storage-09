@@ -1,0 +1,11 @@
+{
+  "name": "slider-solver",
+  "version": "0.1.1",
+  "summary": "Universal Slider CAPTCHA Gap Detection",
+  "author": "MiChen",
+  "license": null,
+  "home_page": "https://github.com/yourusername/slider_solver",
+  "download_filename": "slider_solver-0.1.1.tar.gz",
+  "download_time": "2025-10-24T04:21:49.527694",
+  "package_url": "https://pypi.org/project/slider-solver/"
+}

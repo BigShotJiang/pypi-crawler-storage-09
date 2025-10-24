@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-ec-base",
+  "version": "18.0.1.0.0.2",
+  "summary": "Ecuadorian Localization",
+  "author": "Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-ecuador",
+  "download_filename": "odoo_addon_l10n_ec_base-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-10-24T04:21:46.416482",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-ec-base/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dtsh",
+  "version": "0.2.5",
+  "summary": "Shell-like interface with Zephyr Devicetree",
+  "author": "Christophe Dufaza",
+  "license": "Apache License version 2.0",
+  "home_page": "https://github.com/dottspina/dtsh",
+  "download_filename": "dtsh-0.2.5.tar.gz",
+  "download_time": "2025-10-24T04:22:04.774153",
+  "package_url": "https://pypi.org/project/dtsh/"
+}

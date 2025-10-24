@@ -1,0 +1,11 @@
+{
+  "name": "django-visit-on-site-in-new-window",
+  "version": "0.1.2",
+  "summary": "Turn VISIT-ON-SITE button to open in the new window on Django's admin site.",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_visit_on_site_in_new_window-0.1.2.tar.gz",
+  "download_time": "2025-10-24T04:21:43.223639",
+  "package_url": "https://pypi.org/project/django-visit-on-site-in-new-window/"
+}

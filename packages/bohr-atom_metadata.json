@@ -1,0 +1,11 @@
+{
+  "name": "bohr-atom",
+  "version": "0.1.1",
+  "summary": "Una librería para cálculos y visualizaciones del modelo atómico de Bohr",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bohr_atom-0.1.1.tar.gz",
+  "download_time": "2025-10-24T04:21:56.447517",
+  "package_url": "https://pypi.org/project/bohr-atom/"
+}
