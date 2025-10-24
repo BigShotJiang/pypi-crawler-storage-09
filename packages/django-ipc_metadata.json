@@ -1,0 +1,11 @@
+{
+  "name": "django-ipc",
+  "version": "1.0.9",
+  "summary": "🚀 Production-ready WebSocket RPC for Django - Auto-generated clients, 100% type-safe, 5-minute setup",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_ipc-1.0.9.tar.gz",
+  "download_time": "2025-10-24T08:24:47.829090",
+  "package_url": "https://pypi.org/project/django-ipc/"
+}

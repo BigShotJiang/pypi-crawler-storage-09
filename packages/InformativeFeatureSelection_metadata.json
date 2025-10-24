@@ -1,11 +1,11 @@
 {
   "name": "InformativeFeatureSelection",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "summary": "Package which provides an feature selection algorithm which considers class separability and an implementation of Informative Normalized Difference Index (INDI)",
   "author": "Mukhin Artem",
   "license": "MIT",
   "home_page": "https://gitlab.com/rustam-industries/feature_extractor",
-  "download_filename": "informativefeatureselection-3.1.1.tar.gz",
-  "download_time": "2025-10-24T07:44:27.812662",
+  "download_filename": "informativefeatureselection-3.1.2.tar.gz",
+  "download_time": "2025-10-24T08:25:07.301712",
   "package_url": "https://pypi.org/project/InformativeFeatureSelection/"
 }

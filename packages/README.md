@@ -1,13 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-24T07:54:15.963662
-- **Total Packages**: 86
-- **Total Size**: 2.43 MB
+- **Download Time**: 2025-10-24T08:25:26.582443
+- **Total Packages**: 95
+- **Total Size**: 31.64 MB
 
 ## Packages List
-- odoo-addon-stock-available-to-promise-release
+- invenio-app-rdm
+- aiqtoolkit
+- writer
+- aiqtoolkit-langchain
+- aiqtoolkit-crewai
+- aiqtoolkit-zep-cloud
+- nucliadb-utils
+- nucliadb-telemetry
+- nucliadb-sdk
+- fmu-settings-api
+- nucliadb-protos
+- nucliadb-models
+- nucliadb-dataset
+- nucliadb
+- assay-blast
+- nidx-protos
+- nucliadb-admin-assets
+- dataidea
+- aiqtoolkit-agno
+- syutils
+- checkmk-dev-tools
+- Silicrop
 - sparq
+- scikit-surgeryvtk
+- rdetoolkit
+- daybetter-services-python
+- airmise
+- statemachine-engine
+- langchain-milvus
+- context-relaxer
+- django-ipc
+- django-cfg
+- django-cms-qe
+- py-lap-solver
+- odoo-addon-shipment-advice-planner
+- odoo-addon-shipment-advice
+- odoo-addon-stock-dock
+- orbitkit
+- odoo-addon-stock-available-to-promise-release
 - atlas-research
 - vldb-toolkits
 - zwx-mcp-test
@@ -15,6 +52,7 @@
 - vibego
 - odoo-addon-stock-release-channel
 - odoo-addon-stock-release-channel-plan
+- reduced-3dgs
 - q1simulator
 - opik
 - xrpl-py-cheng
@@ -63,32 +101,3 @@
 - auto-run-on-remote
 - agentic-fabriq-sdk
 - praval
-- azure-mgmt-appcontainers
-- azure-mgmt-network
-- ApiClientV2
-- azure-mgmt-cognitiveservices
-- nonebot-plugin-parser
-- countmut
-- django-autoapi-framework
-- pitchlense-mcp
-- boundml
-- mrok
-- fugashi
-- ZWDX-DRIVERS
-- pdd-cli
-- otpylib
-- whatsapp-mcp
-- nucliadb-admin-assets
-- th2-grpc-act-template
-- bg4h
-- cognite-typed-functions
-- facets-module-mcp
-- securechat-py
-- interpn
-- odoo-addon-stock-release-channel-partner-delivery-window
-- ant-ray-cpp-nightly
-- seu-3d
-- autowzry
-- lupa
-- himile-util
-- shudaodao

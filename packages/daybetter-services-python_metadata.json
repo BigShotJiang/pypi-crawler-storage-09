@@ -1,11 +1,11 @@
 {
   "name": "daybetter-services-python",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Python client for DayBetter devices and services",
   "author": "THDayBetter",
   "license": null,
   "home_page": "https://github.com/THDayBetter/daybetter-python",
-  "download_filename": "daybetter_services_python-1.0.3.tar.gz",
-  "download_time": "2025-10-21T03:31:37.294426",
+  "download_filename": "daybetter_services_python-1.0.5.tar.gz",
+  "download_time": "2025-10-24T08:24:44.480193",
   "package_url": "https://pypi.org/project/daybetter-services-python/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "scikit-surgeryvtk",
+  "version": "2.3.1",
+  "summary": "scikit-surgeryvtk uses VTK for Image Guided Surgery applications",
+  "author": "Thomas Dowrick",
+  "license": "BSD-3 license",
+  "home_page": "https://github.com/SciKit-Surgery/scikit-surgeryvtk",
+  "download_filename": "scikit_surgeryvtk-2.3.1.tar.gz",
+  "download_time": "2025-10-24T08:24:43.051833",
+  "package_url": "https://pypi.org/project/scikit-surgeryvtk/"
+}

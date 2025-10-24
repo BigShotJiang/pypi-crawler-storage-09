@@ -1,0 +1,11 @@
+{
+  "name": "langchain-milvus",
+  "version": "0.2.2",
+  "summary": "An integration package connecting Milvus and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_milvus-0.2.2.tar.gz",
+  "download_time": "2025-10-24T08:24:46.484632",
+  "package_url": "https://pypi.org/project/langchain-milvus/"
+}

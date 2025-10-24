@@ -1,11 +1,11 @@
 {
   "name": "reduced-3dgs",
-  "version": "1.10.7",
+  "version": "1.10.8",
   "summary": "Refactored code for the paper \"Reducing the Memory Footprint of 3D Gaussian Splatting\"",
   "author": "yindaheng98",
   "license": null,
   "home_page": "https://github.com/yindaheng98/reduced-3dgs",
-  "download_filename": "reduced_3dgs-1.10.7.tar.gz",
-  "download_time": "2025-10-24T07:45:00.793855",
+  "download_filename": "reduced_3dgs-1.10.8.tar.gz",
+  "download_time": "2025-10-24T08:24:59.242861",
   "package_url": "https://pypi.org/project/reduced-3dgs/"
 }
