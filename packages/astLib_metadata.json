@@ -1,11 +1,11 @@
 {
   "name": "astLib",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "summary": "A set of python modules for producing simple plots, statistics, common calculations, coordinate conversions, and manipulating FITS images with World Coordinate System (WCS) information",
   "author": "Matt Hilton & Steven Boada",
   "license": "LGPL",
   "home_page": "https://astlib.readthedocs.io",
-  "download_filename": "astlib-0.13.0.tar.gz",
-  "download_time": "2025-10-23T13:23:38.413212",
+  "download_filename": "astlib-0.13.1.tar.gz",
+  "download_time": "2025-10-24T05:19:46.128666",
   "package_url": "https://pypi.org/project/astLib/"
 }
