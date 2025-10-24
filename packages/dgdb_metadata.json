@@ -1,11 +1,11 @@
 {
   "name": "dgdb",
-  "version": "1.0.0a7",
+  "version": "1.0.0a8",
   "summary": "DB clients",
   "author": "Malanris",
   "license": "MIT License",
   "home_page": "https://gitlab.com/gng-group/dgdb.git",
-  "download_filename": "dgdb-1.0.0a7.tar.gz",
-  "download_time": "2025-10-24T03:27:54.097510",
+  "download_filename": "dgdb-1.0.0a8.tar.gz",
+  "download_time": "2025-10-24T03:52:36.888158",
   "package_url": "https://pypi.org/project/dgdb/"
 }

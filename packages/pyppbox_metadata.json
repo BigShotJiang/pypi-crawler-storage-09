@@ -1,0 +1,11 @@
+{
+  "name": "pyppbox",
+  "version": "3.13.0",
+  "summary": "Toolbox for people detecting, tracking, and re-identifying.",
+  "author": "Ratha SIV",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/rathaumons/pyppbox",
+  "download_filename": "pyppbox-3.13.0.tar.gz",
+  "download_time": "2025-10-24T03:52:48.780182",
+  "package_url": "https://pypi.org/project/pyppbox/"
+}

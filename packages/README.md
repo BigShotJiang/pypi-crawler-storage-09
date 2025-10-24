@@ -1,11 +1,63 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-10-24T03:28:18.513304
+- **Download Time**: 2025-10-24T03:53:07.876971
 - **Total Packages**: 81
-- **Total Size**: 50.96 MB
+- **Total Size**: 38.11 MB
 
 ## Packages List
+- insyt-secure
+- spider-download
+- crabpack
+- antchain-blockchain
+- wxutil
+- pipeline-eds
+- rpi-rgb-led-matrix-scene-composer
+- pro-craft
+- roleft
+- veadk-python
+- sawnergy
+- dmitallx
+- odoo-addons-oca-sale-workflow
+- pytest-embedded-nuttx
+- pytest-embedded-wokwi
+- pytest-embedded-arduino
+- pytest-embedded-qemu
+- onvif-python
+- pytest-embedded-jtag
+- pytest-embedded-idf
+- pytest-embedded-serial-esp
+- pytest-embedded-serial
+- pytest-embedded
+- pulumi-pagerduty
+- automagik-hive
+- circuit-synth
+- dgdb
+- cdktf-cdktf-provider-databricks
+- kaggle-environments
+- galago-tools
+- mcp-ticketer
+- banko-ai-assistant
+- odoo-addons-oca-reporting-engine
+- odoo-addon-purchase-tier-validation
+- easydata-ds
+- promptly-llm
+- compair-core
+- rapid-doc
+- PyWebWinUI3
+- market-data-pipeline
+- market-data-orchestrator
+- market-data-store
+- vibego
+- market-data-core
+- libsh
+- pyppbox
+- gurddy-mcp
+- pathml
+- keras-rs-nightly
+- HexSS
+- llm-schema-lite
+- noshot
 - odoo-addons-oca-pos
 - vldb-toolkits
 - odoo-addon-pms
@@ -18,13 +70,8 @@
 - pydantic-ai-examples
 - pydantic-ai
 - clai
-- insyt-secure
-- market-data-store
-- market-data-orchestrator
-- market-data-pipeline
 - dspawpy
 - universal-tester
-- market-data-core
 - odoo-addon-openupgrade-scripts
 - odoo-addon-partner-multi-company
 - wayspiritmcp-weather
@@ -39,51 +86,4 @@
 - mcp-email-server
 - ellar-sql
 - kywy
-- roleft
 - opentelemetry-instrumentation-gunicorn
-- odoo14-addons-oca-l10n-spain
-- PyWebWinUI3
-- libsh
-- cloudtruth-mcp-server
-- gaussian-splatting
-- dgdb
-- mdc-dlp
-- siat
-- fts-tool
-- objectory
-- classicle
-- enka
-- bayesmbar
-- shancx
-- kaggle-environments
-- gurddy-mcp
-- wavemonitor
-- muler
-- galago-tools
-- kospex
-- devstack-cli
-- types-flake8-bugbear
-- servicenow-api
-- cosfunc
-- coffea
-- pex
-- open-flash
-- torchopticsy
-- polars-quant
-- statsig-python-core
-- quda
-- gondola
-- csle-attack-profiler
-- gym-csle-cyborg
-- gym-csle-apt-game
-- csle-tolerance
-- csle-cluster
-- csle-cli
-- csle-rest-api
-- csle-agents
-- gym-csle-intrusion-response-game
-- gym-csle-stopping-game
-- csle-system-identification
-- csle-defender
-- csle-attacker
-- csle-common

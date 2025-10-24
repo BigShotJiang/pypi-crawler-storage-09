@@ -1,0 +1,11 @@
+{
+  "name": "promptly-llm",
+  "version": "0.2.0",
+  "summary": "A lightweight library for LLM prompt management, observability/tracing, and optimization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "promptly_llm-0.2.0.tar.gz",
+  "download_time": "2025-10-24T03:52:42.734252",
+  "package_url": "https://pypi.org/project/promptly-llm/"
+}

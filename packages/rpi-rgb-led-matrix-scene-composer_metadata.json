@@ -1,0 +1,11 @@
+{
+  "name": "rpi-rgb-led-matrix-scene-composer",
+  "version": "0.1.0",
+  "summary": "Scene-based rendering engine for RGB LED matrices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rpi_rgb_led_matrix_scene_composer-0.1.0.tar.gz",
+  "download_time": "2025-10-24T03:52:26.345578",
+  "package_url": "https://pypi.org/project/rpi-rgb-led-matrix-scene-composer/"
+}

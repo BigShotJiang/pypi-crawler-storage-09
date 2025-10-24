@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addons-oca-reporting-engine",
+  "version": "16.0.20251023.0",
+  "summary": "Meta package for oca-reporting-engine Odoo addons",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_addons_oca_reporting_engine-16.0.20251023.0-py3-none-any.whl",
+  "download_time": "2025-10-24T03:52:40.529110",
+  "package_url": "https://pypi.org/project/odoo-addons-oca-reporting-engine/"
+}

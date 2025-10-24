@@ -1,11 +1,11 @@
 {
   "name": "HexSS",
-  "version": "0.26.1",
+  "version": "0.26.2",
   "summary": null,
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/hexs/hexss",
-  "download_filename": "hexss-0.26.1.tar.gz",
-  "download_time": "2025-10-22T09:44:40.889728",
+  "download_filename": "hexss-0.26.2.tar.gz",
+  "download_time": "2025-10-24T03:52:50.936539",
   "package_url": "https://pypi.org/project/HexSS/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pathml",
+  "version": "3.0.4",
+  "summary": "Tools for computational pathology",
+  "author": "Jacob Rosenthal, Ryan Carelli et al.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pathml-3.0.4.tar.gz",
+  "download_time": "2025-10-24T03:52:49.864349",
+  "package_url": "https://pypi.org/project/pathml/"
+}

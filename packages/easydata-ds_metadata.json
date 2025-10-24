@@ -1,0 +1,11 @@
+{
+  "name": "easydata-ds",
+  "version": "0.1.0",
+  "summary": "A Python library for data scientists to easily apply functions to datasets with a terminal UI",
+  "author": "Cole Ragone",
+  "license": "MIT",
+  "home_page": "https://github.com/coleragone/easydata",
+  "download_filename": "easydata_ds-0.1.0.tar.gz",
+  "download_time": "2025-10-24T03:52:42.148261",
+  "package_url": "https://pypi.org/project/easydata-ds/"
+}
