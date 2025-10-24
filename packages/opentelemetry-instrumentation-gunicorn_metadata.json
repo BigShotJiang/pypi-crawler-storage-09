@@ -1,0 +1,11 @@
+{
+  "name": "opentelemetry-instrumentation-gunicorn",
+  "version": "0.1.0b0",
+  "summary": "OpenTelemetry Instrumentation for Gunicorn WSGI Server",
+  "author": "Prince Roshan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentelemetry_instrumentation_gunicorn-0.1.0b0.tar.gz",
+  "download_time": "2025-10-24T03:27:50.395166",
+  "package_url": "https://pypi.org/project/opentelemetry-instrumentation-gunicorn/"
+}

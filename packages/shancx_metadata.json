@@ -1,11 +1,11 @@
 {
   "name": "shancx",
-  "version": "1.9.33.158",
+  "version": "1.9.33.160",
   "summary": "A simple timer decorator",
   "author": "shancx",
   "license": null,
   "home_page": "https://gitee.com/shancx",
-  "download_filename": "shancx-1.9.33.158.tar.gz",
-  "download_time": "2025-10-23T06:53:13.619060",
+  "download_filename": "shancx-1.9.33.160.tar.gz",
+  "download_time": "2025-10-24T03:27:59.246223",
   "package_url": "https://pypi.org/project/shancx/"
 }

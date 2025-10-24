@@ -1,11 +1,11 @@
 {
   "name": "cloudtruth-mcp-server",
-  "version": "1.0.0rc2",
+  "version": "1.0.0",
   "summary": "MCP server for CloudTruth configuration and secrets management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloudtruth_mcp_server-1.0.0rc2.tar.gz",
-  "download_time": "2025-10-24T02:42:11.525483",
+  "download_filename": "cloudtruth_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-10-24T03:27:52.734683",
   "package_url": "https://pypi.org/project/cloudtruth-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "objectory",
+  "version": "0.2.1",
+  "summary": "A light library for general purpose object factories",
+  "author": "Thibaut Durand",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/durandtibo/objectory",
+  "download_filename": "objectory-0.2.1.tar.gz",
+  "download_time": "2025-10-24T03:27:56.340867",
+  "package_url": "https://pypi.org/project/objectory/"
+}

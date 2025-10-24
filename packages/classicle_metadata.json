@@ -1,0 +1,11 @@
+{
+  "name": "classicle",
+  "version": "0.1.0",
+  "summary": "Immutable constant namespaces with dataclass-like ergonomics",
+  "author": "zkurtz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "classicle-0.1.0.tar.gz",
+  "download_time": "2025-10-24T03:27:57.406891",
+  "package_url": "https://pypi.org/project/classicle/"
+}
