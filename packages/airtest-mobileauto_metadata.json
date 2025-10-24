@@ -1,0 +1,11 @@
+{
+  "name": "airtest-mobileauto",
+  "version": "2.1.8.4",
+  "summary": "A robust, object-oriented, multi-process mobile app control framework based on AirTest, designed for stable and compatible debugging and automation of devices and apps. Ideal for tasks such as game automation in titles like Honor of Kings, with enhanced stability features including connection checks, automatic retries on failure, and automatic restarts for continuous operation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "airtest_mobileauto-2.1.8.4.tar.gz",
+  "download_time": "2025-10-24T07:18:23.053664",
+  "package_url": "https://pypi.org/project/airtest-mobileauto/"
+}

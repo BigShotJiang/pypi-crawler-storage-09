@@ -1,0 +1,11 @@
+{
+  "name": "lupa",
+  "version": "2.6",
+  "summary": "Python wrapper around Lua and LuaJIT",
+  "author": "Stefan Behnel",
+  "license": "MIT style",
+  "home_page": "https://github.com/scoder/lupa",
+  "download_filename": "lupa-2.6-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-10-24T07:17:47.301531",
+  "package_url": "https://pypi.org/project/lupa/"
+}

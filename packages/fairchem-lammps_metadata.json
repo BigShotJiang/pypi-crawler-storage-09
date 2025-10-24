@@ -1,0 +1,11 @@
+{
+  "name": "fairchem-lammps",
+  "version": "0.3.0",
+  "summary": "Fairchem extension package to use LAMMPs with fairchem models",
+  "author": null,
+  "license": "GnuV2 License",
+  "home_page": null,
+  "download_filename": "fairchem_lammps-0.3.0.tar.gz",
+  "download_time": "2025-10-24T07:18:16.735800",
+  "package_url": "https://pypi.org/project/fairchem-lammps/"
+}

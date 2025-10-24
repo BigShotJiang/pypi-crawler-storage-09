@@ -1,11 +1,11 @@
 {
   "name": "throttle-client",
-  "version": "0.5.5",
+  "version": "0.5.7",
   "summary": "Client for Throttle. Throttle is an http semaphore service, providing semaphores for distributed systems.",
   "author": "Markus Klein ",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "throttle_client-0.5.5.tar.gz",
-  "download_time": "2025-10-23T15:19:37.408976",
+  "download_filename": "throttle_client-0.5.7.tar.gz",
+  "download_time": "2025-10-24T07:18:14.158070",
   "package_url": "https://pypi.org/project/throttle-client/"
 }

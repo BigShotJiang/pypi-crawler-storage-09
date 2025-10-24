@@ -1,0 +1,11 @@
+{
+  "name": "acttrader-trading-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for ActTrader Trading API",
+  "author": "Act",
+  "license": null,
+  "home_page": "https://github.com/acttrader/python-sdk",
+  "download_filename": "acttrader_trading_sdk-1.0.0.tar.gz",
+  "download_time": "2025-10-24T07:18:14.669534",
+  "package_url": "https://pypi.org/project/acttrader-trading-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "androsing",
+  "version": "1.0.0",
+  "summary": "Fast Android APK signer (v1/v2)",
+  "author": "fmznkdv",
+  "license": null,
+  "home_page": "https://github.com/FMZNkdv",
+  "download_filename": "androsing-1.0.0.tar.gz",
+  "download_time": "2025-10-24T07:18:20.430387",
+  "package_url": "https://pypi.org/project/androsing/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ApiClientV2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "AIOZ-AI-PLATFORM API",
   "author": "API Support",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "apiclientv2-1.0.0.tar.gz",
-  "download_time": "2025-10-24T02:42:28.849735",
+  "download_filename": "apiclientv2-1.0.1.tar.gz",
+  "download_time": "2025-10-24T07:18:30.895192",
   "package_url": "https://pypi.org/project/ApiClientV2/"
 }
