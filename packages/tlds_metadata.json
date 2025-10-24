@@ -1,0 +1,11 @@
+{
+  "name": "tlds",
+  "version": "2025102200",
+  "summary": "Automatically updated list of valid TLDs taken directly from IANA",
+  "author": "Amir Szekely",
+  "license": "MIT",
+  "home_page": "https://github.com/kichik/tlds",
+  "download_filename": "tlds-2025102200.tar.gz",
+  "download_time": "2025-10-24T04:44:41.387792",
+  "package_url": "https://pypi.org/project/tlds/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-horizontal-list-filter",
+  "version": "0.2.10",
+  "summary": "在Django管理站点中，将列表筛选器移动到变更列表上方，并且采用横向布局样式。",
+  "author": "rRR0VrFP",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_horizontal_list_filter-0.2.10.tar.gz",
+  "download_time": "2025-10-24T04:44:56.508193",
+  "package_url": "https://pypi.org/project/django-horizontal-list-filter/"
+}
