@@ -1,11 +1,11 @@
 {
   "name": "privacyflow",
-  "version": "0.3.9",
+  "version": "0.4.1",
   "summary": "A CLI tool to scan, compose, and visualize privacy data flows for compliance and audit automation.",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "privacyflow-0.3.9.tar.gz",
-  "download_time": "2025-10-24T04:53:29.434591",
+  "download_filename": "privacyflow-0.4.1.tar.gz",
+  "download_time": "2025-10-24T05:37:05.839114",
   "package_url": "https://pypi.org/project/privacyflow/"
 }

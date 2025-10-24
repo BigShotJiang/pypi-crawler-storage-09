@@ -1,11 +1,11 @@
 {
   "name": "cyclonedx-editor-validator",
-  "version": "0.29.6",
+  "version": "0.29.7",
   "summary": "Tool for creating, modifying and validating CycloneDX SBOMs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cyclonedx_editor_validator-0.29.6.tar.gz",
-  "download_time": "2025-10-17T06:48:02.757648",
+  "download_filename": "cyclonedx_editor_validator-0.29.7.tar.gz",
+  "download_time": "2025-10-24T05:36:55.064247",
   "package_url": "https://pypi.org/project/cyclonedx-editor-validator/"
 }

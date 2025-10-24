@@ -1,0 +1,11 @@
+{
+  "name": "nse-trading-calendar",
+  "version": "0.1.3",
+  "summary": "Check NSE trading days and type using historical data.",
+  "author": "Naveen Gupta",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/nse-trading-calendar",
+  "download_filename": "nse_trading_calendar-0.1.3.tar.gz",
+  "download_time": "2025-10-24T05:36:59.177236",
+  "package_url": "https://pypi.org/project/nse-trading-calendar/"
+}

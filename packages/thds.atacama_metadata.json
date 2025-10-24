@@ -1,11 +1,11 @@
 {
   "name": "thds.atacama",
-  "version": "1.2.20251023213009",
+  "version": "1.2.20251024053301",
   "summary": "A Marshmallow schema generator for `attrs` classes. Inspired by `desert`.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "thds_atacama-1.2.20251023213009-py3-none-any.whl",
-  "download_time": "2025-10-23T21:53:05.399095",
+  "download_filename": "thds_atacama-1.2.20251024053301-py3-none-any.whl",
+  "download_time": "2025-10-24T05:36:55.577877",
   "package_url": "https://pypi.org/project/thds.atacama/"
 }

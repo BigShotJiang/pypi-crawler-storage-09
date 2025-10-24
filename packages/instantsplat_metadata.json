@@ -1,0 +1,11 @@
+{
+  "name": "instantsplat",
+  "version": "1.8.4",
+  "summary": "Refactored python initialization and training code for InstantSplat",
+  "author": "yindaheng98",
+  "license": null,
+  "home_page": "https://github.com/yindaheng98/instantsplat",
+  "download_filename": "instantsplat-1.8.4.tar.gz",
+  "download_time": "2025-10-24T05:36:58.665097",
+  "package_url": "https://pypi.org/project/instantsplat/"
+}
